@@ -1,0 +1,988 @@
+{
+  "county": "Franklin",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-06-04",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.livevoterturnout.com/ENR/franklinpaenr/14/en/Index_14.html",
+      "title": "Franklin County 2026 May Primary results (county's results vendor page; website updated 6/4/2026)",
+      "type": "results",
+      "as_of": "2026-06-04"
+    },
+    {
+      "url": "https://www.franklincountypa.gov/wp-content/uploads/2026/02/UMOVA-Notice-General-Primary-2026.pdf",
+      "title": "Franklin County UMOVA Notice, General Primary 2026 (Committeeperson, vote for not more than two, all precincts)",
+      "type": "rules",
+      "as_of": "2026-02"
+    },
+    {
+      "url": "https://www.franklincountypa.gov/departments/elections-voter-registration/",
+      "title": "Franklin County Elections & Voter Registration page (links the results vendor; the county's fixed-name Precinct Results and Write-In Report PDFs now hold the November 2026 general)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "ANTRIM 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ANTRIM 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ANTRIM 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ANTRIM 4",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ANTRIM 5",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CHAMBERSBURG WD 1 DIST 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CHAMBERSBURG WD 1 DIST 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CHAMBERSBURG WD 2 DIST 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CHAMBERSBURG WD 2 DIST 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CHAMBERSBURG WD 3 DIST 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CHAMBERSBURG WD 4 DIST 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CHAMBERSBURG WD 4 DIST 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CHAMBERSBURG WD 5 DIST 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CHAMBERSBURG WD 5 DIST 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FANNETT CONCORD",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FANNETT DRY RUN",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FANNETT SULPHUR SPRINGS",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GREENCASTLE 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GREENCASTLE 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GREENE 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "GREENE 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GREENE 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GREENE 4",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GREENE 5",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GREENE 6",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GUILFORD 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "GUILFORD 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GUILFORD 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GUILFORD 4",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GUILFORD 5",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GUILFORD 6",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HAMILTON 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HAMILTON 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HAMILTON 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LETTERKENNY 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LETTERKENNY 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LURGAN",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MERCERSBURG",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "METAL 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "METAL 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "METAL 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MONT ALTO",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MONTGOMERY 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MONTGOMERY 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MONTGOMERY 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ORRSTOWN",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "PETERS 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PETERS 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PETERS 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "QUINCY 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "QUINCY 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "QUINCY 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "QUINCY 4",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SOUTHAMPTON EAST",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SOUTHAMPTON MT ROCK",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SOUTHAMPTON WEST",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ST THOMAS 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ST THOMAS 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "ST THOMAS 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WARREN",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "WASHINGTON 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WASHINGTON 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WASHINGTON 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WASHINGTON 4",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WASHINGTON 5",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WAYNESBORO WD 1 DIST 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WAYNESBORO WD 1 DIST 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WAYNESBORO WD 2 DIST 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WAYNESBORO WD 2 DIST 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WAYNESBORO WD 3 DIST 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WAYNESBORO WD 3 DIST 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WAYNESBORO WD 3 DIST 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST END SHIPPENSBURG",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 73,
+    "seats": 146,
+    "filled": 39,
+    "empty": 4,
+    "empty_no_filer": 0,
+    "unknown": 103
+  },
+  "notes": "Franklin County Republicans elect 2 committeepersons per precinct ('REP COMMITTEEPERSON <precinct>', vote for 2) in all 73 precincts at the 2026 primary; seats are labelled Committeeperson 1-2. Seat status is from the county's results vendor page for the 2026 May Primary, last updated 6/4/2026; the page does not say whether the figures are certified. filled = a ballot candidate with votes; unknown = no ballot candidate for the seat but write-in votes were cast (the page reports write-ins only as a total, so named write-in winners can't be identified and stay unknown); empty = no ballot candidate and no write-in votes. The county's 2026 primary Write-In Report PDF was overwritten by the November general and no 2026 folder exists yet in its Past Election Results archive. Appointments since the primary are not captured."
+}

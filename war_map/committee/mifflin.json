@@ -1,0 +1,599 @@
+{
+  "county": "Mifflin",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-06-04",
+  "seats_per_precinct": null,
+  "sources": [
+    {
+      "url": "https://www.mifflincountypa.gov/getmedia/1c448b72-97ad-43ff-8e51-973cc96ef3bf/2026-Primary-Election-Official-Results",
+      "title": "Mifflin County 2026 Primary Election Official Results (Summary Results Report, OFFICIAL RESULTS, 06/04/2026)",
+      "type": "results",
+      "as_of": "2026-06-04"
+    },
+    {
+      "url": "https://mifflincountypa.gov/getmedia/ff97709d-d0c7-4f12-8c7e-c7bac9a2eb9a/2024-Primary-Official-Election-Results",
+      "title": "Mifflin County 2024 Primary Official Election Results (earlier Republican committee contest, for context only)",
+      "type": "results",
+      "as_of": "2024-05-15"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "ARMAGH TOWNSHIP-EAST",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ARMAGH TOWNSHIP-WEST",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BRATTON TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "BROWN TOWNSHIP-BIG VALLEY/REEDSVILLE",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BROWN TOWNSHIP-CHURCH HILL",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BURNHAM BOROUGH",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DECATUR TOWNSHIP-EAST",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DECATUR TOWNSHIP-WEST",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DERRY TOWNSHIP-EAST",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DERRY TOWNSHIP-NORTH",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DERRY TOWNSHIP-SOUTH",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 5",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "DERRY TOWNSHIP-WEST",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GRANVILLE TOWNSHIP-EAST",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "GRANVILLE TOWNSHIP-WEST",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 5",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 6",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "JUNIATA TERRACE BOROUGH",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "KISTLER BOROUGH",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Member 2",
+          "status": "empty"
+        },
+        {
+          "seat": "Member 3",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "LEWISTOWN BOROUGH-WEST",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LEWISTOWN BOROUGH-CENTRAL",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LEWISTOWN BOROUGH-NORTH",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LEWISTOWN BOROUGH-SOUTH",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MCVEYTOWN BOROUGH",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MENNO TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NEWTON HAMILTON BOROUGH",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "OLIVER TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "UNION TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WAYNE TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 26,
+    "seats": 109,
+    "filled": 36,
+    "empty": 3,
+    "empty_no_filer": 0,
+    "unknown": 70
+  },
+  "notes": "Mifflin County's 2026 official results include a 'REP REPRESENTATIVE OF THE REPUBLICAN PRECINCT COMMITTEE <precinct>' contest in all 26 precincts, with 3 to 6 seats each (109 total), so seats_per_precinct is null and seats are labelled Member 1..N. Republican committee contests also appeared on the 2024 primary ballot, which suggests 2-year terms; the 2026 results are the most recent. Seats are filled in order of votes: a ballot candidate with votes = filled; a place held by a named write-in = unknown (Burnham Borough; named write-in winners stay unknown because acceptance isn't public); a tie across the cutoff = unknown; leftover seats = unknown if write-in votes were cast, empty if none. Write-in lines labelled Scattered or Blank count as unnamed write-ins. The county site returned intermittent TLS certificate errors to automated downloads, but the file was fetched successfully. Appointments since the primary are not captured."
+}

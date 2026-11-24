@@ -1,0 +1,2081 @@
+{
+  "county": "Dauphin",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-05-29",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://elections.dauphincounty.gov/?key=41",
+      "title": "Dauphin County Elections, 2026 Primary Election Results (marked OFFICIAL RESULTS, last update 5/29/2026); Local Party Committee races by municipality, e.g. ?key=41&race=HARRISBURG",
+      "type": "results",
+      "as_of": "2026-05-29"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "BERRYSBURG",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CONEWAGO 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CONEWAGO 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DAUPHIN",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "DERRY 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DERRY 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "DERRY 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "DERRY 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DERRY 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "DERRY 6",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DERRY 7",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DERRY 8",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "DERRY 9",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DERRY 10",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "DERRY 11",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DERRY 12",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "DERRY 13",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DERRY 14",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DERRY 15",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "EAST HANOVER 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "EAST HANOVER 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ELIZABETHVILLE",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "GRATZ",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HALIFAX BORO",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HALIFAX 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HALIFAX 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 1-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 1-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 1-3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 2-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 2-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 6",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 7-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 7-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 8",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 9-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 9-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 9-3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 9-4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 9-5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 10-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 10-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 10-3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 10-4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 11",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 12",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 13-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 13-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 13-3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 14",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HARRISBURG 15",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HIGHSPIRE",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HUMMELSTOWN 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HUMMELSTOWN 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "JACKSON",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "JEFFERSON",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LONDONDERRY 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LONDONDERRY 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LONDONDERRY 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 6",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 7",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 8",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 9",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 10",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 11",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 12",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 13",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 14",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 15",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 16",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 17",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 18",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 19",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 20",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 21",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 22",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 23",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 24",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 25",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 26",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER PAXTON 27",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER SWATARA 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER SWATARA 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER SWATARA 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER SWATARA 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LYKENS TWP",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LYKENS 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LYKENS 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MIDDLE PAXTON 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MIDDLE PAXTON 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MIDDLE PAXTON 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MIDDLETOWN 1-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MIDDLETOWN 1-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MIDDLETOWN 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MIDDLETOWN 3-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MIDDLETOWN 3-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MIFFLIN",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLERSBURG",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "PAXTANG",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PENBROOK 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PENBROOK 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PENBROOK 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PENBROOK 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "PILLOW",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "REED",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ROYALTON 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "ROYALTON 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "RUSH",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH HANOVER 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH HANOVER 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH HANOVER 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "STEELTON 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "STEELTON 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "STEELTON 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "STEELTON 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SUSQUEHANNA 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SUSQUEHANNA 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SUSQUEHANNA 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SUSQUEHANNA 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SUSQUEHANNA 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SUSQUEHANNA 6",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SUSQUEHANNA 7",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SUSQUEHANNA 8",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SUSQUEHANNA 9",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SWATARA 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SWATARA 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SWATARA 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SWATARA 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SWATARA 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SWATARA 6",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SWATARA 7",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SWATARA 8",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SWATARA 9",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SWATARA 10",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "UPPER PAXTON 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "UPPER PAXTON 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WASHINGTON",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WAYNE",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST HANOVER 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST HANOVER 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST HANOVER 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST HANOVER 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WEST HANOVER 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST HANOVER 6",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WEST HANOVER 7",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WICONISCO 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WICONISCO 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WILLIAMS",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WILLIAMSTOWN 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WILLIAMSTOWN 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 158,
+    "seats": 316,
+    "filled": 114,
+    "empty": 21,
+    "empty_no_filer": 0,
+    "unknown": 181
+  },
+  "notes": "Dauphin County Republicans elect a Committeeman and a Committeewoman (vote for 1 each) in each of 158 precincts at the gubernatorial-year primary. Seat status is from the county's official 2026 primary results pages, one page per municipality (40 pages, saved 2026-11-24). filled = a ballot candidate won; empty = no ballot candidate and no write-in votes; unknown = no ballot candidate but write-in votes were cast. The site reports write-ins only as a single WRITE-IN total, so named write-in winners can't be identified; those seats stay unknown. Precinct names are as printed in the contest titles (e.g. 'HARRISBURG 1-1'). Appointments since the primary are not captured."
+}

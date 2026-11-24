@@ -1,0 +1,1059 @@
+{
+  "county": "Lebanon",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "April 23, 2024 Presidential Primary",
+  "as_of": "2024-05-02",
+  "seats_per_precinct": 3,
+  "sources": [
+    {
+      "url": "https://www.lebanoncountypa.gov/getmedia/e9cee5d6-e6e1-4548-87fe-3d4c532e06ac/Official-Primary-Precicint-Summary-Report-v-5.pdf",
+      "title": "Lebanon County 2024 Presidential Primary, Precinct Summary Results Report (Official Results, generated 05/02/2024)",
+      "type": "results",
+      "as_of": "2024-05-02"
+    },
+    {
+      "url": "https://www.lebanoncountypa.gov/getmedia/45bfdd50-c238-42f7-a25f-dd413f5786eb/2024-Lebanon-Primary-Tie-Breaker-Results.xlsx",
+      "title": "Lebanon County 2024 Primary Tie Breaker Results (drawing of lots)",
+      "type": "results",
+      "as_of": "2024-05-02"
+    },
+    {
+      "url": "https://www.lebanoncountypa.gov/getmedia/84cb982f-c59b-4257-a300-2198a95628f2/Precinct_Summary_Report_4.pdf",
+      "title": "Lebanon County 2026 Primary Precinct Summary Report (no Republican county committee contest; only Democratic county committee was elected in 2026)",
+      "type": "results",
+      "as_of": "2026-05-27"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Lebanon 1st Ward East",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Lebanon 1st Ward Middle",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Lebanon 1st Ward West",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Lebanon 2nd Ward East",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Lebanon 2nd Ward West",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Lebanon 3rd Ward",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lebanon 4th Ward",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lebanon 5th Ward East",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Lebanon 5th Ward Middle",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lebanon 5th Ward West",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Lebanon 6th Ward",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Member 2",
+          "status": "empty"
+        },
+        {
+          "seat": "Member 3",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Lebanon 7th Ward",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lebanon 8th Ward",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Lebanon 9th Ward",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lebanon 10th Ward",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Cleona",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Cornwall North",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Cornwall South",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jonestown",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Mount Gretna",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Member 2",
+          "status": "empty"
+        },
+        {
+          "seat": "Member 3",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Myerstown North",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Myerstown South",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Palmyra East",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Palmyra North",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Palmyra West",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Richland",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Annville East",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Annville West",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Fredericksburg",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Mount Zion",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "East Hanover",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Heidelberg Kleinfeltersville",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Heidelberg Schaefferstown",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Jackson East",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jackson North",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Jackson West",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Millcreek",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "North Annville",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "North Cornwall North",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "North Cornwall South",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "North Cornwall West",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "North Lebanon East",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "North Lebanon Middle",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "North Lebanon West",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "North Londonderry East",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "North Londonderry North",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "North Londonderry West",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "South Annville",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "South Lebanon North",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "South Lebanon South",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "South Lebanon West",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "South Londonderry Middle",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "South Londonderry North",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "South Londonderry South",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Swatara North",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Swatara South",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Union Green Point",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Union Lickdale",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "West Cornwall",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Lebanon",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 60,
+    "seats": 180,
+    "filled": 143,
+    "empty": 6,
+    "empty_no_filer": 0,
+    "unknown": 31
+  },
+  "notes": "Lebanon County Republicans elect county committee members in presidential-year primaries (the 2026 primary had a Democratic county committee contest but no Republican one). Each of the 60 precincts elects 3 members (MEMBER OF REPUBLICAN COUNTY COMMITTEE, vote for 3), so seats are labelled Member 1-3. filled = one of the top-3 ballot candidates who received votes. unknown = a seat with no ballot candidate where write-in votes were cast; this includes seats a named write-in may have won, which stay unknown. empty = no ballot candidate and no write-in votes. Lebanon 5th Ward East had a tie between two ballot candidates for the third seat; the county's tie-breaker sheet records it was settled by drawing lots, so that seat is counted filled. Other entries on that sheet are write-in ties and were not used. Appointments and vacancies since April 2024 are not captured."
+}

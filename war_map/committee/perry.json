@@ -1,0 +1,668 @@
+{
+  "county": "Perry",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "April 23, 2024 General Primary",
+  "as_of": "2024-05-02",
+  "seats_per_precinct": null,
+  "sources": [
+    {
+      "url": "https://perryco.org/wp-content/uploads/2025/04/Statement-of-Votes-Cast-by-Precincts-for-PA_Perry_2024P_Official-198.pdf",
+      "title": "Perry County Statement of Votes Cast by Precinct, PA_Perry_2024P Official (April 23, 2024 primary; report dated 2024-05-02)",
+      "type": "results",
+      "as_of": "2024-05-02"
+    },
+    {
+      "url": "https://perryco.org/departments/elections-voter-registration/historical-election-results/",
+      "title": "Perry County Historical Election Results page",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "GREENWOOD",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LIVERPOOL BORO",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NEW BUFFALO",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SPRING",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 5",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TOBOYNE 1ST",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BLAIN",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Member 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "BLOOMFIELD",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BUFFALO",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "CARROLL",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 5",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 6",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 7",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 8",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 9",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 10",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 11",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 12",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 13",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 14",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 15",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CENTRE",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DUNCANNON",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOWE",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "JACKSON",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "JUNIATA",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LANDISBURG",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LIVERPOOL TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MADISON",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MARYSVILLE",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLER",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLERSTOWN",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NEWPORT",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "OLIVER",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PENN",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "RYE",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SANDY",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SAVILLE",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TOBOYNE 2ND",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Member 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "TUSCARORA",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TYRONE",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WATTS",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WHEATFIELD",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 9",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 31,
+    "seats": 120,
+    "filled": 42,
+    "empty": 5,
+    "empty_no_filer": 0,
+    "unknown": 73
+  },
+  "notes": "Perry County Republicans elected '<precinct> REPUBLICAN COMMITTEE PERSONS' in the April 23, 2024 primary, with 2 to 15 seats per precinct (120 total across 31 precincts), so seats_per_precinct is null and seats are labelled Member 1..N. The 2025 primary had no Republican committee contest. The county's May 19, 2026 primary results file was not posted on its historical-results page when checked, so it couldn't be confirmed whether Republican committee seats were also on the 2026 ballot; if they were, these 2024 figures are superseded. The report lists each write-in recipient as an unnamed 'Write-in' line. Seats are filled in order of votes: a ballot candidate with votes = filled; a place held by a write-in recipient = unknown; a tie across the cutoff = unknown; leftover seats with no votes at all = empty. Precinct names are as printed in the contest titles (municipality names; e.g. 'LIVERPOOL BORO', 'TOBOYNE 1ST'). The county-wide section of the report was used, since page breaks garble some precinct-section blocks. Appointments since 2024 are not captured."
+}

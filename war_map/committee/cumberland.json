@@ -1,0 +1,1573 @@
+{
+  "county": "Cumberland",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-06-16",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://records.ccpa.net/Weblink_Public/ElectronicFile.aspx?docid=1897331&dbid=7&repo=County-of-Cumberland-8",
+      "title": "Cumberland County 2026 General Primary, Summary Results - Republican (with write-ins), Election Results Archive",
+      "type": "results",
+      "as_of": "2026-06-16"
+    },
+    {
+      "url": "https://records.ccpa.net/Weblink_Public/ElectronicFile.aspx?docid=1897329&dbid=7&repo=County-of-Cumberland-8",
+      "title": "Cumberland County 2026 General Primary, Precinct Report - Republican",
+      "type": "results",
+      "as_of": "2026-06-16"
+    },
+    {
+      "url": "https://www.cumberlandcountypa.gov/3135/Election-Results",
+      "title": "Cumberland County Election Results page (links to the Election Results Archive)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "CAMP HILL 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CAMP HILL 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "CAMP HILL 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "CAMP HILL 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CAMP HILL 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "CARLISLE 1-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "CARLISLE 1-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CARLISLE 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "CARLISLE 3-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CARLISLE 3-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "CARLISLE 3-3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CARLISLE 4-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CARLISLE 4-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "CARLISLE 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "COOKE",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "DICKINSON NORTH",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "DICKINSON SOUTH",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "EAST PENNSBORO 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "EAST PENNSBORO 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "EAST PENNSBORO 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "EAST PENNSBORO 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "EAST PENNSBORO 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "EAST PENNSBORO 6",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "EAST PENNSBORO 7",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "EAST PENNSBORO 8",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "EAST PENNSBORO 9",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "EAST PENNSBORO 10",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HAMPDEN 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HAMPDEN 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HAMPDEN 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HAMPDEN 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HAMPDEN 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HAMPDEN 6",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HAMPDEN 7",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HAMPDEN 8",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HAMPDEN 9",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HAMPDEN 10",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HAMPDEN 11",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HAMPDEN 12",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HOPEWELL",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LEMOYNE 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "LEMOYNE 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "LEMOYNE 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LEMOYNE 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER ALLEN 1 ANNEX",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER ALLEN 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER ALLEN 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER ALLEN 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER ALLEN 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER ALLEN 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER ALLEN 6",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOWER FRANKFORD",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LOWER MIFFLIN",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MECHANICSBURG 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MECHANICSBURG 2-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MECHANICSBURG 2-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MECHANICSBURG 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MECHANICSBURG 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MECHANICSBURG 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MIDDLESEX 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MIDDLESEX 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MONROE 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MONROE 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MT HOLLY SPRINGS",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NEW CUMBERLAND 1-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NEW CUMBERLAND 2-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NEW CUMBERLAND 2-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NEW CUMBERLAND 2-3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NEWBURG",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NEWVILLE NORTH",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NEWVILLE SOUTH",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH MIDDLETON 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NORTH MIDDLETON 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH MIDDLETON 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NORTH NEWTON",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "PENN",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SHIPPENSBURG EAST",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SHIPPENSBURG MIDDLE",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SHIPPENSBURG TWP",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SHIREMANSTOWN",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SILVER SPRING 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SILVER SPRING 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SILVER SPRING 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SILVER SPRING 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SILVER SPRING 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SILVER SPRING 6",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SILVER SPRING 7",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SILVER SPRING 8",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SILVER SPRING 9",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH MIDDLETON 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH MIDDLETON 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH MIDDLETON 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH MIDDLETON 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH MIDDLETON 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH MIDDLETON 6",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH MIDDLETON 7",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH MIDDLETON 8",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH MIDDLETON 9",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH NEWTON",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SOUTHAMPTON LOWER",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SOUTHAMPTON UPPER 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SOUTHAMPTON UPPER 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "UPPER ALLEN 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "UPPER ALLEN 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "UPPER ALLEN 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "UPPER ALLEN 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "UPPER ALLEN 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "UPPER ALLEN 6",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "UPPER ALLEN 7",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "UPPER ALLEN 8",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "UPPER ALLEN 9",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "UPPER ALLEN 10",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "UPPER FRANKFORD",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "UPPER MIFFLIN",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WEST PENNSBORO LOWER",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WEST PENNSBORO UPPER",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WORMLEYSBURG 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WORMLEYSBURG 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 118,
+    "seats": 236,
+    "filled": 123,
+    "empty": 7,
+    "empty_no_filer": 0,
+    "unknown": 106
+  },
+  "notes": "Cumberland County Republicans elect a Committeeman and a Committeewoman (4-year term, vote for 1 each) in each of 118 precincts at gubernatorial-year primaries. Seat status is from the county's Republican summary report with write-ins, dated 06/16/2026: filled = a ballot candidate received the most votes; unknown = a named write-in led (8 seats; named write-in winners stay unknown because acceptance isn't public), or there was no ballot candidate but write-in votes were cast; empty = no ballot candidate and no write-in votes. Precinct names are as printed in the contest titles. The geojson precinct count for Cumberland is 117; the county's 2026 report has 118 committee districts. Appointments since the primary are not captured."
+}

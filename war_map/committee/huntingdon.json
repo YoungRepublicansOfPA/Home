@@ -1,0 +1,787 @@
+{
+  "county": "Huntingdon",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-05-22",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.huntingdoncountypa.gov/getmedia/d4f9a9cb-a099-4ce3-ae35-811271050617/Final-Precinct-Summary.pdf",
+      "title": "Huntingdon County May 19, 2026 Primary, Final Precinct Summary (report header reads UNOFFICIAL RESULTS, generated 05/22/2026)",
+      "type": "results",
+      "as_of": "2026-05-22"
+    },
+    {
+      "url": "https://www.huntingdoncountypa.gov/departments/elections",
+      "title": "Huntingdon County Elections page (its '2026 FINAL Precinct Summary' link is the November general election, not the primary)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "ALEXANDRIA",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "BARREE",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BIRMINGHAM",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Member 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "BRADY",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "BROAD TOP",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CARBON",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CASS",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "CASSVILLE",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CLAY",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "COALMONT",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CROMWELL",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "DUBLIN",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DUDLEY",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FRANKLIN",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HENDERSON",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOPEWELL_HOPEWELL",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOPEWELL_PUTTSTOWN",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Member 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "HUNTINGDON 1",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HUNTINGDON 2",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HUNTINGDON 3",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "HUNTINGDON 4",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HUNTINGDON 5",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HUNTINGDON 6",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "JACKSON",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "JUNIATA",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LINCOLN",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOGAN",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MAPLETON",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MARKLESBURG",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILL CREEK",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Member 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "MILLER",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MORRIS",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MOUNT UNION 1",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MOUNT UNION 2",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MOUNT UNION 3",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "ONEIDA",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ORBISONIA",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PENN",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "PETERSBURG",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PORTER",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "ROCKHILL",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SALTILLO",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "SHADE GAP",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Member 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "SHIRLEY_MOUNT UNION",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SHIRLEY_SHIRLEY",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SHIRLEY_VALLEY POINT",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Member 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "SHIRLEYSBURG",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SMITHFIELD",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SPRINGFIELD",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SPRUCE CREEK",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "TELL",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "THREE SPRINGS",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "TODD",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "UNION",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WALKER",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WARRIORS MARK",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WEST",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "WOOD",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 58,
+    "seats": 116,
+    "filled": 44,
+    "empty": 13,
+    "empty_no_filer": 0,
+    "unknown": 59
+  },
+  "notes": "Huntingdon County Republicans elect 2 members per precinct ('REP MEMBER OF REPUBLICAN COUNTY COMMITTEE <precinct>', vote for 2) in all 58 precincts at the 2026 primary; seats are labelled Member 1-2. Seats are filled in order of votes: a ballot candidate with votes = filled; a place held by a named write-in = unknown (both seats in Todd; named write-in winners stay unknown because acceptance isn't public); leftover seats = unknown if write-in votes were cast, empty if none. The precinct report used is titled Final Precinct Summary but its header still reads UNOFFICIAL RESULTS (05/22/2026); no certified primary precinct report was found on the county site. The county site returned intermittent TLS certificate errors to automated downloads. Appointments since the primary are not captured."
+}

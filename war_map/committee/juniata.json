@@ -1,0 +1,303 @@
+{
+  "county": "Juniata",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-06-05",
+  "seats_per_precinct": null,
+  "sources": [
+    {
+      "url": "https://www.juniatacountypa.gov/DocumentCenter/View/417/2026-Primary-Precinct-Report-PDF",
+      "title": "Juniata County 2026 Primary Precinct Report (OFFICIAL RESULTS, created 2026-06-05)",
+      "type": "results",
+      "as_of": "2026-06-05"
+    },
+    {
+      "url": "https://www.juniatacountypa.gov/238/Latest-Election-Results",
+      "title": "Juniata County Latest Election Results page",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "BEALE TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DELAWARE TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FAYETTE TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 6",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FERMANAGH TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 5",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GREENWOOD TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LACK TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MIFFLIN BOROUGH",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MIFFLINTOWN BOROUGH",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILFORD TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 4",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MONROE TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 4",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PORT ROYAL BOROUGH",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SPRUCE HILL TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SUSQUEHANNA TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "THOMPSONTOWN BOROUGH",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TURBETT TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TUSCARORA TOWNSHIP/E. WATERFORD DISTRICT",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TUSCARORA TOWNSHIP/TUSC DISTRICT",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WALKER TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 4",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 18,
+    "seats": 45,
+    "filled": 13,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 32
+  },
+  "notes": "Juniata County Republicans elected '<precinct> REPUBLICAN COMMITTEEPERSON' in all 18 precincts at the 2026 primary, with 1 to 6 seats per precinct (45 total), so seats_per_precinct is null and seats are labelled Committeeperson 1..N. Republican committee contests were not on the 2024 or 2025 primary ballots. The official report names individual write-in recipients. Seats are filled in order of votes: a ballot candidate with votes = filled; a place held by a named write-in = unknown (named write-in winners stay unknown because acceptance isn't public); a tie across the cutoff = unknown (common, since many write-ins got 1 vote); leftover seats = unknown if write-in votes were cast, empty if none. Appointments since the primary are not captured."
+}

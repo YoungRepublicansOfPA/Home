@@ -1,0 +1,2132 @@
+{
+  "county": "York",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-06-11",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://results.enr.clarityelections.com/PA/York/126283/",
+      "title": "York County 2026 General Primary results (Clarity Elections, linked from the county's Previous Election Results page); precinct detail XML last updated 6/11/2026",
+      "type": "results",
+      "as_of": "2026-06-11"
+    },
+    {
+      "url": "https://results.enr.clarityelections.com/PA/York/126283/375422/reports/detailxml.zip",
+      "title": "York County 2026 General Primary detailed results XML (all contests, by precinct)",
+      "type": "results",
+      "as_of": "2026-06-11"
+    },
+    {
+      "url": "https://yorkcountypa.gov/978/Previous-Election-Results",
+      "title": "York County Previous Election Results page (links to the Clarity results)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Carroll Township",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Chanceford Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Chanceford Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Chanceford Township 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Codorus Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Codorus Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Codorus Township 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Conewago Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Conewago Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Dover Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Dover Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Dover Township 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Dover Township 4",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "East Hopewell Township",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "East Manchester Township",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Fairview Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Fairview Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Fairview Township 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Fairview Township 4",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Fawn Township",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Franklin Township",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Heidelberg Township",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hellam Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hellam Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hopewell Township",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jackson Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jackson Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Lower Chanceford Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lower Chanceford Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lower Windsor Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lower Windsor Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lower Windsor Township 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Manchester Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Manchester Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Manchester Township 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Manchester Township 4",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Manchester Township 5",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Manchester Township 6",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Manchester Township 7",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Manheim Township",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Monaghan Township",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Newberry Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Newberry Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Newberry Township 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "North Codorus Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "North Codorus Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "North Hopewell Township",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Paradise Township",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Peach Bottom Township",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Penn Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Penn Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Penn Township 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Penn Township 4",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Shrewsbury Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Shrewsbury Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Springettsbury Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Springettsbury Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Springettsbury Township 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Springettsbury Township 4",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Springettsbury Township 5",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Springettsbury Township 6",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Springettsbury Township 7",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Springettsbury Township 8",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Springfield Township",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Spring Garden Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Spring Garden Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Spring Garden Township 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Spring Garden Township 4",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Spring Garden Township 5",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Warrington Township",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Washington Township",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "West Manchester Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Manchester Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Manchester Township 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Manchester Township 4",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Manchester Township 5",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Manheim Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Manheim Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Manheim Township 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Windsor Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Windsor Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Windsor Township 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Windsor Township 4",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "York Township 1-1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York Township 1-2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York Township 1-3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York Township 2-1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York Township 2-2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York Township 2-3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York Township 3-1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York Township 3-2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York Township 3-3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York Township 4-1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York Township 4-2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York Township 4-3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "York Township 5-1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "York Township 5-2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York Township 5-3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Cross Roads Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Dallastown Borough 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Dallastown Borough 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Delta Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Dillsburg Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Dover Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "East Prospect Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Fawn Grove Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Felton Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Franklintown Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Glen Rock Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Goldsboro Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hallam Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hanover Borough 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hanover Borough 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hanover Borough 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hanover Borough 4",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hanover Borough 5",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jacobus Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jefferson Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lewisberry Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Loganville Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Manchester Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Mount Wolf Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "New Freedom Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "New Salem Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "North York Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Railroad Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Red Lion Borough 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Red Lion Borough 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Red Lion Borough 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Seven Valleys Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Shrewsbury Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Spring Grove Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Stewartstown Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wellsville Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "West York Borough 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West York Borough 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Windsor Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Winterstown Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wrightsville Borough 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wrightsville Borough 2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wrightsville Borough 3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Yoe Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Yorkana Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "York Haven Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York City 1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York City 5",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York City 6",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "York City 7",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York City 8",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "York City 9-1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York City 9-2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York City 11",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "York City 12-1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York City 12-2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York City 12-3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York City 12-4",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "York City 13",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York City 14-1",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "York City 14-2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York City 14-3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York City 15",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 161,
+    "seats": 322,
+    "filled": 101,
+    "empty": 16,
+    "empty_no_filer": 0,
+    "unknown": 205
+  },
+  "notes": "York County Republican committee is elected in gubernatorial-year primaries: each of 161 precincts has a '<precinct> Republican Committeeperson 4 Year Term' contest, vote for 2, so seats are labelled Committeeperson 1-2. The results list named write-in recipients separately from ballot candidates (ballot candidates carry a party code). Each precinct's 2 seats were filled in order of votes: a ballot candidate with votes in the top 2 = filled; a top-2 place held by a named write-in = unknown (named write-in winners stay unknown because acceptance isn't public); a tie across the cutoff = unknown; leftover seats = unknown if any write-in votes were cast, else empty. Many unknown seats are 2-way or multi-way ties among write-ins with 1 vote each. The Clarity site does not say whether the data is the certified version, but its last update (June 11, 2026) is after the county's certification period. Precinct names are taken from the contest titles with the office text removed. Appointments since the primary are not captured."
+}

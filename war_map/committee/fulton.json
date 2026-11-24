@@ -1,0 +1,26 @@
+{
+  "county": "Fulton",
+  "checked_at": "2026-11-24",
+  "method": "none_found",
+  "election": null,
+  "as_of": null,
+  "seats_per_precinct": null,
+  "sources": [
+    {
+      "url": "https://www.co.fulton.pa.us/elections.php",
+      "title": "Fulton County Elections & Voter Registration page (no election results, candidate listings or committee rosters posted; only Act 88 mail-ballot notices and board agendas)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [],
+  "totals": {
+    "precincts": 13,
+    "seats": 0,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 0
+  },
+  "notes": "No public Fulton County source was found for Republican committee seats: the county elections page posts no precinct results, candidate listings or rosters, and web searches turned up no Fulton County, PA committee results (only results for other states' Fulton counties). The number of seats per precinct and the election cycle are also unverified, so no seats are listed and totals.seats is 0 rather than an estimate. totals.precincts (13) is taken from war_map/counties.geojson. Possible next steps: request the 2026 primary precinct report from the Fulton County elections office, or a roster from the county Republican committee."
+}

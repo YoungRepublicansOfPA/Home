@@ -1,0 +1,421 @@
+{
+  "population_year": 2025,
+  "population_as_of": "2025-07-01",
+  "population_source": "https://www2.census.gov/programs-surveys/popest/tables/2020-2025/counties/totals/co-est2025-pop-42.xlsx",
+  "population_source_page": "https://www.census.gov/data/datasets/time-series/demo/popest/2020s-counties-total.html",
+  "party_control_definition": "Majority party of the county governing body (commissioners or council), not how the county voted in an election. Philadelphia uses City Council because of consolidated city-county government.",
+  "checked_at": "2026-11-23",
+  "counties": {
+    "Adams": {
+      "population": 107594,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Allegheny": {
+      "population": 1225035,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Armstrong": {
+      "population": 63698,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Beaver": {
+      "population": 166032,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Bedford": {
+      "population": 47480,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Berks": {
+      "population": 440072,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Blair": {
+      "population": 119541,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Bradford": {
+      "population": 59600,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Bucks": {
+      "population": 647828,
+      "party_control": "Democratic",
+      "party_control_as_of": "2026-11-23",
+      "party_source": "https://www.buckscounty.gov/DocumentCenter/View/15266/2023---Municipal-Election---Unofficial-Candidate-Listing",
+      "party_control_body": "Board of Commissioners",
+      "party_current_members_source": "https://buckscounty.gov/190/Commissioners",
+      "party_evidence": "Two current commissioners (Ellis-Marseglia and Harvie) are listed as Democrats in the county candidate listing; the current county board page confirms they still serve."
+    },
+    "Butler": {
+      "population": 200169,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Cambria": {
+      "population": 128968,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Cameron": {
+      "population": 4211,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Carbon": {
+      "population": 65868,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Centre": {
+      "population": 157393,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Chester": {
+      "population": 557116,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Clarion": {
+      "population": 36680,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Clearfield": {
+      "population": 78100,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Clinton": {
+      "population": 37870,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Columbia": {
+      "population": 66193,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Crawford": {
+      "population": 81792,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Cumberland": {
+      "population": 277270,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Dauphin": {
+      "population": 293351,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Delaware": {
+      "population": 580937,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Elk": {
+      "population": 29926,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Erie": {
+      "population": 265832,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Fayette": {
+      "population": 123021,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Forest": {
+      "population": 6614,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Franklin": {
+      "population": 160652,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Fulton": {
+      "population": 14483,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Greene": {
+      "population": 33885,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Huntingdon": {
+      "population": 43001,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Indiana": {
+      "population": 82878,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Jefferson": {
+      "population": 43255,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Juniata": {
+      "population": 23403,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Lackawanna": {
+      "population": 216502,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Lancaster": {
+      "population": 563159,
+      "party_control": "Republican",
+      "party_control_as_of": "2026-11-23",
+      "party_source": "https://co.lancaster.pa.us/DocumentCenter/View/15894/Candidate-Listing-Nov-23-Municipal-Election-082423",
+      "party_control_body": "Board of Commissioners",
+      "party_current_members_source": "https://co.lancaster.pa.us/131/Commissioners-Office",
+      "party_evidence": "Two current commissioners (Parsons and D’Agostino) are listed as Republicans in the county candidate listing; the current county board page confirms they still serve."
+    },
+    "Lawrence": {
+      "population": 83911,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Lebanon": {
+      "population": 146380,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Lehigh": {
+      "population": 384383,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Luzerne": {
+      "population": 332126,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Lycoming": {
+      "population": 112587,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "McKean": {
+      "population": 38984,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Mercer": {
+      "population": 107860,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Mifflin": {
+      "population": 46127,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Monroe": {
+      "population": 167179,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Montgomery": {
+      "population": 877643,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Montour": {
+      "population": 17868,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Northampton": {
+      "population": 324411,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Northumberland": {
+      "population": 89920,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Perry": {
+      "population": 46806,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Philadelphia": {
+      "population": 1574281,
+      "party_control": "Democratic",
+      "party_control_as_of": "2026-11-23",
+      "party_source": "https://votes.phila.gov/voting/current-elected-officials/elected-officials-in-philadelphia-county/",
+      "party_control_body": "City Council",
+      "party_current_members_source": null,
+      "party_evidence": "The city election office lists Democratic affiliation for a majority of current City Council members. Philadelphia has consolidated city-county government."
+    },
+    "Pike": {
+      "population": 62808,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Potter": {
+      "population": 15897,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Schuylkill": {
+      "population": 145085,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Snyder": {
+      "population": 39655,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Somerset": {
+      "population": 72004,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Sullivan": {
+      "population": 5856,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Susquehanna": {
+      "population": 38237,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Tioga": {
+      "population": 40502,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Union": {
+      "population": 42313,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Venango": {
+      "population": 49346,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Warren": {
+      "population": 37038,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Washington": {
+      "population": 210802,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Wayne": {
+      "population": 51703,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Westmoreland": {
+      "population": 349324,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "Wyoming": {
+      "population": 25790,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    },
+    "York": {
+      "population": 473197,
+      "party_control": null,
+      "party_control_as_of": null,
+      "party_source": null
+    }
+  }
+}

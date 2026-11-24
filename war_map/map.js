@@ -15,7 +15,7 @@ async function start() {
   const shades = ['#284264', '#35678b', '#297c95', '#218e96', '#159c94'];
   const thresholds = [50000, 100000, 250000, 500000];
   const compact = new Intl.NumberFormat('en', {notation:'compact',maximumFractionDigits:1});
-  let layer = 'population';
+  let layer = window.countyLayer = 'population';
   for (const path of paths) {
     const name = path.dataset.county;
     select.add(new Option(name, name));
@@ -29,15 +29,17 @@ async function start() {
     path.ownerSVGElement.append(label);
   }
   function choose(name) {
+    leaveDistrictMap();
     select.value = name;
     if (!name) { closePrecincts(); return; }
-    openPrecincts(name);
+    const loaded = openPrecincts(name);
     const county = data.counties[name];
     byId('name').textContent = name + ' County';
     byId('stats').textContent = county.population.toLocaleString('en-US') + ' residents · Governing majority: ' + (county.party_control || 'unverified');
     byId('profile').hidden = false;
     byId('profile').href = '../#county-' + name.toLowerCase().replaceAll(' ', '-');
     paths.forEach(p => p.classList.toggle('selected',p.dataset.county === name));
+    return loaded;
   }
   function draw() {
     const pop = layer === 'population';
@@ -50,10 +52,12 @@ async function start() {
     }
     byId('legend').textContent = pop ? 'Population in 2025 · Dark blue to teal: under 50k / 50k–99k / 100k–249k / 250k–499k / 500k and up.' : 'County governing majority · R red · D blue · Gray unverified. Records checked ' + data.checked_at + '.';
   }
+  window.selectMapCounty = choose;
   select.onchange = () => choose(select.value);
   document.querySelectorAll('[data-layer]').forEach(button => button.onclick = () => {
+    leaveDistrictMap();
     closePrecincts();
-    layer = button.dataset.layer;
+    layer = window.countyLayer = button.dataset.layer;
     document.querySelectorAll('[data-layer]').forEach(b => b.setAttribute('aria-pressed', String(b === button)));
     draw();
   });

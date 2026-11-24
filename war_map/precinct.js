@@ -3,6 +3,7 @@ const svgNS = 'http://www.w3.org/2000/svg';
 let loadNumber = 0;
 
 function closePrecincts() {
+  leaveDistrictMap();
   loadNumber++;
   el('map').hidden = el('legend').hidden = false;
   el('local').hidden = el('controls').hidden = true;
@@ -52,7 +53,7 @@ async function openPrecincts(county) {
       loadReturns(slug), localJSON('municipalities/' + slug + '.geojson')
     ]);
     if (token !== loadNumber) return;
-    renderLocal(county, precincts, municipalities.features);
+    return renderLocal(county, precincts, municipalities.features);
   } catch (error) {
     if (token === loadNumber) el('key').textContent = 'County records could not load. Return to Pennsylvania and select the county to retry.';
   }
@@ -131,6 +132,7 @@ function renderLocal(county, precincts, municipalities) {
   function inspect(i) {
     entries.forEach(e => e.path.classList.remove('selected'));
     el('votes').replaceChildren();
+    el('members').replaceChildren();
     if (i === '') return;
     const {record,path} = entries[Number(i)];
     path.classList.add('selected');
@@ -151,6 +153,7 @@ function renderLocal(county, precincts, municipalities) {
   el('extent').onclick = resetView;
   resetView();
   el('key').textContent = '2024 U.S. president · Red: Trump ahead of Harris · Blue: Harris ahead of Trump · Purple: tied · Gray: counts unavailable. Darker shades indicate margins of 10 and 30 percentage points. Light lines mark municipalities.';
+  return entries;
 }
 
 async function loadReturns(slug) {

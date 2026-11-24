@@ -1,0 +1,1197 @@
+{
+  "county": "Mercer",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-06-05",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.mercercountypa.gov/election/Election.Results/2026/PRIMARY/PRECINCT.pdf",
+      "title": "Mercer County 2026 Primary Election Precinct Summary (marked OFFICIAL RESULTS, generated 06/05/2026)",
+      "type": "results",
+      "as_of": "2026-06-05"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Clark Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Coolspring Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Deer Creek Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Delaware Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "East Lackawannock Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Fairview Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Farrell 1-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Farrell 1-3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Farrell 2-3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Farrell 2-4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Findley Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Fredonia Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "French Creek Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Greene Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Greenville 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Greenville 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Greenville 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Greenville 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Grove City 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Grove City 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Grove City 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Grove City 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Grove City 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hempfield Township 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hempfield Township 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hempfield Township 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hermitage NW-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hermitage NW-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hermitage NW-3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hermitage NW-4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hermitage NE-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hermitage NE-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hermitage SW-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hermitage SW-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Hermitage SW-3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hermitage SE-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Hermitage SE-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hermitage SE-3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hermitage SE-4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jackson Center Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Jackson Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jamestown Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Jefferson Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Lackawannock Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lake Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Liberty Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Mercer Borough North",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Mercer Borough South",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Mill Creek Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "New Lebanon Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "New Vernon Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Otter Creek Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Perry Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Pine Township 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Pine Township 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Pine Township 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Pymatuning Township 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Pymatuning Township 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Salem Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sandy Creek Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Sandy Lake Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sandy Lake Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Sharon 1-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sharon 2-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Sharon 2-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Sharon 2-3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sharon 2-4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Sharon 3-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sharon 4-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Sharon 4-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Sharon 4-3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sharon 4-5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Sharpsville Borough 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Sharpsville Borough 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sharpsville Borough 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Sheakleyville Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Shenango Township East",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Shenango Township West",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "South Pymatuning Township 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "South Pymatuning Township 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Springfield Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Stoneboro Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sugar Grove Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Middlesex Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Salem Township East",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "West Salem Township West",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wheatland Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wilmington Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Wolf Creek Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Worth Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 90,
+    "seats": 180,
+    "filled": 62,
+    "empty": 26,
+    "empty_no_filer": 0,
+    "unknown": 92
+  },
+  "notes": "Each Mercer precinct elected one 'REP Precinct Committeeman' and one 'REP Precinct Committeewoman' (vote for 1 each). A seat is 'filled' when a printed ballot candidate received votes, 'empty' when the contest recorded no candidate and zero write-in votes, and 'unknown' when only write-in votes were cast, because the report does not show whether a write-in winner qualified or accepted. The report lists 90 precincts; the map's county file lists 91, so one precinct may be named or split differently. Appointments after the primary are not reflected."
+}

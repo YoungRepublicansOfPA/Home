@@ -1,0 +1,1970 @@
+{
+  "county": "Erie",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-06-08",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.eriecountycouncilpa.gov/uploads/modules/resources/031365_2026_general_primary_official_results.pdf",
+      "title": "Erie County May 19, 2026 General Primary Official Election Results (summary by contest)",
+      "type": "results",
+      "as_of": "2026-06-08"
+    },
+    {
+      "url": "https://www.eriecountycouncilpa.gov/uploads/modules/resources/842773_2026_general_primary_official_candidate_listing.pdf",
+      "title": "Erie County Official Candidate Listing - 2026 General Primary",
+      "type": "candidate_listing",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "ERIE WARD 01 DISTRICT 01",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 01 DISTRICT 03",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 01 DISTRICT 05",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 01 DISTRICT 07",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 01 DISTRICT 08",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 02 DISTRICT 01",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 02 DISTRICT 04",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 02 DISTRICT 05",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 02 DISTRICT 06",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 02 DISTRICT 07",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 02 DISTRICT 08",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 03 DISTRICT 01",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 03 DISTRICT 02",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 03 DISTRICT 03",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 03 DISTRICT 04",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 03 DISTRICT 05",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 03 DISTRICT 06",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 03 DISTRICT 07",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 04 DISTRICT 01",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 04 DISTRICT 02",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 04 DISTRICT 03",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 04 DISTRICT 04",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 04 DISTRICT 06",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 04 DISTRICT 07",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 04 DISTRICT 08",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 04 DISTRICT 09",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 01",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 02",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 03",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 04",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 05",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 06",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 07",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 08",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 09",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 10",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 11",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 12",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 13",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 14",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 15",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 16",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 17",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 18",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 19",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 20",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 05 DISTRICT 21",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 06 DISTRICT 01",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 06 DISTRICT 02",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 06 DISTRICT 04",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 06 DISTRICT 05",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 06 DISTRICT 06",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 06 DISTRICT 07",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 06 DISTRICT 08",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 06 DISTRICT 09",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 06 DISTRICT 10",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 06 DISTRICT 11",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 06 DISTRICT 12",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 06 DISTRICT 13",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 06 DISTRICT 14",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 06 DISTRICT 15",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 06 DISTRICT 16",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ERIE WARD 06 DISTRICT 17",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CORRY WARD 01",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CORRY WARD 02",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CORRY WARD 03",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ALBION BOR",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CRANESVILLE BOR",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "EDINBORO DISTRICT 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "EDINBORO DISTRICT 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ELGIN BOR",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GIRARD BOR",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LAKE CITY BOR",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MCKEAN BOR",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "MILL VILLAGE BOR",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "NORTH EAST BOR WARD 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH EAST BOR WARD 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PLATEA BOR",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY BOR DISTRICT 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY BOR DISTRICT 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WATERFORD BOR",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WATTSBURG BOR",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WESLEYVILLE BOR DISTRICT 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WESLEYVILLE BOR DISTRICT 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "AMITY TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CONCORD TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CONNEAUT TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "ELK CREEK TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FAIRVIEW TWP DISTRICT 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FAIRVIEW TWP DISTRICT 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FAIRVIEW TWP DISTRICT 3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FAIRVIEW TWP DISTRICT 4",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FAIRVIEW TWP DISTRICT 5",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "FRANKLIN TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GIRARD TWP DISTRICT 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GIRARD TWP DISTRICT 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GIRARD TWP DISTRICT 3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GREENE TWP DISTRICT 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GREENE TWP DISTRICT 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GREENFIELD TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HARBORCREEK TWP DISTRICT 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARBORCREEK TWP DISTRICT 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HARBORCREEK TWP DISTRICT 3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARBORCREEK TWP DISTRICT 4",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARBORCREEK TWP DISTRICT 5",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARBORCREEK TWP DISTRICT 6",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARBORCREEK TWP DISTRICT 7",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LAWRENCE PARK TWP DISTRICT 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LAWRENCE PARK TWP DISTRICT 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LAWRENCE PARK TWP DISTRICT 3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LEBOEUF TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MCKEAN TWP DISTRICT 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MCKEAN TWP DISTRICT 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 4",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 5",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 6",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 7",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 8",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 9",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 10",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 11",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 12",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 13",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 14",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 15",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 16",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 17",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 18",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 19",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 20",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 21",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 22",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 23",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 24",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILLCREEK TWP DISTRICT 25",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH EAST TWP DISTRICT 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NORTH EAST TWP DISTRICT 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SPRINGFIELD TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SUMMIT TWP DISTRICT 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SUMMIT TWP DISTRICT 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "UNION TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "VENANGO TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WASHINGTON TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WATERFORD TWP DISTRICT 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WATERFORD TWP DISTRICT 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WAYNE TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 149,
+    "seats": 298,
+    "filled": 47,
+    "empty": 21,
+    "empty_no_filer": 0,
+    "unknown": 230
+  },
+  "notes": "Erie County lists one contest per precinct, 'Erie County Republican Committee Person', vote for two, 2-year term (per the official candidate listing). Seats are labelled generically because the county does not split them into committeeman/committeewoman. A seat is 'filled' when a printed ballot candidate received votes; remaining seats are 'empty' when the contest recorded no write-in votes at all and 'unknown' when any write-in votes (resolved or unresolved) were cast, since the results do not show whether a write-in winner qualified or accepted. No tie at the winning cutoff was found. Appointments after the primary are not reflected."
+}

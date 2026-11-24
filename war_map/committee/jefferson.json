@@ -1,0 +1,514 @@
+{
+  "county": "Jefferson",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "April 23, 2024 General Primary",
+  "as_of": "2024-05-01",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.jeffersoncountypa.gov/wp-content/uploads/2024/05/ElectionSummaryReportRPTOfficial.pdf",
+      "title": "Jefferson County Election Summary Report, Closed Primary, April 23, 2024, Official Results (5/1/2024)",
+      "type": "results",
+      "as_of": "2024-05-01"
+    },
+    {
+      "url": "https://www.jeffersoncountypa.gov/wp-content/uploads/2026/05/ElectionSummaryReportRPTADJ-Final.pdf",
+      "title": "Jefferson County Election Summary Report, May 19, 2026 primary (no Republican county committee contests on the ballot)",
+      "type": "results",
+      "as_of": "2026-05-27"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Barnett Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Beaver Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bell Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Big Run Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Brockway Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Brookville 1",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Brookville 2",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Clover Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Corsica Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Eldred Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Falls Creek Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Gaskill Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Heath Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Henderson Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Knox Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "McCalmont Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Oliver Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Perry Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Pinecreek Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Polk Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Porter Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Punxsutawney 1",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Punxsutawney 2",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Punxsutawney 3",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Reynoldsville Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Ringgold Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Rose Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Snyder Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Summerville Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sykesville Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Timblin Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Union Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Warsaw Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Washington Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Winslow Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Worthville Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Young Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 37,
+    "seats": 74,
+    "filled": 17,
+    "empty": 2,
+    "empty_no_filer": 0,
+    "unknown": 55
+  },
+  "notes": "Jefferson County Republican committee seats were last on the ballot in the April 23, 2024 primary as 'Republican Committeeperson (4 Yr) - <precinct>', vote for 2 per precinct; the May 19, 2026 primary results contain no Republican county committee contests. A seat is 'filled' when a printed ballot candidate received votes, 'empty' when no candidate ran and no write-in votes were cast, and 'unknown' when write-in votes were cast, since the report does not show whether a write-in winner qualified or accepted. The 2024 report has 37 precincts; by 2026 the county reported 38 precincts and renamed Brookville and Punxsutawney districts (e.g. 'Brookville Borough 1') and added a 'Falls Creek Borough 2', so these 2024 names may not match current precinct names. Appointments or vacancies since 2024 are not reflected."
+}

@@ -1,0 +1,1008 @@
+{
+  "county": "Lawrence",
+  "checked_at": "2026-11-24",
+  "method": "roster",
+  "election": "May 20, 2025 Municipal Primary (committee term 2025-2029)",
+  "as_of": "2026-11-19",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://lawrencecountypa.gov/getmedia/22a187c1-6e6d-4ea9-88a4-d7db094171e9/REPUBLICAN-COUNTY-COMMITTEE-2026-updated-NOV-19-2026.pdf",
+      "title": "Republican County Committee, elected May 20, 2025, revised November 19, 2026 (Lawrence County Voter Registration & Elections)",
+      "type": "roster",
+      "as_of": "2026-11-19"
+    },
+    {
+      "url": "https://lawrencecountypa.gov/departments/voter-elections/elected-officials",
+      "title": "Lawrence County Elected Officials page (links the current roster)",
+      "type": "roster",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "NEW CASTLE 1ST WARD 1ST DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "NEW CASTLE 1ST WARD 2ND DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NEW CASTLE 2ND WARD 1ST DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NEW CASTLE 2ND WARD 2ND DIST",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NEW CASTLE 2ND WARD 3RD DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "NEW CASTLE 2ND WARD 4TH DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NEW CASTLE 2ND WARD 5TH DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NEW CASTLE 3RD WARD 1ST DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "NEW CASTLE 3RD WARD 2ND DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NEW CASTLE 4TH WARD 1ST DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NEW CASTLE 4TH WARD 2ND DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "NEW CASTLE 4TH WARD 3RD DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NEW CASTLE 5TH WARD 1ST DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "NEW CASTLE 5TH WARD 2ND DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "NEW CASTLE 6TH WARD 1ST DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "NEW CASTLE 7TH WARD 1ST DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "NEW CASTLE 8TH WARD 1ST DIST",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "BESSEMER BORO",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "ELLPORT BORO",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "ELLWOOD CITY 1ST WARD 1ST DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "ELLWOOD CITY 2ND WARD 1ST DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "ELLWOOD CITY 3RD WARD 1ST DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "ELLWOOD CITY 4TH WARD 1ST DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "ELLWOOD CITY 4TH WARD 2ND DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "ELLWOOD CITY 5TH WARD 1ST. DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "ELLWOOD CITY 5TH WARD 2ND DIST.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "ENON VALLEY",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "NEW BEAVER BORO",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NEW WILMINGTON BORO",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "S.N.P.J. BORO",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "VOLANT BORO",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "WAMPUM BORO",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HICKORY TWP. 1ST DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HICKORY TWP. 2ND DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LITTLE BEAVER TWP.",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MAHONING TOWNSHIP 1ST DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MAHONING TOWNSHIP 2ND DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NESHANNOCK TOWNSHIP 1ST DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "NESHANNOCK TOWNSHIP 2ND DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NESHANNOCK TOWNSHIP 3RD DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NESHANNOCK TOWNSHIP 4TH DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NESHANNOCK TOWNSHIP 5TH DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "NESHANNOCK TOWNSHIP 6TH DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NESHANNOCK TOWNSHIP 7TH DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NESHANNOCK TOWNSHIP 8TH DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BEAVER TOWNSHIP 1ST DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BEAVER TOWNSHIP 2ND DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BEAVER TOWNSHIP 3RD DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "PERRY TOWNSHIP 1ST DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "PERRY TOWNSHIP 2ND DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "PLAIN GROVE TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "PULASKI TOWNSHIP 1ST DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "PULASKI TOWNSHIP 2ND DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "PULASKI TOWNSHIP 3RD DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SCOTT TOWNSHIP 1ST DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SCOTT TOWNSHIP 2ND DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SHENANGO TOWNSHIP 1ST DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SHENANGO TOWNSHIP 2ND DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SHENANGO TOWNSHIP 3RD DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SHENANGO TOWNSHIP 4TH DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "SHENANGO TOWNSHIP 5TH DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SHENANGO TOWNSHIP 6TH DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SLIPPERY ROCK TOWNSHIP 1ST DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SLIPPERY ROCK TOWNSHIP 2ND DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "TAYLOR TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "UNION TOWNSHIP 1ST DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "UNION TOWNSHIP 2ND DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "UNION TOWNSHIP 3RD DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "UNION TOWNSHIP 4TH DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WASHINGTON TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WAYNE TOWNSHIP 1ST DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WAYNE TOWNSHIP 2ND DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WILMINGTON TOWNSHIP 1ST DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WILMINGTON TOWNSHIP 2ND DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH NEW CASTLE BORO (not listed on roster)",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 75,
+    "seats": 150,
+    "filled": 102,
+    "empty": 46,
+    "empty_no_filer": 0,
+    "unknown": 2
+  },
+  "notes": "Seat status from the county's Republican County Committee roster revised Nov 19, 2026 (supersedes the July 15, 2026 revision, whose URL now returns 404). Lawrence elects committee in odd years; current members were elected May 20, 2025, plus appointments shown on the roster. The roster lists two members per precinct without committeeman/committeewoman labels, so seats are labeled 'Member'. A seat printed VACANT is 'empty'; any named member is 'filled'. Pulaski Township 1st District: the roster prints both VACANT entries offset onto the township header line; treated as two empty seats for 1st District. South New Castle Borough, a county precinct, does not appear on the roster at all; its two seats are recorded as 'unknown' (assumed 2 seats like every other precinct). Precinct names are the roster's (ward/district style), e.g. 'NEW CASTLE 1ST WARD 1ST DIST.'."
+}

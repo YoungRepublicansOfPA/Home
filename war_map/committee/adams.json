@@ -1,0 +1,1624 @@
+{
+  "county": "Adams",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 20, 2025 Municipal Primary",
+  "as_of": "2025-05-23",
+  "seats_per_precinct": null,
+  "sources": [
+    {
+      "url": "https://www.adamscountypa.gov/getmedia/26d20d82-6443-4d28-8390-deca1715b958/b-Precinct-Summary-Results.pdf",
+      "title": "Adams County 2025 Primary Precinct Summary Results (report header reads UNOFFICIAL RESULTS, generated 05/23/2025)",
+      "type": "results",
+      "as_of": "2025-05-23"
+    },
+    {
+      "url": "https://adamscountypa.gov/getmedia/f1d63c2d-481a-4d63-9170-b7f01c56a63a/2025-NOTICE-OF-MUNICIPAL-PRIMARY-ELECTION.pdf",
+      "title": "Adams County 2025 Notice of Municipal Primary Election (Republican Committee Member seats per election district, 4-year term, as set by party by-laws)",
+      "type": "rules",
+      "as_of": "2025-02-19"
+    },
+    {
+      "url": "https://www.adamscountypa.gov/getmedia/575d07bc-6b97-44d7-90ca-cd1aad4ae3ad/e_Republican-Committee-Write-Ins.pdf",
+      "title": "Adams County 2025 Primary Republican Committee Write-In Winners (scanned image, not used for seat status)",
+      "type": "results",
+      "as_of": "2025-05-30"
+    },
+    {
+      "url": "https://www.adamscountypa.gov/getmedia/8b4685ab-9f35-420a-81dc-0e6dab0caa4f/Official-Republican-General-Primary-Ballot.pdf",
+      "title": "Adams County Official Republican General Primary Ballot, May 19, 2026 (no county committee contest, confirming committee is not elected in 2026)",
+      "type": "rules",
+      "as_of": "2026-04-28"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Abbottstown",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Arendtsville",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bendersville",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Berwick",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 9",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Biglerville",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bonneauville",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Butler",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 9",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Carroll Valley 1",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Carroll Valley 2",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Conewago 1",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 5",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 6",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 7",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 8",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Conewago 2",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 5",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 6",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 7",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 8",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Conewago 3",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 5",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 6",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 7",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 8",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Cumberland 1",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Cumberland 2",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Cumberland 3",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Cumberland 4",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "East Berlin",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Fairfield",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Franklin 1",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Franklin 2",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Freedom",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 5",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 6",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 7",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 9",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 10",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 11",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Gettysburg 1",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Gettysburg 2",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Gettysburg 3",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hamilton",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 9",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 10",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hamiltonban",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Highland",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Huntington",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 5",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 9",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Latimore",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 9",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 10",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Liberty",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Littlestown 1",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Littlestown 2",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "McSherrystown 1",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "McSherrystown 2",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Menallen",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 5",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 6",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 7",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 8",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 9",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 10",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 11",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 12",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Mt Joy 1",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 5",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Mt Joy 2",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Mt Pleasant 1",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 9",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Mt Pleasant 2",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "New Oxford",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Oxford 1",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 9",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 10",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Oxford 2",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 9",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Reading 1",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Reading 2",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Reading 3",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Straban 1",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Straban 2",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 9",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 10",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Tyrone",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 4",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 5",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 6",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Union",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 2",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 3",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 4",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 5",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 6",
+          "status": "filled"
+        },
+        {
+          "seat": "Member 7",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 8",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 9",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 10",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 11",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 12",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "York Springs",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 51,
+    "seats": 331,
+    "filled": 106,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 225
+  },
+  "notes": "Adams County Republicans elect committee members in odd-year municipal primaries for 4-year terms, and the number of seats varies by election district (1 to 12; 331 total) under the party's by-laws, so seats_per_precinct is null and seats are labelled Member 1..N. The 2026 Republican primary ballot has no county committee contest and the 2024 primary results have none either. Seat status: for each district with N seats, seats up to the number of ballot candidates who received votes are filled; any remaining seats are unknown where write-in votes were cast (true in every district with open seats) and would be empty only if no write-in votes were cast. The county published a separate scanned list of Republican committee write-in winners and tie draws (see sources); it was not machine-read here, so those seats stay unknown pending manual review, and write-in winners may also have declined. The precinct report used is labelled UNOFFICIAL; it is the only 2025 primary precinct report on the county's archive page. Appointments since May 2025 are not captured."
+}

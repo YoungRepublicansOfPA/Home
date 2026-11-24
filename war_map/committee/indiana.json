@@ -1,0 +1,930 @@
+{
+  "county": "Indiana",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-06-03",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.indianacountypa.gov/wp-content/uploads/May-19-2026-Summary-Report-Second-Signing.pdf",
+      "title": "2026 General Primary Election Summary Results Report, Official Results, second signing (Indiana County, Electionware, generated 06/03/2026)",
+      "type": "results",
+      "as_of": "2026-06-03"
+    },
+    {
+      "url": "https://www.indianacountypa.gov/wp-content/uploads/Republican-Candidates-May-19-2026.pdf",
+      "title": "Republican Candidates, May 19, 2026 Primary (lists County Committee, 4-year term, 2 per precinct)",
+      "type": "candidate_listing",
+      "as_of": "2026-05-19"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "ARMAGH",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ARMSTRONG #1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ARMSTRONG #2",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BANKS",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BLACKLICK",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BLAIRSVILLE #1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BLAIRSVILLE #2",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BLAIRSVILLE #3",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BRUSHVALLEY",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "BUFFINGTON #1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BUFFINGTON #2",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BURRELL #1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BURRELL #2",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CANOE",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CENTER #1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "CENTER #2",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "CENTER #3",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CHERRYHILL #1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CHERRYHILL #2",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "CHERRY TREE",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CLYMER",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "CONEMAUGH #1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "empty"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "CONEMAUGH #2",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CONEMAUGH #3",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CREEKSIDE",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "empty"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "ERNEST",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "GLEN CAMPBELL",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GRANT",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "GREEN #1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GREEN #2",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GREEN #3",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOMER CITY #1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOMER CITY #2",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "INDIANA #1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "INDIANA #2-1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "INDIANA #2-2",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "INDIANA #3-1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "empty"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "INDIANA #3-2",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "INDIANA #3-4",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "INDIANA #4",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "EAST MAHONING",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH MAHONING",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH MAHONING",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST MAHONING",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MARION CENTER",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MONTGOMERY",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "PINE #1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PINE #2",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PINE #3",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PLUMVILLE",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "RAYNE",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SALTSBURG",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SHELOCTA",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SMICKSBURG",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "empty"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "WASHINGTON",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "EAST WHEATFIELD #1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "EAST WHEATFIELD #2",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST WHEATFIELD #1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST WHEATFIELD #2",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WHITE #1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WHITE #2",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WHITE #3-1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WHITE #3-2",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WHITE #3-3",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WHITE #4-5",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WHITE #6",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "filled"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "YOUNG #1",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "YOUNG #2",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "empty"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "YOUNG #3",
+      "seats": [
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "County Committee Member",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 69,
+    "seats": 138,
+    "filled": 46,
+    "empty": 11,
+    "empty_no_filer": 0,
+    "unknown": 81
+  },
+  "notes": "Indiana County Republicans elect two 'County Committee' members per precinct (vote for 2, four-year term) in the 2026 primary; seats are not split by sex. 'filled' = a named ballot candidate received votes (one precinct, White #2, had three candidates for two seats; the top two are counted). Seats beyond the number of ballot candidates are 'unknown' when any write-in votes were cast (the report lists individual write-in names, often with 1-2 votes and ties, and does not say whether any write-in winner met legal thresholds or accepted), and 'empty' when no write-in votes were cast. Appointments after the primary are not reflected."
+}

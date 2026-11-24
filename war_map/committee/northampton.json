@@ -1,0 +1,2048 @@
+{
+  "county": "Northampton",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-06-09",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.norcopa.gov/corecode/uploads/document6/uploaded_pdfs/corecode/PE26%20Precinct%20Level%20Summary%20Results_2715.pdf",
+      "title": "Northampton County Summary Results Report by precinct, General Primary Election May 19, 2026, OFFICIAL RESULTS (generated 06/09/2026)",
+      "type": "results",
+      "as_of": "2026-06-09"
+    },
+    {
+      "url": "https://www.norcopa.gov/election-result",
+      "title": "Northampton County Election Results page",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "010001-1 ALLEN TWSP NORTH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "010002-1 ALLEN TWSP SOUTH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "020100-1 BANGOR BORO NORTH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "020200-1 BANGOR BORO SOUTH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "030000-1 BATH BORO",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "040101-1 BETHLEHEM 1-NORTH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "040102-1 BETHLEHEM 1-SOUTH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "040200-1 BETHLEHEM 2ND WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "040300-1 BETHLEHEM 3RD WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "040400-1 BETHLEHEM 4TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "040500-1 BETHLEHEM 5TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "040600-1 BETHLEHEM 6TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "040700-1 BETHLEHEM 7TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "040800-1 BETHLEHEM 8TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "040901-1 BETHLEHEM 9 WEST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "040902-1 BETHLEHEM 9 EAST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "041401-1 BETHLEHEM 14-1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "041402-1 BETHLEHEM 14-2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "041403-1 BETHLEHEM 14-3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "041404-1 BETHLEHEM 14-4",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "041405-1 BETHLEHEM 14-5",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "041406-1 BETHLEHEM 14-6",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "041407-1 BETHLEHEM 14-7",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "041408-1 BETHLEHEM 14-8",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "041501-1 BETHLEHEM 15-1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "041502-1 BETHLEHEM 15-2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "041503-1 BETHLEHEM 15-3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "041600-1 BETHLEHEM 16TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "041700-1 BETHLEHEM 17TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "050101-1 BETHLEHEM TWSP 1-1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "050102-1 BETHLEHEM TWSP 1-2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "050103-1 BETHLEHEM TWSP 1-3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "050104-1 BETHLEHEM TWSP 1-4",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "050201-1 BETHLEHEM TWSP 2-1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "050202-1 BETHLEHEM TWSP 2-2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "050203-1 BETHLEHEM TWSP 2-3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "050204-1 BETHLEHEM TWSP 2-4",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "050301-1 BETHLEHEM TWSP 3-1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "050302-1 BETHLEHEM TWSP 3-2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "050303-1 BETHLEHEM TWSP 3-3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "050304-1 BETHLEHEM TWSP 3-4",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "050305-1 BETHLEHEM TWSP 3-5",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "050401-1 BETHLEHEM TWSP 4-1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "050402-1 BETHLEHEM TWSP 4-2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "050403-1 BETHLEHEM TWSP 4-3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "050404-1 BETHLEHEM TWSP 4-4",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "060001-1 BUSHKILL TWSP BUSHKILL CENTER",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "060002-1 BUSHKILL TWSP CHERRY HILL",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "060003-1 BUSHKILL TWSP CLEARFIELD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "070000-1 CHAPMAN BORO",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "080001-1 EAST ALLEN TWSP EAST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "080002-1 EAST ALLEN TWSP WEST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "090000-1 EAST BANGOR BORO",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "100200-1 EASTON 2ND WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "100302-1 EASTON 3-2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "100303-1 EASTON 3-3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "100304-1 EASTON 3-4",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "100400-1 EASTON 4TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "100500-1 EASTON 5TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "100600-1 EASTON 6TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "100700-1 EASTON 7TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "100801-1 EASTON 8TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "100900-1 EASTON 9TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "101001-1 EASTON 10TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "101100-1 EASTON 11TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "110101-1 FORKS TWSP EAST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "110102-1 FORKS TWSP NORTH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "110103-1 FORKS TWSP NORTHWEST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "110104-1 FORKS TWSP SOUTH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "110105-1 FORKS TWSP SOUTHEAST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "110106-1 FORKS TWSP SOUTHWEST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "110107-1 FORKS TWSP WEST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "120000-1 FREEMANSBURG BORO",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "130000-1 GLENDON BORO",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "140001-1 HANOVER TWSP #1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "140002-1 HANOVER TWSP #2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "140003-1 HANOVER TWSP #3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "140004-1 HANOVER TWSP #4",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "140005-1 HANOVER TWSP #5",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "140006-1 HANOVER TWSP #6",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "150100-1 HELLERTOWN BORO 1ST WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "150200-1 HELLERTOWN BORO 2ND WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "150300-1 HELLERTOWN BORO 3RD WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "160001-1 LEHIGH TWSP CENTRAL",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "160002-1 LEHIGH TWSP DANIELSVILLE",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "160003-1 LEHIGH TWSP PENNSVILLE",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "160004-1 LEHIGH TWSP TREICHLERS",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "160005-1 LEHIGH TWSP NORTHWESTERN",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "170001-1 LOWER MT. BETHEL TWSP LOWER",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "170002-1 LOWER MT. BETHEL TWSP UPPER",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "180001-1 LOWER NAZARETH TWSP EAST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "180002-1 LOWER NAZARETH TWSP NORTH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "180003-1 LOWER NAZARETH TWSP SOUTH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "180004-1 LOWER NAZARETH TWSP WEST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "190001-1 LOWER SAUCON TWSP 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "190002-1 LOWER SAUCON TWSP 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "190003-1 LOWER SAUCON TWSP 3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "190004-1 LOWER SAUCON TWSP 4",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "190006-1 LOWER SAUCON TWSP 6",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "190007-1 LOWER SAUCON TWSP 7",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "200001-1 MOORE TWSP BEERSVILLE",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "200002-1 MOORE TWSP EASTERN",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "200003-1 MOORE TWSP KLECKNERSVILLE",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "200004-1 MOORE TWSP POINT PHILLIPS",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "210100-1 NAZARETH BORO 1ST WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "210200-1 NAZARETH BORO 2ND WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "210300-1 NAZARETH BORO 3RD WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "220100-1 NORTHAMPTON BORO 1ST WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "220200-1 NORTHAMPTON BORO 2ND WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "220300-1 NORTHAMPTON BORO 3RD WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "220400-1 NORTHAMPTON BORO 4TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "230100-1 NORTH CATASAUQUA BORO 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "230200-1 NORTH CATASAUQUA BORO 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "240001-1 PALMER TWSP CENTRAL",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "240002-1 PALMER TWSP EAST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "240003-1 PALMER TWSP NORTH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "240004-1 PALMER TWSP NORTHEAST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "240005-1 PALMER TWSP NORTHWEST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "240006-1 PALMER TWSP SOUTH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "240007-1 PALMER TWSP SOUTHEAST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "240008-1 PALMER TWSP SOUTHWEST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "240009-1 PALMER TWSP WEST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "250100-1 PEN ARGYL BORO 1ST WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "250200-1 PEN ARGYL BORO 2ND WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "250300-1 PEN ARGYL BORO 3RD WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "250400-1 PEN ARGYL BORO 4TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "260001-1 PLAINFIELD TWSP BELFAST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "260002-1 PLAINFIELD TWSP DELABOLE",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "260003-1 PLAINFIELD TWSP KESSLERSVILLE",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "260004-1 PLAINFIELD TWSP PLAINFIELD CHURCH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "270000-1 PORTLAND BORO",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "280000-1 ROSETO BORO",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "290000-1 STOCKERTOWN BORO",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "300000-1 TATAMY BORO",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "310001-1 UPPER MT. BETHEL TWSP CENTERVILLE",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "310002-1 UPPER MT. BETHEL TWSP JOHNSONVILLE",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "310003-1 UPPER MT. BETHEL TWSP NORTH BANGOR",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "310004-1 UPPER MT. BETHEL TWSP SLATEFORD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "310005-1 UPPER MT. BETHEL TWSP WILLIAMSBURG",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "320001-1 UPPER NAZARETH EAST 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "320002-1 UPPER NAZARETH EAST 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "320003-1 UPPER NAZARETH WEST 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "320004-1 UPPER NAZARETH WEST 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "330000-1 WALNUTPORT BORO",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "340001-1 WASHINGTON TWSP LOWER",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "340002-1 WASHINGTON TWSP UPPER",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "350000-1 WEST EASTON BORO",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "360001-1 WILLIAMS TWSP EAST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "360002-1 WILLIAMS TWSP MIDDLE",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "360003-1 WILLIAMS TWSP UPPER",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "360004-1 WILLIAMS TWSP WEST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "370100-1 WILSON BORO 1ST WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "370200-1 WILSON BORO 2ND WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "370300-1 WILSON BORO 3RD WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "380000-1 WIND GAP BORO",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 155,
+    "seats": 310,
+    "filled": 108,
+    "empty": 22,
+    "empty_no_filer": 0,
+    "unknown": 180
+  },
+  "notes": "Each precinct has one 'REPUBLICAN COMMITTEE PERSONS' contest with Vote For 2; precinct names keep the county's numeric codes. The official report lists 155 precincts (counties.geojson lists 154). Status rules: filed candidate inside the top two with votes = filled (unknown on a boundary tie or if write-ins exceeded a lone candidate); open seats are unknown when any write-in votes were cast and empty when none were. The report names write-in recipients in many contests (68 contests with no filed candidate have named write-ins); these remain unknown because acceptance of write-in winners was not verified. Appointments after the primary are not reflected."
+}

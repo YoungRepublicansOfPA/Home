@@ -61,5 +61,26 @@
     "bytes": 1092284,
     "sha256": "0eff613b159e302e718cf44bd58415e1b9dd5a03ce8dbc403f28de02cec76570",
     "retrieved": "2026-11-24"
+  },
+  {
+    "file": "2025-IRS990.html.txt",
+    "url": "https://projects.propublica.org/nonprofits/full_text/202631419349301118/IRS990",
+    "bytes": 551593,
+    "sha256": "3192a9682764a21330bc2b9f45ccc32cb5c1faa4e4f67c3008585b3cc8a5c047",
+    "retrieved": "2026-11-24"
+  },
+  {
+    "file": "2025-IRS990ScheduleI.html.txt",
+    "url": "https://projects.propublica.org/nonprofits/full_text/202631419349301118/IRS990ScheduleI",
+    "bytes": 80955,
+    "sha256": "749ff382f8a0d778888fb0cd1230ddaf9281ae51b2d00d6435951e766337b90b",
+    "retrieved": "2026-11-24"
+  },
+  {
+    "file": "2025-IRS990ScheduleC.html.txt",
+    "url": "https://projects.propublica.org/nonprofits/full_text/202631419349301118/IRS990ScheduleC",
+    "bytes": 101266,
+    "sha256": "781d3bc5d33975ca6cbd081091195f0f0f4b26fdb922a4ca110fdfbf03b86dc3",
+    "retrieved": "2026-11-24"
   }
 ]

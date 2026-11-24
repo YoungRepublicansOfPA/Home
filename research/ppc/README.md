@@ -37,3 +37,7 @@ PPC advocates for Pre-K Counts. A [UNC evaluation](pre-k-evaluation.pdf) found p
 
 ## Archive
 The [manifest](manifest.json) gives original URLs, retrieval dates, byte counts and SHA-256 checksums for source copies. The API snapshot ends at FY2024; the separate financial profile snapshot includes FY2025. HTML snapshots are stored as plain text. The foundation announcement is linked above; its server declined the archive download. Original publishers retain rights to their publications.
+
+## Where the 2025 expenses went
+
+Form 990 Part IX reports $590,105 of officer/key employee compensation and $1,471,672 of other salaries and wages. Domestic organizational grants were $1,390,317. Other nonemployee services (line 11g) were $257,531. The remaining $328,896 includes accounting, occupancy, travel and other operating expenses. These categories reconcile to $4,038,521. Schedule C identifies $123,771 of direct lobbying within reported expenditures. Part VIII line 1e is blank; PPC classified $3,873,262 as other contributions on line 1f. Part VII reports zero compensation for bank-affiliated directors David Patti and Ellen Kyzer. Schedule I names grants including $331,257 to PennAEYC, $235,382 to Children First and $211,367 to Maternity Care Coalition for campaigns. See the archived [return](2025-IRS990.html.txt), [grants](2025-IRS990ScheduleI.html.txt) and [lobbying](2025-IRS990ScheduleC.html.txt). These are reported expenditures; the return does not independently evaluate campaign results.

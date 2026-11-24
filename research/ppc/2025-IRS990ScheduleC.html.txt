@@ -1,0 +1,1561 @@
+<!DOCTYPE html><html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>TY 2025 Form 990 Schedule C</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="Description" content="IRS Form 990 Schedule C">
+<link rel="stylesheet" type="text/css" name="HeaderStyleSheet" href="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2025/styles/header.css">
+<link rel="stylesheet" type="text/css" name="BodyStyleSheet" href="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2025/styles/body.css">
+<link rel="stylesheet" type="text/css" name="General" href="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2025/styles/general.css">
+<style type="text/css">
+
+.IRS990ScheduleC_FormNumBlock {   /* Form number block in header */
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 1px;
+  width:30mm;height:22mm;
+  float:left;
+}
+.IRS990ScheduleC_FormTitleBlock {   /* Form title block in header */
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 1px;
+  width:128mm;height:22mm;
+  text-align:center;
+  float:left;
+}
+.IRS990ScheduleC_FormYearBlock {   /* Block with bottom border only */
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 0px;
+  width:30mm;height:22mm;
+  float:left;
+}
+.IRS990ScheduleC_OMB {   /* Block containing the OMB number */
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 0px;
+  width:30mm;height:4mm;
+  text-align:center;
+  float:left;
+}
+.IRS990ScheduleC_TaxYear {   /* Block Contain tax year */
+  padding-top: 10px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px;
+  width:30mm;height:11mm;
+  font-family: "Arial Narrow";
+  font-size: 26pt; font-weight: bold;
+  text-align:center;
+  float:left;
+  /* Note the height is 11mm instead of 12mm.  Seems like borders take space even at zero width */
+}
+.IRS990ScheduleC_LineIndex { /* line index */
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 15px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px;
+  float:left;
+  height:4mm;
+  width:8mm;text-align:right;font-weight:bold;
+}
+.IRS990ScheduleC_SubLineIndex { /* subline index */
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px;
+  float:left;
+  height:4mm;
+  width:8mm;text-indent:3mm;font-weight:bold;
+}
+.IRS990ScheduleC_LineDescLong {  /* line body long format */
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 1px;
+  float:left;
+  height:4mm;width:140mm;
+}
+.IRS990ScheduleC_LineIndexMid { /* subline index 2 */
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 1px;
+  float:left;
+  height:4mm;
+  width:8mm;text-align:center;font-weight:bold;
+}
+.IRS990ScheduleC_LineIndexMidFiller { /* subline index 2, bottomless */
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 1px;
+  float:left;
+  height:4mm;
+  width:8mm;text-align:center;font-weight:bold;
+}
+.IRS990ScheduleC_LineIndexMidFillerGray { /* subline index 2, bottomless with gray fill */
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 1px;
+  float:left;
+  height:4mm;
+  width:8mm;background-color:lightgrey;
+}
+.IRS990ScheduleC_MoneyFieldMid { /* Money field middle line */
+  padding-top: 2px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 1px;
+  float:left;
+  height:4mm;width:26mm;text-align:right;
+  font-size:6pt;
+}
+.IRS990ScheduleC_MoneyField { /* Money field end line */
+  padding-top: 2px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 0px;
+  float:left;
+  height:4mm;width:26mm;text-align:right;
+  font-size:6pt;
+}
+.IRS990ScheduleC_MoneyFieldFiller { /* Money field filler */
+  padding-top: 2px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px;
+  float:left;
+  height:4mm;width:26mm;text-align:right;
+}
+.IRS990ScheduleC_DotSpacing { /* dot line spacing */
+  letter-spacing:2mm;
+}
+.IRS990ScheduleC_LineContainer {
+  clear:both;
+  width:188mm;
+}
+.IRS990ScheduleC_TableContainer {
+  clear:both;
+  width:188mm;
+  border-style: solid; border-color: black;
+  border-top-width: 1px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 0px;
+  overflow-y:auto;
+}
+
+.IRS990ScheduleCPart1C_TableContainer {
+  clear:both;
+  width:188mm;
+  border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px;
+  overflow-y:auto;
+}
+
+.IRS990ScheduleC_LineDescIIB { /* description space */
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 1px;
+  float:left;
+  height:4mm;width:138mm;
+}
+.IRS990ScheduleC_LineDesc { /* description space */
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 1px;
+  float:left;
+  height:4mm;width:156mm;
+}
+
+.IRS990ScheduleC_LineDescIV { /* description space */
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px;
+  float:left;
+  height:4mm;width:172mm;
+}
+
+.IRS990ScheduleC_LineDescIVA { /* description space */
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px;
+  float:left;
+  height:4mm;width:140mm;
+}
+.IRS990ScheduleC_LineDescIVAL { /* description space */
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px;
+  float:left;
+  height:4mm;width:180mm;
+}
+
+.IRS990ScheduleC_ArrowSpace { /* description space */
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 1px;
+  float:left;
+  height:4mm;width:6mm;
+}
+/* the reduction in line width is necessary here */
+.IRS990ScheduleC_Checkbox {
+  height:3mm;
+  width:3mm;
+}
+
+.IRS990ScheduleC_GenericCell {   /* Form Name */
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 1px;
+  padding-left:1mm;padding-right:1mm;  
+}
+.IRS990ScheduleC_CellPtI {   /* Form Name */
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 1px;
+  padding-left:1mm;padding-right:1mm;
+  height:4mm;
+}
+.IRS990ScheduleC_IndexCell {   /* Form Name */
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 0px;
+  padding-left:0mm;padding-right:10px;padding-top:1px;padding-bottom:1px;
+  font-weight:bold;text-align:right;
+}
+.IRS990ScheduleC_IndexCellIIA {   /* Form Name */
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px;
+  padding-left:0mm;padding-right:10px;padding-top:1px;padding-bottom:1px;
+  font-weight:bold;text-align:right;
+  width:4mm;
+}
+
+.IRS990ScheduleC_MoneyCell {   /* Form Name */
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 1px;
+  padding-left:1px;padding-right:1px;
+  font-size:6pt;text-align:right;
+}
+
+
+    * {box-sizing:border-box;}
+    input[type=checkbox] {box-sizing:content-box;}
+    span {display:inline-block;}
+    div {display:inline-block;vertical-align:bottom;}
+    
+    .styBodyClass {   /* body style for all stylesheets */
+      width: 187mm; height: auto;
+      margin-top: 6px; margin-right: 0px; margin-bottom: 0px; margin-left: 6px;
+      color: black; background-color: white;
+      
+      background-repeat: no-repeat;  /*  repeat || repeat-x || repeat-y || no-repeat  */
+      background-attachment: scroll;  /*  IE Only: scroll || fixed  */
+      background-position: center center;  /*  IE Only: {x}% {y}% || {x}px|pt|in|cm|mm {y}px|pt|in|cm|mm || top|center|bottom left|center|right  */
+      font-family: verdana, arial, sans-serif; font-style: normal;
+      font-size: 7pt; font-weight: normal;
+      line-height: normal;
+      text-align: left; vertical-align: middle;
+      text-indent: 0px; text-decoration: none; white-space: normal;
+      padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+      border-style: none; border-color: gray;
+      border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px;
+      float: none; clear: none;
+      display: block;
+      cursor: default;
+      zoom: 100%;
+    }
+    .styDepTitle {   /* Dependency Document Title  */        
+      background-color: gold;
+      font-family: verdana, arial, sans-serif; font-size: 11pt;
+      font-weight: bold;
+      text-align: left;
+      padding-left: 8px; padding-right: 8px; padding-top:0px; padding-bottom:0px;
+    }
+    .styDepTitleLine {   /* Dependency Document Title Line */
+      width:187mm;
+      border-style: solid; border-color: gold;
+      border-top-width: 0px; border-bottom-width: 2px; border-left-width: 0px; border-right-width: 0px;
+    }
+    .styDepTitleLineLandscape {   /* Dependency Document Title Line */
+      width:256mm;
+      border-style: solid; border-color: gold;
+      border-top-width: 0px; border-bottom-width: 2px; border-left-width: 0px; border-right-width: 0px;
+    }
+    .styDepTbl {   /* Dependency Table */
+      width: 187mm;
+      font-family: verdana, arial, sans-serif; font-size: 9pt;
+      font-weight: normal;
+      text-align: center;
+      border-style: ridge; border-color: black;   /* set in User Preferences */
+      border-top-width: 4px; border-bottom-width: 4px; border-left-width: 4px; border-right-width: 4px;
+      border-collapse: collapse;
+    }
+    .styDepTblLandscape {   /* Dependency Table */
+      width: 256mm;
+      font-family: verdana, arial, sans-serif; font-size: 9pt;
+      font-weight: normal;
+      text-align: center;
+      border-style: ridge; border-color: black;   /* set in User Preferences */
+      border-top-width: 4px; border-bottom-width: 4px; border-left-width: 4px; border-right-width: 4px;
+      border-collapse: collapse;
+    }
+
+    .styDepTblHdr {   /* Dependency Table Header */
+      background-color: black;   /* set in User Preferences */
+      color: white;
+      text-align: center;
+      vertical-align: middle;
+    }
+    .styDepTblRow1 {   /* Dependency Table Row 1 */
+      background-color: #8cdaff;   /* set in User Preferences */
+      cursor: default;
+      vertical-align: middle;
+    }
+    .styDepTblRow2 {   /* Dependency Table Row 2 */
+      background-color: #d9f2ff;   /* set in User Preferences */
+      cursor: default;
+      vertical-align: middle;
+    }
+    .styDepTblCell {   /* Dependency Table Cell */
+      padding-top: 4px; padding-bottom: 4px; padding-left: 4px; padding-right: 4px;vertical-align: top; 
+      border:1px solid black;
+    }    
+    .styDepTblRow1Cell {   /* Dependency Table Cell with Background Color for Row 1 */
+      background-color: #8cdaff;   /* set in User Preferences */
+      padding-top: 4px; padding-bottom: 4px; padding-left: 4px; padding-right: 4px;vertical-align: top; 
+      border:1px solid black;
+    }    
+    .styDepTblRow2Cell {   /* Dependency Table Cell with Background Color for Row 2 */
+      background-color: #d9f2ff;   /* set in User Preferences */
+      padding-top: 4px; padding-bottom: 4px; padding-left: 4px; padding-right: 4px;vertical-align: top; 
+      border:1px solid black;
+    }    
+    .styDepTableThead{ /* Style for Dependency HTML 'thead' element  */
+      display:table-header-group;
+    }          
+    .styTopSectionLine { /* Style for Bold Text Listings at the Top of Dependencies */
+      font-size: 10pt;
+      margin-top: 5px;
+      margin-bottom:5px;
+      width:187mm;
+      display:table;
+    }
+    .styTopSectionLineLbl {
+      font-weight: bold;
+      width: 250px;
+      text-align: right;
+      margin-right: 10px;
+    }
+    .styTopSectionLineLandscape { /* Style for Bold Text Listings at the Top of Landscape Dependencies */
+      font-size: 10pt;
+      margin-top: 5px;
+      margin-bottom:5px;
+      width:256mm;
+      display:table;
+    }
+    .styDepTableCellPad {   /* Dependency Table Cell Padding */
+      width: 4px;
+    }  
+    .styDepGenericDiv {
+      float:left;
+      clear:none;
+    }  
+    .styExplanationLine {
+      width: 118mm;
+      float:left;
+      clear:none;
+    }
+            
+    .styLeftOverTitleLine {   /* Left Over Document Title Line */
+      width: 187mm;      
+      border-style: solid; border-color: gold;
+      border-top-width: 0px; border-bottom-width: 2px; border-left-width: 0px; border-right-width: 0px;
+    }
+    .styLeftOverTitle {   /* Left Over Document Title */
+      width:35mm;
+      font-size:10pt;
+      font-family: verdana, arial, sans-serif; 
+      font-weight: bold;
+      float:left;
+      height:5mm;
+      background-color: gold;
+      text-align: left;
+      padding-left: 8px; padding-right: 0px; padding-top:0px; padding-bottom:0px;
+    }
+    .styLeftOverButtonContainer { /* Style for Container of Left Over Table Button */
+      width:151mm;
+      text-align:right;
+      
+    }
+    .styLeftoverTableBtn { /* Left Over Table Button Style */
+      height:5mm;
+      width: 130px;
+      font-family: verdana, arial, sans-serif; font-size: 8pt;
+      font-weight: bold; font-style: normal;
+    }
+    .styLeftOverTbl {   /* Left Over Table */
+      width:187mm;
+    }
+    .styLeftOverTableRowDesc { /* Left Over Table Row Description Field */
+      width: 100mm;
+      font-size: 8pt;
+      font-weight: bold;
+      text-align: right;
+      padding-right: 2mm;
+    }
+    .styLeftOverTableRowAmount { /* Left Over Table Row Amount Field */
+      width:87mm;
+      font-size: 8pt;
+      text-align:left;
+      margin-top: 5px; margin-bottom:5px;
+    }
+    .styLeftOverTitleLineLandscape {   /* Left Over Document Title Line in Landscape Format */
+      width: 256mm;      
+      border-style: solid; border-color: gold;
+      border-top-width: 0px; border-bottom-width: 2px; border-left-width: 0px; border-right-width: 0px;
+    }
+    .styLeftOverButtonContainerLandscape { /* Style for Container of Left Over Table Button in Landscape Format */
+      width:220.5mm;
+      text-align:right;
+      
+    }
+    .styLeftOverTblLandscape {   /* Left Over Table in Landscape Format */
+      width:256mm;
+    }
+    .styTableThead{ /* Style for HTML 'thead' element  */
+      display:table-header-group;
+    }
+    .styRepeatingDataTitle{ /* Style for the titles of repeating data tables */
+      font-weight:bold;
+      font-size:8pt;
+      width:187mm;
+    }
+    
+    /***** Beginning of styles for displaying attachment document list div (after click on pushpin) ****/
+    .styAttachmentDocListDiv { /* The attachment document list DIV class (for pushpin) */
+      display: none; /* Hidden by default */
+      position: fixed; /* Stay in place */
+      z-index: 1; /* Sit on top */
+      padding-top: 0px;
+      left:0;
+      top:0;
+      width: 300px; /* Full width */
+      height: 120px; /* Full height */
+      overflow: auto;   /* Enable scroll if needed */
+      background-color: white;
+      border: 2px solid gray;
+      margin:0px;
+      align-content: top;
+      resize: both; /* Div can be resized by dragging the bottom right corner */
+    }
+    .styAttachmentDocListDivTitle { /* The attachment document list title class (for pushpin) */
+      height:auto;
+      min-height:8mm;
+      width:100%;
+      color:black;
+      font-size:9pt;
+      font-weight:bold;
+      position:sticky; /* Ensure the title bar stays in place even if the body is scrolled */
+      top:0;
+      background-color:#95c0ff;
+	  resize: horizontal;
+    }
+    .styAttachmentDocListDivBody { /* The attachment document list title class (for pushpin) */
+      font-family: verdana, arial, sans-serif; 
+      font-style: normal;
+      font-size: 8pt; 
+      font-weight: normal;
+      line-height: normal;
+      text-align: left; 
+      top:20px;
+      width:100%;
+      height:auto;
+	  resize: both;
+    }
+    .lineItemClearLink{
+      box-sizing:border-box;
+      height:auto;width:100%;
+      padding-left:4mm;
+      padding-top:1px;
+      padding-bottom:2px;
+      clear:both;
+      cursor:pointer;
+    }
+    .lineItemGrayLink{
+      box-sizing:border-box;
+      height:auto;width:100%;
+      padding-left:4mm;
+      padding-top:1px;
+      padding-bottom:2px;
+      clear:both;
+      cursor:pointer;
+    }
+    .styButton  /* button style */
+    {
+      font-family: verdana, arial, sans-serif;
+      font-size: 8pt;
+      font-weight: bold;
+    }
+    /***** End of styles for displaying attachment document list div (after click on pushpin) *****/    
+  </style>
+<style> .propublica-divider { width: 100%; margin: 20px auto; height: 7px; border-bottom: 1px solid #ff5555; text-align: center;} .propublica-divider span { padding: 0 10px; font-size: 10px; color: #ff5555; background-color: white; } </style>
+<style type="text/css">table {table-layout: fixed !important;} .IRS990ScheduleC_TableContainer { overflow-x: hidden; }</style>
+<style type="text/css">th.styIRS990VTImageBox { float: none !important; }</style>    <style type="text/css">
+      .IRS990ScheduleF_TableContainer {
+        height: auto !important;
+      }
+      .styTableContainerLandscape {
+        height: auto !important;
+      }
+      div.styTableContainer,
+      .styTableContainer table {
+        width: 103% !important;
+        height: auto !important;
+      }
+    </style>
+</head>
+<body class="styBodyClass">
+<form name="IRS990ScheduleC">
+<div class="styDocHeader" style="width:187mm;" id="PageHeader">
+<span class="styDoNotProcess" style="overflow:hidden;"> efile Public Visual Render <span style="width:12px;"></span><span class="styDataStage">ObjectId: 202631419349301118
+                                -
+                                Submission: 2026-05-21</span></span><span class="styDLN">
+							TIN:
+							23-2613869</span>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_FormNumBlock" style="padding-top:5px;height:25mm;">
+<span style="font-size:11pt;font-weight:bold;font-familiy:'Arial Narrow';">SCHEDULE C</span><br><span style="font-size:10pt;font-weight:bold;font-family:'Arial Narrow';">(Form 990)</span><br><br><span style=" font-family:Arial Narrow; ">Department of the Treasury</span><br><span style=" font-family:Arial Narrow; ">Internal Revenue Service</span>
+</div>
+<div class="IRS990ScheduleC_FormTitleBlock" style="height:25mm">
+<span class="styMainTitle">Political Campaign and Lobbying Activities</span><br><br><span style="font-weight:bold;font-size:9pt;font-family:Arial;text-align:left;">
+     For Organizations Exempt From Income Tax Under section 501(c) and section 527</span><br><br><span style="padding-right:1mm;"><span style="font-weight:bold;font-size:7pt;text-align:left;">
+Complete if the organization is described below.
+							<span style="padding-right:1mm;"></span><span style="font-weight:bold;font-size:7pt;padding-right:2mm">
+							 Attach to Form 990 or Form 990-EZ. </span></span></span><br><span style="padding-right:1mm;"><b>Go to <a href="http://www.irs.gov/form990" title="Link to IRS.gov"><i>www.irs.gov/Form990</i></a> for instructions and the latest information.
+            </b></span>
+</div>
+<div class="IRS990ScheduleC_FormYearBlock" style="height:25mm">
+<div class="IRS990ScheduleC_OMB">OMB No. 1545-0047</div>
+<div class="IRS990ScheduleC_TaxYear" style="padding-top:0mm;padding-bottom:0mm;">
+<span>20<span class="styTYColor">25</span></span><div class="styPartName" style="font-size:8pt;font-family:verdana;width:30mm;padding-top:0mm;padding-bottom:0mm;height:10mm">Open to Public <br>Inspection</div>
+</div>
+</div>
+</div>
+<div style="float:left; border-bottom-width: 1px;border-bottom-style:solid;font-family:Arial;font-size:8pt;width:187mm">
+<span style="font-weight:bold;">If the organization answered "Yes" on Form 990, Part IV, Line 3, or Form 990-EZ, Part V, line 46 (Political Campaign Activities), then</span><br><span style="padding-left:2mm"></span><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2025/images/990SchC_Bullet_Round.gif" alt="Round Bullet">
+		Section 501(c)(3) organizations: Complete Parts I-A and B. Do not complete Part I-C.<br><span style="padding-left:3mm"></span><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2025/images/990SchC_Bullet_Round.gif" alt="Round Bullet">
+		 Section 501(c) (other than section 501(c)(3)) organizations: Complete Parts I-A and C below. Do not complete Part I-B.<br><span style="padding-left:3mm"></span><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2025/images/990SchC_Bullet_Round.gif" alt="Round Bullet">
+ 		 Section 527 organizations: Complete Part I-A only.<br><span style="font-weight:bold;">If the organization answered "Yes" on Form 990, Part IV, Line 4, or Form 990-EZ, Part VI, line 47 (Lobbying Activities), then</span><br><span style="padding-left:3mm"></span><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2025/images/990SchC_Bullet_Round.gif" alt="Round Bullet">
+ 		 Section 501(c)(3) organizations that have filed Form 5768 (election under section 501(h)): Complete Part II-A. Do not complete Part II-B.<br><span style="padding-left:3mm"></span><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2025/images/990SchC_Bullet_Round.gif" alt="Round Bullet">	
+		 Section 501(c)(3) organizations that have NOT filed Form 5768 (election under section 501(h)): Complete Part II-B. Do not complete Part II-A.<br><span style="font-weight:bold;">If the organization answered "Yes" on Form 990, Part IV, Line 5 (Proxy Tax) (see separate instructions) or Form 990-EZ, Part V, line 35c (Proxy Tax) (see separate instructions), then</span><br><span style="padding-left:3mm"></span><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2025/images/990SchC_Bullet_Round.gif" alt="Round Bullet">
+		Section 501(c)(4), (5), or (6) organizations: Complete Part III.
+		</div>
+<div class="styBB" style="width:187mm;clear:both;font-family:verdana;font-size:7pt;">
+<div class="styFNBox" style="width:134mm;height:auto;padding-left:2mm">
+     Name of the organization<br><div style="font-family:verdana;font-size:6pt;height:6.25mm">
+<span style="display:inline;" id="/AppData/SubmissionHeaderAndDocument/ReturnHeader[1]/Filer[1]/BusinessName[1]/BusinessNameLine1Txt[1]">PENNSYLVANIA PARTNERSHIPS FOR CHILDREN</span><br><span style="display:inline;" id="/..">
+         
+      </span>
+</div>
+</div>
+<div class="styGenericDiv" style="width:52mm;height:auto;padding-left:1mm;">
+<span class="styNormalText"><b>Employer identification number</b></span><br><br><span id="/AppData/SubmissionHeaderAndDocument/ReturnHeader[1]/Filer[1]/EIN[1]">23-2613869</span>
+</div>
+</div>
+<div class="styGenericDiv" style="width: 187mm; border-bottom-width: 1px;border-bottom-style:solid">
+<div class="styPartName">Part I-A</div>
+<div class="styPartDesc"><span class="styNormalText;font-weight:bold;">Complete if the organization is exempt under section 501(c)
+or is a section 527 organization.</span></div>
+</div>
+<br><div class="IRS990ScheduleC_LineContainer ">
+<div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">1</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:170mm;border-right-width:0;padding-top:1mm;padding-left:0mm">
+Provide a description of the organization’s direct and indirect political campaign activities in Part IV. See instructions for definition of “political campaign activities."
+  </div>
+</div>
+<div style=" width: 187mm; ">
+<br><div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">2</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:142mm;border-right-width:0;padding-top:1mm">
+   Political campaign activity expenditures. See instructions
+  <span class="IRS990ScheduleC_Dotspacing">....................................................................</span><span style="padding-left:4.5mm"></span>
+</div>
+<div style="float:right;align:right;padding-top:1mm"> $
+<span style="width:30mm;clear:none;border-bottom: 1px solid black;text-align:right"><span style="color:darkblue;" id="/..">
+         
+      </span></span>
+</div>
+</div>
+<div style=" width: 187mm; ">
+<div class="styLNLeftNumBox" style="padding-left: 1mm;">3</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:142mm;border-right-width:0;padding-top:1mm">
+   Volunteer hours for political campaign activities. See instructions
+  <span class="IRS990ScheduleC_Dotspacing">..................................................................</span>
+</div>
+<div style="float:right;align:right;padding-top:1mm"><span style="width:30mm;clear:none;border-bottom: 1px solid black;text-align:right"><span style="color:darkblue;" id="/..">
+         
+      </span></span></div>
+</div>
+<br><div class="styGenericDiv" style="width: 187mm; border-bottom-width: 1px;border-bottom-style:solid;border-top-width: 1px;border-top-style:solid">
+<div class="styPartName">Part I-B</div>
+<div class="styPartDesc"><span class="styNormalText;font-weight:bold;">Complete if the organization is exempt under section 501(c)(3).</span></div>
+</div>
+<div style=" width: 187mm; ">
+<div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">1</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:142mm;border-right-width:0;padding-top:1mm">
+Enter the amount of any excise tax incurred by the organization under section 4955
+  <span class="IRS990ScheduleC_Dotspacing">................................</span><span style="padding-left:4.5mm"></span>
+</div>
+<div style="float:right;align:right;padding-top:1mm">$
+  
+<span style="width:30mm;clear:none;border-bottom: 1px solid black;text-align:right"><span style="color:darkblue;" id="/..">
+         
+      </span></span>
+</div>
+</div>
+<div style=" width: 187mm; ">
+<div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">2</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:142mm;border-right-width:0;padding-top:1mm">
+Enter the amount of any excise tax incurred by organization managers under section 4955  <span class="IRS990ScheduleC_Dotspacing">.......................</span><span style="padding-left:4.5mm"></span>
+</div>
+<div style="float:right;align:right;padding-top:1mm">$
+  
+<span style="width:30mm;clear:none;border-bottom: 1px solid black;text-align:right"><span style="color:darkblue;" id="/..">
+         
+      </span></span>
+</div>
+</div>
+<div style=" width: 187mm; ">
+<div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">3</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:152mm;border-right-width:0;padding-top:1mm">
+If the organization incurred a section 4955 tax, did it file Form 4720 for this year?
+<span class="IRS990ScheduleC_Dotspacing">.........................................</span>
+</div>
+<span style="padding-top:1mm" id="/.."><input type="checkbox" class="styCkbox" alt="Form4720FiledSection4955TaxIndYes" onclick="return false;" id="Form990ScheduleCForm4720Filed4955TaxYes" TabIndex="-1"></span><label style="font-weight:bold;" for="Yes">            
+        Yes
+      </label><span style="width:4mm;padding-top:1mm"></span><span id="/.."><input type="checkbox" class="styCkbox" alt="Form4720FiledSection4955TaxIndNo" onclick="return false;" id="Form990ScheduleCForm4720Filed4955TaxNo" TabIndex="-1"></span><label style="font-weight:bold;" for="No">            
+        No
+      </label>
+</div>
+<div style=" width: 187mm; ">
+<div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">4a</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:152mm;border-right-width:0;padding-top:1mm">
+ Was a correction made?
+ <span class="IRS990ScheduleC_Dotspacing">......................................................................................................................</span>
+</div>
+<span style="padding-top:1mm" id="/.."><input type="checkbox" class="styCkbox" alt="CorrectionMadeIndYes" onclick="return false;" id="Form990ScheduleCCorrectionMadeYes" TabIndex="-1"></span><label style="font-weight:bold;" for="Yes">            
+        Yes
+      </label><span style="width:4mm;padding-top:1mm"></span><span id="/.."><input type="checkbox" class="styCkbox" alt="CorrectionMadeIndNo" onclick="return false;" id="Form990ScheduleCCorrectionMadeNo" TabIndex="-1"></span><label style="font-weight:bold;" for="No">            
+        No
+      </label>
+</div>
+<div style=" width: 187mm; ">
+<div class="styLNLeftNumBox" style="padding-left: 2.5mm;padding-top:1mm"> b</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:57mm;border-right-width:0;padding-top:1mm">
+ If "Yes," describe  in Part IV.
+</div>
+</div>
+<div class="styGenericDiv" style="width: 187mm; border-bottom-width: 1px;border-bottom-style:solid;border-top-width: 1px;border-top-style:solid">
+<div class="styPartName">Part I-C</div>
+<div class="styPartDesc"><span class="styNormalText;font-weight:bold;">Complete if the organization is exempt under section 501(c),
+except section 501(c)(3).</span></div>
+</div>
+<div style=" width: 187mm; ">
+<div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">1</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:142mm;border-right-width:0;padding-top:1mm">
+Enter the amount directly expended by the filing organization for section 527 exempt function
+activities
+<span class="IRS990ScheduleC_Dotspacing"></span>.....
+							<span style="padding-left:2mm"></span>
+</div>
+<div style="float:right;align:right;padding-top:1mm">$
+  
+<span style="width:30mm;clear:none;border-bottom: 1px solid black;text-align:right"><span style="color:darkblue;" id="/..">
+         
+      </span></span>
+</div>
+</div>
+<div style=" width: 187mm; ">
+<div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">2</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:142mm;border-right-width:0;padding-top:1mm">
+Enter the amount of the filing organization's funds contributed to other organizations for section 527 exempt function activities   <span class="IRS990ScheduleC_Dotspacing">............................................................................................................................</span><span style="padding-left:3mm"></span>
+</div>
+<br><div style="float:right;align:right;padding-top:1mm">$
+  
+<span style="width:30mm;clear:none;border-bottom: 1px solid black;text-align:right"><span style="color:darkblue;" id="/..">
+         
+      </span></span>
+</div>
+</div>
+<div style=" width: 187mm; ">
+<div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:2mm">3</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:142mm;border-right-width:0;padding-top:2mm">
+Total exempt function expenditures. Add lines 1 and 2. Enter here and on Form 1120-POL, line 17b<span class="IRS990ScheduleC_Dotspacing">...........</span><span style="padding-left:4mm"></span>
+</div>
+<br><div style="float:right;align:right;padding-top:0mm">$
+  
+<span style="width:30mm;clear:none;border-bottom: 1px solid black;text-align:right;"><span style="color:darkblue;" id="/..">
+         
+      </span></span>
+</div>
+</div>
+<div style=" width: 187mm; ">
+<div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">4</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:152mm;border-right-width:0;padding-top:1mm">
+Did the filing organization file <span style="font-weight:bold"> Form 1120-POL</span> for this year?
+<span class="IRS990ScheduleC_Dotspacing">...................................................................</span>
+</div>
+<span style="padding-top:1mm" id="/.."><input type="checkbox" class="styCkbox" alt="Form1120POLFiledIndYes" onclick="return false;" id="Form990ScheduleCForm1120PolFiledYes" TabIndex="-1"></span><label style="font-weight:bold;" for="Yes">            
+        Yes
+      </label><span style="width:4mm;padding-top:1mm"></span><span id="/.."><input type="checkbox" class="styCkbox" alt="Form1120POLFiledIndNo" onclick="return false;" id="Form990ScheduleCForm1120PolFiledNo" TabIndex="-1"></span><label style="font-weight:bold" for="No">            
+        No
+      </label>
+</div>
+<div style=" width: 187mm; ">
+<div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">5</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:178mm;border-right-width:0;padding-top:1mm;margin-left:0mm;height:auto;">
+Enter the names, addresses and employer identification number (EIN) of all section 527 political organizations to which  the filing<br> organization made payments. For each
+organization listed, enter the amount paid from the filing organization’s funds. Also
+enter the amount of political contributions received that were promptly and directly
+delivered to a separate political organization, such as a separate segregated fund or a
+political action committee (PAC). If additional space is needed, provide information in Part IV.   </div>
+</div>
+<div class="styIRS4136NumLine" style="padding-left:2mm;border-top-width: 0px;width:188mm"><span style="width:4mm;text-align:right;float:right; clear: none;"></span></div>
+<div class="IRS990ScheduleCPart1C_TableContainer" id="p1CLn5TbCtnr"><table cellspacing="0" style="font-size:7pt;margin-left:0mm">
+<thead class="styTableThead"><tr>
+<th class="IRS990ScheduleC_GenericCell" style="width:50mm;border-top-width:1px;padding-bottom:18mm;vertical-align:top;" scope="col">(a) <span class="styNormalText" style="text-align:center;"> Name</span>
+</th>
+<th class="IRS990ScheduleC_GenericCell" style="width:50mm;border-right-width:1px;border-top-width:1px;padding-bottom:18mm;vertical-align:top;" scope="col">(b) <span class="styNormalText" style="text-align:center;"> Address</span>
+</th>
+<th class="IRS990ScheduleC_GenericCell" style="width:22mm;border-right-width:1px;border-top-width:1px;padding-bottom:18mm;vertical-align:top;" scope="col">(c) <span class="styNormalText" style="text-align:center;">EIN</span>
+</th>
+<th class="IRS990ScheduleC_GenericCell" style="width:33mm;border-right-width:1px;border-top-width:1px;padding-bottom:8mm;vertical-align:top;" scope="col"><span class="styNormalText" style="text-align:center;"><b>(d) </b>Amount paid from filing organization's funds. If none, enter -0-.
+		 </span></th>
+<th class="IRS990ScheduleC_GenericCell" style="width:33mm;border-right-width:0px;border-top-width:1px;vertical-align:top;" scope="col"><span class="styNormalText" style="text-align:center;vertical-align:top;"><b>(e)</b> Amount of political contributions received and promptly and directly delivered to a separate political organization. If none, enter -0-. </span></th>
+</tr></thead>
+<tfoot></tfoot>
+<tbody>
+<tr>
+<td style="height:7.5mm;width:7mm;border-top-width:0px; border-bottom-width:1px; border-left-width:0px; border-style:solid;border-color:black; border-right-width:1px;">
+<span style="width:3mm;font-weight:bold;">1</span><span style="width:2px"></span>
+</td>
+<td class="IRS990ScheduleC_GenericCell;border-style: solid; border-color: black;height:7.5mm;width:50mm;border-style:solid;border-color:black; border-right-width:1px;"><span style="width:2px;"></span></td>
+<td class="styTableCell" style="border-bottom-width:1px; border-left-width:1px; border-style:solid;border-color:black; border-right-width:0px;width:50mm;text-align:left;"><span style="width:2px;"></span></td>
+<td class="styTableCell" style="border-bottom-width:1px; border-left-width:1px; border-style:solid;border-color:black; border-right-width:0px;width:33mm;text-align:left;"><span style="width:2px;"></span></td>
+<td class="styTableCell" style="border-bottom-width:1px; border-left-width:1px; border-style:solid;border-color:black; border-right-width:0px;width:33mm;text-align:left;"><span style="width:2px;"></span></td>
+</tr>
+<tr>
+<td class="styTableCell" style="width:50mm;border-top-width:1px;height:7.5mm;text-align:left;">2<span style="width:4px"></span>
+</td>
+<td class="styTableCell" style="width:50mm;border-top-width:1px;height:7.5mm"><span style="width:4px"></span></td>
+<td class="styTableCell" style="width:22mm;border-top-width:1px;height:7.5mm"><span style="width:4px"></span></td>
+<td class="styTableCell" style="width:33mm;border-top-width:1px;height:7.5mm"><span style="width:4px"></span></td>
+<td class="styTableCell" style="width:33mm;border-right-width:0px;border-top-width:0px;height:7.5mm"><span style="width:4px;"></span></td>
+</tr>
+<tr>
+<td class="styTableCell" style="width:50mm;border-top-width:1px;height:7.5mm;text-align:left;">3<span style="width:4px"></span>
+</td>
+<td class="styTableCell" style="width:50mm;border-top-width:1px;height:7.5mm"><span style="width:4px"></span></td>
+<td class="styTableCell" style="width:22mm;border-top-width:1px;height:7.5mm"><span style="width:4px"></span></td>
+<td class="styTableCell" style="width:33mm;border-top-width:1px;height:7.5mm"><span style="width:4px"></span></td>
+<td class="styTableCell" style="width:33mm;border-right-width:0px;border-top-width:0px;height:7.5mm"><span style="width:4px;"></span></td>
+</tr>
+<tr>
+<td class="styTableCell" style="width:50mm;border-top-width:1px;height:7.5mm;text-align:left;">4<span style="width:4px"></span>
+</td>
+<td class="styTableCell" style="width:50mm;border-top-width:1px;height:7.5mm"><span style="width:4px"></span></td>
+<td class="styTableCell" style="width:22mm;border-top-width:1px;height:7.5mm"><span style="width:4px"></span></td>
+<td class="styTableCell" style="width:33mm;border-top-width:1px;height:7.5mm"><span style="width:4px"></span></td>
+<td class="styTableCell" style="width:33mm;border-right-width:0px;border-top-width:0px;height:7.5mm"><span style="width:4px;"></span></td>
+</tr>
+<tr>
+<td class="styTableCell" style="width:50mm;border-top-width:1px;height:7.5mm;text-align:left;">5<span style="width:4px"></span>
+</td>
+<td class="styTableCell" style="width:50mm;border-top-width:1px;height:7.5mm"><span style="width:4px"></span></td>
+<td class="styTableCell" style="width:22mm;border-top-width:1px;height:7.5mm"><span style="width:4px"></span></td>
+<td class="styTableCell" style="width:33mm;border-top-width:1px;height:7.5mm"><span style="width:4px"></span></td>
+<td class="styTableCell" style="width:33mm;border-right-width:0px;border-top-width:0px;height:7.5mm"><span style="width:4px;"></span></td>
+</tr>
+<tr>
+<td class="styTableCell" style="width:50mm;border-top-width:1px;height:7.5mm;text-align:left;">6<span style="width:4px"></span>
+</td>
+<td class="styTableCell" style="width:50mm;border-top-width:1px;height:7.5mm"><span style="width:4px"></span></td>
+<td class="styTableCell" style="width:22mm;border-top-width:1px;height:7.5mm"><span style="width:4px"></span></td>
+<td class="styTableCell" style="width:33mm;border-top-width:1px;height:7.5mm"><span style="width:4px"></span></td>
+<td class="styTableCell" style="width:33mm;border-right-width:0px;border-top-width:0px;height:7.5mm"><span style="width:4px;"></span></td>
+</tr>
+</tbody>
+</table></div>
+<div class="pageEnd" style="width:187mm">
+<div style="font-weight:bold;width:116mm;float:left;padding-left:0mm;font-size:6pt">
+            For Paperwork Reduction Act Notice, see the instructions for Form 990.
+          </div>
+<div style="width:20mm;float:left;text-align:center;font-size:6pt;padding-top:.5mm">
+            Cat. No. 50084S
+          </div>
+<div style="width:50mm;text-align:right;float:left;"><span style="font-weight:bold;font-size:6pt">Schedule C (Form 990) 2025</span></div>
+</div>
+<div class="propublica-divider"><span>Page 2</span></div>
+<br><div class="styBB" style="width:187mm; float: none; clear:none">
+<div style="float:left">Schedule C (Form 990) 2025</div>
+<div style="float:right">Page <span style="font-weight:bold;font-size:8pt;">2</span>
+</div>
+</div>
+<div class="styGenericDiv" style="width: 187mm">
+<div class="styPartName" style="width:18mm;">Part II-A</div>
+<div class="styPartDesc" style="width:169mm;height:auto;">
+<span class="styNormalText;font-weight:bold;display:inline;">
+          Complete if the organization is
+exempt under section 501(c)(3) and filed Form 5768 (election under section 501(h)).
+      </span><br>
+</div>
+</div>
+<div class="IRS990ScheduleC_LineContainer"><div class="IRS990ScheduleC_LineDesc" style="width:188mm;border-right-width:0px;border-top-width:1px;height:auto;">
+<span style="width:4mm;font-weight:bold">A</span>
+    Check <span style="width:2mm;"></span><span style="width:1mm;"></span><input type="checkbox" alt="Organization belongs affiliated group" class="IRS990ScheduleC_Checkbox" TabIndex="-1" id="Form990ScheduleCOrgBelongsToAffiliatedGroup" onclick="return false;"><label for="">
+							  if the filing organization belongs to an affiliated group (and list in Part IV each affiliated group member's name, address, EIN, 
+    </label><span style="width:100mm;padding-left:23mm;">expenses, and share of excess lobbying expenditures).</span><br><span style="width:4mm;font-weight:bold">B</span>
+    Check <span style="width:2mm;"></span><span style="width:1mm;"></span><input type="checkbox" alt="Limited control provision" class="IRS990ScheduleC_Checkbox" TabIndex="-1" id="Form990ScheduleCLimitedControlProvisionsApply" onclick="return false;"><label for="">
+      if the filing organization checked box A and "limited control" provisions apply.
+    </label>
+</div></div>
+<div class="IRS990ScheduleC_TableContainer" style="border-bottom-width:0px;"><table cellspacing="0" cellpadding="0" style="font-size:7pt">
+<tr>
+<th class="IRS990ScheduleC_GenericCell" style="width:123mm;height:12mm;text-align:center;font-weight:normal;" scope="col" colspan="4">
+<span style="font-weight:bold;font-size:9pt;">Limits on Lobbying Expenditures</span><br><span style="font-weight:bold;">(The term "expenditures" means amounts paid or incurred.)</span>
+</th>
+<th class="IRS990ScheduleC_GenericCell" style="width: 28mm; height:12mm; text-align:center; border-left-width: 0px;font-weight:normal;vertical-align:top;">
+<b>(a)</b> Filing<br>organization's<br>totals
+								</th>
+<th class="IRS990ScheduleC_GenericCell" style="width: 28mm; height:12mm; border-right-width:0px;text-align:center;vertical-align:top;padding-top: 0px; padding-bottom:0px;font-weight:normal; ">
+<b>(b)</b> Affiliated group totals
+								</th>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCellIIA">1a</td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:126mm;float:none;" colspan="3">Total lobbying expenditures to influence public opinion (grass roots lobbying)
+    <span class="IRS990ScheduleC_Dotspacing"> ......................</span>
+</td>
+<td class="styLNAmountBox" style="border-left-width:1px;float:none; font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/TotalGrassrootsLobbyingGrp[1]/FilingOrganizationsTotalAmt[1]">0</span></td>
+<td class="styLNAmountBox" style="border-right-width:0px;float:none; font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/..">
+         
+      </span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCellIIA">b</td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:126mm;float:none;" colspan="3">Total lobbying expenditures to influence a legislative body (direct lobbying) 
+       <span class="IRS990ScheduleC_Dotspacing"> ........................</span>
+</td>
+<td class="styLNAmountBox" style="border-left-width:1px;float:none; font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/TotalDirectLobbyingGrp[1]/FilingOrganizationsTotalAmt[1]">123,771</span></td>
+<td class="styLNAmountBox" style="border-right-width:0px;float:none; font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/..">
+         
+      </span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCellIIA"> c</td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:126mm;float:none;" colspan="3">Total lobbying expenditures (add lines 1a and 1b)
+       <span class="IRS990ScheduleC_Dotspacing"> ............................................................</span>
+</td>
+<td class="styLNAmountBox" style="border-left-width:1px;float:none; font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/TotalLobbyingExpendGrp[1]/FilingOrganizationsTotalAmt[1]">123,771</span></td>
+<td class="styLNAmountBox" style="border-right-width:0px;float:none; font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/..">
+         
+      </span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCellIIA">d</td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:126mm;float:none;" colspan="3">Other exempt purpose expenditures
+       <span class="IRS990ScheduleC_Dotspacing"> ...............................................................................</span>
+</td>
+<td class="styLNAmountBox" style="border-left-width:1px;float:none;font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/OtherExemptPurposeExpendGrp[1]/FilingOrganizationsTotalAmt[1]">3,902,507</span></td>
+<td class="styLNAmountBox" style="border-right-width:0px;float:none;font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/..">
+         
+      </span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCellIIA">e</td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:126mm;float:none;" colspan="3">Total exempt purpose expenditures (add lines 1c and 1d)
+      <span class="IRS990ScheduleC_Dotspacing"> ..................................................</span>
+</td>
+<td class="styLNAmountBox" style="border-left-width:1px;float:none;font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/TotalExemptPurposeExpendGrp[1]/FilingOrganizationsTotalAmt[1]">4,026,278</span></td>
+<td class="styLNAmountBox" style="border-right-width:0px;float:none;font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/..">
+         
+      </span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCellIIA" style="padding-bottom:2mm">f</td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:128mm;padding-top:1mm;padding-bottom:.5mm;float:none;" colspan="3">Lobbying nontaxable amount. Enter the amount from the following table in both <br> columns.</td>
+<td class="styLNAmountBox" style="border-left-width:1px;float:none;font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/LobbyingNontaxableAmountGrp[1]/FilingOrganizationsTotalAmt[1]">351,314</span></td>
+<td class="styLNAmountBox" style="border-right-width:0px;float:none;font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/..">
+         
+      </span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCellIIA"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:123mm; height:4.5mm;float:none;" colspan="3">
+<span style="width:66mm;font-weight:bold;border-left:1px solid;border-top:1px solid;border-bottom:1px solid;height:4.5mm">If the amount on line 1e, column (a) or (b) is:</span><span style="width:57mm;font-weight:bold;border-right:1px solid;border-left:1px solid;border-top:1px solid;border-bottom:1px solid;height:4.5mm">The lobbying nontaxable amount is:</span>
+</td>
+<td class="styLNAmountBox" style="border-bottom-width:0px;background-color:lightgrey;border-left-width:1px;float:none;font-size: 6.25pt; width: 28mm;"><span style="width:1px;"></span></td>
+<td class="styLNAmountBox" style="border-right-width:0px;border-bottom-width:0px;background-color:lightgrey;float:none;font-size: 6.25pt; width: 28mm;"><span style="width:1px;"></span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCellIIA"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:123mm; height:4.5mm;float:none;" colspan="3">
+<span style="width:66mm; font-size: 6pt;border-left:1px solid;border-top:0px solid;height:4.5mm">Not over $500,000</span><span style="width:57mm; font-size: 6pt;border-right:1px solid;border-left:1px solid;border-top:0px solid;height:4.5mm">20% of the amount on line 1e.</span>
+</td>
+<td class="styLNAmountBox" style="border-left-width:1px;border-bottom-width:0px;background-color:lightgrey; font-size: 6.25pt; width: 28mm; float:none;"><span style="width:1px;"></span></td>
+<td class="styLNAmountBox" style="border-right-width:0px;border-bottom-width:0px;background-color:lightgrey; font-size: 6.25pt; width: 28mm; float:none;"><span style="width:1px;"></span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCellIIA"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:123mm;height:4.5mm;float:none;" colspan="3">
+<span style="width:66mm; font-size: 6pt;border-left:1px solid;border-top:1px solid;height:4.5mm">Over $500,000 but not over $1,000,000</span><span style="width:57mm; font-size: 6pt;border-right:1px solid;border-left:1px solid;border-top:1px solid;height:4.5mm">$100,000 plus 15% of the excess over $500,000.</span>
+</td>
+<td class="styLNAmountBox" style="border-left-width:1px;border-bottom-width:0px;background-color:lightgrey;float:none;font-size: 6.25pt; width: 28mm;"><span style="width:1px;"></span></td>
+<td class="styLNAmountBox" style="border-right-width:0px;border-bottom-width:0px;background-color:lightgrey;float:none;font-size: 6.25pt; width: 28mm;"><span style="width:1px;"></span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCellIIA"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:123mm;height:4.5mm;float:none;" colspan="3">
+<span style="width:66mm; font-size: 6pt;border-left:1px solid;border-top:1px solid;height:4.5mm">Over $1,000,000 but not over $1,500,000</span><span style="width:57mm; font-size: 6pt;border-right:1px solid;border-left:1px solid;border-top:1px solid;height:4.5mm">$175,000 plus 10% of the excess over $1,000,000.</span>
+</td>
+<td class="styLNAmountBox" style="border-left-width:1px;border-bottom-width:0px;background-color:lightgrey;float:none;font-size: 6.25pt; width: 28mm;"><span style="width:1px;"></span></td>
+<td class="styLNAmountBox" style="border-right-width:0px;border-bottom-width:0px;background-color:lightgrey;float:none;font-size: 6.25pt; width: 28mm;"><span style="width:1px;"></span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCellIIA"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:123mm; height:4.5mm;float:none;" colspan="3">
+<span style="width:66mm; font-size: 6pt;border-left:1px solid;border-top:1px solid;height:4.5mm">Over $1,500,000 but not over $17,000,000</span><span style="width:57mm; font-size: 6pt;border-right:1px solid;border-left:1px solid;border-top:1px solid;height:4.5mm">$225,000 plus 5% of the excess over $1,500,000.</span>
+</td>
+<td class="styLNAmountBox" style="border-left-width:1px;border-bottom-width:0px;background-color:lightgrey;float:none;font-size: 6.25pt; width: 28mm;"><span style="width:1px;"></span></td>
+<td class="styLNAmountBox" style="border-right-width:0px;border-bottom-width:0px;background-color:lightgrey;float:none;font-size: 6.25pt; width: 28mm;"><span style="width:1px;"></span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCellIIA"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:123mm; height:4.5mm;float:none;" colspan="3">
+<span style="width:66mm;height:4.5mm; font-size: 6pt;border-left:1px solid;border-top:1px solid;border-bottom:1px solid">Over $17,000,000</span><span style="width:57mm; height:4.5mm;font-size: 6pt;border-bottom:1px solid;border-right:1px solid;border-left:1px solid;border-top:1px solid">$1,000,000.</span>
+</td>
+<td class="styLNAmountBox" style="border-left-width:1px;border-bottom-width:1px;background-color:lightgrey;float:none;font-size: 6.25pt; width: 28mm;"><span style="width:1px;"></span></td>
+<td class="styLNAmountBox" style="border-right-width:0px;border-bottom-width:1px;background-color:lightgrey;float:none;font-size: 6.25pt; width: 28mm;"><span style="width:1px;"></span></td>
+</tr>
+<td class="IRS990ScheduleC_IndexCellIIA" style="border-bottom-width:0px;width:4mm;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:146mm; border-top-width: 0px; border-bottom-width: 0px;float:none;"><span style="width:107mm; font-size: 6pt"></span></td>
+<tr>
+<td class="IRS990ScheduleC_IndexCellIIA">g</td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:126mm;float:none;" colspan="3">Grassroots nontaxable amount (enter 25% of line 1f)
+       <span class="IRS990ScheduleC_Dotspacing"> .................................................</span>
+</td>
+<td class="styLNAmountBox" style="border-left-width:1px;border-top-width:1px;float:none;font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/GrassrootsNontaxableGrp[1]/FilingOrganizationsTotalAmt[1]">87,829</span></td>
+<td class="styLNAmountBox" style="border-right-width:0px;border-top-width:1px;float:none;font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/..">
+         
+      </span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCellIIA">h</td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:126mm;float:none;" colspan="3">Subtract line 1g from line 1a. If zero or less, enter -0-.
+        <span class="IRS990ScheduleC_Dotspacing"> ................................................</span>
+</td>
+<td class="styLNAmountBox" style="border-left-width:1px;float:none;font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/TotLbbyngGrassrootMnsNonTxGrp[1]/FilingOrganizationsTotalAmt[1]">0</span></td>
+<td class="styLNAmountBox" style="border-right-width:0px;float:none;font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/..">
+         
+      </span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCellIIA">i</td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:126mm;float:none;" colspan="3">Subtract line 1f from line 1c. If zero or less, enter -0-.
+       <span class="IRS990ScheduleC_Dotspacing"> ................................................</span>
+</td>
+<td class="styLNAmountBox" style="border-left-width:1px;float:none;font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/TotLbbyExpendMnsLbbyngNonTxGrp[1]/FilingOrganizationsTotalAmt[1]">0</span></td>
+<td class="styLNAmountBox" style="border-right-width:0px;float:none;font-size: 6.25pt; width: 28mm;"><span style="color:darkblue;" id="/..">
+         
+      </span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCellIIA" style="padding-bottom:4mm">j</td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:155mm;padding-top:0mm;float:none;" colspan="4">If there is an amount other than zero on either line 1h or line 1i, did the organization file Form 4720 reporting<br> section 4911 tax for this year?
+<span class="IRS990ScheduleC_Dotspacing"> ...................................................................................................................</span>
+</td>
+<td class="IRS990ScheduleC_TableLineDesc" style="width:35mm;border-right:0px;padding-top:0mm" colspan="1">
+<span style="padding-top:1mm;display:inline;" id="/.."><input type="checkbox" class="styCkbox" alt="Form4720FiledIndYes" onclick="return false;" id="Form990ScheduleCForm4720FiledYes" TabIndex="-1"></span><label style="font-weight:bold;" for="Yes">            
+        Yes
+      </label><span style="width:2mm;padding-top:1mm;display:inline;"></span><span id="/.."><input type="checkbox" class="styCkbox" alt="Form4720FiledIndNo" onclick="return false;" id="Form990ScheduleCForm4720FiledNo" TabIndex="-1"></span><label style="font-weight:bold" for="No">            
+        No
+      </label>
+</td>
+</tr>
+</table></div>
+<div class="IRS990ScheduleC_TableContainer" style="border-top-width: 0px"><table cellspacing="0" cellpadding="0" style="font-size:7pt;">
+<tr><th class="IRS990ScheduleC_GenericCell" style="height:16mm;width:187mm;border-right-width:0px;border-top-width:1px;text-align:center;font-weight:normal;" scope="col" colspan="7"><span style="font-weight:bold;font-size:8pt;">4-Year Averaging Period Under Section 501(h)
+        <br>
+      (Some organizations that made a section 501(h) election do not have to complete all of the five<br> columns below. See the separate instructions for lines 2a through 2f.)</span></th></tr>
+<br><tr><th class="IRS990ScheduleC_GenericCell" style="width:187mm;height:4mm;font-size:8pt;font-weight:bold;border-right-width:0px;text-align:center;" scope="col" colspan="7">Lobbying Expenditures During 4-Year Averaging Period</th></tr>
+<tr>
+<th class="IRS990ScheduleC_IndexCell" style="width:4mm;text-align:center;font-weight:normal;height:8mm;" scope="col" valign="top"><span style="width:1px;"></span></th>
+<th class="IRS990ScheduleC_GenericCell" style="width:74mm;font-weight:normal;text-align:center;height:12mm;" scope="col">
+        Calendar year (or fiscal year<br> beginning in)
+       
+      </th>
+<th class="IRS990ScheduleC_GenericCell" style="height:12mm;width:21mm;text-align:center;font-weight:normal;" scope="col">
+<span style="font-weight:bold;">(a)  </span> 2022</th>
+<th class="IRS990ScheduleC_GenericCell" style="height:12mm;width:21mm;text-align:center;font-weight:normal;" scope="col">
+<span style="font-weight:bold;">(b) </span> 2023</th>
+<th class="IRS990ScheduleC_GenericCell" style="height:12mm;width:21mm;text-align:center;font-weight:normal;" scope="col">
+<span style="font-weight:bold;">(c) </span> 2024</th>
+<th class="IRS990ScheduleC_GenericCell" style="height:12mm;width:21mm;text-align:center;font-weight:normal;" scope="col">
+<span style="font-weight:bold;">(d) </span> 2025</th>
+<th class="IRS990ScheduleC_GenericCell" style="height:12mm;width:21mm;border-right-width:0px;text-align:center;font-weight:normal;" scope="col">
+<span style="font-weight:bold;">(e)</span> Total</th>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCell" scope="col" style="border-bottom-width:0px;" valign="top"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_GenericCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-right-width:0px;border-bottom-width:0px;"><span style="width:1px;"></span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCell" scope="col" style="vertical-align:top;">2a</td>
+<td class="IRS990ScheduleC_GenericCell" scope="col">Lobbying nontaxable amount
+        
+      </td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/AvgLobbyingNontaxableAmountGrp[1]/CurrentYearMinus3Amt[1]">305,323</span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/AvgLobbyingNontaxableAmountGrp[1]/CurrentYearMinus2Amt[1]">306,674</span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/AvgLobbyingNontaxableAmountGrp[1]/CurrentYearMinus1Amt[1]">324,057</span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/AvgLobbyingNontaxableAmountGrp[1]/CurrentYearAmt[1]">351,314</span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-right-width:0px;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/AvgLobbyingNontaxableAmountGrp[1]/TotalAmt[1]">1,287,368</span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCell" scope="col" style="border-bottom-width:0px;" valign="top"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_GenericCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;background-color:lightgrey;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;background-color:lightgrey;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;background-color:lightgrey;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;background-color:lightgrey;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-right-width:0px;border-bottom-width:0px;"><span style="width:1px;"></span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCell" scope="col" style="vertical-align:top;">b</td>
+<td class="IRS990ScheduleC_GenericCell" scope="col">Lobbying ceiling amount<br> (150% of line 2a, column(e))
+        
+      </td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="background-color:lightgrey;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="background-color:lightgrey;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="background-color:lightgrey;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="background-color:lightgrey;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-right-width:0px;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/LobbyingCeilingAmt[1]">1,931,052</span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCell" scope="col" style="border-bottom-width:0px;" valign="top"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_GenericCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-right-width:0px;border-bottom-width:0px;"><span style="width:1px;"></span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCell" scope="col" style="vertical-align:top;">c</td>
+<td class="IRS990ScheduleC_GenericCell" scope="col">Total lobbying expenditures
+        
+      </td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/AvgTotalLobbyingExpendGrp[1]/CurrentYearMinus3Amt[1]">106,597</span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/AvgTotalLobbyingExpendGrp[1]/CurrentYearMinus2Amt[1]">163,491</span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/AvgTotalLobbyingExpendGrp[1]/CurrentYearMinus1Amt[1]">149,781</span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/AvgTotalLobbyingExpendGrp[1]/CurrentYearAmt[1]">123,771</span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-right-width:0px;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/AvgTotalLobbyingExpendGrp[1]/TotalAmt[1]">543,640</span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCell" scope="col" style="border-bottom-width:0px;" valign="top"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_GenericCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-right-width:0px;border-bottom-width:0px;"><span style="width:1px;"></span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCell" scope="col" style="vertical-align:top;">d</td>
+<td class="IRS990ScheduleC_GenericCell">Grassroots nontaxable amount
+        
+      </td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/AvgGrassrootsNontaxableGrp[1]/CurrentYearMinus3Amt[1]">76,331</span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/AvgGrassrootsNontaxableGrp[1]/CurrentYearMinus2Amt[1]">76,669</span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/AvgGrassrootsNontaxableGrp[1]/CurrentYearMinus1Amt[1]">81,014</span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/AvgGrassrootsNontaxableGrp[1]/CurrentYearAmt[1]">87,829</span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-right-width:0px;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/AvgGrassrootsNontaxableGrp[1]/TotalAmt[1]">321,843</span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCell" scope="col" style="border-bottom-width:0px;" valign="top"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_GenericCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;background-color:lightgrey;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;background-color:lightgrey;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;background-color:lightgrey;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;background-color:lightgrey;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-right-width:0px;border-bottom-width:0px;"><span style="width:1px;"></span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCell" scope="col" style="vertical-align:top;">e</td>
+<td class="IRS990ScheduleC_GenericCell" scope="col">Grassroots ceiling amount <br>(150% of line 2d, column (e))</td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="background-color:lightgrey;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="background-color:lightgrey;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="background-color:lightgrey;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="background-color:lightgrey;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-right-width:0px;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleC[1]/GrassrootsCeilingAmt[1]">482,765</span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCell" scope="col" style="border-bottom-width:0px;" valign="top"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_GenericCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width:0px;"><span style="width:1px;"></span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-right-width:0px;border-bottom-width:0px;"><span style="width:1px;"></span></td>
+</tr>
+<tr>
+<td class="IRS990ScheduleC_IndexCell" scope="col" style="vertical-align:top;border-bottom-width: 0px">f</td>
+<td class="IRS990ScheduleC_GenericCell" scope="col" style="border-bottom-width: 0px">Grassroots lobbying expenditures
+       
+      </td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width: 0px"><span style="color:darkblue;" id="/..">
+         
+      </span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width: 0px"><span style="color:darkblue;" id="/..">
+         
+      </span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width: 0px"><span style="color:darkblue;" id="/..">
+         
+      </span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-bottom-width: 0px"><span style="color:darkblue;" id="/..">
+         
+      </span></td>
+<td class="IRS990ScheduleC_MoneyCell" scope="col" style="border-right-width:0px;border-bottom-width: 0px"><span style="color:darkblue;" id="/..">
+         
+      </span></td>
+</tr>
+</table></div>
+<div class="pageEnd" style="width:187mm"><div style="float:right;">
+<span style="width:80px;"></span><span class="styBoldText">Schedule C (Form 990) 2025</span>
+</div></div>
+<div class="propublica-divider"><span>Page 3</span></div>
+<br><br><div class="styBB" style="width:187mm; float: none; clear:none;border-bottom-width:1px">
+<div style="float:left">Schedule C (Form 990) 2025</div>
+<div style="float:right">Page <span style="font-weight:bold;font-size:8pt;">3</span>
+</div>
+</div>
+<div class="styGenericDiv" style="width: 187mm;border-bottom-width:1px;">
+<div class="styPartName" style="width:18mm;">Part II-B</div>
+<div class="styPartDesc" style="width:140mm;font-weight:bold;height:auto;border-bottom-width:1px;"><span style="height:auto;">Complete if the organization is exempt under section 501(c)(3) and has NOT filed Form 5768 (election under section 501(h)).
+							
+							</span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_LineDesc" style="width:146mm;height:12mm;border-top-width:1px;border-bottom-width:1px;padding-top:2mm;"><span style="float:left;"><i>For each "Yes" response on lines 1a through 1i below, provide in Part IV a detailed description of the lobbying activity.</i></span></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width: 19.9mm; height: 12mm; padding-top: 0mm; border-top-width: 1px; border-right-width: 0px; border-left-width: 1px;">(a)<br><div class="IRS990ScheduleC_LineIndexMid" style="height:8.5mm;border-right-width:0px;width:9.7mm;border-top-width:1px;border-right-width:1px;border-bottom-width:0px;padding-top:2.5mm">Yes</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="height:8.5mm;border-right-width:0px;width:9.9mm;border-top-width:1px;border-bottom-width:0px;float:right;padding-top:2.5mm;">No</div>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width: 20mm; height: 12mm; padding-top: 0mm; border-top-width: 1px; border-right-width: 0px; border-left-width: 1px;">(b)
+					<div class="IRS990ScheduleC_LineIndexMid" style="height:8.2mm;border-right-width:0px;width:20mm;border-top-width:1px;padding-top:3mm;border-bottom-width:0px">Amount </div>
+</div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="styLNLeftNumBox" style="padding-left: 1mm;padding-bottom:.5mm">1 </div>
+<div class="IRS990ScheduleC_LineDesc" style="width:138mm;border-right-width:1px;height:10mm;">
+   During the year, did the filing organization attempt to influence foreign, national, state or local legislation, including any attempt to influence public opinion on a legislative matter or referendum, through the use of:
+   </div>
+<div class="IRS990ScheduleC_LineIndexMid" style="background-color:lightgrey;border-right-width:1px;height:10mm;width:10mm;border-bottom-width:0px;"></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="background-color:lightgrey;height:10mm;width:10mm;border-bottom-width:0px;"></div>
+<div class="IRS990ScheduleC_MoneyField" style="border-right-width:0px;border-bottom-width:0px;background-color:lightgrey;height:10mm;width:20mm;font-size:6pt;"></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_SubLineIndex">a</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:138mm;">
+    Volunteers?
+    <span class="IRS990ScheduleC_Dotspacing">...........................................................................................................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_MoneyField" style="border-right-width:0px;border-bottom-width:0px;background-color:lightgrey;width:20mm"></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_SubLineIndex">b</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:138mm;">
+    Paid staff or management (include  compensation in expenses reported on lines 1c through 1i)?
+    <span class="IRS990ScheduleC_Dotspacing">........</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_MoneyField" style="border-right-width:0px;border-bottom-width:0px;background-color:lightgrey;width:20mm"></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_SubLineIndex">c</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:138mm;">
+    Media advertisements?
+    <span class="IRS990ScheduleC_Dotspacing">...................................................................................................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_MoneyField" style="border-right-width:0px;width:20mm;font-size:5.5pt;"><span style="color:darkblue;" id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_SubLineIndex">d</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:138mm;">
+    Mailings to members, legislators, or the public?
+    <span class="IRS990ScheduleC_Dotspacing">.............................................................................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_MoneyField" style="border-right-width:0px;width:20mm;font-size:5.5pt;"><span style="color:darkblue;" id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_SubLineIndex">e</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:138mm;">
+    Publications, or published or broadcast statements?
+    <span class="IRS990ScheduleC_Dotspacing">...........................................................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_MoneyField" style="border-right-width:0px;width:20mm;font-size:5.5pt;"><span style="color:darkblue;" id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_SubLineIndex">f</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:138mm;">
+    Grants to other organizations for lobbying purposes?
+    <span class="IRS990ScheduleC_Dotspacing">..........................................................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_MoneyField" style="border-right-width:0px;width:20mm;font-size:5.5pt;"><span style="color:darkblue;" id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_SubLineIndex">g</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:138mm;">
+    Direct contact with legislators, their staffs, government officials, or a legislative body?
+    <span class="IRS990ScheduleC_Dotspacing">.......................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_MoneyField" style="border-right-width:0px; width:20mm;font-size:5.5pt;"><span style="color:darkblue;" id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_SubLineIndex">h</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:138mm;">
+    Rallies, demonstrations, seminars, conventions, speeches, lectures, or any similar means?
+    <span class="IRS990ScheduleC_Dotspacing">..................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_MoneyField" style="border-right-width:0px;width:20mm;font-size:5.5pt;"><span style="color:darkblue;" id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_SubLineIndex">i</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:138mm;">
+  Other activities? 
+   <span class="IRS990ScheduleC_Dotspacing">...................................................................................................................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_MoneyField" style="border-right-width:0px;width:20mm;font-size:5.5pt;"><span style="color:darkblue;" id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_SubLineIndex">j</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:138mm;">
+    Total. Add lines 1c through 1i
+    <span class="IRS990ScheduleC_Dotspacing">....................................................................................................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="background-color:lightgrey;border-right-width:1px;width:10mm;border-bottom-width:0px;"></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="background-color:lightgrey;width:10mm;border-bottom-width:0px;"></div>
+<div class="IRS990ScheduleC_MoneyField" style="border-right-width:0px;width:20mm;font-size:5.5pt;"><span style="color:darkblue;" id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_LineIndex" style="padding-right:15px">2a</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:138mm;">
+    Did the activities in line 1 cause the organization to be not described in section 501(c)(3)?
+    <span class="IRS990ScheduleC_Dotspacing">.....</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:10mm;"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_MoneyField" style="border-right-width:0px;border-bottom-width:0px;background-color:lightgrey;width:20mm"></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_SubLineIndex">b</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:138mm;">
+    If "Yes," enter the amount of any tax incurred under section 4912
+    <span class="IRS990ScheduleC_Dotspacing">...........................................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="background-color:lightgrey;border-right-width:1px;border-bottom-width:0px;width:10mm"></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="background-color:lightgrey;border-bottom-width:0px;width:10mm"></div>
+<div class="IRS990ScheduleC_MoneyField" style="border-right-width:0px;width:20mm;font-size:5.5pt;"><span style="color:darkblue;" id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_SubLineIndex">c</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:138mm;">
+    If "Yes," enter the amount of any tax incurred by organization managers under section 4912
+    <span class="IRS990ScheduleC_Dotspacing">...................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="background-color:lightgrey;border-right-width:1px;width:10mm;border-bottom-width:0px;"></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="background-color:lightgrey;width:10mm;border-bottom-width:0px;"></div>
+<div class="IRS990ScheduleC_MoneyField" style="border-right-width:0px;width:20mm;font-size:5.5pt;"><span style="color:darkblue;" id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_SubLineIndex" style="border-bottom-width:1px;">d</div>
+<div class="IRS990ScheduleC_LineDesc" style="border-bottom-width:1px;width:138mm;">
+    If the filing organization incurred a section 4912 tax, did it file Form 4720 for this year?
+    <span class="IRS990ScheduleC_Dotspacing">........................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="border-bottom-width:1px;width:10mm"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="border-bottom-width:1px;width:10mm"><span style="font-weight: normal"><span id="/..">
+         
+      </span></span></div>
+<div class="IRS990ScheduleC_MoneyField" style="border-right-width:0px;border-bottom-width:1px;background-color:lightgrey;width:20mm;font-size:5.5pt;"></div>
+</div>
+<div class="styGenericDiv" style="width: 187mm">
+<div class="styPartName" style="width:18mm;">Part III-A</div>
+<div class="styPartDesc" style="width:155mm;font-weight:bold;height:auto; ">
+Complete if the organization is exempt under
+section 501(c)(4), section 501(c)(5), or section 501(c)(6).
+							
+							</div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_LineDesc" style="width:164mm;height:4mm;border-top-width:1px;border-right-width:0px"></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:8mm;height:4mm;border-top-width:1px;padding-top:0mm;border-left-width:0px"></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:8mm;height:4mm;border-top-width:1px;padding-top:0mm;">Yes</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:8mm;height:4mm;border-top-width:1px;padding-top:0mm;border-right-width:0px">No</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_LineIndex" style="padding-top:0mm;padding-right: 18px;">1</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:156mm;height:4mm;border-top-width:0px;padding-top:0mm;">
+    Were substantially all (90% or more) dues received nondeductible by members?
+  <span class="IRS990ScheduleC_Dotspacing">...............................................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:8mm;height:4mm;border-top-width:0px;padding-top:0mm;">1</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="font-weight:normal;width:8mm;height:4mm;border-top-width:0px;padding-top:0mm;"><span id="/..">
+         
+      </span></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="font-weight:normal;width:8mm;height:4mm;border-top-width:0px;padding-top:0mm;border-right-width:0px"><span id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_LineIndex" style="padding-top:0mm;padding-right: 18px;">2</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:156mm;height:4mm;border-top-width:0px;padding-top:0mm;">
+    Did the organization make only in-house lobbying expenditures of $2,000 or less?
+  <span class="IRS990ScheduleC_Dotspacing">............................................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:8mm;height:4mm;border-top-width:0px;padding-top:0mm;">2</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="font-weight:normal;width:8mm;height:4mm;border-top-width:0px;padding-top:0mm;"><span id="/..">
+         
+      </span></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="font-weight:normal;width:8mm;height:4mm;border-top-width:0px;padding-top:0mm;border-right-width:0px"><span id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_LineIndex" style="border-bottom-width:1px;padding-right: 18px;">3</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:156mm;height:4mm;border-bottom-width:1px;padding-top:0mm;">
+   Did the organization agree to carry over lobbying and political expenditures from the prior year?
+  <span class="IRS990ScheduleC_Dotspacing">.................................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:8mm;height:4mm;border-top-width:0px;padding-top:0mm;">3</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="font-weight:normal;width:8mm;height:4mm;border-top-width:0px;padding-top:0mm;"><span id="/..">
+         
+      </span></div>
+<div class="IRS990ScheduleC_LineIndexMid" style="font-weight:normal;width:8mm;height:4mm;border-top-width:0px;padding-top:0mm;border-right-width:0px"><span id="/..">
+         
+      </span></div>
+</div>
+</div>
+<div class="styGenericDiv" style="width: 187mm;border-bottom-width:1px">
+<div class="styPartName" style="width:18mm;">Part III-B</div>
+<div class="styPartDesc" style="width:169mm;font-weight:bold;height:auto;">
+Complete if the
+organization is exempt under section 501(c)(4), section 501(c)(5), or section 501(c)(6)
+and if either (a) BOTH Part III-A, lines 1 and 2, are answered "No" OR (b) Part III-A, line 3, is
+answered “Yes."
+							</div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_LineIndex" style="border-top-width:1px;padding-right: 18px">1</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:140mm;border-top-width:1px;padding-top:0mm;">
+   Dues, assessments and similar amounts from members
+  <span class="IRS990ScheduleC_Dotspacing">......................................................................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:8mm;height:4mm;border-top-width:1px;padding-top:0mm;">1</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:32mm;height:4mm;border-top-width:1px;padding-left:1mm;border-right-width:0px;text-align:right;font-weight:normal; font-size: 6pt;"><span style="color:darkblue;" id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_LineIndex" style="padding-top:0mm;padding-right: 18px">2</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:140mm;height:auto;border-top-width:0px;padding-top:0mm;">
+   Section 162(e) nondeductible lobbying and political expenditures <b>(do not include amounts of political expenses for which the section 527(f) tax was paid).</b>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:8mm;height:6mm;border-top-width:0px;padding-left:1mm;border-right-width:1px;text-align:left;background:lightgrey;border-bottom:0px"></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_SubLineIndex" style="padding-top:1mm;">a</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:140mm;height:auto;border-top-width:0px;padding-top:1mm;">
+   Current year
+  <span class="IRS990ScheduleC_Dotspacing">.............................................................................................................................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:8mm;height:4mm;border-top-width:0px;padding-top:0mm;">2a</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:32mm;height:4mm;border-top-width:0px;padding-left:1mm;border-right-width:0px;text-align:right;padding-top:0mm;font-weight:normal; font-size: 6pt;"><span style="color:darkblue;" id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_SubLineIndex">b</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:140mm;height:auto;border-top-width:0px;padding-top:0mm;">
+   Carryover from last year
+  <span class="IRS990ScheduleC_Dotspacing">............................................................................................................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:8mm;height:4mm;border-top-width:0px;padding-top:0mm;">2b</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:32mm;height:4mm;border-top-width:0px;padding-left:1mm;border-right-width:0px;text-align:right;font-weight:normal; font-size: 6pt;"><span style="color:darkblue;" id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_SubLineIndex">c</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:140mm;height:4mm;border-top-width:0px;padding-top:0mm;">
+   Total
+  <span class="IRS990ScheduleC_Dotspacing">...........................................................................................................................................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:8mm;height:4mm;border-top-width:0px;padding-top:0mm;">2c</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:32mm;height:4mm;border-top-width:0px;padding-left:1mm;border-right-width:0px;text-align:right;font-weight:normal; font-size: 6pt;"><span style="color:darkblue;" id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_LineIndex" style="padding-top:0mm;padding-right: 18px">3</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:140mm;height:4mm;border-top-width:0px;padding-top:0mm;">
+  Aggregate amount reported in section 6033(e)(1)(A) notices of nondeductible section 162(e) dues
+  <span class="IRS990ScheduleC_Dotspacing">.</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:8mm;height:4mm;border-top-width:0px;padding-top:0mm;">3</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:32mm;height:4mm;border-top-width:0px;padding-left:1mm;border-right-width:0px;text-align:right;font-weight:normal; font-size: 6pt;"><span style="color:darkblue;" id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_LineIndex" style="padding-top:0mm;padding-right: 18px">4</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:140mm;height:10mm;border-top-width:0px;padding-top:0mm;">
+   If notices were sent and the amount on line 2c exceeds the amount on line 3, what portion of the excess
+   does the organization agree to carryover to the reasonable estimate of nondeductible lobbying and political expenditure next year?
+  <span class="IRS990ScheduleC_Dotspacing">......................................................................................................................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:8mm;height:10mm;border-top-width:0px;padding-top:0mm;valign:bottom;">
+<span style="width:7.5mm;height:6mm;background:lightgrey;"></span>4</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:32mm;height:10mm;border-top-width:0mm;padding-left:1mm;padding-top:6mm;border-right-width:0px;text-align:right;font-weight:normal; font-size: 6pt;"><span style="color:darkblue;" id="/..">
+         
+      </span></div>
+</div>
+<div class="IRS990ScheduleC_LineContainer">
+<div class="IRS990ScheduleC_LineIndex" style="padding-top:0mm;padding-right: 18px;border-bottom-width:1px">5</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:140mm;height:4mm;border-top-width:0px;padding-top:0mm;border-bottom-width:1px;">
+   Taxable amount of lobbying and political expenditures. See Instructions
+  <span class="IRS990ScheduleC_Dotspacing">.........................................</span>
+</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:8mm;height:4mm;border-top-width:0px;padding-top:0mm;">5</div>
+<div class="IRS990ScheduleC_LineIndexMid" style="width:32mm;height:4mm;border-top-width:0px;padding-left:1mm;border-right-width:0px;text-align:right;font-weight:normal; font-size: 6pt;"><span style="color:darkblue;" id="/..">
+         
+      </span></div>
+</div>
+<div class="styGenericDiv" style="width: 187mm;">
+<div class="styPartName" style="width:18mm;">Part IV</div>
+<div class="styPartDesc" style="width:169mm;font-weight:bold;height:auto;">
+Supplemental Information
+</div>
+<div class="IRS990ScheduleC_LineDesc" style="width:187mm;height:auto;border-top-width:1px;padding-top:1mm;border-bottom-width:1px;border-right-width:0px;padding-left:2mm">
+Provide the descriptions required for Part I-A, line 1; Part I-B, line 4; Part I-C, line 5; Part II-A (affiliated group list); Part II-A, lines 1 and 2 (see instructions), and Part II-B, line 1. Also, complete this part for any additional information.
+</div>
+<span style="float:right"></span>
+</div>
+<div class="styTableContainer" style="width:187mm;clear:all;height:auto; border-bottom-width: 2px" id="SUPctn"><table class="styTable" style="font-size: 7pt; border-color:black" cellspacing="0">
+<thead><tr class="styDepTblHdr">
+<th class="styDepTblCell" scope="col" style="height:auto;width:50mm;text-align:center;font-size:7pt;font-weight:normal;border-color:black;">Return Reference</th>
+<th class="styDepTblCell" scope="col" style="height:auto;width:87mm;text-align:center;font-size:7pt;font-weight:normal;border-color:black;">Explanation</th>
+</tr></thead>
+<tfoot></tfoot>
+<tbody valign="top"></tbody>
+</table></div>
+<div class="pageEnd" style="width:187mm"><div style="float:right;">
+<span style="width:80px;"></span><span class="styBoldText">Schedule C (Form 990) 2025</span>
+</div></div>
+<div class="propublica-divider"><span></span></div>
+<p style="page-break-before: always"></p>
+<br><div class="styLeftOverTitleLine" id="LeftoverData">
+<div class="styLeftOverTitle">
+          Additional Data        
+        </div>
+<div class="styLeftOverButtonContainer"><input class="styLeftoverTableBtn" TabIndex="1" type="button" value="Return to Form" onclick="javascript:returnToWriteInImage();"></div>
+</div>
+<table class="styLeftOverTbl">
+<br><tr>
+<td class="styLeftOverTableRowDesc" style="width:100mm;" scope="row">Software ID:</td>
+<td class="styLeftOverTableRowAmount" style="width:87mm;"><span style="display:inline;" id="/..">
+         
+      </span></td>
+</tr>
+<tr>
+<td class="styLeftOverTableRowDesc" style="width:100mm;" scope="row">Software Version:</td>
+<td class="styLeftOverTableRowAmount" style="width:87mm;"><span style="display:inline;" id="/..">
+         
+      </span></td>
+</tr>
+<br>
+</table>
+<br>
+</form>
+<script src="https://projects.propublica.org/nonprofits/rendered-in-iframe.js"></script>
+</body>
+</html>

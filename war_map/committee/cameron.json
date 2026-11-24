@@ -1,0 +1,135 @@
+{
+  "county": "Cameron",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary (unofficial results)",
+  "as_of": "2026-05-19",
+  "seats_per_precinct": 1,
+  "sources": [
+    {
+      "url": "https://www.cameroncountypa.com/2026%20Primary%20Unofficial%20Results%20Precinct%20Summary.pdf",
+      "title": "Cameron County 2026 Primary Unofficial Results Precinct Summary (Electionware, 05/19/2026 9:13 PM)",
+      "type": "results",
+      "as_of": "2026-05-19"
+    },
+    {
+      "url": "https://www.cameroncountypa.com/2026Primary_UnofficialResults.pdf",
+      "title": "Cameron County 2026 Primary Unofficial Results, scanned summary (05/19/2026 9:27 PM, posted 6/3/2026); same committee figures",
+      "type": "results",
+      "as_of": "2026-05-19"
+    },
+    {
+      "url": "https://www.cameroncountypa.com/OFFICIAL%20RESULTS%20PRIMARY%20SUMMARY.pdf",
+      "title": "Cameron County Official Results, Primary Election May 17, 2022 (prior 'Republican Committee Person' contests, for comparison)",
+      "type": "results",
+      "as_of": "2022-05-20"
+    },
+    {
+      "url": "https://www.cameroncountypa.com/resident/elections/official_canvass_results.php",
+      "title": "Cameron County official canvass results page (no official 2026 primary report posted)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Driftwood Borough",
+      "seats": [
+        {
+          "seat": "Committee Chairperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "East Shippen Township",
+      "seats": [
+        {
+          "seat": "Committee Chairperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "East Ward Emporium Borough",
+      "seats": [
+        {
+          "seat": "Committee Chairperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Gibson Township",
+      "seats": [
+        {
+          "seat": "Committee Chairperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Grove Township",
+      "seats": [
+        {
+          "seat": "Committee Chairperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lumber Township",
+      "seats": [
+        {
+          "seat": "Committee Chairperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Middle Ward Emporium Borough",
+      "seats": [
+        {
+          "seat": "Committee Chairperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Portage Township",
+      "seats": [
+        {
+          "seat": "Committee Chairperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "West Shippen Township",
+      "seats": [
+        {
+          "seat": "Committee Chairperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Ward Emporium Borough",
+      "seats": [
+        {
+          "seat": "Committee Chairperson",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 10,
+    "seats": 10,
+    "filled": 0,
+    "empty": 5,
+    "empty_no_filer": 0,
+    "unknown": 5
+  },
+  "notes": "Evidence is UNOFFICIAL election-night results; no official 2026 primary report was found on the county's official canvass page. The 2026 Republican ballot printed one contest per precinct titled 'REP COMMITTEE CHAIRPERSON <precinct>', vote for 1; this is taken to be the precinct committee seat (the 2022 official results show 'Republican Committee Person <precinct>' contests for the same 10 precincts, but with vote for 2 in five precincts and vote for 1 in five), so the seat count and label are not fully verified. No printed candidate appeared in any precinct. Seats are 'empty' where zero write-in votes were reported and 'unknown' where write-in votes were cast, since the report does not show whether a write-in winner qualified or accepted. Late-counted ballots could change the write-in figures. Appointments after the primary are not reflected."
+}

@@ -1,0 +1,611 @@
+{
+  "county": "Venango",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "April 23, 2024 General Primary",
+  "as_of": "2024-05-30",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.venangocountypa.gov/Documents/Government/Voters%20and%20Elections/Election%20Results%20Archive/2024%20Generl%20Primary%20Summary%20Report%20with%20write-ins.pdf",
+      "title": "Venango County Election Summary Report with Write-in Names, General Primary 2024 (April 23, 2024), Official Results (05/30/2024)",
+      "type": "results",
+      "as_of": "2024-05-30"
+    },
+    {
+      "url": "https://www.venangocountypa.gov/Documents/Government/Voters%20and%20Elections/Election%20Results%20Archive/2026%20General%20Primary%20Election%20Summary%20with%20Writeins%20OFFICIAL.pdf",
+      "title": "Venango County General Primary 2026 Election Summary with Write-ins, Official (no Republican county committee contests on the ballot)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://www.venangocountypa.gov/departments/voters_elections/election_results_archive.php",
+      "title": "Venango County election results archive",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Franklin 1",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Franklin 2",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Franklin 3",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Oil City 1",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Oil City 2",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Oil City 3",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Oil City 4",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Oil City 5",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Oil City 6",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Oil City 7",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sugarcreek Boro 1/4",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sugarcreek Boro 2",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sugarcreek Boro 3",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sugarcreek Boro 5",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Allegheny Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Barkeyville Boro",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Canal Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Cherrytree Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Clinton Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Clintonville Boro",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Cooperstown Boro",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Cornplanter Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Cranberry Twp 1",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Cranberry Twp 2",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Cranberry Twp 3",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Emlenton Boro",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Frenchcreek Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Irwin Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jackson Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Mineral Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Oakland Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Oilcreek Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Pinegrove Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Pleasantville Boro",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Plum Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Polk Boro",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "President Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Richland Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Rockland Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Rouseville Boro",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sandycreek Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Scrubgrass Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Utica Boro",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Victory Twp",
+      "seats": [
+        {
+          "seat": "Committee Man",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Woman",
+          "status": "empty"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 44,
+    "seats": 88,
+    "filled": 15,
+    "empty": 6,
+    "empty_no_filer": 0,
+    "unknown": 67
+  },
+  "notes": "Venango Republican committee seats were last on the ballot in the April 23, 2024 primary as one 'REP Committee Man' and one 'REP Committee Woman' per precinct (44 precincts); the May 19, 2026 primary report has Democratic committee contests but no Republican ones. A seat is 'filled' when a printed ballot candidate received votes, 'empty' when no candidate filed and zero write-in votes were cast, and 'unknown' when write-in votes were cast; this includes seats where the report names a write-in recipient, because it does not show whether that person qualified or accepted. Appointments or vacancies since 2024 are not reflected."
+}

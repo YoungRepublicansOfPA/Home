@@ -1,0 +1,32 @@
+{
+  "county": "McKean",
+  "checked_at": "2026-11-24",
+  "method": "none_found",
+  "election": "None found",
+  "as_of": "2026-11-24",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.mckeancountypa.gov/departments/voter_registration___elections/index.php",
+      "title": "McKean County Voter Registration & Elections page (no published primary results files found)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://gismaps.mckeancountypa.org/portal/apps/webappviewer/index.html?id=13a73720a3874314bbd58c753094b7bc",
+      "title": "McKean County Unofficial Election Results Viewer (GIS map; did not respond to automated access)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [],
+  "totals": {
+    "precincts": 42,
+    "seats": 0,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 0
+  },
+  "notes": "No usable public evidence was found. The county's earlier 2024 primary result PDFs (SUMfinalunofficialPRI24.pdf, PrecinctFinalUnoffPRI24.pdf) now return 404, no 2026 primary results file is linked from the elections page, and the county's GIS 'Unofficial Election Results Viewer' did not respond to automated access. No public Republican committee roster was found. The precinct list is left empty because no county precinct list was retrieved; totals.precincts (42) comes from the map's county file. Two seats per precinct is the usual Pennsylvania arrangement and is not verified for McKean."
+}

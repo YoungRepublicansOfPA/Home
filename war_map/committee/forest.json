@@ -1,0 +1,156 @@
+{
+  "county": "Forest",
+  "checked_at": "2026-11-24",
+  "method": "none_found",
+  "election": "May 19, 2026 General Primary (results not found)",
+  "as_of": "2026-11-24",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.co.forest.pa.us/departments/election_results.php",
+      "title": "Forest County election results page (no 2026 primary results file found)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://www.co.forest.pa.us/All%20Results.pdf",
+      "title": "Forest County Summary Results Report, Primary Election 2022 (scanned, marked UNOFFICIAL): 'Republican Committee Member <precinct>', vote for 2, in all 9 precincts",
+      "type": "rules",
+      "as_of": "2022-06-08"
+    },
+    {
+      "url": "https://www.co.forest.pa.us/All%20Precincts.pdf",
+      "title": "Forest County Primary Election 2024 results (scanned, unofficial): no Republican committee member contests",
+      "type": "results",
+      "as_of": "2024-04-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "BARNETT TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GREEN TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARMONY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HICKORY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOWE TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "JENKS TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "KINGSLEY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TIONESTA BOROUGH",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TIONESTA TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 9,
+    "seats": 18,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 18
+  },
+  "notes": "Forest County Republican committee members were on the 2022 primary ballot ('Republican Committee Member <precinct>', vote for 2, all 9 precincts), indicating a four-year cycle that came up again in May 2026, but no 2026 primary results were posted on the county's results page and no public roster was found. The 2022 results are not used because those terms have been superseded. All seats are 'unknown'. Two seats per precinct is taken from the 2022 ballot. Precinct names are from the 2022 county results. The county's result files are scanned images, read by OCR."
+}

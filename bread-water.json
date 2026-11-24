@@ -1,0 +1,54 @@
+{
+  "reservoir": [
+    {
+      "part": "1.25 US gal gravity reservoir with manual spigot",
+      "price": 7.97,
+      "url": "https://www.heb.com/product-detail/arrow-slimline-beverage-dispenser-1-25-gal/1494114",
+      "note": "Retail single-unit reference. Fill at the sink; remove for cleaning. Check local stock."
+    },
+    {
+      "part": "Stable raised tank cradle, removable spill tray and measuring cup",
+      "price": 25,
+      "url": null,
+      "note": "Fabrication allowance. Gravity fills a cup; operator weighs and transfers water into the pan. Allow about 5 \u00d7 18 inches of counter space for this sidecar, pending physical fit checks."
+    }
+  ],
+  "plumbed": [
+    {
+      "part": "BrassCraft 72-inch ice-maker connector",
+      "price": 16.07,
+      "url": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Supply-Lines/BrassCraft/Ice-Maker-Connector/N-5yc1vZbqjnZa4Z1z138kr",
+      "note": "Retail, 1 \u00d7 B0-72IM P. A plumber must confirm existing fitting compatibility."
+    },
+    {
+      "part": "Manual isolation valve and potable-water fittings",
+      "price": 35,
+      "url": null,
+      "note": "Allowance, one set."
+    },
+    {
+      "part": "Potable-water mechanical fill valve with float",
+      "price": 45,
+      "url": null,
+      "note": "Allowance for a pressure-rated float valve on an independent fill assembly."
+    },
+    {
+      "part": "Air-gap fill assembly with overflow provision",
+      "price": 65,
+      "url": null,
+      "note": "Allowance for one assembly. Fill the unpressurized tank across an air gap. Installer must verify local backflow and drainage requirements."
+    },
+    {
+      "part": "Mechanical overflow isolation and leak-triggered supply shutoff",
+      "price": 75,
+      "url": null,
+      "note": "Allowance for independent, non-mains-powered protection. Require a plumber-approved assembly, tested overflow path and independent leak shutoff before commissioning."
+    },
+    {
+      "part": "Site installation and commissioning",
+      "price": 250,
+      "url": null,
+      "note": "Budget allowance, not a contractor quote. Assumes accessible cold water and approved drain route; excludes construction and permits."
+    }
+  ]
+}

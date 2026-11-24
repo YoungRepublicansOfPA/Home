@@ -10,7 +10,7 @@
       ["water", "Water and cleaning supplies ($/cycle)", 0.06, 0.01],
       ["power", "Electricity including baking and allocated standby use (kWh/cycle)", 1.20, 0.01],
       ["rate", "Electricity rate ($/kWh)", 0.20, 0.01],
-      ["capital", "Installed equipment price including any plumbing ($)", 450, 0.01],
+      ["capital", "Installed equipment price including any plumbing ($)", 507.96, 0.01],
       ["years", "Service life (years)", 5, 1],
       ["cycles", "Attempted cycles per year", 300, 1],
       ["maintenance", "Parts and maintenance ($/year)", 30, 0.01],
@@ -21,9 +21,9 @@
     ];
     root.innerHTML = `
       <h2>What would a loaf cost?</h2>
-      <p>These editable assumptions represent a household baking one loaf per cycle. Replace the values with local prices and measured prototype results. The default models a $450 installed unit. Enter $300 to test the reservoir model’s purchase-price target.</p>
+      <p>These editable assumptions represent a household baking one loaf per cycle. Replace the values with local prices and measured prototype results. Choose a prototype to load its installed price, then adjust any assumption.</p>
       <div class="bread-cost-summary" aria-live="polite"></div>
-      <details><summary>Change the assumptions</summary>
+      <label>Prototype <select name="model"><option value="507.96">Refillable reservoir</option><option value="994.03">Plumbed refill</option></select></label><details><summary>Change the assumptions</summary>
         <div class="bread-cost-inputs"></div>
         <label><input type="checkbox" name="includeLabor"> Include household time in the total</label>
       </details>
@@ -69,6 +69,10 @@
       perWeight.textContent = dollars.format(total * 100 / v.weight) + " per 100 g at a baked weight of " + v.weight + " g.";
       totalText.replaceChildren(title, detail, perWeight);
     }
+    root.querySelector("[name=model]").addEventListener("change", event => {
+      controls.capital.value = event.target.value;
+      calculate();
+    });
     root.addEventListener("input", calculate);
     calculate();
   }

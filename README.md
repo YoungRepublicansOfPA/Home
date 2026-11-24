@@ -15,3 +15,9 @@ For a correction or a new record, include the county or jurisdiction, a primary-
 ## Account boundary
 
 Pushes to this repository must use the dedicated `YoungRepublicansOfPA/Home` deploy key and the repository-local `YoungRepublicansOfPA` commit identity. Never use a personal GitHub login, token, SSH key, or global Git identity for this repository. The local checkout's pre-push hook rejects any destination other than this repository over SSH. See `AGENTS.md` before making changes with an agent.
+
+## Pennsylvania trends
+
+The [trends page](trends.html) presents state history, demographic measures, vital statistics, and conservation records with direct citations. The research notes in `research/` preserve dates, definitions, and comparability cautions for review.
+
+The site badge and banner under `assets/` were supplied for this project. The MIT license covers the code and structured data, not those images; image rights remain with their respective owners.

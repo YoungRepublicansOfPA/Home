@@ -1,0 +1,146 @@
+{
+  "checked_at": "2026-11-24",
+  "sources": [
+    {
+      "id": "philadelphia_federal_capital",
+      "publisher": "U.S. House of Representatives, History, Art & Archives",
+      "url": "https://history.house.gov/Historical-Highlights/1700s/The-interim-federal-capital-in-Philadelphia/",
+      "metric": "Philadelphia's tenure as interim federal capital",
+      "period": "1790-1800",
+      "caveat": "Philadelphia was the interim capital of the federal government, not the current U.S. capital."
+    },
+    {
+      "id": "foreign_born_1920",
+      "publisher": "U.S. Census Bureau, 1920 Census, Population—Pennsylvania",
+      "url": "https://www2.census.gov/prod2/decennial/documents/06229686v32-37ch7.pdf",
+      "metric": "Foreign-born persons and percent of Pennsylvania's total population",
+      "period": "1920 decennial census",
+      "caveat": "Historical complete-count census. Do not connect directly to modern ACS survey estimates as a seamless annual series; account for changed survey methods, population coverage, geography, and classification. Foreign-born is birthplace/citizenship status, not an annual immigration-flow measure."
+    },
+    {
+      "id": "foreign_born_recent",
+      "publisher": "U.S. Census Bureau, QuickFacts (ACS 5-year)",
+      "url": "https://www.census.gov/quickfacts/fact/table/PA/POP645224",
+      "metric": "Foreign-born persons as percent of Pennsylvania population",
+      "period": "2020-2024 ACS 5-year estimates",
+      "caveat": "Five-year pooled estimate, not a value for calendar year 2024. Overlapping five-year releases are not independent annual observations. ACS estimates have sampling uncertainty."
+    },
+    {
+      "id": "language_recent",
+      "publisher": "U.S. Census Bureau, QuickFacts (ACS 5-year)",
+      "url": "https://www.census.gov/quickfacts/fact/table/PA/POP645224",
+      "metric": "Persons age 5+ speaking a language other than English at home",
+      "period": "2020-2024 ACS 5-year estimates",
+      "caveat": "Home language is not English proficiency, citizenship, or foreign-born status. Universe is age 5 and over. Earlier decennial language questions and categories differ; the modern home-language series starts in 1980."
+    },
+    {
+      "id": "language_historical_comparison",
+      "publisher": "Pennsylvania Department of Health, Chronic Disease Burden Report, citing U.S. Census Bureau ACS",
+      "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/health/documents/topics/documents/programs/ChronicDiseaseBurdenReport_8-18-2021.pdf",
+      "metric": "Pennsylvania residents age 5+ speaking a language other than English at home",
+      "period": "2009 and 2019 ACS estimates",
+      "caveat": "The report's 2009 and 2019 percentages use the same age-5+ home-language concept. Verify ACS product and margins of error before charting with 2020-2024 five-year QuickFacts."
+    },
+    {
+      "id": "census_language_history",
+      "publisher": "U.S. Census Bureau, Historical Language Questions",
+      "url": "https://www.census.gov/topics/population/language-use/about.html",
+      "metric": "Question wording and universe for language-use measures",
+      "period": "1980, 1990, 2000 decennial censuses and ACS",
+      "caveat": "Earlier mother-tongue and childhood-language questions are not the same as language currently spoken at home."
+    },
+    {
+      "id": "acs_2020_comparability",
+      "publisher": "U.S. Census Bureau, Comparing 2020 ACS Data",
+      "url": "https://www.census.gov/programs-surveys/acs/guidance/comparing-acs-data/2020.html",
+      "metric": "Comparability warning for 2020 ACS 1-year experimental estimates",
+      "period": "2020",
+      "caveat": "Standard 2020 ACS 1-year estimates were not released. Census says the experimental figures should not be compared with ordinary 1-year ACS, 2020 Census, or earlier censuses."
+    },
+    {
+      "id": "abortion_historical",
+      "publisher": "Pennsylvania Department of Health, Pennsylvania Vital Statistics 2024",
+      "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/health/documents/topics/healthstatistics/vitalstatistics/pavitalstatistics/documents/pa_vital_statistics_2024.pdf",
+      "metric": "Reported induced abortions: Pennsylvania resident count, resident rate per 1,000 females age 15-44, and occurrences in Pennsylvania",
+      "period": "1975 and every year 1980-2024",
+      "source_page": "printed p. 179, Table D-1",
+      "caveat": "Table D-1 omits 1976-1979; do not imply a continuous published table from 1975. Resident and occurrence counts differ because of interstate travel. Rate denominator is females age 15-44, not all residents or births. Counts are reports, and reporting/definitions may change over decades."
+    },
+    {
+      "id": "abortion_annual_report",
+      "publisher": "Pennsylvania Department of Health, 2024 Abortion Statistics",
+      "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/health/documents/topics/healthstatistics/vitalstatistics/documents/pennsylvania_annual_abortion_report_2024_final.pdf",
+      "metric": "Induced abortions performed in Pennsylvania, with age, procedure, and residence breakdowns",
+      "period": "2024 annual report; department says monitoring began in 1975",
+      "source_page": "printed p. 1, Executive Summary",
+      "caveat": "The annual report's headline total is by place of procedure (occurrence), so do not relabel it as abortions among Pennsylvania residents."
+    },
+    {
+      "id": "births_fertility",
+      "publisher": "Pennsylvania Department of Health, Pennsylvania Vital Statistics 2024",
+      "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/health/documents/topics/healthstatistics/vitalstatistics/pavitalstatistics/documents/pa_vital_statistics_2024.pdf",
+      "metric": "Pennsylvania resident live births and general fertility rate per 1,000 females age 15-44",
+      "period": "2024, with historical annual report archive",
+      "source_page": "printed p. 38, Table B-22",
+      "caveat": "Live births are a different event measure from abortions. The general fertility rate is births per 1,000 females age 15-44, not lifetime total fertility rate."
+    }
+  ],
+  "chart_series": {
+    "language_other_than_english_at_home_pa_acs": {
+      "unit": "percent of Pennsylvania residents age 5+",
+      "source_id": "language_historical_comparison",
+      "points": [
+        { "year": 2009, "value": 9.6 },
+        { "year": 2019, "value": 11.7 }
+      ]
+    },
+    "abortion_occurrences_pa": {
+      "unit": "reported procedures performed in Pennsylvania",
+      "source_id": "abortion_historical",
+      "source_page": "printed p. 179, Table D-1",
+      "points": [
+        { "year": 1975, "value": 43319 },
+        { "year": 1980, "value": 65777 },
+        { "year": 1990, "value": 52143 },
+        { "year": 2000, "value": 35630 },
+        { "year": 2010, "value": 36778 },
+        { "year": 2014, "value": 32126 },
+        { "year": 2019, "value": 31018 },
+        { "year": 2024, "value": 32946 }
+      ]
+    },
+    "abortion_resident_rate_pa": {
+      "unit": "reported abortions among Pennsylvania residents per 1,000 females age 15-44",
+      "source_id": "abortion_historical",
+      "source_page": "printed p. 179, Table D-1",
+      "points": [
+        { "year": 1975, "value": 15.1 },
+        { "year": 1980, "value": 23.1 },
+        { "year": 1990, "value": 18.3 },
+        { "year": 2000, "value": 13.2 },
+        { "year": 2010, "value": 14.4 },
+        { "year": 2014, "value": 12.8 },
+        { "year": 2019, "value": 12.1 },
+        { "year": 2024, "value": 12.3 }
+      ]
+    }
+  },
+  "verified_datapoints": [
+    { "metric": "Philadelphia interim federal capital", "period": "1790-1800", "value": true, "source_id": "philadelphia_federal_capital" },
+    { "metric": "Pennsylvania foreign-born persons", "period": "1920 census", "value": 1392557, "unit": "persons", "source_id": "foreign_born_1920" },
+    { "metric": "Pennsylvania foreign-born share", "period": "1920 census", "value": 16.0, "unit": "percent", "source_id": "foreign_born_1920" },
+    { "metric": "Pennsylvania foreign-born share", "period": "2020-2024 ACS 5-year", "value": 7.7, "unit": "percent", "source_id": "foreign_born_recent" },
+    { "metric": "Pennsylvania age-5+ home language other than English", "period": "2009 ACS", "value": 9.6, "unit": "percent", "source_id": "language_historical_comparison" },
+    { "metric": "Pennsylvania age-5+ home language other than English", "period": "2019 ACS", "value": 11.7, "unit": "percent", "source_id": "language_historical_comparison" },
+    { "metric": "Pennsylvania age-5+ home language other than English", "period": "2020-2024 ACS 5-year", "value": 12.4, "unit": "percent", "source_id": "language_recent" },
+    { "metric": "Pennsylvania resident live births", "period": "2024", "value": 127330, "unit": "births", "source_id": "births_fertility" },
+    { "metric": "Pennsylvania general fertility rate", "period": "2024", "value": 51.2, "unit": "births per 1,000 females age 15-44", "source_id": "births_fertility" }
+  ],
+  "comparability_notes": [
+    "Do not plot the 1920 census foreign-born share and 2020-2024 ACS share as a continuous measured time series; show separate dated benchmarks.",
+    "Do not plot 2009/2019 ACS annual language values in one line with the 2020-2024 ACS five-year pooled value without identifying the change in period.",
+    "The Census Bureau did not release standard 2020 ACS 1-year estimates; exclude the experimental 2020 value from ordinary annual trend lines.",
+    "The Census Bureau changed detailed language categories in 2016; broad English-only versus language-other-than-English comparisons are safer than detailed-language comparisons across that break.",
+    "Pennsylvania DOH abortion Table D-1 separately reports resident counts/rates and Pennsylvania occurrences. Keep those series distinct."
+  ]
+}

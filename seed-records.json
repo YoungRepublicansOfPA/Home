@@ -1,1 +1,1568 @@
-{"schema_version":"0.1","retrieved_at":"2026-11-23","description":"Direct official source links for 42 Pennsylvania counties. No live values or current officeholder names are inferred from these links.","verification_labels":{"source_link_verified":"The linked government page was opened and its described content confirmed on the retrieval date; the linked content can change.","source_directory_verified":"The linked government page or association directory identifies the resource, but individual records are not yet ingested; direct fetch may be unavailable."},"counties":[{"county":"Adams","government_url":"https://www.adamscountypa.gov","sources":[{"category":"elected_offices","title":"Board of Commissioners and elected county offices","url":"https://www.adamscountypa.gov/getmedia/3c328d0f-280f-4aea-8a4b-137151a36e19/2026-Budget-Document-Final.pdf","description":"The 2026 final budget names commissioners and other elected offices. Verify current officeholders independently before display.","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"budget","title":"2026 final adopted budget and budget archive","url":"https://adamscountypa.gov/departments/commissioners/commissioners-budgets","description":"County budget index links the 2026 final adopted and capital budgets.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"agenda","title":"2026 Board of Commissioners agendas and minutes","url":"https://www.adamscountypa.gov/departments/commissioners/boardcommissionersmeetings/2026","description":"Dated meeting agendas and minutes posted by the county.","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"elections","title":"Adams County election resources","url":"https://www.adamscountypa.gov/departments/electionsandvoterregistration/electionresources","description":"County election notices, polling place and sample ballot links. Check for 2027 updates.","retrieved_at":"2026-11-23","verification":"source_link_verified"}]},{"county":"Allegheny","government_url":"https://www.alleghenycounty.us","sources":[{"category":"elected_offices","title":"County Council structure and members","url":"https://www.alleghenycounty.us/Government/Row-Offices/County-Council","description":"Official council page describes 15 elected council seats and links member information.","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"budget","title":"2026 operating and capital county budgets","url":"https://www.alleghenycounty.us/Government/Department-Directory/Budget-and-Finance/County-Budgets","description":"County budget index links the 2026 operating budget, line-item detail, and capital budget.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"agenda","title":"County Council meetings, agendas, and legislation","url":"https://www.alleghenycounty.us/Government/Row-Offices/County-Council/Council-Meetings","description":"Official council page links Legistar agendas, meeting detail, videos, and bill search.","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"elections","title":"Allegheny County Elections Division","url":"https://www.alleghenycounty.us/Government/Elections","description":"County election administration and voter resource links.","retrieved_at":"2026-11-23","verification":"source_link_verified"}]},{"county":"Armstrong","government_url":"https://www.co.armstrong.pa.us","sources":[{"category":"budget","title":"County finance and budget documents","url":"https://www.co.armstrong.pa.us/index.php/county-government-m/commissioners-m/finance-m","description":"Finance page lists the 2026 final budget and older budgets.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"agenda","title":"County meeting agendas and minutes","url":"https://www.co.armstrong.pa.us/index.php/news-m/county-meeting-agendas-and-minutes-m","description":"County page lists dated commissioners' public-meeting agendas and minutes.","retrieved_at":"2026-11-23","verification":"source_link_verified"}]},{"county":"Beaver","government_url":"https://www.beavercountypa.gov","sources":[{"category":"budget","title":"Board of Commissioners budget documents","url":"https://www.beavercountypa.gov/departments/board-of-commissioners","description":"Commissioners page links the 2026 adopted budget and 2027 proposed budget.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"agenda","title":"Commissioners' agendas and minutes","url":"https://www.beavercountypa.gov/departments/board-of-commissioners/agendas","description":"County page lists dated public-meeting agendas and minutes.","retrieved_at":"2026-11-23","verification":"source_link_verified"}]},{"county":"Bedford","government_url":"https://www.bedfordcountypa.org","sources":[{"category":"budget","title":"County budget documents","url":"https://bedfordcountypa.org/government/commissioners/county_budget.php","description":"Official homepage links this county budget page; direct automated fetch returned a 403 response.","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioners' meeting agendas and minutes","url":"https://bedfordcountypa.org/government/commissioners/meeting_agendas_and_minutes.php","description":"Official homepage links this meeting records page; direct automated fetch returned a 403 response.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Berks","government_url":"https://www.berkspa.gov","sources":[{"category":"budget","title":"County budget office and budget documents","url":"https://www.berkspa.gov/departments/budget","description":"Official Budget Office page identifies county budget documents; direct automated fetch was unavailable.","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioners' meetings and agendas","url":"https://www.berkspa.gov/departments/commissioners/meetings","description":"Commissioners page lists 2026 public meetings and agenda links.","retrieved_at":"2026-11-23","verification":"source_link_verified"}]},{"county":"Blair","government_url":"https://www.blairco.org","sources":[{"category":"budget","title":"2026 introduced General and Reserve Fund budget","url":"https://www.blairco.org/getmedia/260e33c8-9485-476b-b1ff-341e624d48c4/2026-General-and-Reserve-Fund-Budget-Introduced.pdf","description":"Official county PDF is labeled introduced; confirm final adoption separately.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioners' agenda and minutes directory","url":"https://www.blairco.org/","description":"County homepage links the Commissioners' agenda and minutes section.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Bradford","government_url":"https://www.bradfordcountypa.org","sources":[{"category":"budget","title":"Commissioners' final budget documents","url":"https://www.bradfordcountypa.gov/320/Commissioners","description":"Official Commissioners page links the 2026 final budget.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"County Agenda Center","url":"https://www.bradfordcountypa.gov/agendacenter","description":"County Agenda Center lists commissioners' agendas and minutes.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Bucks","government_url":"https://www.buckscounty.gov","sources":[{"category":"budget","title":"2026 final county budget","url":"https://www.buckscounty.gov/253/Finance-Division","description":"County Finance page links the 2026 final budget.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"agenda","title":"Meeting agendas, minutes and videos","url":"https://www.buckscounty.gov/129/Meeting-Agendas-Minutes-Videos-Portal","description":"County meeting portal links commissioners' agendas, minutes and recordings.","retrieved_at":"2026-11-23","verification":"source_link_verified"}]},{"county":"Butler","government_url":"https://www.butlercountypa.gov","sources":[{"category":"budget","title":"2026 adopted county budget","url":"https://www.butlercountypa.gov/709/Board-of-Commissioners-Current-Budget","description":"Commissioners page links the 2026 adopted budget and 2027 proposed budget.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"agenda","title":"Commissioners' agendas and minutes","url":"https://www.butlercountypa.gov/agendacenter","description":"County Agenda Center provides Board of Commissioners agendas and minutes.","retrieved_at":"2026-11-23","verification":"source_link_verified"}]},{"county":"Cambria","government_url":"https://www.cambriacountypa.gov","sources":[{"category":"minutes","title":"County meeting minutes archive","url":"https://www.cambriacountypa.gov/resources/meeting-minutes/","description":"Official county archive identifies commissioners' meeting minutes and budget hearings.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Centre","government_url":"https://centrecountypa.gov","sources":[{"category":"budget","title":"2026 final county budget","url":"https://centrecountypa.gov/877/Budget","description":"Commissioners budget page links the 2026 final and proposed county budgets.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"agenda","title":"Board of Commissioners agenda center","url":"https://centrecountypa.gov/agendacenter","description":"County Agenda Center includes Board of Commissioners agendas, with dates and RSS.","retrieved_at":"2026-11-23","verification":"source_link_verified"}]},{"county":"Chester","government_url":"https://www.chesco.org","sources":[{"category":"budget","title":"County transparency and budget documents","url":"https://www.chesco.org/4326/Transparency","description":"Official transparency page identifies budget documents and financial reporting.","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioners' agendas and transparency resources","url":"https://www.chesco.org/4326/Transparency","description":"Official transparency page links commissioners' meeting agendas.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Clarion","government_url":"https://www.co.clarion.pa.us","sources":[{"category":"budget","title":"County budget archive","url":"https://www.co.clarion.pa.us/government/elected_officials/commissioners/county_budget.php","description":"Official county page links the 2026 budget and a separate 2027 draft.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"agenda","title":"Commissioners' agendas and minutes","url":"https://www.co.clarion.pa.us/government/elected_officials/commissioners/agendas___minutes.php","description":"County page lists dated 2026 commissioners' agendas and minutes.","retrieved_at":"2026-11-23","verification":"source_link_verified"}]},{"county":"Clearfield","government_url":"https://clearfieldcountypa.gov","sources":[{"category":"budget","title":"Commissioners' county budget summaries","url":"https://clearfieldcountypa.gov/162/Commissioners","description":"Commissioners page identifies proposed and adopted budget summaries; check each document's status before display.","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioners' agenda center","url":"https://clearfieldcountypa.gov/AgendaCenter/Commissioners-4","description":"County Agenda Center identifies regular commissioners' meeting agendas.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Clinton","government_url":"https://www.clintoncountypa.gov","sources":[{"category":"budget","title":"Preliminary and final county budgets","url":"https://www.clintoncountypa.gov/government/commissioners/preliminary-final-budget","description":"County page identifies the 2026 final adopted and proposed detailed budgets.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioners' meeting minutes and agendas","url":"https://www.clintoncountypa.gov/government/commissioners/meeting-minutes","description":"County page identifies dated 2026 commissioners' minutes and agendas.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Columbia","government_url":"https://www.columbiapa.org","sources":[{"category":"budget","title":"County budget notices","url":"https://www.columbiapa.org/","description":"Official county homepage identifies the advertised budget; confirm adoption status in meeting records.","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioners' meeting information","url":"https://columbiapa.org/commissioners/index.php","description":"Commissioners page identifies the next meeting agenda.","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"minutes","title":"Commissioners' meeting minutes archive","url":"https://columbiapa.org/commissioners/meetingminutes.php","description":"Official archive identifies dated commissioners' meeting minutes.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Crawford","government_url":"https://www.crawfordcountypa.net","sources":[{"category":"budget","title":"County finance and budget documents","url":"https://crawfordcountypa.net/government/finance/","description":"Finance page identifies the 2026 final budget and preliminary future budget.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Upcoming board meeting agendas","url":"https://crawfordcountypa.net/upcoming-board-meetings/","description":"County page identifies dated Board of Commissioners meeting agendas.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Cumberland","government_url":"https://www.cumberlandcountypa.gov","sources":[{"category":"budget","title":"County budget documents","url":"https://cumberlandcountypa.gov/2680/Budget","description":"County budget page identifies the 2026 approved budget; distinguish other fiscal-year documents.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"County Agenda Center","url":"https://www.cumberlandcountypa.gov/AgendaCenter","description":"County Agenda Center identifies commissioners' agendas and meeting documents.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Dauphin","government_url":"https://www.dauphincounty.gov","sources":[{"category":"budget","title":"2026 approved calendar-year budget","url":"https://www.dauphincounty.gov/docs/default-source/budget-finances/approved-budgets/2026-dauphin-county-approved-budget.pdf","description":"Official county search index identifies a 2026 approved-budget PDF; direct automated fetch was unavailable.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioner meetings and minutes","url":"https://www.dauphincounty.gov/government/publicly-elected-officials/commissioners/commissioner-meetings","description":"Commissioners page links agendas, minutes and livestream information.","retrieved_at":"2026-11-23","verification":"source_link_verified"}]},{"county":"Delaware","government_url":"https://www.delcopa.gov","sources":[{"category":"budget","title":"Budget Management reports","url":"https://www.delcopa.gov/budget-management","description":"County page identifies the 2026 adopted budget and 2027 proposed budget.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"County Council meetings","url":"https://www.delcopa.gov/council/meetings","description":"Council page identifies agendas, minutes, and the meeting schedule.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Elk","government_url":"https://www.countyofelkpa.com","sources":[{"category":"budget","title":"Current and past county budgets","url":"https://countyofelkpa.gov/elk-county-offices/board-of-commissioners/elk-county-budget/","description":"Official budget page identifies the 2026 approved budget.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioners' meeting minutes and agendas","url":"https://countyofelkpa.gov/elk-county-offices/board-of-commissioners/meeting-minutes-and-agendas/","description":"County page lists dated 2026 agendas, minutes, and video links.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Erie","government_url":"https://eriecountypa.gov","sources":[{"category":"budget","title":"2026 county budget and finance reports","url":"https://eriecountypa.gov/departments/finance/reports/","description":"County Finance page lists the 2026 budget and annual reports.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"agenda","title":"County Council agendas and meetings","url":"https://www.eriecountycouncilpa.gov/county-council/agendas-and-meetings","description":"Official County Council site lists meeting schedule and agenda access.","retrieved_at":"2026-11-23","verification":"source_link_verified"}]},{"county":"Fayette","government_url":"https://www.fayettecountypa.org","sources":[{"category":"budget","title":"2026 adopted General Fund budget","url":"https://www.fayettecountypa.org/DocumentCenter/View/10809/2026--Fayette-County-Adopted-General-Fund--Budget","description":"Official county PDF is labeled 2026 Adopted General Fund Budget.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioners' Agenda Center","url":"https://www.fayettecountypa.org/AgendaCenter/County-Commissioners-6","description":"County Agenda Center lists dated commissioners' agendas.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Franklin","government_url":"https://franklincountypa.gov","sources":[{"category":"budget","title":"Fiscal Department budget and reports","url":"https://www.franklincountypa.gov/departments/fiscal/","description":"Fiscal Department page links a 2026 budget overview and detailed historical budget information.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioners' meeting agendas and board actions","url":"https://www.franklincountypa.gov/departments/commissioners-office/","description":"Commissioners page links agendas, minutes, board actions, and public comment forms.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Indiana","government_url":"https://www.indianacountypa.gov","sources":[{"category":"budget","title":"Commissioners' business and finance reports","url":"https://www.indianacountypa.gov/departments/commissioners/business-and-finance/","description":"County page links 2026 General Fund revenue and expenditure budgets.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioners' meeting document archives","url":"https://www.indianacountypa.gov/departments/commissioners/meetings-and-more/meeting-document-archives/","description":"County archive lists dated 2026 meeting documents.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Lancaster","government_url":"https://www.co.lancaster.pa.us","sources":[{"category":"budget","title":"2026 county budget book","url":"https://www.co.lancaster.pa.us/591/Budget-Financial-Information","description":"Budget Services page links the 2026 budget book and presentation.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"agenda","title":"Commissioners' agendas and minutes","url":"https://www.co.lancaster.pa.us/233/Meeting-Information","description":"Commissioners' page links work-session and public-meeting agendas and minutes.","retrieved_at":"2026-11-23","verification":"source_link_verified"}]},{"county":"Lawrence","government_url":"https://lawrencecountypa.gov","sources":[{"category":"budget","title":"2026 compiled county budget","url":"https://lawrencecountypa.gov/departments/commissioners","description":"Commissioners page links the 2026 compiled county budget.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioners' meeting archives","url":"https://www.lawrencecountypa.gov/departments/commissioners/meeting-archives","description":"County archives list dated 2026 agendas, minutes, and videos.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Lebanon","government_url":"https://www.lebanoncountypa.gov","sources":[{"category":"budget","title":"Commissioners' budget documents","url":"https://www.lebanoncountypa.gov/departments/commissioners","description":"Commissioners page links the 2026 budget presentation and a proposed budget; final adoption must be checked separately.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioners' meetings","url":"https://www.lebanoncountypa.gov/departments/commissioners/meetings","description":"County page gives meeting information and links related meeting resources.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Lehigh","government_url":"https://www.lehighcounty.org","sources":[{"category":"budget","title":"2026 adopted county budget","url":"https://www.lehighcounty.org/Portals/0/PDF/Fiscal/2026%20Adopted%20Budget%20-%20COMPLETE.pdf?ver=9iL9ecmKkxPkKEYNB1t0iA%3D%3D","description":"Official county search index identifies the complete 2026 adopted budget PDF; direct automated fetch was unavailable.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Luzerne","government_url":"https://www.luzernecounty.org","sources":[{"category":"budget","title":"2026 adopted budget ordinance","url":"https://www.luzernecounty.org/DocumentCenter/View/46343/O-2025-21-Budget-Ordinance-2026-signed","description":"Signed county ordinance adopts the fiscal year 2026 budget.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"agenda","title":"County Council agenda center","url":"https://www.luzernecounty.org/AgendaCenter/County-Council-2/","description":"Council agenda center includes voting sessions, work sessions, budget hearings and packets.","retrieved_at":"2026-11-23","verification":"source_link_verified"}]},{"county":"Lycoming","government_url":"https://www.lyco.org","sources":[{"category":"budget","title":"2026 approved budget packet","url":"https://lycomingcountypa.gov/Documents/Government/Departments/Financial%20Management/Approved%20and%20Proposed%20Budgets/2026%20Budget%20Packet.pdf?t=202512231145080","description":"Official county PDF is labeled 2026 approved budget.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioners' draft agendas and minutes","url":"https://lycomingcountypa.gov/government/commissioners/draft_agendas_minutes.php","description":"County page lists dated 2026 agendas, minutes, and video links.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Mercer","government_url":"https://www.mercercountypa.gov","sources":[{"category":"budget","title":"2026 budget adoption meeting minutes","url":"https://www.mercercountypa.gov/meeting_minutes/2025/cm/cm_mtg_minutes_12-18-25.pdf","description":"Commissioners' minutes include a resolution to adopt the 2026 county budget; find the budget book for detail.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"2026 commissioners' public meetings","url":"https://www.mercercountypa.gov/Meeting_Minutes/default.htm","description":"County page lists dated 2026 agendas, approved minutes, and recordings.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Mifflin","government_url":"https://mifflincountypa.gov","sources":[{"category":"budget","title":"2026 county budget summary","url":"https://mifflincountypa.gov/","description":"County homepage links the 2026 budget summary; check the linked document for line items.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"minutes","title":"Commissioners' meeting minutes","url":"https://www.mifflincountypa.gov/commissioners/meetings-and-more","description":"County page lists dated 2026 commissioners' minutes.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Monroe","government_url":"https://www.monroecountypa.gov","sources":[{"category":"budget","title":"2026 budget adoption meeting minutes","url":"https://www.monroecountypa.gov/getmedia/b74c8ebd-8596-4ca0-8f00-eeef14b2efb9/20260107_BudgetAdopted_Minutes.pdf","description":"Official commissioners' minutes document the 2026 budget adoption; use the county budget for line items.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Past commissioners' agendas and minutes","url":"https://www.monroecountypa.gov/departments/commissioners/resources/past-commissioners-agendas","description":"County page lists dated 2026 agendas and meeting minutes.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Montgomery","government_url":"https://www.montgomerycountypa.gov","sources":[{"category":"budget","title":"2026 adopted budget index","url":"https://www.montgomerycountypa.gov/departments/finance/proposed-adopted-budgets","description":"County Finance search index lists adopted and proposed budgets; direct fetch blocked by robots.txt.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioners' agendas and minutes","url":"https://www.montgomerycountypa.gov/95/County-Commissioners","description":"Commissioners page links recent and archived agendas; direct fetch blocked by robots.txt.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Montour","government_url":"https://montourcounty.gov","sources":[{"category":"budget","title":"2026 final budget expenditures","url":"https://www.montourcounty.gov/getmedia/a2f06e8d-01de-4ee0-8b3a-c18689b3c51d/Final-Budget-Expenditures-2026.PDF","description":"Official county PDF is labeled Final Budget Report: Expenditures for 2026.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioners' meeting agendas","url":"https://www.montourcounty.gov/departments/commissioners/meeting-agendas","description":"County page lists commissioners' meeting agendas.","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"minutes","title":"Commissioners' meeting minutes","url":"https://www.montourcounty.gov/departments/commissioners/meeting-minutes","description":"County page lists dated 2026 commissioners' minutes.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Northampton","government_url":"https://norcopa.gov","sources":[{"category":"budget","title":"County fiscal reports and budgets","url":"https://www.northamptoncounty.org/index.php?section=fiscal-reports","description":"County fiscal reports index identifies 2026 adopted and 2027 proposed budgets.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"County Council agendas and minutes","url":"https://www.northamptoncounty.org/index.php?filterbycat=2&section=council-agenda-minutes","description":"Official council directory identifies agendas and minutes.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Philadelphia","government_url":"https://www.phila.gov","sources":[{"category":"elected_offices","title":"Philadelphia elected officials directory","url":"https://votes.phila.gov/voting/current-elected-officials/elected-officials-in-philadelphia-county/","description":"City Commissioners list citywide and district elected officials; verify entries before republication.","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"budget","title":"FY2027 enacted city budget announcement","url":"https://www.phila.gov/2026-06-11-mayor-cherelle-l-parker-applauds-final-passage-of-fy27-budget/","description":"City announcement of Council passage of FY2027 budget; use Finance documents for line items.","fiscal_year":"FY2027","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"budget_detail","title":"City Finance budget documents and reports","url":"https://www.phila.gov/departments/office-of-the-director-of-finance/financial-reports/","description":"Finance index links operating budget detail, capital budget, monthly expenditure reports, and financial statements.","fiscal_year":"FY2027","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"agenda","title":"City Council calendar and agendas","url":"https://phila.legistar.com/Calendar.aspx","description":"Official city legislation system lists council and committee meetings, agendas, minutes, and packets.","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"elections","title":"Philadelphia City Commissioners reports and data","url":"https://vote.phila.gov/resources-data/election-resources/reports-and-data/","description":"Local election data, voter guides, district information, and commissioners' budgets.","retrieved_at":"2026-11-23","verification":"source_link_verified"}]},{"county":"Washington","government_url":"https://www.washingtoncopa.gov","sources":[{"category":"budget","title":"County Finance adopted budgets","url":"https://www.washingtoncopa.gov/finance","description":"Finance page links the 2026 adopted budget and audited financial statements.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Commissioners' public meeting schedule","url":"https://www.washingtoncopa.gov/board-of-commissioners","description":"Board page links the 2026 meeting schedule; meeting documents are available through the county records system.","retrieved_at":"2026-11-23","verification":"source_directory_verified"}]},{"county":"Westmoreland","government_url":"https://www.westmorelandcountypa.gov","sources":[{"category":"budget","title":"2026 adopted operating and capital budget","url":"https://www.westmorelandcountypa.gov/DocumentCenter/View/34465/2026-Adopted-Budget","description":"Official county search index identifies a 2026 adopted operating and capital budget PDF; direct automated fetch was unavailable.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_directory_verified"},{"category":"agenda","title":"Board of Commissioners agenda center","url":"https://www.westmorelandcountypa.gov/AgendaCenter","description":"County Agenda Center includes 2026 public meeting agendas.","retrieved_at":"2026-11-23","verification":"source_link_verified"}]},{"county":"York","government_url":"https://www.yorkcountypa.gov","sources":[{"category":"budget","title":"2026 adopted county budget","url":"https://www.yorkcountypa.gov/DocumentCenter/View/7903/2026-Adopted-Budget","description":"County PDF is labeled 2026 Adopted Budget.","fiscal_year":"2026","retrieved_at":"2026-11-23","verification":"source_link_verified"},{"category":"agenda","title":"Commissioners' meeting agendas and minutes","url":"https://yorkcountypa.gov/817/Meeting-Agendas-and-Minutes","description":"Commissioners page links dated agendas and minutes.","retrieved_at":"2026-11-23","verification":"source_link_verified"}]}]}
+{
+  "schema_version": "0.1",
+  "retrieved_at": "2026-11-24",
+  "description": "Official Pennsylvania county source links for budgets and public meetings. Source presence does not establish current officeholders, amounts, or adoption status.",
+  "verification_labels": {
+    "source_link_verified": "The linked government page was opened and its described content confirmed on the retrieval date; the linked content can change.",
+    "source_directory_verified": "The linked government page or association directory identifies the resource, but individual records are not yet ingested; direct fetch may be unavailable."
+  },
+  "counties": [
+    {
+      "county": "Adams",
+      "government_url": "https://www.adamscountypa.gov",
+      "sources": [
+        {
+          "category": "elected_offices",
+          "title": "Board of Commissioners and elected county offices",
+          "url": "https://www.adamscountypa.gov/getmedia/3c328d0f-280f-4aea-8a4b-137151a36e19/2026-Budget-Document-Final.pdf",
+          "description": "The 2026 final budget names commissioners and other elected offices. Verify current officeholders independently before display.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "budget",
+          "title": "2026 final adopted budget and budget archive",
+          "url": "https://adamscountypa.gov/departments/commissioners/commissioners-budgets",
+          "description": "County budget index links the 2026 final adopted and capital budgets.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "2026 Board of Commissioners agendas and minutes",
+          "url": "https://www.adamscountypa.gov/departments/commissioners/boardcommissionersmeetings/2026",
+          "description": "Dated meeting agendas and minutes posted by the county.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "elections",
+          "title": "Adams County election resources",
+          "url": "https://www.adamscountypa.gov/departments/electionsandvoterregistration/electionresources",
+          "description": "County election notices, polling place and sample ballot links. Check for 2027 updates.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Allegheny",
+      "government_url": "https://www.alleghenycounty.us",
+      "sources": [
+        {
+          "category": "elected_offices",
+          "title": "County Council structure and members",
+          "url": "https://www.alleghenycounty.us/Government/Row-Offices/County-Council",
+          "description": "Official council page describes 15 elected council seats and links member information.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "budget",
+          "title": "2026 operating and capital county budgets",
+          "url": "https://www.alleghenycounty.us/Government/Department-Directory/Budget-and-Finance/County-Budgets",
+          "description": "County budget index links the 2026 operating budget, line-item detail, and capital budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "County Council meetings, agendas, and legislation",
+          "url": "https://www.alleghenycounty.us/Government/Row-Offices/County-Council/Council-Meetings",
+          "description": "Official council page links Legistar agendas, meeting detail, videos, and bill search.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "elections",
+          "title": "Allegheny County Elections Division",
+          "url": "https://www.alleghenycounty.us/Government/Elections",
+          "description": "County election administration and voter resource links.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Armstrong",
+      "government_url": "https://www.co.armstrong.pa.us",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County finance and budget documents",
+          "url": "https://www.co.armstrong.pa.us/index.php/county-government-m/commissioners-m/finance-m",
+          "description": "Finance page lists the 2026 final budget and older budgets.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "County meeting agendas and minutes",
+          "url": "https://www.co.armstrong.pa.us/index.php/news-m/county-meeting-agendas-and-minutes-m",
+          "description": "County page lists dated commissioners' public-meeting agendas and minutes.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Beaver",
+      "government_url": "https://www.beavercountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "Board of Commissioners budget documents",
+          "url": "https://www.beavercountypa.gov/departments/board-of-commissioners",
+          "description": "Commissioners page links the 2026 adopted budget and 2027 proposed budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' agendas and minutes",
+          "url": "https://www.beavercountypa.gov/departments/board-of-commissioners/agendas",
+          "description": "County page lists dated public-meeting agendas and minutes.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Bedford",
+      "government_url": "https://www.bedfordcountypa.org",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County budget documents",
+          "url": "https://bedfordcountypa.org/government/commissioners/county_budget.php",
+          "description": "Official homepage links this county budget page; direct automated fetch returned a 403 response.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' meeting agendas and minutes",
+          "url": "https://bedfordcountypa.org/government/commissioners/meeting_agendas_and_minutes.php",
+          "description": "Official homepage links this meeting records page; direct automated fetch returned a 403 response.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Berks",
+      "government_url": "https://www.berkspa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County budget office and budget documents",
+          "url": "https://www.berkspa.gov/departments/budget",
+          "description": "Official Budget Office page identifies county budget documents; direct automated fetch was unavailable.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' meetings and agendas",
+          "url": "https://www.berkspa.gov/departments/commissioners/meetings",
+          "description": "Commissioners page lists 2026 public meetings and agenda links.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Blair",
+      "government_url": "https://www.blairco.org",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 introduced General and Reserve Fund budget",
+          "url": "https://www.blairco.org/getmedia/260e33c8-9485-476b-b1ff-341e624d48c4/2026-General-and-Reserve-Fund-Budget-Introduced.pdf",
+          "description": "Official county PDF is labeled introduced; confirm final adoption separately.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' agenda and minutes directory",
+          "url": "https://www.blairco.org/",
+          "description": "County homepage links the Commissioners' agenda and minutes section.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Bradford",
+      "government_url": "https://www.bradfordcountypa.org",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "Commissioners' final budget documents",
+          "url": "https://www.bradfordcountypa.gov/320/Commissioners",
+          "description": "Official Commissioners page links the 2026 final budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "County Agenda Center",
+          "url": "https://www.bradfordcountypa.gov/agendacenter",
+          "description": "County Agenda Center lists commissioners' agendas and minutes.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Bucks",
+      "government_url": "https://www.buckscounty.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 final county budget",
+          "url": "https://www.buckscounty.gov/253/Finance-Division",
+          "description": "County Finance page links the 2026 final budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Meeting agendas, minutes and videos",
+          "url": "https://www.buckscounty.gov/129/Meeting-Agendas-Minutes-Videos-Portal",
+          "description": "County meeting portal links commissioners' agendas, minutes and recordings.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Butler",
+      "government_url": "https://www.butlercountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 adopted county budget",
+          "url": "https://www.butlercountypa.gov/709/Board-of-Commissioners-Current-Budget",
+          "description": "Commissioners page links the 2026 adopted budget and 2027 proposed budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' agendas and minutes",
+          "url": "https://www.butlercountypa.gov/agendacenter",
+          "description": "County Agenda Center provides Board of Commissioners agendas and minutes.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Cambria",
+      "government_url": "https://www.cambriacountypa.gov",
+      "sources": [
+        {
+          "category": "minutes",
+          "title": "County meeting minutes archive",
+          "url": "https://www.cambriacountypa.gov/resources/meeting-minutes/",
+          "description": "Official county archive identifies commissioners' meeting minutes and budget hearings.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Cameron",
+      "government_url": "https://www.cameroncountypa.com",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County budget documents",
+          "url": "https://www.cameroncountypa.com/government/commissioners/budgets.php",
+          "description": "County budget archive links a 2026 budget and budget memo.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' meeting agendas",
+          "url": "https://www.cameroncountypa.com/government/commissioners/agendas.php",
+          "description": "County page lists commissioners' meeting agendas.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Carbon",
+      "government_url": "https://www.carboncountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County budget documents",
+          "url": "https://www.carboncountypa.gov/government/row_offices/controller/budgets.php",
+          "description": "Official county budget page is linked from the county navigation; automated fetch returned 403, so document details remain unverified.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Board of Commissioners agendas and minutes",
+          "url": "https://www.carboncountypa.gov/government/boards_authorities___commissions_/agendas___minutes.php",
+          "description": "Official county page for commissioners' agendas and minutes.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Centre",
+      "government_url": "https://centrecountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 final county budget",
+          "url": "https://centrecountypa.gov/877/Budget",
+          "description": "Commissioners budget page links the 2026 final and proposed county budgets.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Board of Commissioners agenda center",
+          "url": "https://centrecountypa.gov/agendacenter",
+          "description": "County Agenda Center includes Board of Commissioners agendas, with dates and RSS.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Chester",
+      "government_url": "https://www.chesco.org",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County transparency and budget documents",
+          "url": "https://www.chesco.org/4326/Transparency",
+          "description": "Official transparency page identifies budget documents and financial reporting.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' agendas and transparency resources",
+          "url": "https://www.chesco.org/4326/Transparency",
+          "description": "Official transparency page links commissioners' meeting agendas.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Clarion",
+      "government_url": "https://www.co.clarion.pa.us",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County budget archive",
+          "url": "https://www.co.clarion.pa.us/government/elected_officials/commissioners/county_budget.php",
+          "description": "Official county page links the 2026 budget and a separate 2027 draft.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' agendas and minutes",
+          "url": "https://www.co.clarion.pa.us/government/elected_officials/commissioners/agendas___minutes.php",
+          "description": "County page lists dated 2026 commissioners' agendas and minutes.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Clearfield",
+      "government_url": "https://clearfieldcountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "Commissioners' county budget summaries",
+          "url": "https://clearfieldcountypa.gov/162/Commissioners",
+          "description": "Commissioners page identifies proposed and adopted budget summaries; check each document's status before display.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' agenda center",
+          "url": "https://clearfieldcountypa.gov/AgendaCenter/Commissioners-4",
+          "description": "County Agenda Center identifies regular commissioners' meeting agendas.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Clinton",
+      "government_url": "https://www.clintoncountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "Preliminary and final county budgets",
+          "url": "https://www.clintoncountypa.gov/government/commissioners/preliminary-final-budget",
+          "description": "County page identifies the 2026 final adopted and proposed detailed budgets.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' meeting minutes and agendas",
+          "url": "https://www.clintoncountypa.gov/government/commissioners/meeting-minutes",
+          "description": "County page identifies dated 2026 commissioners' minutes and agendas.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Columbia",
+      "government_url": "https://www.columbiapa.org",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County budget notices",
+          "url": "https://www.columbiapa.org/",
+          "description": "Official county homepage identifies the advertised budget; confirm adoption status in meeting records.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' meeting information",
+          "url": "https://columbiapa.org/commissioners/index.php",
+          "description": "Commissioners page identifies the next meeting agenda.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "minutes",
+          "title": "Commissioners' meeting minutes archive",
+          "url": "https://columbiapa.org/commissioners/meetingminutes.php",
+          "description": "Official archive identifies dated commissioners' meeting minutes.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Crawford",
+      "government_url": "https://www.crawfordcountypa.net",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County finance and budget documents",
+          "url": "https://crawfordcountypa.net/government/finance/",
+          "description": "Finance page identifies the 2026 final budget and preliminary future budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Upcoming board meeting agendas",
+          "url": "https://crawfordcountypa.net/upcoming-board-meetings/",
+          "description": "County page identifies dated Board of Commissioners meeting agendas.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Cumberland",
+      "government_url": "https://www.cumberlandcountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County budget documents",
+          "url": "https://cumberlandcountypa.gov/2680/Budget",
+          "description": "County budget page identifies the 2026 approved budget; distinguish other fiscal-year documents.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "County Agenda Center",
+          "url": "https://www.cumberlandcountypa.gov/AgendaCenter",
+          "description": "County Agenda Center identifies commissioners' agendas and meeting documents.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Dauphin",
+      "government_url": "https://www.dauphincounty.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 approved calendar-year budget",
+          "url": "https://www.dauphincounty.gov/docs/default-source/budget-finances/approved-budgets/2026-dauphin-county-approved-budget.pdf",
+          "description": "Official county search index identifies a 2026 approved-budget PDF; direct automated fetch was unavailable.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioner meetings and minutes",
+          "url": "https://www.dauphincounty.gov/government/publicly-elected-officials/commissioners/commissioner-meetings",
+          "description": "Commissioners page links agendas, minutes and livestream information.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Delaware",
+      "government_url": "https://www.delcopa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "Budget Management reports",
+          "url": "https://www.delcopa.gov/budget-management",
+          "description": "County page identifies the 2026 adopted budget and 2027 proposed budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "County Council meetings",
+          "url": "https://www.delcopa.gov/council/meetings",
+          "description": "Council page identifies agendas, minutes, and the meeting schedule.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Elk",
+      "government_url": "https://www.countyofelkpa.com",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "Current and past county budgets",
+          "url": "https://countyofelkpa.gov/elk-county-offices/board-of-commissioners/elk-county-budget/",
+          "description": "Official budget page identifies the 2026 approved budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' meeting minutes and agendas",
+          "url": "https://countyofelkpa.gov/elk-county-offices/board-of-commissioners/meeting-minutes-and-agendas/",
+          "description": "County page lists dated 2026 agendas, minutes, and video links.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Erie",
+      "government_url": "https://eriecountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 county budget and finance reports",
+          "url": "https://eriecountypa.gov/departments/finance/reports/",
+          "description": "County Finance page lists the 2026 budget and annual reports.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "County Council agendas and meetings",
+          "url": "https://www.eriecountycouncilpa.gov/county-council/agendas-and-meetings",
+          "description": "Official County Council site lists meeting schedule and agenda access.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Fayette",
+      "government_url": "https://www.fayettecountypa.org",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 adopted General Fund budget",
+          "url": "https://www.fayettecountypa.org/DocumentCenter/View/10809/2026--Fayette-County-Adopted-General-Fund--Budget",
+          "description": "Official county PDF is labeled 2026 Adopted General Fund Budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' Agenda Center",
+          "url": "https://www.fayettecountypa.org/AgendaCenter/County-Commissioners-6",
+          "description": "County Agenda Center lists dated commissioners' agendas.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Forest",
+      "government_url": "https://www.co.forest.pa.us",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 county budget document",
+          "url": "https://www.co.forest.pa.us/government/meeting_minutes.php",
+          "description": "County document center includes a Forest County 2026 Budget listing.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "minutes",
+          "title": "Commissioners' meeting minutes",
+          "url": "https://www.co.forest.pa.us/government/meeting_minutes.php",
+          "description": "County document center lists dated 2026 commissioner meeting minutes.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Franklin",
+      "government_url": "https://franklincountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "Fiscal Department budget and reports",
+          "url": "https://www.franklincountypa.gov/departments/fiscal/",
+          "description": "Fiscal Department page links a 2026 budget overview and detailed historical budget information.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' meeting agendas and board actions",
+          "url": "https://www.franklincountypa.gov/departments/commissioners-office/",
+          "description": "Commissioners page links agendas, minutes, board actions, and public comment forms.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Fulton",
+      "government_url": "https://www.co.fulton.pa.us",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County budget summary",
+          "url": "https://www.co.fulton.pa.us/business-office.php",
+          "description": "Official business office page links budget summaries; check the 2026 document for adoption status.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioner meeting agendas and minutes",
+          "url": "https://www.co.fulton.pa.us/commissioner-minutes-agendas.php",
+          "description": "County page lists dated 2026 agendas and commissioner minutes.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Greene",
+      "government_url": "https://www.co.greene.pa.us",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "Finance Office budget documents",
+          "url": "https://www.greenecountypa.gov/department-finance",
+          "description": "County Finance page identifies the proposed 2026 budget and older final budgets; do not present proposal as adopted.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "minutes",
+          "title": "Commissioner Board meeting minutes",
+          "url": "https://greenecountypa.gov/board-commissioners",
+          "description": "Board page lists 2026 commissioner agenda-meeting and board-meeting minutes.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Huntingdon",
+      "government_url": "https://www.huntingdoncounty.net",
+      "sources": [
+        {
+          "category": "agenda",
+          "title": "Commissioners' meetings and agenda archive",
+          "url": "https://www.huntingdoncountypa.gov/departments/commissioners/commissioners-meetings",
+          "description": "Official meetings page gives 2026 schedule and links agenda and minute archives.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Indiana",
+      "government_url": "https://www.indianacountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "Commissioners' business and finance reports",
+          "url": "https://www.indianacountypa.gov/departments/commissioners/business-and-finance/",
+          "description": "County page links 2026 General Fund revenue and expenditure budgets.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' meeting document archives",
+          "url": "https://www.indianacountypa.gov/departments/commissioners/meetings-and-more/meeting-document-archives/",
+          "description": "County archive lists dated 2026 meeting documents.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Jefferson",
+      "government_url": "https://www.jeffersoncountypa.com",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 county budget PDF",
+          "url": "https://www.jeffersoncountypa.gov/wp-content/uploads/2026/04/Approval-Budget-2026.pdf",
+          "description": "Official county PDF is titled Budget 2026; inspect document details before publishing line items.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' meetings and agendas",
+          "url": "https://www.jeffersoncountypa.gov/departments/commissioners/meetings/",
+          "description": "County page lists recent commissioners' meeting agendas.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Juniata",
+      "government_url": "https://www.juniataco.org",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County finances and annual budget documents",
+          "url": "https://www.juniatacountypa.gov/257/Finances",
+          "description": "Official government directory identifies annual budget information through 2026; direct automated fetch timed out.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioner Board Agenda Center",
+          "url": "https://www.juniatacountypa.gov/agendacenter",
+          "description": "County Agenda Center lists dated 2026 Commissioner Board agendas.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Lackawanna",
+      "government_url": "https://www.lackawannacounty.org",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 county budget announcement",
+          "url": "https://lackawannacounty.com/news/lackawanna-county-passes-181m-budget-no-tax-hike-and-modest-surplus",
+          "description": "Official county announcement reports adoption of the 2026 budget; use the budget book for line items.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Board of Commissioners meeting calendar",
+          "url": "https://lackawanna.legistar.com/Calendar.aspx",
+          "description": "County Legistar calendar links dated commissioners' agendas and minutes.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Lancaster",
+      "government_url": "https://www.co.lancaster.pa.us",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 county budget book",
+          "url": "https://www.co.lancaster.pa.us/591/Budget-Financial-Information",
+          "description": "Budget Services page links the 2026 budget book and presentation.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' agendas and minutes",
+          "url": "https://www.co.lancaster.pa.us/233/Meeting-Information",
+          "description": "Commissioners' page links work-session and public-meeting agendas and minutes.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Lawrence",
+      "government_url": "https://lawrencecountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 compiled county budget",
+          "url": "https://lawrencecountypa.gov/departments/commissioners",
+          "description": "Commissioners page links the 2026 compiled county budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' meeting archives",
+          "url": "https://www.lawrencecountypa.gov/departments/commissioners/meeting-archives",
+          "description": "County archives list dated 2026 agendas, minutes, and videos.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Lebanon",
+      "government_url": "https://www.lebanoncountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "Commissioners' budget documents",
+          "url": "https://www.lebanoncountypa.gov/departments/commissioners",
+          "description": "Commissioners page links the 2026 budget presentation and a proposed budget; final adoption must be checked separately.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' meetings",
+          "url": "https://www.lebanoncountypa.gov/departments/commissioners/meetings",
+          "description": "County page gives meeting information and links related meeting resources.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Lehigh",
+      "government_url": "https://www.lehighcounty.org",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 adopted county budget",
+          "url": "https://www.lehighcounty.org/Portals/0/PDF/Fiscal/2026%20Adopted%20Budget%20-%20COMPLETE.pdf?ver=9iL9ecmKkxPkKEYNB1t0iA%3D%3D",
+          "description": "Official county search index identifies the complete 2026 adopted budget PDF; direct automated fetch was unavailable.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Luzerne",
+      "government_url": "https://www.luzernecounty.org",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 adopted budget ordinance",
+          "url": "https://www.luzernecounty.org/DocumentCenter/View/46343/O-2025-21-Budget-Ordinance-2026-signed",
+          "description": "Signed county ordinance adopts the fiscal year 2026 budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "County Council agenda center",
+          "url": "https://www.luzernecounty.org/AgendaCenter/County-Council-2/",
+          "description": "Council agenda center includes voting sessions, work sessions, budget hearings and packets.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Lycoming",
+      "government_url": "https://www.lyco.org",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 approved budget packet",
+          "url": "https://lycomingcountypa.gov/Documents/Government/Departments/Financial%20Management/Approved%20and%20Proposed%20Budgets/2026%20Budget%20Packet.pdf?t=202512231145080",
+          "description": "Official county PDF is labeled 2026 approved budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' draft agendas and minutes",
+          "url": "https://lycomingcountypa.gov/government/commissioners/draft_agendas_minutes.php",
+          "description": "County page lists dated 2026 agendas, minutes, and video links.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "McKean",
+      "government_url": "https://www.mckeancountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "Proposed county budgets and reports",
+          "url": "https://www.mckeancountypa.gov/government/commissioners/budgets___reports.php",
+          "description": "County page lists proposed 2026 General Fund and all-fund budgets; final adoption status is not established here.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' agendas and minutes",
+          "url": "https://www.mckeancountypa.gov/government/commissioners/agendas___minutes.php",
+          "description": "County page lists 2026 commissioners' agendas and minutes.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Mercer",
+      "government_url": "https://www.mercercountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 budget adoption meeting minutes",
+          "url": "https://www.mercercountypa.gov/meeting_minutes/2025/cm/cm_mtg_minutes_12-18-25.pdf",
+          "description": "Commissioners' minutes include a resolution to adopt the 2026 county budget; find the budget book for detail.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "2026 commissioners' public meetings",
+          "url": "https://www.mercercountypa.gov/Meeting_Minutes/default.htm",
+          "description": "County page lists dated 2026 agendas, approved minutes, and recordings.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Mifflin",
+      "government_url": "https://mifflincountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 county budget summary",
+          "url": "https://mifflincountypa.gov/",
+          "description": "County homepage links the 2026 budget summary; check the linked document for line items.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "minutes",
+          "title": "Commissioners' meeting minutes",
+          "url": "https://www.mifflincountypa.gov/commissioners/meetings-and-more",
+          "description": "County page lists dated 2026 commissioners' minutes.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Monroe",
+      "government_url": "https://www.monroecountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 budget adoption meeting minutes",
+          "url": "https://www.monroecountypa.gov/getmedia/b74c8ebd-8596-4ca0-8f00-eeef14b2efb9/20260107_BudgetAdopted_Minutes.pdf",
+          "description": "Official commissioners' minutes document the 2026 budget adoption; use the county budget for line items.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Past commissioners' agendas and minutes",
+          "url": "https://www.monroecountypa.gov/departments/commissioners/resources/past-commissioners-agendas",
+          "description": "County page lists dated 2026 agendas and meeting minutes.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Montgomery",
+      "government_url": "https://www.montgomerycountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 adopted budget index",
+          "url": "https://www.montgomerycountypa.gov/departments/finance/proposed-adopted-budgets",
+          "description": "County Finance search index lists adopted and proposed budgets; direct fetch blocked by robots.txt.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' agendas and minutes",
+          "url": "https://www.montgomerycountypa.gov/95/County-Commissioners",
+          "description": "Commissioners page links recent and archived agendas; direct fetch blocked by robots.txt.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Montour",
+      "government_url": "https://montourcounty.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 final budget expenditures",
+          "url": "https://www.montourcounty.gov/getmedia/a2f06e8d-01de-4ee0-8b3a-c18689b3c51d/Final-Budget-Expenditures-2026.PDF",
+          "description": "Official county PDF is labeled Final Budget Report: Expenditures for 2026.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' meeting agendas",
+          "url": "https://www.montourcounty.gov/departments/commissioners/meeting-agendas",
+          "description": "County page lists commissioners' meeting agendas.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "minutes",
+          "title": "Commissioners' meeting minutes",
+          "url": "https://www.montourcounty.gov/departments/commissioners/meeting-minutes",
+          "description": "County page lists dated 2026 commissioners' minutes.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Northampton",
+      "government_url": "https://norcopa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County fiscal reports and budgets",
+          "url": "https://www.northamptoncounty.org/index.php?section=fiscal-reports",
+          "description": "County fiscal reports index identifies 2026 adopted and 2027 proposed budgets.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "County Council agendas and minutes",
+          "url": "https://www.northamptoncounty.org/index.php?filterbycat=2&section=council-agenda-minutes",
+          "description": "Official council directory identifies agendas and minutes.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Northumberland",
+      "government_url": "https://www.norrycopa.net",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 county budget documents",
+          "url": "https://northumberlandcountypa.gov/finance/",
+          "description": "Official Finance page links a document labeled 2026 Budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Public meetings and agendas",
+          "url": "https://northumberlandcountypa.gov/public-meetings-and-agends/",
+          "description": "Official county page lists commissioners' public meetings and agendas.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Perry",
+      "government_url": "https://www.perryco.org",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "Fiscal Department budget documents",
+          "url": "https://perryco.org/departments/fiscal-department/",
+          "description": "Official Fiscal Department page links a 2026 county budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' public meeting records",
+          "url": "https://perryco.org/departments/commisioners/",
+          "description": "Commissioners page links meeting minutes; dated meeting posts include agendas and draft minutes.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Philadelphia",
+      "government_url": "https://www.phila.gov",
+      "sources": [
+        {
+          "category": "elected_offices",
+          "title": "Philadelphia elected officials directory",
+          "url": "https://votes.phila.gov/voting/current-elected-officials/elected-officials-in-philadelphia-county/",
+          "description": "City Commissioners list citywide and district elected officials; verify entries before republication.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "budget",
+          "title": "FY2027 enacted city budget announcement",
+          "url": "https://www.phila.gov/2026-06-11-mayor-cherelle-l-parker-applauds-final-passage-of-fy27-budget/",
+          "description": "City announcement of Council passage of FY2027 budget; use Finance documents for line items.",
+          "fiscal_year": "FY2027",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "budget_detail",
+          "title": "City Finance budget documents and reports",
+          "url": "https://www.phila.gov/departments/office-of-the-director-of-finance/financial-reports/",
+          "description": "Finance index links operating budget detail, capital budget, monthly expenditure reports, and financial statements.",
+          "fiscal_year": "FY2027",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "City Council calendar and agendas",
+          "url": "https://phila.legistar.com/Calendar.aspx",
+          "description": "Official city legislation system lists council and committee meetings, agendas, minutes, and packets.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "elections",
+          "title": "Philadelphia City Commissioners reports and data",
+          "url": "https://vote.phila.gov/resources-data/election-resources/reports-and-data/",
+          "description": "Local election data, voter guides, district information, and commissioners' budgets.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Pike",
+      "government_url": "https://www.pikepa.org",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County budget page",
+          "url": "https://www.pikepa.org/government/commissioners_office/pike_county_budget.php",
+          "description": "Official homepage links this budget page; direct automated fetch returned a 403 response.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' meeting agendas and minutes",
+          "url": "https://www2.pikepa.org/agendas",
+          "description": "County-linked meeting archive lists agendas and minutes.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Potter",
+      "government_url": "https://www.pottercountypa.net",
+      "sources": [
+        {
+          "category": "agenda",
+          "title": "Commissioners' agendas and minutes",
+          "url": "https://pottercountypa.gov/government/agendas_and_minutes.php",
+          "description": "Official county page lists commissioners' meeting dates and agenda and minute documents.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Schuylkill",
+      "government_url": "https://schuylkillcountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County Administration and Finance budget documents",
+          "url": "https://schuylkillcountypa.gov/departments/administration_finance_director/index.php",
+          "description": "County Finance page links annual budget documents; confirm each document's fiscal year and status.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' meetings and ordinances",
+          "url": "https://schuylkillcountypa.gov/government/commissioners/meetings___ordinances/index.php",
+          "description": "Official page publishes the 2026 meeting schedule and links commissioner meeting records.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Snyder",
+      "government_url": "https://www.snydercounty.org",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 adopted county budget notice",
+          "url": "https://www.snydercounty.org/2026-snyder-county-budget-adopted/",
+          "description": "Official notice identifies adoption of the 2026 county budget; consult budget documents for detail.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Board of Commissioners agendas",
+          "url": "https://www.snydercounty.org/community-resources/agendas/",
+          "description": "County archive lists dated 2026 Board of Commissioners agendas.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Somerset",
+      "government_url": "https://www.co.somerset.pa.us",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 approved county budget overview",
+          "url": "https://www.co.somerset.pa.us/files/comm_files/26BudgetOverview.pdf",
+          "description": "Official county PDF summarizes the 2026 approved budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' meeting agendas",
+          "url": "https://www.co.somerset.pa.us/pages/Commissioners/commagenda.asp",
+          "description": "County page lists dated 2026 commissioner meeting agendas and personnel action sheets.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Sullivan",
+      "government_url": "https://www.sullivancountypa.gov",
+      "sources": [
+        {
+          "category": "agenda",
+          "title": "Commissioners' agendas and minutes",
+          "url": "https://www.sullivancountypa.gov/commissioners/",
+          "description": "County page lists current agendas and dated 2026 draft meeting minutes.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Susquehanna",
+      "government_url": "https://www.susqco.com",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County budget documents",
+          "url": "https://www.susqco.com/departments/county-commissioners/administration",
+          "description": "County administration page links the 2026 county budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioner meetings and documents",
+          "url": "https://www.susqco.com/departments/county-commissioners/commissioner-meetings",
+          "description": "County page links 2026 minutes and recent commissioners' agendas.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Tioga",
+      "government_url": "https://www.tiogacountypa.us",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "Commissioners' county budget documents",
+          "url": "https://www.tiogacountypa.us/departments/commissioners",
+          "description": "County commissioners page links the 2026 Tioga County budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' agendas and minutes",
+          "url": "https://www.tiogacountypa.us/departments/commissioners",
+          "description": "Commissioners page links agendas and minutes.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Union",
+      "government_url": "https://unioncountypa.org",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 adopted budget worksheet",
+          "url": "https://unioncountypa.org/wp-content/uploads/2025/12/2026-Adopted-budget.pdf",
+          "description": "Official county PDF is labeled 2026 adopted budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioner meeting minutes and agendas",
+          "url": "https://unioncountypa.org/commissioners/",
+          "description": "Commissioners page links meeting minutes and agendas.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Venango",
+      "government_url": "https://www.venangocountypa.gov",
+      "sources": [
+        {
+          "category": "agenda",
+          "title": "Commissioner Board agendas and minutes",
+          "url": "https://www.venangocountypa.gov/government/agendas/commissioner_board.php",
+          "description": "Official board records page lists agendas and minutes.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Warren",
+      "government_url": "https://warrencountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "Fiscal Department budget documents",
+          "url": "https://www.warrencountypa.gov/1193/Fiscal-Department",
+          "description": "Fiscal Department page links the final 2026 county budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "County Agenda Center",
+          "url": "https://warrencountypa.gov/AgendaCenter",
+          "description": "County Agenda Center lists commissioners' public meeting agendas.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Washington",
+      "government_url": "https://www.washingtoncopa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County Finance adopted budgets",
+          "url": "https://www.washingtoncopa.gov/finance",
+          "description": "Finance page links the 2026 adopted budget and audited financial statements.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' public meeting schedule",
+          "url": "https://www.washingtoncopa.gov/board-of-commissioners",
+          "description": "Board page links the 2026 meeting schedule; meeting documents are available through the county records system.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Wayne",
+      "government_url": "https://waynecountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 approved county budget",
+          "url": "https://waynecountypa.gov/1059/2026-Approved-Budget",
+          "description": "Official county page links 2026 approved budget expense and revenue documents.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "County Agenda Center",
+          "url": "https://waynecountypa.gov/AgendaCenter",
+          "description": "Agenda Center lists 2026 commissioners' meeting agendas and minutes.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "Westmoreland",
+      "government_url": "https://www.westmorelandcountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 adopted operating and capital budget",
+          "url": "https://www.westmorelandcountypa.gov/DocumentCenter/View/34465/2026-Adopted-Budget",
+          "description": "Official county search index identifies a 2026 adopted operating and capital budget PDF; direct automated fetch was unavailable.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Board of Commissioners agenda center",
+          "url": "https://www.westmorelandcountypa.gov/AgendaCenter",
+          "description": "County Agenda Center includes 2026 public meeting agendas.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        }
+      ]
+    },
+    {
+      "county": "Wyoming",
+      "government_url": "https://www.wyomingcountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "County budget documents",
+          "url": "https://wyomingcountypa.gov/commissioners/budget/",
+          "description": "Commissioners' budget page links the 2026 final budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' agendas",
+          "url": "https://wyomingcountypa.gov/documents/commissioners-upcoming-agendas/",
+          "description": "County page lists dated 2026 commissioners' agendas.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        },
+        {
+          "category": "minutes",
+          "title": "Commissioners' meeting minutes",
+          "url": "https://wyomingcountypa.gov/commissioners/minutes/",
+          "description": "County page lists 2026 monthly meeting-minute documents.",
+          "retrieved_at": "2026-11-24",
+          "verification": "source_directory_verified"
+        }
+      ]
+    },
+    {
+      "county": "York",
+      "government_url": "https://www.yorkcountypa.gov",
+      "sources": [
+        {
+          "category": "budget",
+          "title": "2026 adopted county budget",
+          "url": "https://www.yorkcountypa.gov/DocumentCenter/View/7903/2026-Adopted-Budget",
+          "description": "County PDF is labeled 2026 Adopted Budget.",
+          "fiscal_year": "2026",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        },
+        {
+          "category": "agenda",
+          "title": "Commissioners' meeting agendas and minutes",
+          "url": "https://yorkcountypa.gov/817/Meeting-Agendas-and-Minutes",
+          "description": "Commissioners page links dated agendas and minutes.",
+          "retrieved_at": "2026-11-23",
+          "verification": "source_link_verified"
+        }
+      ]
+    }
+  ]
+}

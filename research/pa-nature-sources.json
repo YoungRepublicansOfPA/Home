@@ -1,0 +1,87 @@
+{
+  "checked_at": "2026-11-24",
+  "scope": "Pennsylvania nature and public-land source cards; official primary sources only",
+  "topics": [
+    {
+      "id": "state-park-visitation",
+      "title": "Pennsylvania state park visitation",
+      "summary": "The Commonwealth's 2025 Annual Comprehensive Financial Report lists 38.6 million state-park visitor days for calendar 2025, compared with 38.5 million for 2024, 38.3 million for 2023, and 46.6 million for 2021.",
+      "verified_datapoints": [
+        {"year": 2021, "visitor_days": 46600000},
+        {"year": 2023, "visitor_days": 38300000},
+        {"year": 2024, "visitor_days": 38500000},
+        {"year": 2025, "visitor_days": 38600000}
+      ],
+      "source_urls": [
+        "https://www.pa.gov/content/dam/copapwp-pagov/en/budget/documents/publications-and-reports/annualfinancialreport/june-30-2025%20acfr.pdf"
+      ],
+      "source_location": "Operating Information, Table 17, State park attendance, page 288 of the 2025 ACFR",
+      "caveats": [
+        "Visitor days are visits over days, not a count of unique people.",
+        "The ACFR labels 2024 and 2025 with footnote (4); preserve that qualification when publishing exact figures.",
+        "A separate DCNR web page reports 38.3 million visitor days for 2024, so do not combine the two series without reconciling their definitions or revisions."
+      ]
+    },
+    {
+      "id": "park-damage-graffiti",
+      "title": "Documented park and forest damage",
+      "summary": "DCNR's 2020–2024 Outdoor Recreation Plan describes vandalism, graffiti, and litter as management challenges and reports more than 1,000 volunteer hours used to clean graffiti in state parks and forests during 2016–2018. It does not establish a current statewide incident trend.",
+      "verified_datapoints": [
+        {"period": "2016-2018", "measure": "graffiti-cleanup volunteer hours", "value": 1000, "operator": ">"},
+        {"period": "2020-2024 plan", "measure": "DCNR documented vandalism and graffiti as a threat", "value": true}
+      ],
+      "source_urls": [
+        "https://elibrary.dcnr.pa.gov/PDFProvider.ashx?PromptToSave=False&Size=11443453&ViewerMode=2&action=PDFStream&chksum=&docID=3223603&docName=PASCORP2020-2024Final&nativeExt=pdf&overlay=0&revision=1",
+        "https://www.pacodeandbulletin.gov/secure/pacode/data/017/chapter11/s11.211.html"
+      ],
+      "source_location": "Outdoor Recreation Plan, pages 56–57; 17 Pa. Code § 11.211(a)(2)",
+      "caveats": [
+        "The cleanup-hours figure is historic and is not an incident count or a measure of a recent increase.",
+        "No official statewide annual vandalism, graffiti, or enforcement incident series was verified in this research pass.",
+        "The sources do not identify perpetrators or support attribution to any ethnic group."
+      ]
+    },
+    {
+      "id": "ramps-harvesting",
+      "title": "Wild leeks, conservation, and land-specific gathering rules",
+      "summary": "DCNR identifies wild leeks or ramps as Allium tricoccum and reports that plants may need five to seven years to mature and produce seed. State park rules prohibit picking or removing plants without written permission, with a narrow personal-use exception for fruits, nuts, berries, and fungi; ramps are not named in that exception. State forest rules separately permit gathering edible wild plants or parts for individual or family consumption unless the species is listed as threatened, endangered, rare, or vulnerable.",
+      "verified_datapoints": [
+        {"measure": "years for ramp plant to mature and produce seed", "value_min": 5, "value_max": 7},
+        {"measure": "state park plant gathering exception", "value": "reasonable amounts of edible fruits, nuts, berries, and fungi for personal or family consumption; protected Chapter 45 species excluded"},
+        {"measure": "state forest edible wild plant exception", "value": "individual or family consumption, excluding Chapter 45 threatened, endangered, rare, or vulnerable species"}
+      ],
+      "source_urls": [
+        "https://elibrary.dcnr.pa.gov/PDFProvider.ashx?PromptToSave=False&Size=587600&ViewerMode=2&action=PDFStream&chksum=&docID=5107500&docName=Wild+Leeks+Newsletter+Article+Spring+2023&nativeExt=pdf&overlay=0&revision=0",
+        "https://www.pacodeandbulletin.gov/secure/pacode/data/017/chapter11/s11.211.html",
+        "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-forests/rules-and-regulations",
+        "https://www.pacodeandbulletin.gov/display/pacode?file=%2Fsecure%2Fpacode%2Fdata%2F017%2Fchapter45%2Fchap45toc.html"
+      ],
+      "source_location": "DCNR Forest Focus, Spring 2023; 17 Pa. Code §§ 11.211, 21.115, and 45.32",
+      "caveats": [
+        "State parks and state forests have different gathering rules; check the land manager and species status before harvesting.",
+        "The DCNR newsletter's survey concerns respondents and does not prove a statewide harvest trend or quantify damage.",
+        "Do not attribute ramp harvesting to a demographic or ethnic group without incident-level evidence."
+      ]
+    },
+    {
+      "id": "american-chestnut",
+      "title": "American chestnut loss and restoration",
+      "summary": "DCNR says American chestnut was important in Pennsylvania's dry oak forests before 1910, then shifted from widespread canopy dominance to minor status within decades of blight's 1904 discovery in New York City. USDA Forest Service describes a historic eastern range from Maine to the northern Southeast and west to the Ohio River Valley; by 1950, blight had functionally removed it as a canopy tree. Restoration research includes breeding and field testing blight-tolerant trees.",
+      "verified_datapoints": [
+        {"year": 1904, "measure": "chestnut blight first identified in New York City", "value": true},
+        {"year": 1950, "measure": "blight had functionally removed chestnut as a forest canopy tree across its range", "value": true},
+        {"date": "2026-08-27", "measure": "USDA APHIS announced deregulation of SUNY-ESF Darling 54 blight-tolerant American chestnut under its plant-pest regulations", "value": true}
+      ],
+      "source_urls": [
+        "https://www.pa.gov/agencies/dcnr/conservation/forests-and-tree/forest-types",
+        "https://research.fs.usda.gov/treesearch/42728",
+        "https://direct.aphis.usda.gov/news/program-update/usda-deregulates-american-chestnut-engineered-enhanced-blight-tolerance"
+      ],
+      "caveats": [
+        "Functionally removed as a canopy tree does not mean the species is extinct; living sprouts persist.",
+        "APHIS deregulation is a specific plant-pest regulatory determination, not proof of successful broad forest restoration or blanket approval under every regulatory regime.",
+        "The 2012 USDA article's orchard and planting counts are historical and should not be presented as current."
+      ]
+    }
+  ]
+}

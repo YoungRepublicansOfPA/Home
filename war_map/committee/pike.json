@@ -1,0 +1,383 @@
+{
+  "county": "Pike",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-06-01",
+  "seats_per_precinct": 5,
+  "sources": [
+    {
+      "url": "https://www.pikepa.org/Document%20Center/Government/Election%20Office/2026/MAY%2019%202026%20OFFICIAL%20RESULTS.pdf",
+      "title": "Pike County Election Summary Report, May 19, 2026 Official Results (report dated 6/1/2026)",
+      "type": "results",
+      "as_of": "2026-06-01"
+    },
+    {
+      "url": "https://www.pikepa.org/government/elections_office/past_election_results.php",
+      "title": "Pike County Elections Office: Past Election Results",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "COUNTY AT LARGE",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "BLOOMING GROVE TWP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "DELAWARE TWP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "DINGMAN TWP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "GREENE TWP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LACKAWAXEN TWP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "LEHMAN TWP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MATAMORAS BORO",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MILFORD BORO",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MILFORD TWP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "PALMYRA TWP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "PORTER TWP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SHOHOLA TWP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WESTFALL TWP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 14,
+    "seats": 70,
+    "filled": 63,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 7
+  },
+  "notes": "Pike County elects Republican committeepersons by municipality, not by precinct: the official 2026 report has 13 municipal 'R - <municipality> COMMITTEEPERSON' contests (vote for 5 each) plus one countywide 'COUNTY COMMITTEEPERSON AT LARGE' contest (vote for 5), listed here as its own entry 'COUNTY AT LARGE', which has no precinct on the map. totals.precincts counts these 14 units, not the 17 precincts in counties.geojson; municipal names will not match precinct names one to one. Status rules: a filed candidate inside the top N with votes = filled (unknown on a tie at the cutoff or if unresolved write-ins exceeded that candidate); seats taken by named write-ins are unknown; open seats are unknown when write-in votes were cast and empty when none were. Appointments after the primary are not reflected."
+}

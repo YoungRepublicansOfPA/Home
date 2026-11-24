@@ -1,0 +1,500 @@
+{
+  "county": "Wayne",
+  "checked_at": "2026-11-24",
+  "method": "none_found",
+  "election": "Not determined (latest Republican county committee results located: June 2, 2020 General Primary)",
+  "as_of": "2026-11-24",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.waynecountypa.gov/1089/2026-General-Primary-Election-Official-R",
+      "title": "Wayne County Bureau of Elections: 2026 General Primary Election Official Results page; its two linked statements of votes (DocumentCenter/View/8327 and 8328) returned 404 when checked",
+      "type": "results",
+      "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://www.waynecountypa.gov/Archive.aspx?AMID=36",
+      "title": "Wayne County archive of general and primary results (no 2024 primary results listed)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://www.waynecountypa.gov/Archive.aspx?ADID=184",
+      "title": "Wayne County June 2, 2020 General Primary results by precinct (unofficial election-night returns) showing male and female Republican County Committee Member contests per precinct",
+      "type": "results",
+      "as_of": "2020-06-02"
+    },
+    {
+      "url": "https://www.waynecountypa.gov/Archive.aspx?ADID=359",
+      "title": "Wayne County November 5, 2024 General Election results by precinct, source of the 35 precinct names",
+      "type": "results",
+      "as_of": "2024-11-14"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "BERLIN TOWNSHIP #1",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BERLIN TOWNSHIP #2",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BETHANY BOROUGH",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BUCKINGHAM TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CANAAN TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CHERRY RIDGE TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CLINTON TOWNSHIP #1",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CLINTON TOWNSHIP #2",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DAMASCUS TOWNSHIP #1",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DAMASCUS TOWNSHIP #2",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DREHER TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DYBERRY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HAWLEY BOROUGH",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HONESDALE BOROUGH #1",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HONESDALE BOROUGH #2",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HONESDALE BOROUGH #3",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LAKE TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LEBANON TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LEHIGH TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MANCHESTER TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MOUNT PLEASANT TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "OREGON TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PALMYRA TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PAUPACK TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PRESTON TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PROMPTON BOROUGH",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SALEM TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SCOTT TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH CANAAN TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "STARRUCCA BOROUGH",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "STERLING TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TEXAS TOWNSHIP #1",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TEXAS TOWNSHIP #2",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TEXAS TOWNSHIP #3",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WAYMART BOROUGH",
+      "seats": [
+        {
+          "seat": "Committee Member Male",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Member Female",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 35,
+    "seats": 70,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 70
+  },
+  "notes": "No usable current evidence was found. The county's 2026 primary results page links to two statements of votes that returned 404 on 2026-11-24, the 2024 primary is not in the county's results archive, and the 2022 primary report is a scanned image. The 2020 primary ballot carried a male and a female 'Republican County Committee Member' contest in each precinct, which is the basis for two seats per precinct; the election year of the current term was not confirmed. Precinct names come from the county's 2024 general election precinct report. All seats are unknown."
+}

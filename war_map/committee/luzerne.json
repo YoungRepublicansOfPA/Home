@@ -1,0 +1,2457 @@
+{
+  "county": "Luzerne",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "April 23, 2024 General Primary",
+  "as_of": "2025-04-09",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.luzernecounty.org/DocumentCenter/View/43924/2024-Primary-Election-Results",
+      "title": "Luzerne County Election Summary Report, Closed Primary April 23, 2024 (report dated 4/9/2025), listed as 'General Primary Election Results 2024' in the county's results archive",
+      "type": "results",
+      "as_of": "2025-04-09"
+    },
+    {
+      "url": "https://www.luzernecounty.org/404/Election-Results-Archive",
+      "title": "Luzerne County Election Results Archive",
+      "type": "results",
+      "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://results.enr.clarityelections.com/PA/Luzerne/126281/",
+      "title": "Luzerne County 2026 Primary Election results (Clarity, detail XML timestamp 5/26/2026): contains Democratic county committee contests and no Republican county committee contests",
+      "type": "results",
+      "as_of": "2026-05-26"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Ashley Boro Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Ashley Boro Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Avoca Boro Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Avoca Boro Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Avoca Boro Ward 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bear Creek Township Dist 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bear Creek Township Dist 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Bear Creek Township Dist 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bear Creek Village Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Black Creek Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Buck Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Butler Township Dist 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Butler Township Dist 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Butler Township Dist 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Butler Township Dist 04",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Butler Township Dist 05",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Conyngham Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Conyngham Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Courtdale Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Dallas Boro Dist 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Dallas Boro Dist 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Dallas Township Dist 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Dallas Township Dist 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Dallas Township Dist 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Dallas Township Dist 04",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Dallas Township Dist 05",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Dennison Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Dorrance Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Dupont Boro Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Dupont Boro Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Duryea Boro Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Duryea Boro Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Duryea Boro Ward 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Edwardsville Boro Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Edwardsville Boro Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Exeter Boro Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Exeter Boro Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Exeter Boro Ward 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Exeter Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Fairmount Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Fairview Township Dist 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Fairview Township Dist 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Forty Fort Boro Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Forty Fort Boro Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Forty Fort Boro Ward 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Foster Township Dist 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Foster Township Dist 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Franklin Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Freeland Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hanover Township Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hanover Township Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hanover Township Ward 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hanover Township Ward 04",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hanover Township Ward 05",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hanover Township Ward 06",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Harveys Lake Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hazle Township Dist 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hazle Township Dist 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hazle Township Dist 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hazle Township Dist 04",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hazle Township Dist 05",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hazleton City Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hazleton City Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hazleton City Ward 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hazleton City Ward 04",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hazleton City Ward 05",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hazleton City Ward 06",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hazleton City Ward 07",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hazleton City Ward 08",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hazleton City Ward 09",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hazleton City Ward 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hazleton City Ward 11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hollenback Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hughestown Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hunlock Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Huntington Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jackson Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Jeddo Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jenkins Township Dist 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Jenkins Township Dist 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Jenkins Township Dist 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Kingston Boro Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Kingston Boro Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Kingston Boro Ward 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Kingston Boro Ward 04",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Kingston Boro Ward 05",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Kingston Boro Ward 06",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Kingston Boro Ward 07",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Kingston Boro Ward 08",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Kingston Township Dist 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Kingston Township Dist 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Kingston Township Dist 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Kingston Township Dist 04",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Laflin Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lake Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Larksville Boro Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Larksville Boro Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Larksville Boro Ward 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Laurel Run Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lehman Township Dist 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lehman Township Dist 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lehman Township Dist 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Luzerne Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Nanticoke City Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Nanticoke City Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Nanticoke City Ward 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Nanticoke City Ward 04",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Nanticoke City Ward 05",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Nanticoke City Ward 06",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Nescopeck Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Nescopeck Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "New Columbus Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Newport Township Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Newport Township Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Nuangola Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Penn Lake Park Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Pittston City Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Pittston City Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Pittston City Ward 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Pittston City Ward 04",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Pittston Township 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Pittston Township 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Plains Township Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Plains Township Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Plains Township Ward 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Plains Township Ward 04",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Plains Township Ward 05",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Plymouth Boro Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Plymouth Boro Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Plymouth Boro Ward 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Plymouth Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Pringle Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Rice Township Dist 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Rice Township Dist 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Ross Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Salem Township Dist 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Salem Township Dist 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Shickshinny Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Slocum Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Sugar Notch Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sugarloaf Township Dist 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Sugarloaf Township Dist 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Sugarloaf Township Dist 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Swoyersville Boro Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Swoyersville Boro Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Swoyersville Boro Ward 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Union Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Warrior Run Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Hazleton Boro Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Hazleton Boro Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Pittston Boro Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Pittston Boro Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "West Pittston Boro Ward 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "West Wyoming Boro Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Wyoming Boro Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "White Haven Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 04",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 05",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 06",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 07",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 08",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 09",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 16",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 17",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 18",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 19",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre City Ward 20",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre Township Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes-Barre Township Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Wright Township Dist 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wright Township Dist 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Wright Township Dist 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wright Township Dist 04",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wyoming Boro Ward 01",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wyoming Boro Ward 02",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wyoming Boro Ward 03",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Yatesville Boro",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 186,
+    "seats": 372,
+    "filled": 186,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 186
+  },
+  "notes": "Luzerne County Republicans elect county committee in presidential-year primaries: the 2026 primary results contain Democratic committeeman and committeewoman contests but no Republican county committee contests, so the latest evidence is the April 23, 2024 primary, more than two years old. Each of 186 precincts has one 'Member of the Republican County Committee' contest with Vote For 2 (counties.geojson lists 183 precincts). Status rules: filed candidate ranked inside the top two among filed candidates and named write-ins, with votes = filled (unknown on a cutoff tie or if unresolved write-ins exceeded that candidate); seats won by named write-ins are unknown because acceptance was not verified; open seats are unknown when write-in votes were cast and empty when none were. Vacancies filled or opened since 2024 are not reflected. The county results document does not say 'official' in its text; it was posted in the county's archive after certification."
+}

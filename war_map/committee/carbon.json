@@ -1,0 +1,595 @@
+{
+  "county": "Carbon",
+  "checked_at": "2026-11-24",
+  "method": "none_found",
+  "election": "May 19, 2026 General Primary (results not retrievable)",
+  "as_of": "2026-11-24",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://cms5.revize.com/revize/carboncounty/Document%20Center/Service/Elections%20Voter%20Registration/2026%20General%20Primary%205-19-2026/ElectionSummaryReportRPT%20Final%20Official%20060226.pdf",
+      "title": "Carbon County 2026 General Primary official summary report (search-indexed); returned HTTP 404 when fetched on 2026-11-24",
+      "type": "results",
+      "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://www.carboncountypa.gov/services/elections_voter_registration/results/past.php",
+      "title": "Carbon County past election results page (no 2026 primary entry when checked)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://www.carboncountypa.gov/Document%20Center/Service/Elections%20Voter%20Registration/Results/Past/2022/Official%20May%2017,%202022%20General%20PrimaryRPT.pdf",
+      "title": "Carbon County Official Election Summary Report, May 17, 2022 General Primary: source of the municipal seat structure",
+      "type": "results",
+      "as_of": "2022-06-02"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Banks Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Beaver Meadows Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bowmanstown Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "East Penn Township At Large",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "East Side Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Franklin Township At Large",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jim Thorpe Borough At Large",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Kidder Township North",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Kidder Township South",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lansford Borough At Large",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lausanne Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lehigh Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lehighton Borough At Large",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lower Towamensing Township At Large",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Mahoning Township At Large Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Nesquehoning Borough At Large",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Packer Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Palmerton Borough At Large",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Parryville Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Penn Forest Township At Large",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Summit Hill Borough At Large",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Towamensing Township At Large",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Weatherly Borough At Large",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Weissport Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 24,
+    "seats": 109,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 109
+  },
+  "notes": "Carbon County elects Republican committee persons by municipality or municipal subdivision, not by precinct: the 2022 official report has 24 'Republican County Committee Person' contests with 2 to 16 seats each (109 seats). The 2026 primary report, which should show the current term, was indexed by search engines but returned 404 on the county's document host when checked, and the county's results pages do not list it; the Internet Archive was offline. The 2022 structure is used only to list units and seat counts, which may have changed for 2026; seats_per_precinct = 2 is the most common contest size. All seats are unknown."
+}

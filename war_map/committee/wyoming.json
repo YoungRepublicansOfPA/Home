@@ -1,0 +1,403 @@
+{
+  "county": "Wyoming",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "April 23, 2024 General Primary",
+  "as_of": "2024-06-10",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://wyomingcountypa.gov/wp-content/uploads/2024-OFFICIAL-Presidential-primary.pdf",
+      "title": "Wyoming County PA official results, April 23, 2024 primary, 'REPUBLICAN COMMITTEE' section (file uploaded 2024-06-10)",
+      "type": "results",
+      "as_of": "2024-06-10"
+    },
+    {
+      "url": "https://wyomingcountypa.gov/wp-content/uploads/2026-WYCOPA-Primary-Election-Results-5-19-26-OFFICIAL.pdf",
+      "title": "Wyoming County official 2026 primary results (lists Democratic committee contests only; no Republican county committee contests)",
+      "type": "results",
+      "as_of": "2026-05-22"
+    },
+    {
+      "url": "https://wyomingcountypa.gov/wp-content/uploads/2020-OFFICIAL-Presidential-primary-1.pdf",
+      "title": "Wyoming County official 2020 primary results, 'REPUBLICAN COMMITTEE' section (shows two members per precinct)",
+      "type": "results",
+      "as_of": "2020-11-23"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "BRAINTRIM TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CLINTON TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "EATON TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "EXETER TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "FACTORYVILLE BOROUGH WARD 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "FACTORYVILLE BOROUGH WARD 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FALLS TWP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FORKSTON TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LACEYVILLE BOROUGH",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LEMON TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MEHOOPANY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MESHOPPEN BOROUGH",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MESHOPPEN TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MONROE TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NICHOLSON BOROUGH",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NICHOLSON TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BRANCH TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTHMORELAND TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "NOXEN TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "OVERFIELD TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "TUNKHANNOCK BOROUGH WARD 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TUNKHANNOCK BOROUGH WARD 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TUNKHANNOCK BOROUGH WARD 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TUNKHANNOCK BOROUGH WARD 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TUNKHANNOCKJ TOWNSHIP 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "TUNKHANNOCK TOWNSHIP 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "WASHINGTON TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WINDHAM TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 28,
+    "seats": 56,
+    "filled": 23,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 33
+  },
+  "notes": "Wyoming County Republicans elect county committee in presidential-year primaries: the official 2020 and 2024 primary results include a 'REPUBLICAN COMMITTEE' section and the 2022 and 2026 results do not, so the latest evidence is the April 23, 2024 primary, more than two years old. The 2024 report does not print a vote-for number; two seats per precinct is taken from the 2020 report (two winners per precinct) and the most candidates listed in any 2024 precinct (two), not from party rules, which were not located. Write-ins are reported only as a per-precinct total. Status rules: listed candidate with votes = filled; open seats are unknown when write-in votes were cast and empty when none were. Vacancies filled or opened since 2024 are not reflected."
+}

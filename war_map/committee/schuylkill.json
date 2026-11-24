@@ -1,0 +1,1158 @@
+{
+  "county": "Schuylkill",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-05-29",
+  "seats_per_precinct": 1,
+  "sources": [
+    {
+      "url": "https://www.schuylkillcountypa.gov/Document_Center/Departments/Election%20Bureau/2026/Primary/Election%20Results/2026%20Primary%20Unofficial%20Results%20Schuylkill%20County%20v2.pdf",
+      "title": "Schuylkill County Summary Results Report, 2026 Primary Election (header 'UNOFFICIAL RESULTS', footer 'Final Results - 05/29/2026')",
+      "type": "results",
+      "as_of": "2026-05-29"
+    },
+    {
+      "url": "https://www.schuylkillcountypa.gov/departments/election_bureau/election_results.php",
+      "title": "Schuylkill County Election Bureau: Election Results",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "002 Ashland Borough 1st",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "005 Ashland Borough 2nd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "006 Blythe Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "008 Branch Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "010 Butler Township Englewood",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "011 Butler Township Fort Springs",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "013 Butler Township Lavelle",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "014 Butler Township Northeast",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "015 Cass Township North",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "016 Cass Township South",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "018 Delano Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "019 East Norwegian Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "021 Frackville Borough North",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "022 Frackville Borough Middle",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "024 Frackville Borough South",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "027 Gilberton Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "028 Girardville Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "031 Gordon Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "032 Mahanoy City Borough 1st",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "033 Mahanoy City Borough 2nd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "036 Mahanoy City Borough 3rd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "037 Mahanoy City Borough 4th",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "039 Mahanoy Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "041 Middleport Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "042 Minersville Borough 1st",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "043 Minersville Borough 2nd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "044 Minersville Borough 3rd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "045 Minersville Borough 4th",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "048 New Castle Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "049 New Philadelphia Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "051 Norwegian Township Currans",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "052 Norwegian Township Marlin",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "053 Palo Alto Borough 1st Ward",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "054 Palo Alto Borough 2nd Ward",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "055 Port Carbon Borough 1st",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "056 Port Carbon Borough 2nd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "057 Reilly Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "058 Ryan Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "060 St Clair Borough Middle",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "061 St Clair Borough South",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "063 St Clair Borough North",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "064 Shenandoah Borough 1st",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "065 Shenandoah Borough 2nd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "069 Shenandoah Borough 3rd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "070 Shenandoah Borough 4th",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "072 Shenandoah Borough 5th",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "074 Shenandoah Borough 6th",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "075 West Mahanoy Township Altamont",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "076 West Mahanoy Township 2nd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "079 West Mahanoy Township 1st",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "080 Auburn Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "081 Coaldale Borough East",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "083 Coaldale Borough West",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "084 Deer Lake Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "085 East Brunswick Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "088 East Union Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "089 Kline Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "091 Landingville Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "092 McAdoo Borough 1st",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "093 McAdoo Borough 2nd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "096 New Ringgold Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "097 North Union Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "099 Port Clinton Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "100 Ringtown Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "101 Rush Township East",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "102 Rush Township West",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "103 Rush Township Elixir",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "105 Schuylkill Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "107 Tamaqua Borough 1st",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "109 Tamaqua Borough 2nd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "111 Tamaqua Borough 3rd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "112 Tamaqua Borough 4th",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "113 Union Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "114 Walker Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "115 West Brunswick Township North",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "116 West Brunswick Township South",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "117 West Penn Township 2nd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "118 West Penn Township 1st",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "119 Barry Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "120 Cressona Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "122 Eldred Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "123 Foster Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "124 Frailey Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "125 Hegins Township East",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "126 Hegins Township West",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "127 Hubley Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "128 Mechanicsville Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "129 Mount Carbon Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "130 North Manheim Township 3rd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "131 North Manheim Township 2nd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "132 Orwigsburg Borough 1st",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "133 Orwigsburg Borough 2nd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "134 Pine Grove Borough North",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "136 Pine Grove Borough South",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "137 Pine Grove Township 1st",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "138 Pine Grove Township 2nd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "139 Porter Township East",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "140 Porter Township West",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "141 City of Pottsville 1st",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "144 City of Pottsville 2nd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "146 City of Pottsville 3-2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "147 City of Pottsville 3-1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "148 City of Pottsville 3-3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "150 City of Pottsville 4th",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "153 City of Pottsville 5-1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "155 City of Pottsville 5-2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "157 City of Pottsville 6th",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "159 City of Pottsville 7-1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "161 City of Pottsville 7-2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "162 Schuylkill Haven Borough North",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "163 Schuylkill Haven Borough East",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "164 Schuylkill Haven Borough South",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "165 Schuylkill Haven Borough West",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "166 South Manheim Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "167 Tower City Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "169 Tremont Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "171 Tremont Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "172 Upper Mahantongo Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "174 Washington Township North",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "175 Washington Township South",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "176 Wayne Township 1st",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "177 Wayne Township 2nd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "178 North Manheim Township 1st",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "179 West Penn Township 3rd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "180 Wayne Township 3rd",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 125,
+    "seats": 125,
+    "filled": 37,
+    "empty": 5,
+    "empty_no_filer": 0,
+    "unknown": 83
+  },
+  "notes": "The county ballot carries one 'Member of Republican County Committee' contest per precinct with Vote For 1, so each of the 125 precincts has one seat here; the party rule behind the single seat was not located. The only 2026 primary results the county had posted when checked are labeled UNOFFICIAL (final count dated 05/29/2026); no official write-in winners list for 2026 was posted. Status rules: filed candidate with votes = filled (unknown if write-ins exceeded that candidate); no filed candidate = unknown when any write-in votes were cast (the report lists named write-ins, often 1-3 votes each), empty when none were. Appointments after the primary are not reflected."
+}

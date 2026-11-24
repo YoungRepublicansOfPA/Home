@@ -30,9 +30,12 @@ async function start() {
   }
   function choose(name) {
     select.value = name;
+    if (!name) { closePrecincts(); return; }
+    openPrecincts(name);
     const county = data.counties[name];
     byId('name').textContent = name + ' County';
     byId('stats').textContent = county.population.toLocaleString('en-US') + ' residents · Governing majority: ' + (county.party_control || 'unverified');
+    byId('profile').hidden = false;
     byId('profile').href = '../#county-' + name.toLowerCase().replaceAll(' ', '-');
     paths.forEach(p => p.classList.toggle('selected',p.dataset.county === name));
   }
@@ -49,11 +52,13 @@ async function start() {
   }
   select.onchange = () => choose(select.value);
   document.querySelectorAll('[data-layer]').forEach(button => button.onclick = () => {
+    closePrecincts();
     layer = button.dataset.layer;
     document.querySelectorAll('[data-layer]').forEach(b => b.setAttribute('aria-pressed', String(b === button)));
     draw();
   });
-  choose(select.value);
+  byId('name').textContent = 'Pennsylvania';
+  byId('profile').hidden = true;
   draw();
 }
 start().catch(() => { document.getElementById('legend').textContent = 'County data could not load. Reload to try again.'; });

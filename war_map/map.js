@@ -64,5 +64,18 @@ async function start() {
   byId('name').textContent = 'Pennsylvania';
   byId('profile').hidden = true;
   draw();
+  const shared = new URLSearchParams(location.search);
+  if (shared.has('precinct')) {
+    const county = shared.get('county');
+    if (!Object.hasOwn(data.counties, county)) {
+      byId('legend').textContent = 'Unknown county in this precinct link. Select a county to continue.';
+      return;
+    }
+    const entries = await choose(county);
+    if (!entries) return;
+    const entry = entries.find(e => e.record.id === shared.get('precinct'));
+    if (entry) entry.path.onclick();
+    else byId('votes').textContent = 'Unknown precinct in this link. Choose a precinct above.';
+  }
 }
 start().catch(() => { document.getElementById('legend').textContent = 'County data could not load. Reload to try again.'; });

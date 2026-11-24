@@ -136,7 +136,7 @@ function renderLocal(county, precincts, municipalities) {
     if (i === '') return;
     const {record,path} = entries[Number(i)];
     path.classList.add('selected');
-    showVotes(record);
+    showVotes(record, county);
   }
   picker.onchange = () => {
     inspect(picker.value);
@@ -160,18 +160,50 @@ async function loadReturns(slug) {
   const data = await localJSON('data/' + slug + '.json');
   return data.precincts;
 }
-function showVotes(record) {
+function showVotes(record, county) {
   const panel = el('votes');
   const heading = document.createElement('h3');
   heading.textContent = record.name;
   const description = document.createElement('p');
-  description.textContent = record.municipality + ' · U.S. president · November 5, 2024';
+  description.textContent = record.municipality + ' · ' + county + ' County · U.S. president · November 5, 2024';
   const table = document.createElement('table');
   table.setAttribute('aria-label','Presidential votes in ' + record.name);
+  const header = table.createTHead().insertRow();
+  for (const title of ['Candidate', 'Votes', 'Share']) {
+    const cell = document.createElement('th');
+    cell.scope = 'col';
+    cell.textContent = title;
+    header.append(cell);
+  }
+  const body = table.createTBody();
   for (const [label, value] of [['Donald Trump',record.trump], ['Kamala Harris',record.harris], ['Other votes combined',record.other], ['Total votes reported',record.total]]) {
-    const row = table.insertRow();
+    const row = body.insertRow();
     row.insertCell().textContent = label;
     row.insertCell().textContent = value == null ? 'Unavailable' : value.toLocaleString('en-US');
+    row.insertCell().textContent = value == null || !record.total ? '—' : (100 * value / record.total).toFixed(1) + '%';
   }
-  panel.replaceChildren(heading,description,table);
+  const source = document.createElement('a');
+  source.href = 'data/' + county.toLowerCase() + '.json';
+  source.textContent = 'Source: mapped county returns (JSON)';
+  const share = document.createElement('a');
+  const url = new URL(location.pathname,location.origin);
+  url.searchParams.set('county',county);
+  url.searchParams.set('precinct',record.id);
+  share.href = url.href;
+  share.textContent = 'Open precinct permalink';
+  const copy = document.createElement('button');
+  copy.type = 'button';
+  copy.textContent = 'Copy precinct link';
+  copy.onclick = async () => {
+    try {
+      await navigator.clipboard.writeText(url.href);
+      copy.textContent = 'Link copied';
+    } catch {
+      copy.textContent = 'Copy the permalink below';
+      share.focus();
+    }
+  };
+  const links = document.createElement('div');
+  links.append(source,document.createElement('br'),copy,document.createElement('br'),share);
+  panel.replaceChildren(heading,description,table,links);
 }

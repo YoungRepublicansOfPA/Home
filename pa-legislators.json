@@ -1,0 +1,4530 @@
+{
+  "as_of": "2026-11-24",
+  "scope": "Seated 2025-2026 Pennsylvania General Assembly roster as shown on the official member pages, with one representative-elect annotation; county coverage reflects legislative districts, not a claim that every county resident has every listed member.",
+  "sources": {
+    "house_roster": "https://www.palegis.us/house/members",
+    "senate_roster": "https://www.palegis.us/senate/members",
+    "county_district_crosscheck": "https://www.palegis.us/data/file?documenttype=precinct-directory",
+    "precinct_directory_date": "2026-02-09",
+    "address_lookup": "https://www.palegis.us/find-my-legislator"
+  },
+  "notes": [
+    "A county can contain parts of several House and Senate districts. Use a street address and the General Assembly Find My Legislator tool for an individual voter.",
+    "The roster pages identify members for the 2025-2026 session. November 2026 election winners are not assumed seated before the next term.",
+    "District 98 Tom Jones is also labeled Representative-elect on the House roster; he appears in current-session legislative records. The public label is preserved rather than inferring a different current officeholder."
+  ],
+  "counts": {
+    "counties": 67,
+    "house_districts": 203,
+    "senate_districts": 50
+  },
+  "counties": [
+    {
+      "county": "Adams",
+      "house": [
+        {
+          "district": 91,
+          "name": "Dan Moul",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1101/rep-moul",
+          "counties": [
+            "Adams"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 193,
+          "name": "Catherine I Wallen",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2064/rep-wallen",
+          "counties": [
+            "Adams",
+            "Cumberland"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 33,
+          "name": "Doug Mastriano",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1869/sen-mastriano",
+          "counties": [
+            "Adams",
+            "Franklin"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Allegheny",
+      "house": [
+        {
+          "district": 19,
+          "name": "Aerion Abney",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1933/rep-abney",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 20,
+          "name": "Emily Kinkead",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1896/rep-kinkead",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 21,
+          "name": "Lindsay Powell",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/2016/rep-powell",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 23,
+          "name": "Dan Frankel",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/84/rep-frankel",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 24,
+          "name": "La'Tasha D. Mayes",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1941/rep-mayes",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 25,
+          "name": "Brandon J. Markosek",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1825/rep-markosek",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 27,
+          "name": "Daniel J. Deasy",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1166/rep-deasy",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 28,
+          "name": "Jeremy Shaffer",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2023/rep-shaffer",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 30,
+          "name": "Arvind Venkat",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1944/rep-venkat",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 32,
+          "name": "Joe McAndrew",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/2011/rep-mcandrew",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 33,
+          "name": "Mandy Steele",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1945/rep-steele",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 34,
+          "name": "Abigail Salisbury",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/2012/rep-salisbury",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 35,
+          "name": "Dan Goughnour",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/2060/rep-goughnour",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 36,
+          "name": "Jessica Benham",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1899/rep-benham",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 38,
+          "name": "John C. Inglis III",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/2024/rep-inglis",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 39,
+          "name": "Andrew Kuzma",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1946/rep-kuzma",
+          "counties": [
+            "Allegheny",
+            "Washington"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 40,
+          "name": "Natalie Mihalek",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1830/rep-mihalek",
+          "counties": [
+            "Allegheny",
+            "Washington"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 42,
+          "name": "Jen Mazzocco",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/2063/rep-mazzocco",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 44,
+          "name": "Valerie S. Gaydos",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1831/rep-gaydos",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 45,
+          "name": "Anita Astorino Kulik",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1744/rep-kulik",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 46,
+          "name": "Jason Ortitay",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1701/rep-ortitay",
+          "counties": [
+            "Allegheny",
+            "Washington"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 37,
+          "name": "Devlin J. Robinson",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1924/sen-robinson",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 38,
+          "name": "Lindsey M. Williams",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1803/sen-l-williams",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 42,
+          "name": "Wayne D. Fontana",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1041/sen-fontana",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 43,
+          "name": "Jay Costa",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/254/sen-costa",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 45,
+          "name": "Nick Pisciottano",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1900/sen-pisciottano",
+          "counties": [
+            "Allegheny"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Armstrong",
+      "house": [
+        {
+          "district": 60,
+          "name": "Abby Major",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1926/rep-major",
+          "counties": [
+            "Armstrong",
+            "Westmoreland"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 63,
+          "name": "Josh Bashline",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2026/rep-bashline",
+          "counties": [
+            "Armstrong",
+            "Clarion"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 41,
+          "name": "Joe Pittman",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1870/sen-pittman",
+          "counties": [
+            "Armstrong",
+            "Indiana",
+            "Jefferson",
+            "Westmoreland"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Beaver",
+      "house": [
+        {
+          "district": 14,
+          "name": "Roman Kozak",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2022/rep-kozak",
+          "counties": [
+            "Beaver"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 15,
+          "name": "Joshua D. Kail",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1823/rep-kail",
+          "counties": [
+            "Beaver",
+            "Washington"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 16,
+          "name": "Robert F. Matzie",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1173/rep-matzie",
+          "counties": [
+            "Beaver"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 46,
+          "name": "Camera Bartolotta",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1698/sen-bartolotta",
+          "counties": [
+            "Beaver",
+            "Greene",
+            "Washington"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 47,
+          "name": "Elder A. Vogel",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1189/sen-vogel",
+          "counties": [
+            "Beaver",
+            "Butler",
+            "Lawrence"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Bedford",
+      "house": [
+        {
+          "district": 78,
+          "name": "Jesse Topper",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1681/rep-topper",
+          "counties": [
+            "Bedford",
+            "Fulton"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 32,
+          "name": "Patrick J. Stefano",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1697/sen-stefano",
+          "counties": [
+            "Bedford",
+            "Fayette",
+            "Somerset",
+            "Westmoreland"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Berks",
+      "house": [
+        {
+          "district": 5,
+          "name": "Eric J. Weaknecht",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2021/rep-weaknecht",
+          "counties": [
+            "Berks"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 99,
+          "name": "David H. Zimmerman",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1711/rep-zimmerman",
+          "counties": [
+            "Berks",
+            "Lancaster"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 124,
+          "name": "Jamie Barton",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1968/rep-barton",
+          "counties": [
+            "Berks",
+            "Schuylkill"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 126,
+          "name": "Jacklyn Rusnock",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/2034/rep-rusnock",
+          "counties": [
+            "Berks"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 127,
+          "name": "Manuel Guzman",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1908/rep-guzman",
+          "counties": [
+            "Berks"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 128,
+          "name": "Mark M. Gillen",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1209/rep-gillen",
+          "counties": [
+            "Berks"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 129,
+          "name": "Johanny Cepeda-Freytiz",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1969/rep-cepeda-freytiz",
+          "counties": [
+            "Berks"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 130,
+          "name": "David M. Maloney",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1226/rep-maloney",
+          "counties": [
+            "Berks"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 11,
+          "name": "Judith L. Schwank",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1234/sen-schwank",
+          "counties": [
+            "Berks"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 13,
+          "name": "Scott Martin",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1763/sen-martin",
+          "counties": [
+            "Berks",
+            "Lancaster"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 24,
+          "name": "Tracy Pennycuick",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1912/sen-pennycuick",
+          "counties": [
+            "Berks",
+            "Montgomery"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 44,
+          "name": "Katie J. Muth",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1802/sen-muth",
+          "counties": [
+            "Berks",
+            "Chester",
+            "Montgomery"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 48,
+          "name": "Chris Gebhard",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1928/sen-gebhard",
+          "counties": [
+            "Berks",
+            "Lancaster",
+            "Lebanon"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Blair",
+      "house": [
+        {
+          "district": 79,
+          "name": "Andrea C. Verobish",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2065/rep-verobish",
+          "counties": [
+            "Blair"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 80,
+          "name": "Scott Barger",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2027/rep-barger",
+          "counties": [
+            "Blair",
+            "Huntingdon"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 30,
+          "name": "Judy Ward",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1683/sen-j-ward",
+          "counties": [
+            "Blair",
+            "Fulton",
+            "Huntingdon",
+            "Juniata",
+            "Mifflin"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Bradford",
+      "house": [
+        {
+          "district": 68,
+          "name": "Clint Owlett",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1796/rep-owlett",
+          "counties": [
+            "Bradford",
+            "Tioga"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 110,
+          "name": "Tina Pickett",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/97/rep-pickett",
+          "counties": [
+            "Bradford",
+            "Wyoming"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 23,
+          "name": "Gene Yaw",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1186/sen-yaw",
+          "counties": [
+            "Bradford",
+            "Lycoming",
+            "Sullivan",
+            "Tioga",
+            "Union"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Bucks",
+      "house": [
+        {
+          "district": 18,
+          "name": "Kathleen C. Tomlinson",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1876/rep-tomlinson",
+          "counties": [
+            "Bucks"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 29,
+          "name": "Tim Brennan",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1943/rep-brennan",
+          "counties": [
+            "Bucks"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 31,
+          "name": "Perry S. Warren",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1743/rep-warren",
+          "counties": [
+            "Bucks"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 140,
+          "name": "Jim Prokopiak",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/2017/rep-prokopiak",
+          "counties": [
+            "Bucks"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 141,
+          "name": "Tina M. Davis",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1204/rep-t-davis",
+          "counties": [
+            "Bucks"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 142,
+          "name": "Joe Hogan",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1971/rep-hogan",
+          "counties": [
+            "Bucks"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 143,
+          "name": "Shelby Labs",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1911/rep-labs",
+          "counties": [
+            "Bucks"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 144,
+          "name": "Brian Munroe",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1972/rep-munroe",
+          "counties": [
+            "Bucks"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 145,
+          "name": "Craig T. Staats",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1707/rep-staats",
+          "counties": [
+            "Bucks"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 178,
+          "name": "Kristin Marcell",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1979/rep-marcell",
+          "counties": [
+            "Bucks"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 6,
+          "name": "Frank A. Farry",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1169/sen-farry",
+          "counties": [
+            "Bucks"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 10,
+          "name": "Steven J. Santarsiero",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1179/sen-santarsiero",
+          "counties": [
+            "Bucks"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 16,
+          "name": "Jarrett Coleman",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/2008/sen-coleman",
+          "counties": [
+            "Bucks",
+            "Lehigh"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Butler",
+      "house": [
+        {
+          "district": 8,
+          "name": "Aaron Bernstine",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1742/rep-bernstine",
+          "counties": [
+            "Butler",
+            "Lawrence"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 11,
+          "name": "Marci Mustello",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1868/rep-mustello",
+          "counties": [
+            "Butler"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 12,
+          "name": "Brandon Dukes",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/2067/rep-dukes",
+          "counties": [
+            "Butler"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 17,
+          "name": "Timothy R. Bonner",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1877/rep-bonner",
+          "counties": [
+            "Butler",
+            "Mercer"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 21,
+          "name": "Scott E. Hutchinson",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1629/sen-hutchinson",
+          "counties": [
+            "Butler",
+            "Clarion",
+            "Erie",
+            "Forest",
+            "Venango",
+            "Warren"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 47,
+          "name": "Elder A. Vogel",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1189/sen-vogel",
+          "counties": [
+            "Beaver",
+            "Butler",
+            "Lawrence"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Cambria",
+      "house": [
+        {
+          "district": 71,
+          "name": "Jim Rigby",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1836/rep-rigby",
+          "counties": [
+            "Cambria",
+            "Somerset"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 72,
+          "name": "Frank Burns",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1163/rep-burns",
+          "counties": [
+            "Cambria"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 73,
+          "name": "Dallas Kephart",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1952/rep-kephart",
+          "counties": [
+            "Cambria",
+            "Clearfield"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 35,
+          "name": "Wayne Langerholc",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1764/sen-langerholc",
+          "counties": [
+            "Cambria",
+            "Centre",
+            "Clearfield"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Cameron",
+      "house": [
+        {
+          "district": 67,
+          "name": "Martin T. Causer",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/982/rep-causer",
+          "counties": [
+            "Cameron",
+            "McKean",
+            "Potter"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 25,
+          "name": "Cris Dush",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1687/sen-dush",
+          "counties": [
+            "Cameron",
+            "Centre",
+            "Clinton",
+            "Elk",
+            "Jefferson",
+            "McKean",
+            "Potter"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Carbon",
+      "house": [
+        {
+          "district": 122,
+          "name": "Doyle Heffley",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1211/rep-heffley",
+          "counties": [
+            "Carbon"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 29,
+          "name": "David G. Argall",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/69/sen-argall",
+          "counties": [
+            "Carbon",
+            "Luzerne",
+            "Schuylkill"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Centre",
+      "house": [
+        {
+          "district": 77,
+          "name": "Scott Conklin",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1096/rep-conklin",
+          "counties": [
+            "Centre"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 82,
+          "name": "Paul Takac",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1953/rep-takac",
+          "counties": [
+            "Centre"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 171,
+          "name": "Kerry A. Benninghoff",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/215/rep-benninghoff",
+          "counties": [
+            "Centre",
+            "Mifflin"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 25,
+          "name": "Cris Dush",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1687/sen-dush",
+          "counties": [
+            "Cameron",
+            "Centre",
+            "Clinton",
+            "Elk",
+            "Jefferson",
+            "McKean",
+            "Potter"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 35,
+          "name": "Wayne Langerholc",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1764/sen-langerholc",
+          "counties": [
+            "Cambria",
+            "Centre",
+            "Clearfield"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Chester",
+      "house": [
+        {
+          "district": 13,
+          "name": "John A. Lawrence",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1215/rep-lawrence",
+          "counties": [
+            "Chester"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 26,
+          "name": "Paul Friel",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1942/rep-friel",
+          "counties": [
+            "Chester"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 74,
+          "name": "Dan K. Williams",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1837/rep-d-williams",
+          "counties": [
+            "Chester"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 155,
+          "name": "Danielle Friel Otten",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1850/rep-otten",
+          "counties": [
+            "Chester"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 156,
+          "name": "Chris Pielli",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1975/rep-pielli",
+          "counties": [
+            "Chester"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 157,
+          "name": "Melissa L. Shusterman",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1851/rep-shusterman",
+          "counties": [
+            "Chester"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 158,
+          "name": "Christina D. Sappey",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1852/rep-sappey",
+          "counties": [
+            "Chester"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 160,
+          "name": "Craig Williams",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1916/rep-c-williams",
+          "counties": [
+            "Chester",
+            "Delaware"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 167,
+          "name": "Kristine C. Howard",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1856/rep-howard",
+          "counties": [
+            "Chester"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 9,
+          "name": "John I. Kane",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1925/sen-kane",
+          "counties": [
+            "Chester",
+            "Delaware"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 19,
+          "name": "Carolyn T. Comitta",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1790/sen-comitta",
+          "counties": [
+            "Chester"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 44,
+          "name": "Katie J. Muth",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1802/sen-muth",
+          "counties": [
+            "Berks",
+            "Chester",
+            "Montgomery"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Clarion",
+      "house": [
+        {
+          "district": 63,
+          "name": "Josh Bashline",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2026/rep-bashline",
+          "counties": [
+            "Armstrong",
+            "Clarion"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 21,
+          "name": "Scott E. Hutchinson",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1629/sen-hutchinson",
+          "counties": [
+            "Butler",
+            "Clarion",
+            "Erie",
+            "Forest",
+            "Venango",
+            "Warren"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Clearfield",
+      "house": [
+        {
+          "district": 73,
+          "name": "Dallas Kephart",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1952/rep-kephart",
+          "counties": [
+            "Cambria",
+            "Clearfield"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 75,
+          "name": "Mike Armanini",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1903/rep-armanini",
+          "counties": [
+            "Clearfield",
+            "Elk"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 35,
+          "name": "Wayne Langerholc",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1764/sen-langerholc",
+          "counties": [
+            "Cambria",
+            "Centre",
+            "Clearfield"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Clinton",
+      "house": [
+        {
+          "district": 76,
+          "name": "Stephanie Borowicz",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1838/rep-borowicz",
+          "counties": [
+            "Clinton",
+            "Union"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 25,
+          "name": "Cris Dush",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1687/sen-dush",
+          "counties": [
+            "Cameron",
+            "Centre",
+            "Clinton",
+            "Elk",
+            "Jefferson",
+            "McKean",
+            "Potter"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Columbia",
+      "house": [
+        {
+          "district": 109,
+          "name": "Robert Leadbeter",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1962/rep-leadbeter",
+          "counties": [
+            "Columbia"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 27,
+          "name": "Lynda Schlegel Culver",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1202/sen-culver",
+          "counties": [
+            "Columbia",
+            "Luzerne",
+            "Montour",
+            "Northumberland",
+            "Snyder"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Crawford",
+      "house": [
+        {
+          "district": 6,
+          "name": "Brad Roae",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1083/rep-roae",
+          "counties": [
+            "Crawford",
+            "Erie"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 64,
+          "name": "R. Lee James",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1634/rep-james",
+          "counties": [
+            "Crawford",
+            "Venango"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 65,
+          "name": "Kathy L. Rapp",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1028/rep-rapp",
+          "counties": [
+            "Crawford",
+            "Forest",
+            "Warren"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 50,
+          "name": "Michele Brooks",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1087/sen-brooks",
+          "counties": [
+            "Crawford",
+            "Lawrence",
+            "Mercer"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Cumberland",
+      "house": [
+        {
+          "district": 87,
+          "name": "Thomas H. Kutz",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1955/rep-kutz",
+          "counties": [
+            "Cumberland"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 88,
+          "name": "Sheryl M. Delozier",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1167/rep-delozier",
+          "counties": [
+            "Cumberland"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 103,
+          "name": "Nathan Davidson",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/2031/rep-davidson",
+          "counties": [
+            "Cumberland",
+            "Dauphin"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 193,
+          "name": "Catherine I Wallen",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2064/rep-wallen",
+          "counties": [
+            "Adams",
+            "Cumberland"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 199,
+          "name": "Barbara Gleim",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1864/rep-gleim",
+          "counties": [
+            "Cumberland"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 31,
+          "name": "Dawn W. Keefer",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1748/sen-keefer",
+          "counties": [
+            "Cumberland",
+            "York"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 34,
+          "name": "Greg Rothman",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1733/sen-rothman",
+          "counties": [
+            "Cumberland",
+            "Dauphin",
+            "Perry"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Dauphin",
+      "house": [
+        {
+          "district": 103,
+          "name": "Nathan Davidson",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/2031/rep-davidson",
+          "counties": [
+            "Cumberland",
+            "Dauphin"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 104,
+          "name": "Dave Madsen",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1959/rep-madsen",
+          "counties": [
+            "Dauphin"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 105,
+          "name": "Justin C. Fleming",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1960/rep-fleming",
+          "counties": [
+            "Dauphin"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 106,
+          "name": "Thomas L. Mehaffie",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1751/rep-mehaffie",
+          "counties": [
+            "Dauphin"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 125,
+          "name": "Joe Kerwin",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1907/rep-kerwin",
+          "counties": [
+            "Dauphin"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 15,
+          "name": "Patty Kim",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1636/sen-kim",
+          "counties": [
+            "Dauphin"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 34,
+          "name": "Greg Rothman",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1733/sen-rothman",
+          "counties": [
+            "Cumberland",
+            "Dauphin",
+            "Perry"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Delaware",
+      "house": [
+        {
+          "district": 159,
+          "name": "Carol Kazeem",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1976/rep-kazeem",
+          "counties": [
+            "Delaware"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 160,
+          "name": "Craig Williams",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1916/rep-c-williams",
+          "counties": [
+            "Chester",
+            "Delaware"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 161,
+          "name": "Leanne Krueger",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1735/rep-krueger",
+          "counties": [
+            "Delaware"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 162,
+          "name": "David M. Delloso",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1853/rep-delloso",
+          "counties": [
+            "Delaware"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 163,
+          "name": "Heather Boyd",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/2015/rep-boyd",
+          "counties": [
+            "Delaware"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 164,
+          "name": "Gina H. Curry",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1932/rep-curry",
+          "counties": [
+            "Delaware"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 165,
+          "name": "Jennifer O'Mara",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1855/rep-o'mara",
+          "counties": [
+            "Delaware"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 166,
+          "name": "Greg Vitali",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/210/rep-vitali",
+          "counties": [
+            "Delaware"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 168,
+          "name": "Lisa A. Borowski",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1977/rep-borowski",
+          "counties": [
+            "Delaware"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 185,
+          "name": "Regina G. Young",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1917/rep-young",
+          "counties": [
+            "Delaware",
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 191,
+          "name": "Joanna E. McClinton",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1734/rep-mcclinton",
+          "counties": [
+            "Delaware",
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 8,
+          "name": "Anthony H. Williams",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/153/sen-a-williams",
+          "counties": [
+            "Delaware",
+            "Philadelphia"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 9,
+          "name": "John I. Kane",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1925/sen-kane",
+          "counties": [
+            "Chester",
+            "Delaware"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 17,
+          "name": "Amanda M. Cappelletti",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1923/sen-cappelletti",
+          "counties": [
+            "Delaware",
+            "Montgomery"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 26,
+          "name": "Timothy P. Kearney",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1800/sen-kearney",
+          "counties": [
+            "Delaware"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Elk",
+      "house": [
+        {
+          "district": 75,
+          "name": "Mike Armanini",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1903/rep-armanini",
+          "counties": [
+            "Clearfield",
+            "Elk"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 25,
+          "name": "Cris Dush",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1687/sen-dush",
+          "counties": [
+            "Cameron",
+            "Centre",
+            "Clinton",
+            "Elk",
+            "Jefferson",
+            "McKean",
+            "Potter"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Erie",
+      "house": [
+        {
+          "district": 1,
+          "name": "Patrick J. Harkins",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1081/rep-harkins",
+          "counties": [
+            "Erie"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 2,
+          "name": "Robert E. Merski",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1822/rep-merski",
+          "counties": [
+            "Erie"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 3,
+          "name": "Ryan A. Bizzarro",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1619/rep-bizzarro",
+          "counties": [
+            "Erie"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 4,
+          "name": "Jacob D. Banta",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1937/rep-banta",
+          "counties": [
+            "Erie"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 6,
+          "name": "Brad Roae",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1083/rep-roae",
+          "counties": [
+            "Crawford",
+            "Erie"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 21,
+          "name": "Scott E. Hutchinson",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1629/sen-hutchinson",
+          "counties": [
+            "Butler",
+            "Clarion",
+            "Erie",
+            "Forest",
+            "Venango",
+            "Warren"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 49,
+          "name": "Daniel Laughlin",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1766/sen-laughlin",
+          "counties": [
+            "Erie"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Fayette",
+      "house": [
+        {
+          "district": 51,
+          "name": "Charity Grimm Krupa",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1949/rep-krupa",
+          "counties": [
+            "Fayette"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 52,
+          "name": "Ryan Warner",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1708/rep-warner",
+          "counties": [
+            "Fayette"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 32,
+          "name": "Patrick J. Stefano",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1697/sen-stefano",
+          "counties": [
+            "Bedford",
+            "Fayette",
+            "Somerset",
+            "Westmoreland"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Forest",
+      "house": [
+        {
+          "district": 65,
+          "name": "Kathy L. Rapp",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1028/rep-rapp",
+          "counties": [
+            "Crawford",
+            "Forest",
+            "Warren"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 21,
+          "name": "Scott E. Hutchinson",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1629/sen-hutchinson",
+          "counties": [
+            "Butler",
+            "Clarion",
+            "Erie",
+            "Forest",
+            "Venango",
+            "Warren"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Franklin",
+      "house": [
+        {
+          "district": 81,
+          "name": "Rich Irvin",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1691/rep-irvin",
+          "counties": [
+            "Franklin",
+            "Huntingdon"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 89,
+          "name": "Rob W. Kauffman",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1022/rep-kauffman",
+          "counties": [
+            "Franklin"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 90,
+          "name": "Chad G. Reichard",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2028/rep-reichard",
+          "counties": [
+            "Franklin"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 33,
+          "name": "Doug Mastriano",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1869/sen-mastriano",
+          "counties": [
+            "Adams",
+            "Franklin"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Fulton",
+      "house": [
+        {
+          "district": 78,
+          "name": "Jesse Topper",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1681/rep-topper",
+          "counties": [
+            "Bedford",
+            "Fulton"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 30,
+          "name": "Judy Ward",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1683/sen-j-ward",
+          "counties": [
+            "Blair",
+            "Fulton",
+            "Huntingdon",
+            "Juniata",
+            "Mifflin"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Greene",
+      "house": [
+        {
+          "district": 50,
+          "name": "Bud Cook",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1745/rep-cook",
+          "counties": [
+            "Greene",
+            "Washington"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 46,
+          "name": "Camera Bartolotta",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1698/sen-bartolotta",
+          "counties": [
+            "Beaver",
+            "Greene",
+            "Washington"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Huntingdon",
+      "house": [
+        {
+          "district": 80,
+          "name": "Scott Barger",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2027/rep-barger",
+          "counties": [
+            "Blair",
+            "Huntingdon"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 81,
+          "name": "Rich Irvin",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1691/rep-irvin",
+          "counties": [
+            "Franklin",
+            "Huntingdon"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 30,
+          "name": "Judy Ward",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1683/sen-j-ward",
+          "counties": [
+            "Blair",
+            "Fulton",
+            "Huntingdon",
+            "Juniata",
+            "Mifflin"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Indiana",
+      "house": [
+        {
+          "district": 62,
+          "name": "James B. Struzzi",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1835/rep-struzzi",
+          "counties": [
+            "Indiana"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 66,
+          "name": "Brian Smith",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1902/rep-smith",
+          "counties": [
+            "Indiana",
+            "Jefferson"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 41,
+          "name": "Joe Pittman",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1870/sen-pittman",
+          "counties": [
+            "Armstrong",
+            "Indiana",
+            "Jefferson",
+            "Westmoreland"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Jefferson",
+      "house": [
+        {
+          "district": 66,
+          "name": "Brian Smith",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1902/rep-smith",
+          "counties": [
+            "Indiana",
+            "Jefferson"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 25,
+          "name": "Cris Dush",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1687/sen-dush",
+          "counties": [
+            "Cameron",
+            "Centre",
+            "Clinton",
+            "Elk",
+            "Jefferson",
+            "McKean",
+            "Potter"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 41,
+          "name": "Joe Pittman",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1870/sen-pittman",
+          "counties": [
+            "Armstrong",
+            "Indiana",
+            "Jefferson",
+            "Westmoreland"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Juniata",
+      "house": [
+        {
+          "district": 85,
+          "name": "David H. Rowe",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1871/rep-rowe",
+          "counties": [
+            "Juniata",
+            "Mifflin",
+            "Snyder",
+            "Union"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 86,
+          "name": "Perry A. Stambaugh",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1905/rep-stambaugh",
+          "counties": [
+            "Juniata",
+            "Perry"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 30,
+          "name": "Judy Ward",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1683/sen-j-ward",
+          "counties": [
+            "Blair",
+            "Fulton",
+            "Huntingdon",
+            "Juniata",
+            "Mifflin"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Lackawanna",
+      "house": [
+        {
+          "district": 112,
+          "name": "Kyle J. Mullins",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1844/rep-mullins",
+          "counties": [
+            "Lackawanna"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 113,
+          "name": "Kyle Donahue",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1963/rep-donahue",
+          "counties": [
+            "Lackawanna"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 114,
+          "name": "Bridget M. Kosierowski",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1866/rep-kosierowski",
+          "counties": [
+            "Lackawanna"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 118,
+          "name": "Jim Haddock",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1966/rep-haddock",
+          "counties": [
+            "Lackawanna",
+            "Luzerne"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 22,
+          "name": "Marty Flynn",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1626/sen-flynn",
+          "counties": [
+            "Lackawanna",
+            "Luzerne"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 40,
+          "name": "Rosemary M. Brown",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1200/sen-brown",
+          "counties": [
+            "Lackawanna",
+            "Monroe",
+            "Wayne"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Lancaster",
+      "house": [
+        {
+          "district": 37,
+          "name": "Mindy Fee",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1625/rep-fee",
+          "counties": [
+            "Lancaster"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 41,
+          "name": "Brett R. Miller",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1699/rep-b-miller",
+          "counties": [
+            "Lancaster"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 43,
+          "name": "Keith J. Greiner",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1632/rep-greiner",
+          "counties": [
+            "Lancaster"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 49,
+          "name": "Ismail Smith-Wade-El",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1948/rep-smith-wade-el",
+          "counties": [
+            "Lancaster"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 96,
+          "name": "Nikki Rivera",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/2030/rep-rivera",
+          "counties": [
+            "Lancaster"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 97,
+          "name": "Steven C. Mentzer",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1642/rep-mentzer",
+          "counties": [
+            "Lancaster"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 98,
+          "name": "Tom Jones",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1957/rep-t-jones",
+          "counties": [
+            "Lancaster",
+            "Lebanon"
+          ],
+          "roster_label": "Representative-elect also shown"
+        },
+        {
+          "district": 99,
+          "name": "David H. Zimmerman",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1711/rep-zimmerman",
+          "counties": [
+            "Berks",
+            "Lancaster"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 100,
+          "name": "Bryan Cutler",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1105/rep-cutler",
+          "counties": [
+            "Lancaster"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 13,
+          "name": "Scott Martin",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1763/sen-martin",
+          "counties": [
+            "Berks",
+            "Lancaster"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 36,
+          "name": "James Andrew Malone",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/2061/sen-malone",
+          "counties": [
+            "Lancaster"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 48,
+          "name": "Chris Gebhard",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1928/sen-gebhard",
+          "counties": [
+            "Berks",
+            "Lancaster",
+            "Lebanon"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Lawrence",
+      "house": [
+        {
+          "district": 8,
+          "name": "Aaron Bernstine",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1742/rep-bernstine",
+          "counties": [
+            "Butler",
+            "Lawrence"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 9,
+          "name": "Marla Brown",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1938/rep-m-brown",
+          "counties": [
+            "Lawrence"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 47,
+          "name": "Elder A. Vogel",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1189/sen-vogel",
+          "counties": [
+            "Beaver",
+            "Butler",
+            "Lawrence"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 50,
+          "name": "Michele Brooks",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1087/sen-brooks",
+          "counties": [
+            "Crawford",
+            "Lawrence",
+            "Mercer"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Lebanon",
+      "house": [
+        {
+          "district": 98,
+          "name": "Tom Jones",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1957/rep-t-jones",
+          "counties": [
+            "Lancaster",
+            "Lebanon"
+          ],
+          "roster_label": "Representative-elect also shown"
+        },
+        {
+          "district": 101,
+          "name": "John A. Schlegel",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1958/rep-schlegel",
+          "counties": [
+            "Lebanon"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 102,
+          "name": "Russ Diamond",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1686/rep-diamond",
+          "counties": [
+            "Lebanon"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 48,
+          "name": "Chris Gebhard",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1928/sen-gebhard",
+          "counties": [
+            "Berks",
+            "Lancaster",
+            "Lebanon"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Lehigh",
+      "house": [
+        {
+          "district": 22,
+          "name": "Ana Tiburcio",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/2062/rep-tiburcio",
+          "counties": [
+            "Lehigh"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 131,
+          "name": "Milou Mackenzie",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1909/rep-m-mackenzie",
+          "counties": [
+            "Lehigh",
+            "Montgomery",
+            "Northampton"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 132,
+          "name": "Michael H. Schlossberg",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1649/rep-schlossberg",
+          "counties": [
+            "Lehigh"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 133,
+          "name": "Jeanne McNeill",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1793/rep-mcneill",
+          "counties": [
+            "Lehigh"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 134,
+          "name": "Peter Schweyer",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1706/rep-schweyer",
+          "counties": [
+            "Lehigh"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 183,
+          "name": "Zachary Mako",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1758/rep-mako",
+          "counties": [
+            "Lehigh",
+            "Northampton"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 187,
+          "name": "Gary W. Day",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1190/rep-day",
+          "counties": [
+            "Lehigh"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 14,
+          "name": "Nick Miller",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/2009/sen-miller",
+          "counties": [
+            "Lehigh",
+            "Northampton"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 16,
+          "name": "Jarrett Coleman",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/2008/sen-coleman",
+          "counties": [
+            "Bucks",
+            "Lehigh"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 18,
+          "name": "Lisa M. Boscola",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/179/sen-boscola",
+          "counties": [
+            "Lehigh",
+            "Northampton"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Luzerne",
+      "house": [
+        {
+          "district": 116,
+          "name": "Dane Watro",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1964/rep-watro",
+          "counties": [
+            "Luzerne",
+            "Schuylkill"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 117,
+          "name": "Jamie Walsh",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2032/rep-walsh",
+          "counties": [
+            "Luzerne"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 118,
+          "name": "Jim Haddock",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1966/rep-haddock",
+          "counties": [
+            "Lackawanna",
+            "Luzerne"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 119,
+          "name": "Alec J. Ryncavage",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1967/rep-ryncavage",
+          "counties": [
+            "Luzerne"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 120,
+          "name": "Brenda M. Pugh",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2033/rep-pugh",
+          "counties": [
+            "Luzerne"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 121,
+          "name": "Eddie Day Pashinski",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1112/rep-pashinski",
+          "counties": [
+            "Luzerne"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 20,
+          "name": "Lisa Baker",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1077/sen-baker",
+          "counties": [
+            "Luzerne",
+            "Pike",
+            "Susquehanna",
+            "Wayne",
+            "Wyoming"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 22,
+          "name": "Marty Flynn",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1626/sen-flynn",
+          "counties": [
+            "Lackawanna",
+            "Luzerne"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 27,
+          "name": "Lynda Schlegel Culver",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1202/sen-culver",
+          "counties": [
+            "Columbia",
+            "Luzerne",
+            "Montour",
+            "Northumberland",
+            "Snyder"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 29,
+          "name": "David G. Argall",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/69/sen-argall",
+          "counties": [
+            "Carbon",
+            "Luzerne",
+            "Schuylkill"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Lycoming",
+      "house": [
+        {
+          "district": 83,
+          "name": "Jamie L. Flick",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1954/rep-flick",
+          "counties": [
+            "Lycoming",
+            "Union"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 84,
+          "name": "Joe Hamm",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1904/rep-hamm",
+          "counties": [
+            "Lycoming",
+            "Sullivan"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 23,
+          "name": "Gene Yaw",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1186/sen-yaw",
+          "counties": [
+            "Bradford",
+            "Lycoming",
+            "Sullivan",
+            "Tioga",
+            "Union"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "McKean",
+      "house": [
+        {
+          "district": 67,
+          "name": "Martin T. Causer",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/982/rep-causer",
+          "counties": [
+            "Cameron",
+            "McKean",
+            "Potter"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 25,
+          "name": "Cris Dush",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1687/sen-dush",
+          "counties": [
+            "Cameron",
+            "Centre",
+            "Clinton",
+            "Elk",
+            "Jefferson",
+            "McKean",
+            "Potter"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Mercer",
+      "house": [
+        {
+          "district": 7,
+          "name": "Parke Wentling",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1709/rep-wentling",
+          "counties": [
+            "Mercer"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 17,
+          "name": "Timothy R. Bonner",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1877/rep-bonner",
+          "counties": [
+            "Butler",
+            "Mercer"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 50,
+          "name": "Michele Brooks",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1087/sen-brooks",
+          "counties": [
+            "Crawford",
+            "Lawrence",
+            "Mercer"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Mifflin",
+      "house": [
+        {
+          "district": 85,
+          "name": "David H. Rowe",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1871/rep-rowe",
+          "counties": [
+            "Juniata",
+            "Mifflin",
+            "Snyder",
+            "Union"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 171,
+          "name": "Kerry A. Benninghoff",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/215/rep-benninghoff",
+          "counties": [
+            "Centre",
+            "Mifflin"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 30,
+          "name": "Judy Ward",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1683/sen-j-ward",
+          "counties": [
+            "Blair",
+            "Fulton",
+            "Huntingdon",
+            "Juniata",
+            "Mifflin"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Monroe",
+      "house": [
+        {
+          "district": 115,
+          "name": "Maureen E. Madden",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1753/rep-madden",
+          "counties": [
+            "Monroe"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 176,
+          "name": "Jack Rader",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1703/rep-rader",
+          "counties": [
+            "Monroe"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 189,
+          "name": "Tarah Probst",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1982/rep-probst",
+          "counties": [
+            "Monroe",
+            "Pike"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 40,
+          "name": "Rosemary M. Brown",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1200/sen-brown",
+          "counties": [
+            "Lackawanna",
+            "Monroe",
+            "Wayne"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Montgomery",
+      "house": [
+        {
+          "district": 53,
+          "name": "Steven R. Malagari",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1832/rep-malagari",
+          "counties": [
+            "Montgomery"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 54,
+          "name": "Greg Scott",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1950/rep-scott",
+          "counties": [
+            "Montgomery"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 61,
+          "name": "Liz Hanbidge",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1834/rep-hanbidge",
+          "counties": [
+            "Montgomery"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 70,
+          "name": "Matthew D. Bradford",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1161/rep-bradford",
+          "counties": [
+            "Montgomery"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 131,
+          "name": "Milou Mackenzie",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1909/rep-m-mackenzie",
+          "counties": [
+            "Lehigh",
+            "Montgomery",
+            "Northampton"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 146,
+          "name": "Joe Ciresi",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1847/rep-ciresi",
+          "counties": [
+            "Montgomery"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 147,
+          "name": "Donna Scheuren",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1973/rep-scheuren",
+          "counties": [
+            "Montgomery"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 148,
+          "name": "Mary Jo Daley",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1622/rep-daley",
+          "counties": [
+            "Montgomery"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 149,
+          "name": "Tim Briggs",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1159/rep-briggs",
+          "counties": [
+            "Montgomery"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 150,
+          "name": "Joe Webster",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1848/rep-webster",
+          "counties": [
+            "Montgomery"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 151,
+          "name": "Melissa Cerrato",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1974/rep-cerrato",
+          "counties": [
+            "Montgomery"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 152,
+          "name": "Nancy Guenst",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1913/rep-guenst",
+          "counties": [
+            "Montgomery"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 153,
+          "name": "Benjamin V. Sanchez",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1849/rep-sanchez",
+          "counties": [
+            "Montgomery"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 154,
+          "name": "Napoleon J. Nelson",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1914/rep-n-nelson",
+          "counties": [
+            "Montgomery"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 4,
+          "name": "Art Haywood",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1689/sen-haywood",
+          "counties": [
+            "Montgomery",
+            "Philadelphia"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 7,
+          "name": "Vincent J. Hughes",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/152/sen-hughes",
+          "counties": [
+            "Montgomery",
+            "Philadelphia"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 12,
+          "name": "Maria Collett",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1799/sen-collett",
+          "counties": [
+            "Montgomery"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 17,
+          "name": "Amanda M. Cappelletti",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1923/sen-cappelletti",
+          "counties": [
+            "Delaware",
+            "Montgomery"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 24,
+          "name": "Tracy Pennycuick",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1912/sen-pennycuick",
+          "counties": [
+            "Berks",
+            "Montgomery"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 44,
+          "name": "Katie J. Muth",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1802/sen-muth",
+          "counties": [
+            "Berks",
+            "Chester",
+            "Montgomery"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Montour",
+      "house": [
+        {
+          "district": 108,
+          "name": "Michael Stender",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2014/rep-stender",
+          "counties": [
+            "Montour",
+            "Northumberland"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 27,
+          "name": "Lynda Schlegel Culver",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1202/sen-culver",
+          "counties": [
+            "Columbia",
+            "Luzerne",
+            "Montour",
+            "Northumberland",
+            "Snyder"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Northampton",
+      "house": [
+        {
+          "district": 131,
+          "name": "Milou Mackenzie",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1909/rep-m-mackenzie",
+          "counties": [
+            "Lehigh",
+            "Montgomery",
+            "Northampton"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 135,
+          "name": "Steve Samuelson",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/80/rep-samuelson",
+          "counties": [
+            "Northampton"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 136,
+          "name": "Robert Freeman",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/136/rep-freeman",
+          "counties": [
+            "Northampton"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 137,
+          "name": "Joe Emrick",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1207/rep-emrick",
+          "counties": [
+            "Northampton"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 138,
+          "name": "Ann Flood",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1910/rep-flood",
+          "counties": [
+            "Northampton"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 183,
+          "name": "Zachary Mako",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1758/rep-mako",
+          "counties": [
+            "Lehigh",
+            "Northampton"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 14,
+          "name": "Nick Miller",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/2009/sen-miller",
+          "counties": [
+            "Lehigh",
+            "Northampton"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 18,
+          "name": "Lisa M. Boscola",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/179/sen-boscola",
+          "counties": [
+            "Lehigh",
+            "Northampton"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Northumberland",
+      "house": [
+        {
+          "district": 107,
+          "name": "Joanne Stehr",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1961/rep-stehr",
+          "counties": [
+            "Northumberland",
+            "Schuylkill"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 108,
+          "name": "Michael Stender",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2014/rep-stender",
+          "counties": [
+            "Montour",
+            "Northumberland"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 27,
+          "name": "Lynda Schlegel Culver",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1202/sen-culver",
+          "counties": [
+            "Columbia",
+            "Luzerne",
+            "Montour",
+            "Northumberland",
+            "Snyder"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Perry",
+      "house": [
+        {
+          "district": 86,
+          "name": "Perry A. Stambaugh",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1905/rep-stambaugh",
+          "counties": [
+            "Juniata",
+            "Perry"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 34,
+          "name": "Greg Rothman",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1733/sen-rothman",
+          "counties": [
+            "Cumberland",
+            "Dauphin",
+            "Perry"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Philadelphia",
+      "house": [
+        {
+          "district": 10,
+          "name": "Amen Brown",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1919/rep-a-brown",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 170,
+          "name": "Martina A. White",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1732/rep-white",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 172,
+          "name": "Sean Dougherty",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/2035/rep-dougherty",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 173,
+          "name": "Pat Gallagher",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1978/rep-gallagher",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 174,
+          "name": "Ed Neilson",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1615/rep-neilson",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 175,
+          "name": "MaryLouise Isaacson",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1857/rep-isaacson",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 177,
+          "name": "Joseph C. Hohenstein",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1858/rep-hohenstein",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 179,
+          "name": "Jason Dawkins",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1685/rep-dawkins",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 180,
+          "name": "Jose Giral",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1980/rep-giral",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 181,
+          "name": "Malcolm Kenyatta",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1860/rep-kenyatta",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 182,
+          "name": "Ben Waxman",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1981/rep-waxman",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 184,
+          "name": "Elizabeth Fiedler",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1861/rep-fiedler",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 185,
+          "name": "Regina G. Young",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1917/rep-young",
+          "counties": [
+            "Delaware",
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 186,
+          "name": "Jordan A. Harris",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1633/rep-j-harris",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 188,
+          "name": "Rick Krajewski",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1918/rep-krajewski",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 190,
+          "name": "G. Roni Green",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1874/rep-green",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 191,
+          "name": "Joanna E. McClinton",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1734/rep-mcclinton",
+          "counties": [
+            "Delaware",
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 192,
+          "name": "Morgan Cephas",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1759/rep-cephas",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 194,
+          "name": "Tarik Khan",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1983/rep-khan",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 195,
+          "name": "Keith S. Harris",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/2020/rep-k-harris",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 197,
+          "name": "Danilo Burgos",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1863/rep-burgos",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 198,
+          "name": "Darisha K. Parker",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1920/rep-parker",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 200,
+          "name": "Christopher M. Rabb",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1760/rep-rabb",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 201,
+          "name": "Andre D. Carroll",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/2019/rep-carroll",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 202,
+          "name": "Jared G. Solomon",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1761/rep-solomon",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 203,
+          "name": "Anthony A. Bellmon",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1984/rep-bellmon",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 1,
+          "name": "Nikil Saval",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1921/sen-saval",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 2,
+          "name": "Christine M. Tartaglione",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/277/sen-tartaglione",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 3,
+          "name": "Sharif Street",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1767/sen-street",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 4,
+          "name": "Art Haywood",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1689/sen-haywood",
+          "counties": [
+            "Montgomery",
+            "Philadelphia"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 5,
+          "name": "Joe Picozzi",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/2036/sen-picozzi",
+          "counties": [
+            "Philadelphia"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 7,
+          "name": "Vincent J. Hughes",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/152/sen-hughes",
+          "counties": [
+            "Montgomery",
+            "Philadelphia"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 8,
+          "name": "Anthony H. Williams",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/senate/members/bio/153/sen-a-williams",
+          "counties": [
+            "Delaware",
+            "Philadelphia"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Pike",
+      "house": [
+        {
+          "district": 139,
+          "name": "Jeff Olsommer",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2018/rep-olsommer",
+          "counties": [
+            "Pike",
+            "Wayne"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 189,
+          "name": "Tarah Probst",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1982/rep-probst",
+          "counties": [
+            "Monroe",
+            "Pike"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 20,
+          "name": "Lisa Baker",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1077/sen-baker",
+          "counties": [
+            "Luzerne",
+            "Pike",
+            "Susquehanna",
+            "Wayne",
+            "Wyoming"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Potter",
+      "house": [
+        {
+          "district": 67,
+          "name": "Martin T. Causer",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/982/rep-causer",
+          "counties": [
+            "Cameron",
+            "McKean",
+            "Potter"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 25,
+          "name": "Cris Dush",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1687/sen-dush",
+          "counties": [
+            "Cameron",
+            "Centre",
+            "Clinton",
+            "Elk",
+            "Jefferson",
+            "McKean",
+            "Potter"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Schuylkill",
+      "house": [
+        {
+          "district": 107,
+          "name": "Joanne Stehr",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1961/rep-stehr",
+          "counties": [
+            "Northumberland",
+            "Schuylkill"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 116,
+          "name": "Dane Watro",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1964/rep-watro",
+          "counties": [
+            "Luzerne",
+            "Schuylkill"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 123,
+          "name": "Tim Twardzik",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1906/rep-twardzik",
+          "counties": [
+            "Schuylkill"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 124,
+          "name": "Jamie Barton",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1968/rep-barton",
+          "counties": [
+            "Berks",
+            "Schuylkill"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 29,
+          "name": "David G. Argall",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/69/sen-argall",
+          "counties": [
+            "Carbon",
+            "Luzerne",
+            "Schuylkill"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Snyder",
+      "house": [
+        {
+          "district": 85,
+          "name": "David H. Rowe",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1871/rep-rowe",
+          "counties": [
+            "Juniata",
+            "Mifflin",
+            "Snyder",
+            "Union"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 27,
+          "name": "Lynda Schlegel Culver",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1202/sen-culver",
+          "counties": [
+            "Columbia",
+            "Luzerne",
+            "Montour",
+            "Northumberland",
+            "Snyder"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Somerset",
+      "house": [
+        {
+          "district": 69,
+          "name": "Carl Walker Metzgar",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1174/rep-metzgar",
+          "counties": [
+            "Somerset"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 71,
+          "name": "Jim Rigby",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1836/rep-rigby",
+          "counties": [
+            "Cambria",
+            "Somerset"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 32,
+          "name": "Patrick J. Stefano",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1697/sen-stefano",
+          "counties": [
+            "Bedford",
+            "Fayette",
+            "Somerset",
+            "Westmoreland"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Sullivan",
+      "house": [
+        {
+          "district": 84,
+          "name": "Joe Hamm",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1904/rep-hamm",
+          "counties": [
+            "Lycoming",
+            "Sullivan"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 23,
+          "name": "Gene Yaw",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1186/sen-yaw",
+          "counties": [
+            "Bradford",
+            "Lycoming",
+            "Sullivan",
+            "Tioga",
+            "Union"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Susquehanna",
+      "house": [
+        {
+          "district": 111,
+          "name": "Jonathan Fritz",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1752/rep-fritz",
+          "counties": [
+            "Susquehanna",
+            "Wayne"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 20,
+          "name": "Lisa Baker",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1077/sen-baker",
+          "counties": [
+            "Luzerne",
+            "Pike",
+            "Susquehanna",
+            "Wayne",
+            "Wyoming"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Tioga",
+      "house": [
+        {
+          "district": 68,
+          "name": "Clint Owlett",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1796/rep-owlett",
+          "counties": [
+            "Bradford",
+            "Tioga"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 23,
+          "name": "Gene Yaw",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1186/sen-yaw",
+          "counties": [
+            "Bradford",
+            "Lycoming",
+            "Sullivan",
+            "Tioga",
+            "Union"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Union",
+      "house": [
+        {
+          "district": 76,
+          "name": "Stephanie Borowicz",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1838/rep-borowicz",
+          "counties": [
+            "Clinton",
+            "Union"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 83,
+          "name": "Jamie L. Flick",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1954/rep-flick",
+          "counties": [
+            "Lycoming",
+            "Union"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 85,
+          "name": "David H. Rowe",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1871/rep-rowe",
+          "counties": [
+            "Juniata",
+            "Mifflin",
+            "Snyder",
+            "Union"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 23,
+          "name": "Gene Yaw",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1186/sen-yaw",
+          "counties": [
+            "Bradford",
+            "Lycoming",
+            "Sullivan",
+            "Tioga",
+            "Union"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Venango",
+      "house": [
+        {
+          "district": 64,
+          "name": "R. Lee James",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1634/rep-james",
+          "counties": [
+            "Crawford",
+            "Venango"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 21,
+          "name": "Scott E. Hutchinson",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1629/sen-hutchinson",
+          "counties": [
+            "Butler",
+            "Clarion",
+            "Erie",
+            "Forest",
+            "Venango",
+            "Warren"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Warren",
+      "house": [
+        {
+          "district": 65,
+          "name": "Kathy L. Rapp",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1028/rep-rapp",
+          "counties": [
+            "Crawford",
+            "Forest",
+            "Warren"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 21,
+          "name": "Scott E. Hutchinson",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1629/sen-hutchinson",
+          "counties": [
+            "Butler",
+            "Clarion",
+            "Erie",
+            "Forest",
+            "Venango",
+            "Warren"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Washington",
+      "house": [
+        {
+          "district": 15,
+          "name": "Joshua D. Kail",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1823/rep-kail",
+          "counties": [
+            "Beaver",
+            "Washington"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 39,
+          "name": "Andrew Kuzma",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1946/rep-kuzma",
+          "counties": [
+            "Allegheny",
+            "Washington"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 40,
+          "name": "Natalie Mihalek",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1830/rep-mihalek",
+          "counties": [
+            "Allegheny",
+            "Washington"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 46,
+          "name": "Jason Ortitay",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1701/rep-ortitay",
+          "counties": [
+            "Allegheny",
+            "Washington"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 48,
+          "name": "Timothy J. O'Neal",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1797/rep-o'neal",
+          "counties": [
+            "Washington"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 50,
+          "name": "Bud Cook",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1745/rep-cook",
+          "counties": [
+            "Greene",
+            "Washington"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 46,
+          "name": "Camera Bartolotta",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1698/sen-bartolotta",
+          "counties": [
+            "Beaver",
+            "Greene",
+            "Washington"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Wayne",
+      "house": [
+        {
+          "district": 111,
+          "name": "Jonathan Fritz",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1752/rep-fritz",
+          "counties": [
+            "Susquehanna",
+            "Wayne"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 139,
+          "name": "Jeff Olsommer",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2018/rep-olsommer",
+          "counties": [
+            "Pike",
+            "Wayne"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 20,
+          "name": "Lisa Baker",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1077/sen-baker",
+          "counties": [
+            "Luzerne",
+            "Pike",
+            "Susquehanna",
+            "Wayne",
+            "Wyoming"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 40,
+          "name": "Rosemary M. Brown",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1200/sen-brown",
+          "counties": [
+            "Lackawanna",
+            "Monroe",
+            "Wayne"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Westmoreland",
+      "house": [
+        {
+          "district": 55,
+          "name": "Jill N. Cooper",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1951/rep-cooper",
+          "counties": [
+            "Westmoreland"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 56,
+          "name": "Brian C. Rasel",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2025/rep-rasel",
+          "counties": [
+            "Westmoreland"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 57,
+          "name": "Eric R. Nelson",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1738/rep-e-nelson",
+          "counties": [
+            "Westmoreland"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 58,
+          "name": "Eric Davanzo",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1875/rep-davanzo",
+          "counties": [
+            "Westmoreland"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 59,
+          "name": "Leslie Rossi",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1927/rep-rossi",
+          "counties": [
+            "Westmoreland"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 60,
+          "name": "Abby Major",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1926/rep-major",
+          "counties": [
+            "Armstrong",
+            "Westmoreland"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 32,
+          "name": "Patrick J. Stefano",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1697/sen-stefano",
+          "counties": [
+            "Bedford",
+            "Fayette",
+            "Somerset",
+            "Westmoreland"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 39,
+          "name": "Kim L. Ward",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1188/sen-k-ward",
+          "counties": [
+            "Westmoreland"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 41,
+          "name": "Joe Pittman",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1870/sen-pittman",
+          "counties": [
+            "Armstrong",
+            "Indiana",
+            "Jefferson",
+            "Westmoreland"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "Wyoming",
+      "house": [
+        {
+          "district": 110,
+          "name": "Tina Pickett",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/97/rep-pickett",
+          "counties": [
+            "Bradford",
+            "Wyoming"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 20,
+          "name": "Lisa Baker",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1077/sen-baker",
+          "counties": [
+            "Luzerne",
+            "Pike",
+            "Susquehanna",
+            "Wayne",
+            "Wyoming"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    },
+    {
+      "county": "York",
+      "house": [
+        {
+          "district": 47,
+          "name": "Joseph D'Orsie",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1947/rep-d'orsie",
+          "counties": [
+            "York"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 92,
+          "name": "Marc S. Anderson",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2029/rep-anderson",
+          "counties": [
+            "York"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 93,
+          "name": "Mike Jones",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1842/rep-m-jones",
+          "counties": [
+            "York"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 94,
+          "name": "Wendy Fink",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1956/rep-fink",
+          "counties": [
+            "York"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 95,
+          "name": "Carol Hill-Evans",
+          "party": "Democratic",
+          "profile_url": "https://www.palegis.us/house/members/bio/1749/rep-hill-evans",
+          "counties": [
+            "York"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 169,
+          "name": "Kate A. Klunk",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/1694/rep-klunk",
+          "counties": [
+            "York"
+          ],
+          "roster_label": "Representative"
+        },
+        {
+          "district": 196,
+          "name": "George H Margetas",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/house/members/bio/2066/rep-margetas",
+          "counties": [
+            "York"
+          ],
+          "roster_label": "Representative"
+        }
+      ],
+      "senate": [
+        {
+          "district": 28,
+          "name": "Kristin Phillips-Hill",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1801/sen-phillips-hill",
+          "counties": [
+            "York"
+          ],
+          "roster_label": "Senator"
+        },
+        {
+          "district": 31,
+          "name": "Dawn W. Keefer",
+          "party": "Republican",
+          "profile_url": "https://www.palegis.us/senate/members/bio/1748/sen-keefer",
+          "counties": [
+            "Cumberland",
+            "York"
+          ],
+          "roster_label": "Senator"
+        }
+      ]
+    }
+  ]
+}

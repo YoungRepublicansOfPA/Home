@@ -1,0 +1,532 @@
+{
+  "checked_at": "2026-11-24",
+  "session": "2025-2026 Regular Session",
+  "status_summary": "The published House session-day list ends November 19 and the Senate list shows November 17 as its latest November date. No later floor session day or floor vote was verified on November 24. Calendars can change; check official schedules directly.",
+  "status_sources": {
+    "house_session_days": "https://www.palegis.us/house/session",
+    "senate_session_days": "https://www.palegis.us/senate/session/",
+    "house_latest_calendar": "https://www.palegis.us/house/session/calendars",
+    "senate_latest_calendar": "https://www.palegis.us/senate/session/calendars",
+    "house_committee_schedule": "https://www.palegis.us/house/committees/meeting-schedule",
+    "senate_committee_schedule": "https://www.palegis.us/senate/committees/meeting-schedule"
+  },
+  "upcoming_meetings": [
+    {
+      "scope": "county",
+      "county": "Lancaster",
+      "body": "Lancaster County Redevelopment Authority Board",
+      "date": "2026-11-24",
+      "time": null,
+      "topic": "Resolution on Local Share Account application for ECHOS Properties affordable housing acquisition project",
+      "item_status": "Listed under New Business; outcome not yet recorded",
+      "vote_status": "Agenda item may be acted on; no outcome or vote verified",
+      "source_url": "https://prison.co.lancaster.pa.us/AgendaCenter/ViewFile/Agenda/_11242026-3739"
+    },
+    {
+      "scope": "county",
+      "county": "Adams",
+      "body": "Adams County Board of Commissioners",
+      "date": "2026-11-25",
+      "time": null,
+      "topic": "Regular meeting; item-level agenda not verified",
+      "item_status": "Meeting listed",
+      "vote_status": "No item-level vote verified",
+      "source_url": "https://www.adamscountypa.gov/departments/commissioners/adams-county-calendar/2026/board-of-commissioners-of-adams-county-meeting/11-25-2026-11-25-2026-board-of-commissioners-of-adams-county-meeting"
+    },
+    {
+      "scope": "county",
+      "county": "Bucks",
+      "body": "Bucks County Board of Commissioners",
+      "date": "2026-12-02",
+      "time": null,
+      "topic": "Regular meeting; item-level agenda not verified",
+      "item_status": "Meeting listed",
+      "vote_status": "No item-level vote verified",
+      "source_url": "https://www.buckscounty.gov/DocumentCenter/View/25371/2026-Bucks-County-Commissioners-Meeting-Schedule?bidId="
+    },
+    {
+      "scope": "county",
+      "county": "Lancaster",
+      "body": "Lancaster County Board of Commissioners",
+      "date": "2026-12-02",
+      "time": null,
+      "topic": "Proposed budget expected to be available; item-level December 2 agenda not verified",
+      "item_status": "Meeting date mentioned in prior agenda",
+      "vote_status": "No budget vote verified",
+      "source_url": "https://prison.co.lancaster.pa.us/AgendaCenter/ViewFile/ArchivedAgenda/_11182026-4977"
+    },
+    {
+      "scope": "state_agency",
+      "county": null,
+      "body": "Independent Regulatory Review Commission",
+      "date": "2026-12-03",
+      "time": "10:00 America/New_York",
+      "topic": "Public meeting with four regulations listed, including PUC procedure and law-enforcement background investigations",
+      "item_status": "Scheduled on General Assembly meeting page",
+      "vote_status": "Meeting listing is not a legislative floor vote",
+      "source_url": "https://www.palegis.us/house/committees/meeting-schedule"
+    },
+    {
+      "scope": "state_agency",
+      "county": null,
+      "body": "Pennsylvania Commission on Sentencing",
+      "date": "2026-12-10",
+      "time": "11:00 America/New_York",
+      "topic": "Quarterly business meeting",
+      "item_status": "Scheduled on General Assembly meeting page",
+      "vote_status": "No item-level vote verified",
+      "source_url": "https://www.palegis.us/house/committees/meeting-schedule"
+    },
+    {
+      "scope": "state_agency",
+      "county": null,
+      "body": "Center for Rural Pennsylvania",
+      "date": "2026-12-17",
+      "time": "10:00 America/New_York",
+      "topic": "Board of directors meeting",
+      "item_status": "Scheduled on General Assembly meeting page",
+      "vote_status": "No item-level vote verified",
+      "source_url": "https://www.palegis.us/house/committees/meeting-schedule"
+    }
+  ],
+  "tracked_bills": [
+    {
+      "bill": "SB 1474",
+      "title": "Universal Child Care Task Force",
+      "chamber": "Senate",
+      "topic": "Child care",
+      "last_action": "Referred to Health and Human Services",
+      "last_action_date": "2026-09-24",
+      "upcoming_vote_verified": false,
+      "source_url": "https://www.palegis.us/legislation/bills/2025/sb1474"
+    },
+    {
+      "bill": "HB 2023",
+      "title": "Landlord and Tenant Act: extreme-weather evictions",
+      "chamber": "Senate",
+      "topic": "Housing",
+      "last_action": "Referred to Urban Affairs and Housing after passing House 122–81 on October 19",
+      "last_action_date": "2026-10-26",
+      "upcoming_vote_verified": false,
+      "source_url": "https://www.palegis.us/legislation/bills/2025/hb2023"
+    },
+    {
+      "bill": "HB 24",
+      "title": "Off-campus student housing rights",
+      "chamber": "House",
+      "topic": "Young adults and housing",
+      "last_action": "Referred to Housing and Community Development",
+      "last_action_date": "2025-01-08",
+      "upcoming_vote_verified": false,
+      "source_url": "https://www.palegis.us/legislation/bills/2025/hb24"
+    },
+    {
+      "bill": "HB 1135",
+      "title": "Prohibited pesticides",
+      "chamber": "House",
+      "topic": "Food and environment",
+      "last_action": "Removed from table; listed on November 19 House calendar for second consideration",
+      "last_action_date": "2026-10-19",
+      "calendar_date": "2026-11-19",
+      "upcoming_vote_verified": false,
+      "source_url": "https://www.palegis.us/legislation/bills/2025/hb1135",
+      "calendar_source_url": "https://www.palegis.us/house/session/calendars"
+    },
+    {
+      "bill": "HB 2082",
+      "title": "Hotel occupancy tax and short-term rental compliance",
+      "chamber": "House",
+      "topic": "Taxes and local revenue",
+      "last_action": "Removed from table; listed on November 19 House calendar for second consideration",
+      "last_action_date": "2026-09-28",
+      "calendar_date": "2026-11-19",
+      "upcoming_vote_verified": false,
+      "source_url": "https://www.palegis.us/legislation/bills/2025/hb2082",
+      "calendar_source_url": "https://www.palegis.us/house/session/calendars"
+    }
+  ],
+  "county_agenda_sources": [
+    {
+      "county": "Adams",
+      "title": "2026 Board of Commissioners agendas and minutes",
+      "url": "https://www.adamscountypa.gov/departments/commissioners/boardcommissionersmeetings/2026",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Allegheny",
+      "title": "County Council meetings, agendas, and legislation",
+      "url": "https://www.alleghenycounty.us/Government/Row-Offices/County-Council/Council-Meetings",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Armstrong",
+      "title": "County meeting agendas and minutes",
+      "url": "https://www.co.armstrong.pa.us/index.php/news-m/county-meeting-agendas-and-minutes-m",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Beaver",
+      "title": "Commissioners' agendas and minutes",
+      "url": "https://www.beavercountypa.gov/departments/board-of-commissioners/agendas",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Bedford",
+      "title": "Commissioners' meeting agendas and minutes",
+      "url": "https://bedfordcountypa.org/government/commissioners/meeting_agendas_and_minutes.php",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Berks",
+      "title": "Commissioners' meetings and agendas",
+      "url": "https://www.berkspa.gov/departments/commissioners/meetings",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Blair",
+      "title": "Commissioners' agenda and minutes directory",
+      "url": "https://www.blairco.org/",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Bradford",
+      "title": "County Agenda Center",
+      "url": "https://www.bradfordcountypa.gov/agendacenter",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Bucks",
+      "title": "Meeting agendas, minutes and videos",
+      "url": "https://www.buckscounty.gov/129/Meeting-Agendas-Minutes-Videos-Portal",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Butler",
+      "title": "Commissioners' agendas and minutes",
+      "url": "https://www.butlercountypa.gov/agendacenter",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Cameron",
+      "title": "Commissioners' meeting agendas",
+      "url": "https://www.cameroncountypa.com/government/commissioners/agendas.php",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Carbon",
+      "title": "Board of Commissioners agendas and minutes",
+      "url": "https://www.carboncountypa.gov/government/boards_authorities___commissions_/agendas___minutes.php",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Centre",
+      "title": "Board of Commissioners agenda center",
+      "url": "https://centrecountypa.gov/agendacenter",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Chester",
+      "title": "Commissioners' agendas and transparency resources",
+      "url": "https://www.chesco.org/4326/Transparency",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Clarion",
+      "title": "Commissioners' agendas and minutes",
+      "url": "https://www.co.clarion.pa.us/government/elected_officials/commissioners/agendas___minutes.php",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Clearfield",
+      "title": "Commissioners' agenda center",
+      "url": "https://clearfieldcountypa.gov/AgendaCenter/Commissioners-4",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Clinton",
+      "title": "Commissioners' meeting minutes and agendas",
+      "url": "https://www.clintoncountypa.gov/government/commissioners/meeting-minutes",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Columbia",
+      "title": "Commissioners' meeting information",
+      "url": "https://columbiapa.org/commissioners/index.php",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Crawford",
+      "title": "Upcoming board meeting agendas",
+      "url": "https://crawfordcountypa.net/upcoming-board-meetings/",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Cumberland",
+      "title": "County Agenda Center",
+      "url": "https://www.cumberlandcountypa.gov/AgendaCenter",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Dauphin",
+      "title": "Commissioner meetings and minutes",
+      "url": "https://www.dauphincounty.gov/government/publicly-elected-officials/commissioners/commissioner-meetings",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Delaware",
+      "title": "County Council meetings",
+      "url": "https://www.delcopa.gov/council/meetings",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Elk",
+      "title": "Commissioners' meeting minutes and agendas",
+      "url": "https://countyofelkpa.gov/elk-county-offices/board-of-commissioners/meeting-minutes-and-agendas/",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Erie",
+      "title": "County Council agendas and meetings",
+      "url": "https://www.eriecountycouncilpa.gov/county-council/agendas-and-meetings",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Fayette",
+      "title": "Commissioners' Agenda Center",
+      "url": "https://www.fayettecountypa.org/AgendaCenter/County-Commissioners-6",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Franklin",
+      "title": "Commissioners' meeting agendas and board actions",
+      "url": "https://www.franklincountypa.gov/departments/commissioners-office/",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Fulton",
+      "title": "Commissioner meeting agendas and minutes",
+      "url": "https://www.co.fulton.pa.us/commissioner-minutes-agendas.php",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Huntingdon",
+      "title": "Commissioners' meetings and agenda archive",
+      "url": "https://www.huntingdoncountypa.gov/departments/commissioners/commissioners-meetings",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Indiana",
+      "title": "Commissioners' meeting document archives",
+      "url": "https://www.indianacountypa.gov/departments/commissioners/meetings-and-more/meeting-document-archives/",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Jefferson",
+      "title": "Commissioners' meetings and agendas",
+      "url": "https://www.jeffersoncountypa.gov/departments/commissioners/meetings/",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Juniata",
+      "title": "Commissioner Board Agenda Center",
+      "url": "https://www.juniatacountypa.gov/agendacenter",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Lackawanna",
+      "title": "Board of Commissioners meeting calendar",
+      "url": "https://lackawanna.legistar.com/Calendar.aspx",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Lancaster",
+      "title": "Commissioners' agendas and minutes",
+      "url": "https://www.co.lancaster.pa.us/233/Meeting-Information",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Lawrence",
+      "title": "Commissioners' meeting archives",
+      "url": "https://www.lawrencecountypa.gov/departments/commissioners/meeting-archives",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Lebanon",
+      "title": "Commissioners' meetings",
+      "url": "https://www.lebanoncountypa.gov/departments/commissioners/meetings",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Luzerne",
+      "title": "County Council agenda center",
+      "url": "https://www.luzernecounty.org/AgendaCenter/County-Council-2/",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Lycoming",
+      "title": "Commissioners' draft agendas and minutes",
+      "url": "https://lycomingcountypa.gov/government/commissioners/draft_agendas_minutes.php",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "McKean",
+      "title": "Commissioners' agendas and minutes",
+      "url": "https://www.mckeancountypa.gov/government/commissioners/agendas___minutes.php",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Mercer",
+      "title": "2026 commissioners' public meetings",
+      "url": "https://www.mercercountypa.gov/Meeting_Minutes/default.htm",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Monroe",
+      "title": "Past commissioners' agendas and minutes",
+      "url": "https://www.monroecountypa.gov/departments/commissioners/resources/past-commissioners-agendas",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Montgomery",
+      "title": "Commissioners' agendas and minutes",
+      "url": "https://www.montgomerycountypa.gov/95/County-Commissioners",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Montour",
+      "title": "Commissioners' meeting agendas",
+      "url": "https://www.montourcounty.gov/departments/commissioners/meeting-agendas",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Northampton",
+      "title": "County Council agendas and minutes",
+      "url": "https://www.northamptoncounty.org/index.php?filterbycat=2&section=council-agenda-minutes",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Northumberland",
+      "title": "Public meetings and agendas",
+      "url": "https://northumberlandcountypa.gov/public-meetings-and-agends/",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Perry",
+      "title": "Commissioners' public meeting records",
+      "url": "https://perryco.org/departments/commisioners/",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Philadelphia",
+      "title": "City Council calendar and agendas",
+      "url": "https://phila.legistar.com/Calendar.aspx",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Pike",
+      "title": "Commissioners' meeting agendas and minutes",
+      "url": "https://www2.pikepa.org/agendas",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Potter",
+      "title": "Commissioners' agendas and minutes",
+      "url": "https://pottercountypa.gov/government/agendas_and_minutes.php",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Schuylkill",
+      "title": "Commissioners' meetings and ordinances",
+      "url": "https://schuylkillcountypa.gov/government/commissioners/meetings___ordinances/index.php",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Snyder",
+      "title": "Board of Commissioners agendas",
+      "url": "https://www.snydercounty.org/community-resources/agendas/",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Somerset",
+      "title": "Commissioners' meeting agendas",
+      "url": "https://www.co.somerset.pa.us/pages/Commissioners/commagenda.asp",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Sullivan",
+      "title": "Commissioners' agendas and minutes",
+      "url": "https://www.sullivancountypa.gov/commissioners/",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Susquehanna",
+      "title": "Commissioner meetings and documents",
+      "url": "https://www.susqco.com/departments/county-commissioners/commissioner-meetings",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Tioga",
+      "title": "Commissioners' agendas and minutes",
+      "url": "https://www.tiogacountypa.us/departments/commissioners",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Union",
+      "title": "Commissioner meeting minutes and agendas",
+      "url": "https://unioncountypa.org/commissioners/",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Venango",
+      "title": "Commissioner Board agendas and minutes",
+      "url": "https://www.venangocountypa.gov/government/agendas/commissioner_board.php",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Warren",
+      "title": "County Agenda Center",
+      "url": "https://warrencountypa.gov/AgendaCenter",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Washington",
+      "title": "Commissioners' public meeting schedule",
+      "url": "https://www.washingtoncopa.gov/board-of-commissioners",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Wayne",
+      "title": "County Agenda Center",
+      "url": "https://waynecountypa.gov/AgendaCenter",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "Westmoreland",
+      "title": "Board of Commissioners agenda center",
+      "url": "https://www.westmorelandcountypa.gov/AgendaCenter",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Wyoming",
+      "title": "Commissioners' agendas",
+      "url": "https://wyomingcountypa.gov/documents/commissioners-upcoming-agendas/",
+      "checked_at": "2026-11-24"
+    },
+    {
+      "county": "York",
+      "title": "Commissioners' meeting agendas and minutes",
+      "url": "https://yorkcountypa.gov/817/Meeting-Agendas-and-Minutes",
+      "checked_at": "2026-11-23"
+    }
+  ],
+  "method_note": "Meeting dates and bill last actions are separate. An item on a prior calendar is not an upcoming scheduled vote. County agenda URLs are source-directory links; an item-level upcoming agenda was verified only where explicitly stated.",
+  "machine_readable_sources": {
+    "bill_history_xml": "https://www.palegis.us/data/file?documentType=BillHistoryData&session=2025_0",
+    "house_calendar_rss": "https://www.palegis.us/house/rss/session/calendar",
+    "senate_calendar_rss": "https://www.palegis.us/senate/rss/session/calendar",
+    "house_committee_schedule_rss": "https://www.palegis.us/house/rss/committee/schedule",
+    "senate_committee_schedule_rss": "https://www.palegis.us/senate/rss/committee/schedule",
+    "documentation": "https://www.palegis.us/data",
+    "refresh_note": "General Assembly says current-session bill-history XML is refreshed hourly on weekdays. RSS feeds refresh when new data is published; update cadence and event semantics should be checked before automating claims of scheduled votes."
+  }
+}

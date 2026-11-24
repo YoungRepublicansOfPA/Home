@@ -21,3 +21,11 @@ Pushes to this repository must use the dedicated `YoungRepublicansOfPA/Home` dep
 The [trends page](trends.html) presents state history, demographic measures, vital statistics, and conservation records with direct citations. The research notes in `research/` preserve dates, definitions, and comparability cautions for review.
 
 The site badge and banner under `assets/` were supplied for this project. The MIT license covers the code and structured data, not those images; image rights remain with their respective owners.
+
+## County data
+
+- `county-work-affordability.json`: 2024 ACS five-year county income, rent burden, and 30-minute-plus commute estimates. It preserves denominators and available 90% component margins of error. Percentages derived from multiple survey estimates do not yet have computed margins of error.
+- `pa-legislators.json`: current PA General Assembly House and Senate rosters mapped to counties. Districts can split counties; use the official address lookup to identify a resident’s specific members.
+- `docket-expanded.json`: dated public meeting listings and tracked state bills. Meeting listings and bill actions are separate from verified scheduled votes.
+
+The county map offers population, income, and verified county leadership layers. Population estimates and ACS income come from different years and should not be combined as a single-year measure.

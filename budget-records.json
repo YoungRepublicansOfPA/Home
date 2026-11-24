@@ -1,0 +1,59 @@
+{
+  "records": [
+    {
+      "county": "Adams",
+      "fiscal_year": "2026",
+      "measure": "Adopted general fund expenditures",
+      "amount_usd": 77562417,
+      "scope": "General Fund, including transfers",
+      "source_url": "https://www.adamscountypa.gov/getmedia/3c328d0f-280f-4aea-8a4b-137151a36e19/2026-Budget-Document-Final.pdf",
+      "source_page": "p. 34, Total Budget by Department/Fund, General Fund Subtotals",
+      "checked_at": "2026-11-23",
+      "verification": "verified"
+    },
+    {
+      "county": "Bucks",
+      "fiscal_year": "2026",
+      "measure": "Final operating funds expenditures",
+      "amount_usd": 517737200,
+      "scope": "Operating funds total; not General Fund alone",
+      "source_url": "https://www.buckscounty.gov/DocumentCenter/View/24978/2026-Final-Budget",
+      "source_page": "PDF p. 2, Summary Operating Funds, Total Expenditures",
+      "checked_at": "2026-11-23",
+      "verification": "verified"
+    },
+    {
+      "county": "Lancaster",
+      "fiscal_year": "2026",
+      "measure": "Adopted general fund operating expenditures",
+      "amount_usd": 201945900,
+      "scope": "General Fund operating expenditures",
+      "source_url": "https://www.co.lancaster.pa.us/DocumentCenter/View/18652/Resolution-No-79-of-2025",
+      "source_page": "p. 1, Operating Budget, Total 2026 Operating Expenditures",
+      "checked_at": "2026-11-23",
+      "verification": "verified"
+    },
+    {
+      "county": "Luzerne",
+      "fiscal_year": "2026",
+      "measure": "Adopted general fund expense budget",
+      "amount_usd": 170414085,
+      "scope": "Fund 100 General Fund; original adopted budget before amendments",
+      "source_url": "https://www.luzernecounty.org/AgendaCenter/ViewFile/Agenda/_05262026-4808",
+      "source_page": "Agenda p. 81 of 95; Budget Performance Report p. 57 of 57, Fund 100 General Fund Totals",
+      "checked_at": "2026-11-23",
+      "verification": "verified"
+    },
+    {
+      "county": "York",
+      "fiscal_year": "2026",
+      "measure": "Adopted total general funds budget",
+      "amount_usd": 283699411,
+      "scope": "General Fund plus Library Fund; not General Fund alone",
+      "source_url": "https://www.yorkcountypa.gov/DocumentCenter/View/7903/2026-Adopted-Budget",
+      "source_page": "PDF p. 3, Summary - All Funds, Total General Funds",
+      "checked_at": "2026-11-23",
+      "verification": "verified"
+    }
+  ]
+}

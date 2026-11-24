@@ -1,0 +1,80 @@
+{
+  "checked_at": "2026-11-23",
+  "session_note": "Pennsylvania state bills belong to the 2025-2026 regular session. A bill's last action is not a scheduled hearing or vote. Recheck all pages before publication.",
+  "records": [
+    {
+      "jurisdiction": "county",
+      "county": "Lancaster",
+      "body": "Lancaster County Redevelopment Authority Board",
+      "title": "Resolution on Local Share Account application for ECHOS Properties affordable housing acquisition project",
+      "status": "Listed under New Business on the November 24 agenda; outcome not yet recorded",
+      "action_date": "2026-11-24",
+      "source_url": "https://prison.co.lancaster.pa.us/AgendaCenter/ViewFile/Agenda/_11242026-3739",
+      "checked_at": "2026-11-23",
+      "verification": "verified"
+    },
+    {
+      "jurisdiction": "state",
+      "county": null,
+      "body": "Pennsylvania Senate",
+      "title": "SB 1474: Universal Child Care Task Force",
+      "status": "Last action: referred to Senate Health and Human Services Committee",
+      "action_date": "2026-09-24",
+      "source_url": "https://www.palegis.us/legislation/bills/2025/sb1474",
+      "checked_at": "2026-11-23",
+      "verification": "verified"
+    },
+    {
+      "jurisdiction": "state",
+      "county": null,
+      "body": "Pennsylvania Senate",
+      "title": "HB 2023: Landlord and Tenant Act changes; extreme-weather eviction proposal",
+      "status": "Passed House; last action: referred to Senate Urban Affairs and Housing Committee",
+      "action_date": "2026-10-26",
+      "source_url": "https://www.palegis.us/legislation/bills/2025/hb2023",
+      "checked_at": "2026-11-23",
+      "verification": "verified"
+    },
+    {
+      "jurisdiction": "state",
+      "county": null,
+      "body": "Pennsylvania House of Representatives",
+      "title": "HB 24: Off-campus student housing rights",
+      "status": "Last action: referred to House Housing and Community Development Committee",
+      "action_date": "2025-01-08",
+      "source_url": "https://www.palegis.us/legislation/bills/2025/hb24",
+      "checked_at": "2026-11-23",
+      "verification": "verified"
+    }
+  ],
+  "county_agenda_checks": [
+    {
+      "county": "Adams",
+      "body": "Adams County Board of Commissioners",
+      "next_meeting": "2026-11-25",
+      "current_agenda_record": null,
+      "note": "Meeting is listed, but the 2026 meeting-record page reviewed did not show a November 25 agenda; latest posted agenda listed was November 12.",
+      "source_url": "https://www.adamscountypa.gov/departments/commissioners/boardcommissionersmeetings/2026",
+      "meeting_source_url": "https://www.adamscountypa.gov/departments/commissioners/adams-county-calendar/2026/board-of-commissioners-of-adams-county-meeting/11-25-2026-11-25-2026-board-of-commissioners-of-adams-county-meeting",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Bucks",
+      "body": "Bucks County Board of Commissioners",
+      "next_meeting": "2026-12-02",
+      "current_agenda_record": null,
+      "note": "The county's meeting schedule lists December 2; no item-level December 2 agenda was verified during this check.",
+      "source_url": "https://www.buckscounty.gov/DocumentCenter/View/25371/2026-Bucks-County-Commissioners-Meeting-Schedule?bidId=",
+      "checked_at": "2026-11-23"
+    },
+    {
+      "county": "Lancaster",
+      "body": "Lancaster County Board of Commissioners",
+      "next_meeting": "2026-12-02",
+      "current_agenda_record": null,
+      "note": "November 18 agenda says no commissioners' meeting November 25 and says the proposed budget will be available December 2; a December 2 item-level agenda was not yet verified.",
+      "source_url": "https://prison.co.lancaster.pa.us/AgendaCenter/ViewFile/ArchivedAgenda/_11182026-4977",
+      "checked_at": "2026-11-23"
+    }
+  ]
+}

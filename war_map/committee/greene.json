@@ -1,0 +1,585 @@
+{
+  "county": "Greene",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-11-24",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://greenecountypa.gov/Elections/Default.aspx?PageLayout=SUMMARY&Election=30067",
+      "title": "Greene County election results, 2026 Primary Election summary (county-hosted results site)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://greenecountypa.gov/resources/58491",
+      "title": "Unofficial 2026 Primary Election Candidate Listing (May 19th, 2026), Member of the Republican County Committee, vote for one male and one female per precinct",
+      "type": "candidate_listing",
+      "as_of": "2026-05-19"
+    },
+    {
+      "url": "https://greenecountypa.gov/Elections/Default.aspx?PageLayout=PRECINCTS&Election=30067",
+      "title": "Greene County 2026 Primary precinct list (42 precincts)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "ALEPPO TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "CARMICHAELS BORO",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CENTER TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CLARKSVILLE BORO",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "CUMBERLAND TOWNSHIP #1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CUMBERLAND TOWNSHIP #2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "CUMBERLAND TOWNSHIP NEMACOLIN",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "CUMBERLAND TOWNSHIP #4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "DUNKARD #1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "DUNKARD #2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "FRANKLIN TOWNSHIP EAST",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FRANKLIN TOWNSHIP WEST",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "FRANKLIN TOWNSHIP NORTH",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "FRANKLIN TOWNSHIP SOUTH",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FREEPORT TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "GILMORE TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "GRAY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "GREENE TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "GREENSBORO BORO",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JACKSON TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JEFFERSON BORO",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JEFFERSON TOWNSHIP #1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "JEFFERSON TOWNSHIP #2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JEFFERSON TOWNSHIP #3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "JEFFERSON TOWNSHIP #4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MONONGAHELA TOWNSHIP #1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "MONONGAHELA TOWNSHIP #2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "MORGAN TOWNSHIP CHART/TGDN",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "MORGAN TOWNSHIP LIPPENCOTT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MORGAN TOWNSHIP MATHER",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "MORRIS TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PERRY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "RICES LANDING BORO",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "RICHHILL TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SPRINGHILL TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "WASHINGTON TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WAYNE TOWNSHIP EAST",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "WAYNE TOWNSHIP WEST",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WAYNESBURG BORO #1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WAYNESBURG BORO #2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WAYNESBURG BORO #3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WHITELEY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 42,
+    "seats": 84,
+    "filled": 25,
+    "empty": 0,
+    "empty_no_filer": 41,
+    "unknown": 18
+  },
+  "notes": "Each of Greene's 42 precincts elects one male and one female Republican County Committee member (per the county's candidate listing). The county results site reports each precinct as one 'vote for 2' contest, lists only ballot candidates, and publishes no write-in totals; it does not show the candidates' sex. Status rules: no ballot candidate = 'empty_no_filer' (write-ins could have won but are not published); top vote-getter = 'filled'; where two or more candidates ran, the second seat is 'unknown' because the results do not show whether the runner-up is eligible for the other-sex seat (18 precincts). Results and candidate listing agree on which 25 precincts had candidates. Seats are labeled 'Member' because the results do not distinguish them. Appointments after the primary are not reflected."
+}

@@ -1,0 +1,845 @@
+{
+  "county": "Armstrong",
+  "checked_at": "2026-11-24",
+  "method": "candidate_listing",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-05-19",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.co.armstrong.pa.us/images/departments/votersregistration/officestobeelected/candidatestobeelected.pdf",
+      "title": "Armstrong County Republican Unofficial Candidate List, May 19, 2026 primary (Committeeperson - 4 Yr, two per precinct, candidates marked Male/Female)",
+      "type": "candidate_listing",
+      "as_of": "2026-05-19"
+    },
+    {
+      "url": "https://www.co.armstrong.pa.us/images/departments/votersregistration/officestobeelected/officestobeelected.pdf",
+      "title": "Offices to be elected May 19th 2026 (includes Member of the Republican County Committee)",
+      "type": "candidate_listing",
+      "as_of": "2026-05-19"
+    },
+    {
+      "url": "https://www.co.armstrong.pa.us/index.php/county-government-m/elections-voters-registration-m/election-results-m-evr/election-results-official-depart-m",
+      "title": "Armstrong County official election results page (precinct PDFs currently read 'No results reported'; unofficial page now shows the November 2026 general)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Apollo Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Applewold Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Atwood Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Boggs Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bradys Bend Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Burrell Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Cadogan Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Cowanshannock Township - East",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Cowanshannock Township - West",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Dayton Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "East Franklin Township - North",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "East Franklin Township - East",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "East Franklin Township - West",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Elderton Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Ford City Borough - 1",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Ford City Borough - 2",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Ford Cliff Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Freeport Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Gilpin Township - #1",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Gilpin Township - #2",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Hovey Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Kiskiminetas Township - Horrell",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Kiskiminetas Township - OHN",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Kiskiminetas Township - OHS",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Kiskiminetas Township - Spring Church",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Kittanning Borough - 1st Ward",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Kittanning Borough - 2nd Ward",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Kittanning Borough - 3rd Ward",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Kittanning Borough - 4th Ward",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Kittanning Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Leechburg Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Madison Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Mahoning Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Manor Township - North",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Manor Township - South #1",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Manor Township - South #2",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Manorville Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "North Apollo Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "North Buffalo Township - East",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "North Buffalo Township - West",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Parker City - #1",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Parker City - #2",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Parks Township - Kepple Hill",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Parks Township - West",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Perry Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Pine Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Plumcreek Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Rayburn Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Redbank Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Rural Valley Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "South Bend Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "South Bethlehem Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "South Buffalo Township - East",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "South Buffalo Township - West",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sugarcreek Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Valley Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Washington Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Wayne Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Franklin Township",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Kittanning Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Worthington Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson (male)",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson (female)",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 62,
+    "seats": 124,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 87,
+    "unknown": 37
+  },
+  "notes": "No official or unofficial primary committee results are currently posted (the official results PDFs say 'No results reported' and the unofficial page has been replaced by the November 2026 general election), so the evidence is the county's unofficial Republican candidate list. Each precinct has two 'Committeeperson - 4 Yr' seats and the list marks each candidate Male or Female; seats are treated as one male and one female seat. A seat with no filer of that sex is 'empty_no_filer' (write-ins could still have won). Seats with a filed candidate are 'unknown' rather than 'filled' because no result could be verified. Some precincts had more filers than seats (e.g. two male and two female filers). Precinct names are as the list prints them (e.g. 'Kiskiminetas Township - OHN' = Orchard Hills North; 'Ford City Borough - 1' = 1st Ward North)."
+}

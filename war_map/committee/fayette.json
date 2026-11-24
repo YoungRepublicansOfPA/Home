@@ -1,0 +1,44 @@
+{
+  "county": "Fayette",
+  "checked_at": "2026-11-24",
+  "method": "none_found",
+  "election": "Unverified (likely May 19, 2026 General Primary)",
+  "as_of": null,
+  "seats_per_precinct": null,
+  "sources": [
+    {
+      "url": "https://www.fayettecountypa.org/235/Election-Results",
+      "title": "Fayette County Election Results (2026 primary results posted only on Clarity/Scytl)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://www.fayettecountypa.org/612/Election-Bureau",
+      "title": "Fayette County Election Bureau (links 'May 19 Primary Official Results' at results.enr.clarityelections.com/PA/Fayette/126353)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://www.fayettecountypa.org/DocumentCenter/View/9115",
+      "title": "Official Results of May 18, 2021 Municipal Primary (checked: no committee contests)",
+      "type": "results",
+      "as_of": "2021-06-17"
+    },
+    {
+      "url": "https://www.fayettecountypa.org/DocumentCenter/View/6591",
+      "title": "Primary 2023 Final Certified County and Local Results (checked: no committee contests)",
+      "type": "results",
+      "as_of": "2023-05-16"
+    }
+  ],
+  "precincts": [],
+  "totals": {
+    "precincts": 77,
+    "seats": 0,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 0
+  },
+  "notes": "No usable evidence obtained. Fayette's official May 19, 2026 primary results are published only on the Clarity/Scytl site, which blocked automated access (HTTP 403). The county's 2021 and 2023 municipal primary result PDFs contain no committee contests and the scanned April 2024 primary certification covers federal/state offices only, so committee seats are presumably elected in gubernatorial-year primaries, but this was not confirmed. No Republican committee candidate list or roster was found. The precincts array is empty and totals.precincts (77) comes from the map's counties.geojson; seat totals are 0 because no seat-level record exists, and every seat should be read as unknown."
+}

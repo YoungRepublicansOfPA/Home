@@ -1,0 +1,26 @@
+{
+  "county": "Westmoreland",
+  "checked_at": "2026-11-24",
+  "method": "none_found",
+  "election": "Unverified (county site inaccessible)",
+  "as_of": null,
+  "seats_per_precinct": null,
+  "sources": [
+    {
+      "url": "https://www.westmorelandcountypa.gov/350/Election-Bureau",
+      "title": "Westmoreland County Election Bureau (returned HTTP 403 to automated requests on 2026-11-24)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [],
+  "totals": {
+    "precincts": 306,
+    "seats": 0,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 0
+  },
+  "notes": "No usable evidence obtained. Every Westmoreland County election page tried (westmorelandcountypa.gov Election Bureau pages and apps.westmorelandcountypa.gov ballot files) returned HTTP 403 to automated access, and the county's results site is Clarity/Scytl, which also blocks automated access. News coverage indicates committee seats were last elected in the May 20, 2025 municipal primary with many write-in ties, and that the county posted final committee results on its website, but those files could not be retrieved, so no seat counts are recorded. The precincts array is empty and totals.precincts (306) comes from the map's counties.geojson; seat totals are 0 because no seat-level record exists, and every seat should be read as unknown."
+}

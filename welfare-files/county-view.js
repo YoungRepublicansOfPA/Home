@@ -16,7 +16,8 @@
   const panel = element('div');
   panel.setAttribute('aria-live', 'polite');
   grid.append(map, panel);
-  section.append(heading, grid);
+  const preview = element('p', 'Select a county to open its municipalities.');
+  section.append(heading, preview, grid);
   const download = element('a', 'Download county energy assistance figures (JSON)');
   download.href = 'welfare-files/county-energy.json';
   download.download = 'county-energy.json';
@@ -36,6 +37,7 @@
     if (!json.ok) throw Error('Missing county figures');
     const report = await json.json();
     const awards = await (await fetch('welfare-files/housing.json')).json();
+    const municipalities = await (await fetch('welfare-files/municipalities.json')).json();
     const data = Object.fromEntries(report.counties.map(row => [row.county, row]));
     const dollars = new Intl.NumberFormat('en-US', {style:'currency', currency:'USD', maximumFractionDigits:0});
     function showRecord(row, output, create) {
@@ -49,11 +51,56 @@
     const names = Object.keys(data).sort();
     if (!names.length) throw Error('No county records');
     const shapes = new Map();
-    function show(name) {
+    async function showTownships(name, host, relevant) {
+      const label = element('label', 'Choose a municipality ');
+      const town = element('select');
+      town.append(element('option', 'Select a municipality'));
+      for (const item of municipalities[name] || []) town.append(element('option', item));
+      label.append(town);
+      const drawing = element('div');
+      const description = element('div');
+      description.setAttribute('aria-live', 'polite');
+      host.append(label, drawing, description);
+      function choose(place) {
+        town.value = place;
+        description.replaceChildren();
+        for (const path of drawing.querySelectorAll('path')) {
+          path.setAttribute('aria-pressed', String(path.dataset.name === place));
+        }
+        if (!town.selectedIndex) return;
+        description.append(element('h4', place + ', ' + name + ' County'));
+        const records = relevant.filter(row => [row.project, row.recipient].some(text => text.toLowerCase().includes(place.toLowerCase())));
+        for (const row of records) description.append(element('p', row.project + ' · ' + row.recipient + ' · ' + dollars.format(row.amount) + ' project award'));
+        description.append(element('p', 'Total spending within this municipality has yet to be verified.'));
+      }
+      town.addEventListener('change', () => choose(town.value));
+      try {
+        const response = await fetch('welfare-files/town-maps/' + name.toLowerCase() + '.svg');
+        if (!response.ok) throw Error();
+        const svg = new DOMParser().parseFromString(await response.text(), 'image/svg+xml').documentElement;
+        for (const path of svg.querySelectorAll('path[data-name]')) {
+          path.addEventListener('click', () => choose(path.dataset.name));
+          path.addEventListener('keydown', event => {
+            if (['Enter',' '].includes(event.key)) {event.preventDefault(); choose(path.dataset.name);}
+          });
+        }
+        drawing.append(svg);
+      } catch {drawing.append(element('p', 'Use the municipality list above to explore this county.'));}
+    }
+    function show(name, updateUrl = true) {
+      if (updateUrl && location.protocol !== 'file:') {
+        const url = new URL(location.href);
+        url.searchParams.set('county',name);
+        history.replaceState(null,'',url);
+      }
+      preview.textContent = name + ' County selected.';
       select.value = name;
       for (const [key, path] of shapes) path.setAttribute('aria-pressed', String(key === name));
       panel.replaceChildren(element('h3', name + ' County'));
       const relevant = awards.filter(row => row.counties.split(' ').includes(name));
+      const towns = element('div');
+      panel.append(towns);
+      showTownships(name, towns, relevant);
       const local = relevant.filter(row => row.counties === name);
       panel.append(element('p', '2025/2026 PHARE housing awards listed only for this county: ' + dollars.format(local.reduce((sum, row) => sum + row.amount, 0))));
       const details = element('details');
@@ -69,7 +116,8 @@
       select.append(option);
     }
     select.addEventListener('change', () => show(select.value));
-    show(names[0]);
+    const requested = new URLSearchParams(location.search).get('county') || '';
+    show(names.find(name => name.toLowerCase() === requested.toLowerCase()) || names[0], false);
     const response = await fetch('county-map.svg');
     if (!response.ok) throw Error('County boundaries unavailable');
     const svg = new DOMParser().parseFromString(await response.text(), 'image/svg+xml').documentElement;
@@ -83,7 +131,11 @@
       path.setAttribute('tabindex','0');
       path.setAttribute('aria-label', name + ' County');
       path.setAttribute('aria-pressed',String(name === select.value));
-      for (const event of ['pointerenter','focus','click']) path.addEventListener(event, () => show(name));
+      for (const event of ['pointerenter','focus']) path.addEventListener(event, () => {
+        preview.textContent = name + ' County · ' + dollars.format(data[name].total_usd) + ' LIHEAP (' + report.period + ')';
+      });
+      for (const event of ['pointerleave','blur']) path.addEventListener(event, () => {preview.textContent = select.value + ' County selected.';});
+      path.addEventListener('click', () => show(name));
       path.addEventListener('keydown', event => {
         if (['Enter',' '].includes(event.key)) {event.preventDefault(); show(name);}
       });

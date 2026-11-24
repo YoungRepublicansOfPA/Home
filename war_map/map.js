@@ -4,18 +4,25 @@ async function start() {
     if (!response.ok) throw Error(path);
     return response;
   };
-  const [svg, data] = await Promise.all([
+  const [svg, data, overview] = await Promise.all([
     get('county-map.svg').then(r => r.text()),
-    get('map-data.json').then(r => r.json())
+    get('map-data.json').then(r => r.json()),
+    fetch('overview.svg').then(r => { if (!r.ok) throw Error('overview'); return r.text(); })
   ]);
   const byId = id => document.getElementById(id);
-  byId('map').innerHTML = svg;
+  byId('counties-map').innerHTML = svg;
+  byId('overview').innerHTML = overview;
+  byId('overview').onclick = event => {
+    const county = event.target.closest('[data-area]')?.dataset.area;
+    if (county) choose(county);
+  };
   const select = byId('county');
+  byId('counties-map').hidden = false;
   const paths = [...document.querySelectorAll('path[data-county]')];
   const shades = ['#284264', '#35678b', '#297c95', '#218e96', '#159c94'];
   const thresholds = [50000, 100000, 250000, 500000];
   const compact = new Intl.NumberFormat('en', {notation:'compact',maximumFractionDigits:1});
-  let layer = window.countyLayer = 'population';
+  let layer = window.countyLayer = 'returns';
   for (const path of paths) {
     const name = path.dataset.county;
     select.add(new Option(name, name));
@@ -42,6 +49,13 @@ async function start() {
     return loaded;
   }
   function draw() {
+    const results = layer === 'returns';
+    byId('overview').hidden = !results;
+    byId('counties-map').hidden = results;
+    if (results) {
+      byId('legend').textContent = '2024 U.S. president by precinct · Red: Trump lead · Blue: Harris lead · Purple: tie. Darker shades mark margins of 10 and 30 points. Select a county to explore.';
+      return;
+    }
     const pop = layer === 'population';
     for (const path of paths) {
       const county = data.counties[path.dataset.county];

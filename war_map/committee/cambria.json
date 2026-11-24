@@ -1,0 +1,1670 @@
+{
+  "county": "Cambria",
+  "checked_at": "2026-11-24",
+  "method": "none_found",
+  "election": "May 19, 2026 General Primary (results not retrievable)",
+  "as_of": "2026-06-08",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.cambriacountypa.gov/download/515/2026-general-primary/14981/cambria_pa_dos_official_summary_text_groups_6-8-26.pdf",
+      "title": "Cambria County 2026 General Primary official summary (listed on county site; download blocked to automated access)",
+      "type": "results",
+      "as_of": "2026-06-08"
+    },
+    {
+      "url": "https://www.cambriacountypa.gov/election-office/",
+      "title": "Cambria County Election Office",
+      "type": "results",
+      "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://results.enr.clarityelections.com/PA/Cambria/113942/",
+      "title": "Cambria County 2022 Primary results (Clarity): one REP COMMITTEE PERSON contest per precinct, Vote For 2; used only for seat count",
+      "type": "rules",
+      "as_of": "2022"
+    },
+    {
+      "url": "https://results.enr.clarityelections.com/PA/Cambria/127572/",
+      "title": "Cambria County 2026 General Election results (Clarity): source of the 125 precinct names",
+      "type": "results",
+      "as_of": "2026-11"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Adams Township No. 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Adams Township - Dunlo",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Adams Township - Elton",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Adams Township - Gramlingtown",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Adams Township - St. Michael",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Allegheny Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Ashville Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Barr Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Blacklick Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Brownstown Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Cambria Township No. 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Cambria Township - Colver",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Cambria Township - Revloc",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Cambria Township No. 4",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Carrolltown Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Cassandra Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Chest Springs Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Chest Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Clearfield Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Conemaugh Township - Cover Hill",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Conemaugh Township - Center",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Cresson Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Cresson Township - North",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Cresson Township - South",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Croyle Township No. 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Croyle Township No. 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Daisytown Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Dale Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Dean Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "East Carroll Township - North",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "East Carroll Township - South",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "East Conemaugh Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "East Taylor Township No. 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "East Taylor Township No. 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Ebensburg Borough - Center",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Ebensburg Borough - East",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Ebensburg Borough - West",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Ehrenfeld Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Elder Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Ferndale Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Franklin Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Gallitzin Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Gallitzin Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Geistown Borough No. 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Geistown Borough No. 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hastings Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jackson Township No. 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jackson Township - Vinco",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jackson Township No. 3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lilly Borough - 1st Ward",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lilly Borough - 2nd Ward",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lorain Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Loretto Borough.",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lower Yoder Township No. 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lower Yoder Township No. 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Middle Taylor Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Munster Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Nanty Glo Borough - 1st Ward",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Nanty Glo Borough - 2nd Ward",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Northern Cambria North",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Northern Cambria Center",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Northern Cambria South",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Patton Borough - 1st Ward",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Patton Borough - 2nd Ward",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Portage Borough - 1st Ward",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Portage Borough - 2nd Ward",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Portage Borough - 3rd Ward",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Portage Township - Center",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Portage Township - Southwest",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Reade Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Richland Township No. 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Richland Township No. 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Richland Township No. 3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Richland Township No. 4",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Richland Township No. 5",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Richland Township No. 6",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Richland Township No. 7",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Richland Township No. 8",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Richland Township No. 9",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sankertown Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Scalp Level Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "South Fork Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Southmont Borough No. 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Southmont Borough No. 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Stonycreek Township - Ward 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Stonycreek Township - Ward 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Stonycreek Township - Ward 3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Stonycreek Township - Ward 4",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Summerhill Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Summerhill Township - North",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Summerhill Township - South",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Susquehanna Township - North",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Susquehanna Township - South",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Tunnelhill Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Upper Yoder Township No. 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Upper Yoder Township No. 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Upper Yoder Township No. 3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Upper Yoder Township No. 4",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Vintondale Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Washington Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Carroll Township - North",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Carroll Township - South",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Westmont Borough No. 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Westmont Borough No. 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Westmont Borough No. 3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Taylor Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "White Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wilmore Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Johnstown Center Town",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Johnstown Kernville",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Johnstown Seventh Ward",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Johnstown Eighth Ward No. 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Johnstown Eighth Ward No. 3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Johnstown Old Conemaugh Woodvale",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Johnstown Prospect",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Johnstown Cambria City",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Johnstown Seventeenth Ward No. 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Johnstown Seventeenth Ward No. 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Johnstown Seventeenth Ward No. 3",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Johnstown Seventeenth Ward No. 4",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Johnstown Eighteenth Ward",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Johnstown Nineteenth Ward",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Johnstown Twentieth Ward No. 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Johnstown Twentieth Ward No. 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Johnstown Twenty-First Ward",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 125,
+    "seats": 250,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 250
+  },
+  "notes": "Cambria Republicans elect precinct committee persons in gubernatorial-year primaries (the 2022 primary had 125 REP COMMITTEE PERSON contests, Vote For 2), so the May 19, 2026 primary is the most recent committee election. The county posts its 2026 primary official summary (dated 6.8.26) only as a file download on cambriacountypa.gov, which returns HTTP 403 to automated access (Cloudflare), so seat results could not be read; no 2026 primary Clarity page was linked. All 250 seats are unknown pending a manual download of that file. Precinct names are from the county Clarity results for the November 3, 2026 general election. The 2022 results were not used for seat status because they are superseded."
+}

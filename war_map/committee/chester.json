@@ -1,0 +1,3023 @@
+{
+ "county": "Chester",
+ "checked_at": "2026-11-24",
+ "method": "election_results",
+ "election": "May 19, 2026 General Primary",
+ "as_of": "2026-06-03",
+ "seats_per_precinct": 2,
+ "sources": [
+  {
+   "url": "https://www.chesco.org/DocumentCenter/View/85012",
+   "title": "CHESTER 2026 PRIMARY OFFICIAL SUMMARY RESULTS",
+   "type": "results",
+   "as_of": "2026-06-03"
+  },
+  {
+   "url": "https://www.chesco.org/3979/Archived-Election-Results",
+   "title": "Chester County Archived Election Results",
+   "type": "results",
+   "as_of": "2026-11-24"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "005 Atglen",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "010 Avondale",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "014 Birmingham 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "015 Birmingham 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "020 E Bradford N-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "021 E Bradford N-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "023 E Bradford S-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "024 E Bradford S-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "025 W Bradford 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "030 W Bradford 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "031 W Bradford 3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "032 W Bradford 4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "033 W Bradford 5",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "035 E Brandywine N-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "036 E Brandywine N-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "038 E Brandywine S",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "040 W Brandywine E-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "041 W Brandywine E-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "043 W Brandywine W",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "045 Caln 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "050 Caln 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "053 Caln 3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "054 Caln 4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "055 East Caln 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "056 East Caln 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "060 West Caln 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "061 West Caln 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "065 Charlestown",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "070 Coatesville 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "080 Coatesville 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "090 Coatesville 3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "100 Coatesville 4-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "110 Coatesville 4-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "120 Coatesville 5",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "140 S Coatesville",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "145 N Coventry E",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "150 N Coventry M",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "155 N Coventry W-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "156 N Coventry W-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "160 E Coventry 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "165 E Coventry 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "170 S Coventry",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "175 E Downingtown E",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "180 E Downingtown W",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "185 W Downingtown N",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "190 W Downingtown S",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "195 Easttown 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "198 Easttown 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "201 Easttown 3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "204 Easttown 4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "207 Easttown 5",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "210 Easttown 6",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "213 Easttown 7",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "215 Elk",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "220 Elverson",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "225 E Fallowfield E",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "230 E Fallowfield W",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "235 W Fallowfield",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "240 Franklin",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "243 E Goshen 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "244 E Goshen 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "245 E Goshen 3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "246 E Goshen 4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "247 E Goshen 5",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "248 E Goshen 6",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "249 E Goshen 7",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "250 E Goshen 8",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "251 E Goshen 9",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "255 W Goshen N-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "260 W Goshen N-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "261 W Goshen N-3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "262 W Goshen N-4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "265 W Goshen M-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "empty"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "270 W Goshen M-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "275 W Goshen S-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "280 W Goshen S-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "285 W Goshen S-3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "286 W Goshen S-4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "290 Highland",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "295 Honey Brook Borough",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "300 Honey Brook Township 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "301 Honey Brook Township 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "305 Kennett Square N",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "310 Kennett Square S-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "315 Kennett Square S-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "320 Kennett Township 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "325 Kennett Township 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "328 Kennett Township 3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "329 Kennett Township 4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "330 London Britain",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "335 Londonderry",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "340 London Grove Ch",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "345 London Grove S",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "350 Malvern",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "355 E Marlborough E",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "356 E Marlborough S",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "360 E Marlborough W",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "365 W Marlborough",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "370 Modena",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "375 E Nantmeal",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "380 W Nantmeal",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "385 New Garden N",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "390 New Garden S-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "391 New Garden S-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "395 New London",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "400 Newlin",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "405 E Nottingham E",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "406 E Nottingham W",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "410 W Nottingham",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "415 Oxford E",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "420 Oxford W",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "425 Lower Oxford E",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "430 Lower Oxford W",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "435 Upper Oxford",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "440 Parkesburg N",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "445 Parkesburg S",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "450 Penn",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "453 Pennsbury N-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "454 Pennsbury N-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "456 Pennsbury S-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "457 Pennsbury S-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "461 Phoenixville N-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "462 Phoenixville N-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "463 Phoenixville N-3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "467 Phoenixville M-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "468 Phoenixville M-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "469 Phoenixville M-3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "472 Phoenixville E-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "473 Phoenixville E-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "474 Phoenixville E-3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "477 Phoenixville W-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "478 Phoenixville W-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "479 Phoenixville W-3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "515 E Pikeland 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "520 E Pikeland 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "521 E Pikeland 3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "525 W Pikeland",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "530 Pocopson",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "535 Sadsbury N",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "540 Sadsbury S",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "545 W Sadsbury",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "550 Schuylkill 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "555 Schuylkill 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "556 Schuylkill 3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "558 Schuylkill 4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "560 Spring City 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "565 Spring City 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "570 Spring City 3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "575 Spring City 4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "580 Thornbury 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "581 Thornbury 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "585 Tredyffrin E-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "590 Tredyffrin E-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "595 Tredyffrin E-3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "600 Tredyffrin E-4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "605 Tredyffrin E-5",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "614 Tredyffrin M-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "615 Tredyffrin M-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "616 Tredyffrin M-3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "617 Tredyffrin M-4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "618 Tredyffrin M-5",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "619 Tredyffrin M-6",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "620 Tredyffrin M-7",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "630 Tredyffrin W-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "635 Tredyffrin W-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "640 Tredyffrin W-3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "645 Tredyffrin W-4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "647 Tredyffrin W-5",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "653 Uwchlan 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "654 Uwchlan 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "655 Uwchlan 3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "656 Uwchlan 4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "657 Uwchlan 5",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "658 Uwchlan 6",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "659 Uwchlan 7",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "660 Uwchlan 8",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "661 Uwchlan 9",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "665 Upper Uwchlan 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "666 Upper Uwchlan 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "667 Upper Uwchlan 3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "670 Valley N-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "671 Valley N-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "672 Valley N-3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "675 Valley S",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "680 E Vincent 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "681 E Vincent 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "682 E Vincent 3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "683 E Vincent 4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "690 W Vincent 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "693 W Vincent 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "695 Wallace",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "700 Warwick E",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "705 Warwick W",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "710 West Grove 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "715 West Grove 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "720 Westtown 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "725 Westtown 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "730 Westtown 3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "733 Westtown 4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "734 Westtown 5",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "735 E Whiteland 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "740 E Whiteland 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "745 E Whiteland 3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "750 E Whiteland 4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "752 E Whiteland 5",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "754 E Whiteland 6",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "759 W Whiteland 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "760 W Whiteland 2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "761 W Whiteland 3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "762 W Whiteland 4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "763 W Whiteland 5",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "764 W Whiteland 6",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "765 W Whiteland 7",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "770 Willistown N-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "775 Willistown N-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "780 Willistown N-3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "785 Willistown N-4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "790 Willistown N-5",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "795 Willistown N-6",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "800 Willistown S-1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "805 Willistown S-2",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "806 Willistown S-3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "810 West Chester 1",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "820 West Chester 2-E",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "825 West Chester 2-W",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "835 West Chester 3",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "842 West Chester 4",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "846 West Chester 5",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "850 West Chester 6",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "860 West Chester 7",
+   "seats": [
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    },
+    {
+     "seat": "County Committee Member",
+     "status": "unknown"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "precincts": 230,
+  "seats": 460,
+  "filled": 262,
+  "empty": 5,
+  "empty_no_filer": 0,
+  "unknown": 193
+ },
+ "notes": "Each of 230 precincts has a \"Republican County Committee Member\" contest (Vote for 2), so seats are labelled \"County Committee Member\". Republican committee contests also appeared in the 2024 primary; 2026 is used as the most recent. Filled = a ballot candidate placed in the top two with more votes than all write-ins combined. Empty = an open seat beyond the number of write-in votes cast (each write-in vote can elect at most one person). Unknown = an open seat that write-in votes could have filled (193 seats). The official report names some write-in recipients (\"Write-In: ...\"), but write-in winners are kept unknown because no county list confirms who qualified or accepted."
+}

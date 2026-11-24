@@ -1,0 +1,5609 @@
+{
+ "county": "Delaware",
+ "checked_at": "2026-11-24",
+ "method": "election_results",
+ "election": "April 23, 2024 General Primary",
+ "as_of": "2024-04-23",
+ "seats_per_precinct": 2,
+ "sources": [
+  {
+   "url": "https://results.enr.clarityelections.com/PA/Delaware/120839/web.317647/#/summary",
+   "title": "Delaware County Official Results: 2024 Primary Election (Clarity, data version 338133)",
+   "type": "results",
+   "as_of": "2024-04-23"
+  },
+  {
+   "url": "https://www.delcopa.gov/delco-votes/election-results-archive",
+   "title": "Delaware County Election Results Archive",
+   "type": "results",
+   "as_of": "2026-11-24"
+  },
+  {
+   "url": "https://www.delcopa.gov/sites/default/files/media/REP_MORTON_BOR_MAY-2026.pdf",
+   "title": "Republican preview ballot, Morton Borough, May 19, 2026 (no county committee contest)",
+   "type": "candidate_listing",
+   "as_of": "2026-03-30"
+  },
+  {
+   "url": "https://delcopa.gov/sites/default/files/2026-05/Write-in-Cumulative-Results-Updated_5-27-2026.pdf",
+   "title": "2026 Primary write-in cumulative results (only Democratic county committee and Republican state committee contests appear)",
+   "type": "results",
+   "as_of": "2026-05-27"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "Aldan Borough Precinct Eastern",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Aldan Borough Precinct Western",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Aston Township Ward 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Aston Township Ward 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Aston Township Ward 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Aston Township Ward 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Aston Township Ward 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Aston Township Ward 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Aston Township Ward 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bethel Township Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Bethel Township Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bethel Township Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Bethel Township Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bethel Township Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Bethel Township Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Chadds Ford Township Precinct Northeastern",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Chadds Ford Township Precinct Southwestern",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Brookhaven Borough Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Brookhaven Borough Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Brookhaven Borough Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Brookhaven Borough Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Brookhaven Borough Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Brookhaven Borough Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester Heights Borough",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Chester Township Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester Township Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester Township Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester Township Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester Township Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Chichester Township Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Lower Chichester Township Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Chichester Township Ward 1 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Chichester Township Ward 1 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Chichester Township Ward 2 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Chichester Township Ward 2 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Chichester Township Ward 3 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Chichester Township Ward 3 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Chichester Township Ward 4 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Chichester Township Ward 4 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Chichester Township Ward 5 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Chichester Township Ward 5 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Clifton Heights Borough Ward 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Clifton Heights Borough Ward 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Clifton Heights Borough Ward 3 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Clifton Heights Borough Ward 3 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Clifton Heights Borough Ward 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Collingdale Borough Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Collingdale Borough Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Collingdale Borough Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Collingdale Borough Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Collingdale Borough Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Collingdale Borough Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Collingdale Borough Precinct 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Colwyn Borough Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Colwyn Borough Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Concord Township Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Concord Township Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Concord Township Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Concord Township Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Concord Township Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Concord Township Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Concord Township Precinct 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Concord Township Precinct 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Concord Township Precinct 9",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Concord Township Precinct 10",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Concord Township Precinct 11",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Darby Borough Ward 1 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Darby Borough Ward 1 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Darby Borough Ward 2 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Darby Borough Ward 2 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Darby Borough Ward 3 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Darby Borough Ward 3 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Darby Township Ward 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Darby Township Ward 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Darby Township Ward 3 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Darby Township Ward 3 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Darby Township Ward 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Darby Township Ward 5 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Darby Township Ward 5 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 1 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 1 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 1 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 1 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 1 Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 1 Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 1 Precinct 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 1 Precinct 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 1 Precinct 9",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 2 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 2 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 2 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 2 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 2 Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 2 Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 2 Precinct 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 3 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 3 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 3 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 3 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 3 Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 3 Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 3 Precinct 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 3 Precinct 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 3 Precinct 9",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 3 Precinct 10",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 3 Precinct 11",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 4 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 4 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 4 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 4 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 4 Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 4 Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 4 Precinct 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 4 Precinct 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 4 Precinct 9",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 4 Precinct 10",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 4 Precinct 11",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 5 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 5 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 5 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 5 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 5 Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 5 Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 5 Precinct 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 5 Precinct 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 5 Precinct 9",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 5 Precinct 10",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 6 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 6 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 6 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 6 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 6 Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 6 Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 6 Precinct 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 6 Precinct 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 6 Precinct 9",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 6 Precinct 10",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 6 Precinct 11",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 6 Precinct 12",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 7 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 7 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 7 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 7 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 7 Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 7 Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 7 Precinct 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 7 Precinct 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 7 Precinct 9",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 7 Precinct 10",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Darby Township District 7 Precinct 11",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "East Lansdowne Borough Precinct Eastern",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "East Lansdowne Borough Precinct Western",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Eddystone Borough Precinct Northern",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Eddystone Borough Precinct Southern",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Edgmont Township Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Edgmont Township Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Folcroft Borough Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Folcroft Borough Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Folcroft Borough Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Folcroft Borough Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Folcroft Borough Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Glenolden Borough Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Glenolden Borough Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Glenolden Borough Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Glenolden Borough Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Glenolden Borough Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Glenolden Borough Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 1 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 1 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 1 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 1 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 2 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 2 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 2 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 2 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 3 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 3 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 3 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 3 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 4 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 4 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 4 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 4 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 5 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 5 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 5 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 5 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 6 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 6 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 6 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 6 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 7 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 7 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 7 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 7 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 8 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 8 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 8 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 8 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 9 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 9 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 9 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Haverford Township Ward 9 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Lansdowne Borough Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lansdowne Borough Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Lansdowne Borough Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lansdowne Borough Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Lansdowne Borough Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Lansdowne Borough Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Lansdowne Borough Precinct 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lansdowne Borough Precinct 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Lansdowne Borough Precinct 9",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lansdowne Borough Precinct 10",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Lansdowne Borough Precinct 11",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Marcus Hook Borough Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marcus Hook Borough Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marcus Hook Borough Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Marcus Hook Borough Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 1 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 1 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 1 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 2 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 2 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 2 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 3 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 3 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 3 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 4 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 4 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 4 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 5 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 5 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 5 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 6 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 6 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 6 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 7 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 7 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marple Township Ward 7 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Media Borough Precinct Eastern",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Media Borough Precinct Northern",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Media Borough Precinct Southern",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Media Borough Precinct Western",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Middletown Township District 1 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Middletown Township District 1 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Middletown Township District 1 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Middletown Township District 2 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Middletown Township District 2 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Middletown Township District 2 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Middletown Township District 3 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Middletown Township District 3 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Middletown Township District 3 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Middletown Township District 4 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Middletown Township District 4 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Middletown Township District 4 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Millbourne Borough",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Morton Borough",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Newtown Township Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Newtown Township Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Newtown Township Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Newtown Township Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Newtown Township Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Newtown Township Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Newtown Township Precinct 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Newtown Township Precinct 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Norwood Borough Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Norwood Borough Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Norwood Borough Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Norwood Borough Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Norwood Borough Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Norwood Borough Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Norwood Borough Precinct 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Norwood Borough Precinct 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Parkside Borough",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Prospect Park Borough Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Prospect Park Borough Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Prospect Park Borough Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Prospect Park Borough Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Prospect Park Borough Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Nether Providence Township Ward 1 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Nether Providence Township Ward 1 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Nether Providence Township Ward 2 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Nether Providence Township Ward 2 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Nether Providence Township Ward 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Nether Providence Township Ward 4 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Nether Providence Township Ward 4 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Nether Providence Township Ward 5 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Nether Providence Township Ward 5 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Nether Providence Township Ward 6 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Nether Providence Township Ward 6 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Nether Providence Township Ward 7 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Nether Providence Township Ward 7 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Providence Township District 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Providence Township District 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Providence Township District 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Providence Township District 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Providence Township District 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Radnor Township Ward 1 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Radnor Township Ward 1 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Radnor Township Ward 2 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Radnor Township Ward 2 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Radnor Township Ward 2 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Radnor Township Ward 3 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Radnor Township Ward 3 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Radnor Township Ward 4 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Radnor Township Ward 4 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Radnor Township Ward 5 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Radnor Township Ward 5 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Radnor Township Ward 6 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Radnor Township Ward 6 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Radnor Township Ward 7 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Radnor Township Ward 7 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Park Borough Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Park Borough Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Park Borough Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Park Borough Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 1 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 1 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 1 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 2 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 2 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 2 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 3 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 3 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 4 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 4 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 5 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 5 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 6 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 6 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 7 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 7 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 8 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 8 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 9 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ridley Township Ward 9 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rose Valley Borough",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rutledge Borough",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Sharon Hill Borough Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Sharon Hill Borough Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Sharon Hill Borough Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Sharon Hill Borough Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 1 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 1 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 1 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 2 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 2 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 2 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 3 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 3 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 3 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 4 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 4 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 4 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 5 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 5 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 5 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 6 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 6 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 6 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 6 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 7 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 7 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield Township Ward 7 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Swarthmore Borough Precinct Eastern",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Swarthmore Borough Precinct Northern",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Swarthmore Borough Precinct Western",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Thornbury Township Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Thornbury Township Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Thornbury Township Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Thornbury Township Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Thornbury Township Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Tinicum Township Ward 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Tinicum Township Ward 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Tinicum Township Ward 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Tinicum Township Ward 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Tinicum Township Ward 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Trainer Borough Precinct Lennox Park",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Trainer Borough Precinct Lower",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Trainer Borough Precinct Upper",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upland Borough Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upland Borough Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upland Borough Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Yeadon Borough Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Yeadon Borough Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Yeadon Borough Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Yeadon Borough Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Yeadon Borough Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Yeadon Borough Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Yeadon Borough Precinct 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Yeadon Borough Precinct 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Yeadon Borough Precinct 9",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 1 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 1 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 1 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 1 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 1 Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 1 Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 1 Precinct 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 1 Precinct 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 2 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 2 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 2 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 2 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 5 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 5 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 6 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 6 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 7 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 7 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 7 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 7 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 8 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 8 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 9 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 9 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 9 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 10 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 10 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 10 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 11 Precinct 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 11 Precinct 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 11 Precinct 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 11 Precinct 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 11 Precinct 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Chester City Ward 11 Precinct 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "precincts": 428,
+  "seats": 856,
+  "filled": 356,
+  "empty": 91,
+  "empty_no_filer": 0,
+  "unknown": 409
+ },
+ "notes": "Delaware County Republicans did not elect county committee in the May 19, 2026 primary: the 2026 Republican ballot and results list only state committee. The most recent Republican committee election found is the April 23, 2024 primary, with one Committeeman and one Committeewoman contest (Vote for 1) per precinct across 428 precincts. Filled = a ballot candidate won with more votes than all write-ins combined. Empty = no ballot candidate and zero write-in votes. Unknown = write-in votes only, since the county publishes only \"Unassigned write-ins\" and no write-in winners list was found (408 seats), plus one seat where the ballot candidate did not exceed the write-in total. The source has two contests labelled \"Committeewoman, Chadds Ford Township\" with no precinct; both are filled, so they are assigned to the Northeastern and Southwestern precincts in source order without affecting the count. Precinct names are the 2024 names. The county reported 383 precincts in 2026, so precincts have since been consolidated and these 428 may not match current precinct names. Vacancies filled by appointment after 2024 are not captured."
+}

@@ -1,0 +1,3985 @@
+{
+ "county": "Bucks",
+ "checked_at": "2026-11-24",
+ "method": "election_results",
+ "election": "May 19, 2026 General Primary",
+ "as_of": "2026-06-09",
+ "seats_per_precinct": 2,
+ "sources": [
+  {
+   "url": "https://www.buckscounty.gov/DocumentCenter/View/27504",
+   "title": "2026 General Primary Certified Returns - Summary Totals (Statement of Votes Cast by Geography, 2026-06-09)",
+   "type": "results",
+   "as_of": "2026-06-09"
+  },
+  {
+   "url": "https://www.buckscounty.gov/1206/Election-Results",
+   "title": "Bucks County Election Results page",
+   "type": "results",
+   "as_of": "2026-11-24"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "BEDMINSTER TOWNSHIP EAST",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BEDMINSTER TOWNSHIP WEST",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP LOWER EAST 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP LOWER EAST 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP LOWER EAST 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP LOWER EAST 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP LOWER EAST 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP LOWER EAST 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP LOWER EAST 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP LOWER EAST 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP LOWER MIDDLE 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP LOWER MIDDLE 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP LOWER MIDDLE 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP LOWER MIDDLE 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP LOWER MIDDLE 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP LOWER WEST",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP UPPER WEST",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP UPPER 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP UPPER 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP UPPER 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP UPPER 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP UPPER 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP UPPER 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP UPPER 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP UPPER 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP UPPER 9",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP UPPER 10",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP UPPER 11",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BENSALEM TOWNSHIP UPPER 12",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRIDGETON TOWNSHIP",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL BOROUGH NORTH 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL BOROUGH NORTH 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL BOROUGH EAST 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL BOROUGH EAST 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL BOROUGH WEST 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL BOROUGH WEST 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL BOROUGH WEST 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL BOROUGH SOUTH 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL BOROUGH SOUTH 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL BOROUGH SOUTH 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 1-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 1-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 1-3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 2-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 2-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 2-3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 3-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 3-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 3-3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 4-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 4-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 4-3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 5-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 5-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 6-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 6-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 6-3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 7-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 7-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 8-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 8-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 9-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 9-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 9-3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 10-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 10-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 10-3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 11-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BRISTOL TOWNSHIP 11-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BUCKINGHAM TOWNSHIP LOWER 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BUCKINGHAM TOWNSHIP LOWER 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BUCKINGHAM TOWNSHIP MIDDLE 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BUCKINGHAM TOWNSHIP MIDDLE 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BUCKINGHAM TOWNSHIP UPPER 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BUCKINGHAM TOWNSHIP UPPER 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BUCKINGHAM TOWNSHIP UPPER 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BUCKINGHAM TOWNSHIP UPPER 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "CHALFONT BOROUGH",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "DOYLESTOWN BOROUGH 1-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "DOYLESTOWN BOROUGH 1-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "DOYLESTOWN BOROUGH 2-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "DOYLESTOWN BOROUGH 2-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "DOYLESTOWN BOROUGH 3-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "DOYLESTOWN BOROUGH 3-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "DOYLESTOWN TOWNSHIP DISTRICT 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "DOYLESTOWN TOWNSHIP DISTRICT 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "DOYLESTOWN TOWNSHIP DISTRICT 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "DOYLESTOWN TOWNSHIP DISTRICT 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "DOYLESTOWN TOWNSHIP DISTRICT 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "DOYLESTOWN TOWNSHIP DISTRICT 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "DOYLESTOWN TOWNSHIP DISTRICT 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "DOYLESTOWN TOWNSHIP DISTRICT 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "DUBLIN BOROUGH",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "DURHAM TOWNSHIP",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "EAST ROCKHILL TOWNSHIP DISTRICT 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "EAST ROCKHILL TOWNSHIP DISTRICT 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 1-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 1-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 1-3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 1-4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 1-5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 1-6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 1-7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 2-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 2-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 3-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 3-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 4-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 4-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 4-3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 4-4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 4-5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 4-6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FALLS TOWNSHIP 4-7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HAYCOCK TOWNSHIP",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HILLTOWN TOWNSHIP BLOOMING GLEN 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HILLTOWN TOWNSHIP BLOOMING GLEN 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HILLTOWN TOWNSHIP BLOOMING GLEN 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HILLTOWN TOWNSHIP FAIRHILL 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HILLTOWN TOWNSHIP FAIRHILL 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HILLTOWN TOWNSHIP HILLTOWN",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HULMEVILLE BOROUGH",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "IVYLAND BOROUGH",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LANGHORNE BOROUGH",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LANGHORNE MANOR BOROUGH",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER MAKEFIELD TOWNSHIP NORTH 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER MAKEFIELD TOWNSHIP NORTH 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER MAKEFIELD TOWNSHIP NORTH 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER MAKEFIELD TOWNSHIP NORTH 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER MAKEFIELD TOWNSHIP NORTH 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER MAKEFIELD TOWNSHIP NORTH 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER MAKEFIELD TOWNSHIP SOUTH 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER MAKEFIELD TOWNSHIP SOUTH 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER MAKEFIELD TOWNSHIP SOUTH 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER MAKEFIELD TOWNSHIP SOUTH 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER MAKEFIELD TOWNSHIP SOUTH 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER MAKEFIELD TOWNSHIP SOUTH 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LOWER MAKEFIELD TOWNSHIP SOUTH 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER MAKEFIELD TOWNSHIP SOUTH 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER MAKEFIELD TOWNSHIP SOUTH 9",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER SOUTHAMPTON TOWNSHIP EAST 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER SOUTHAMPTON TOWNSHIP EAST 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER SOUTHAMPTON TOWNSHIP EAST 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER SOUTHAMPTON TOWNSHIP EAST 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER SOUTHAMPTON TOWNSHIP EAST 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER SOUTHAMPTON TOWNSHIP WEST 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER SOUTHAMPTON TOWNSHIP WEST 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER SOUTHAMPTON TOWNSHIP WEST 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER SOUTHAMPTON TOWNSHIP WEST 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER SOUTHAMPTON TOWNSHIP WEST 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER SOUTHAMPTON TOWNSHIP WEST 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER SOUTHAMPTON TOWNSHIP WEST 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP LOWER 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP LOWER 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP LOWER 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP LOWER 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP LOWER 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP LOWER 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP LOWER 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP LOWER 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP LOWER 9",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP LOWER 10",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP LOWER 11",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP LOWER 12",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP LOWER 13",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP UPPER 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP UPPER 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP UPPER 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP UPPER 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP UPPER 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP UPPER 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP UPPER 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP UPPER 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MIDDLETOWN TOWNSHIP UPPER 9",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MILFORD TOWNSHIP ROEDER",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MILFORD TOWNSHIP ROSEVILLE",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MILFORD TOWNSHIP SHELLY",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MILFORD TOWNSHIP TRUMBAUERSVILLE",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MORRISVILLE BOROUGH 1ST WARD",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MORRISVILLE BOROUGH 2ND WARD",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MORRISVILLE BOROUGH 3RD WARD",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MORRISVILLE BOROUGH 4TH WARD",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NEW BRITAIN BOROUGH",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NEW BRITAIN TOWNSHIP EAST",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NEW BRITAIN TOWNSHIP WEST 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NEW BRITAIN TOWNSHIP WEST 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NEW BRITAIN TOWNSHIP SOUTH 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NEW BRITAIN TOWNSHIP SOUTH 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NEW HOPE BOROUGH",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NEWTOWN BOROUGH 1ST WARD",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NEWTOWN BOROUGH 2ND WARD",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NEWTOWN TOWNSHIP DISTRICT 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NEWTOWN TOWNSHIP DISTRICT 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NEWTOWN TOWNSHIP DISTRICT 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NEWTOWN TOWNSHIP DISTRICT 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NEWTOWN TOWNSHIP DISTRICT 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NEWTOWN TOWNSHIP DISTRICT 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NEWTOWN TOWNSHIP DISTRICT 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NEWTOWN TOWNSHIP DISTRICT 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NOCKAMIXON TOWNSHIP NOCKAMIXON",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NOCKAMIXON TOWNSHIP REVERE",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 9",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 10",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 11",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 12",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 13",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 14",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 15",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 16",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 17",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTHAMPTON TOWNSHIP DISTRICT 18",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "PENNDEL BOROUGH",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "PERKASIE BOROUGH 1ST WARD",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "PERKASIE BOROUGH 2ND WARD",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "PERKASIE BOROUGH 3RD WARD",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "PLUMSTEAD TOWNSHIP DISTRICT 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "PLUMSTEAD TOWNSHIP DISTRICT 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "PLUMSTEAD TOWNSHIP DISTRICT 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "PLUMSTEAD TOWNSHIP DISTRICT 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "PLUMSTEAD TOWNSHIP DISTRICT 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "QUAKERTOWN BOROUGH 1-1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "QUAKERTOWN BOROUGH 1-2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "QUAKERTOWN BOROUGH 2ND WARD",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "QUAKERTOWN BOROUGH 3RD WARD",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "QUAKERTOWN BOROUGH 4TH WARD",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "RICHLAND TOWNSHIP DISTRICT 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "RICHLAND TOWNSHIP DISTRICT 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "RICHLAND TOWNSHIP DISTRICT 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "RICHLAND TOWNSHIP DISTRICT 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "RICHLANDTOWN BOROUGH",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "RIEGELSVILLE BOROUGH",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SELLERSVILLE BOROUGH DISTRICT 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SELLERSVILLE BOROUGH DISTRICT 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "SELLERSVILLE BOROUGH DISTRICT 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SILVERDALE BOROUGH",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "SOLEBURY TOWNSHIP LOWER 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SOLEBURY TOWNSHIP LOWER 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SOLEBURY TOWNSHIP MIDDLE",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SOLEBURY TOWNSHIP UPPER",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SPRINGFIELD TOWNSHIP EAST",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SPRINGFIELD TOWNSHIP MIDDLE",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SPRINGFIELD TOWNSHIP WEST",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "TELFORD BOROUGH",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "TINICUM TOWNSHIP DELAWARE",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "TINICUM TOWNSHIP TINICUM",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "TINICUM TOWNSHIP TOHICKON",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "TRUMBAUERSVILLE BOROUGH",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "TULLYTOWN BOROUGH",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "UPPER MAKEFIELD TOWNSHIP DISTRICT 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "UPPER MAKEFIELD TOWNSHIP DISTRICT 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "UPPER MAKEFIELD TOWNSHIP DISTRICT 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "UPPER MAKEFIELD TOWNSHIP DISTRICT 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "UPPER SOUTHAMPTON TOWNSHIP EAST 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "UPPER SOUTHAMPTON TOWNSHIP EAST 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "UPPER SOUTHAMPTON TOWNSHIP NORTH 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "UPPER SOUTHAMPTON TOWNSHIP NORTH 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "UPPER SOUTHAMPTON TOWNSHIP NORTH 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "UPPER SOUTHAMPTON TOWNSHIP NORTH 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "UPPER SOUTHAMPTON TOWNSHIP SOUTH 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "UPPER SOUTHAMPTON TOWNSHIP SOUTH 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "UPPER SOUTHAMPTON TOWNSHIP WEST 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "UPPER SOUTHAMPTON TOWNSHIP WEST 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARMINSTER TOWNSHIP DISTRICT 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "WARMINSTER TOWNSHIP DISTRICT 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "WARMINSTER TOWNSHIP DISTRICT 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "WARMINSTER TOWNSHIP DISTRICT 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "WARMINSTER TOWNSHIP DISTRICT 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARMINSTER TOWNSHIP DISTRICT 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "WARMINSTER TOWNSHIP DISTRICT 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "WARMINSTER TOWNSHIP DISTRICT 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "WARMINSTER TOWNSHIP DISTRICT 9",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARMINSTER TOWNSHIP DISTRICT 10",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "WARMINSTER TOWNSHIP DISTRICT 11",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARMINSTER TOWNSHIP DISTRICT 12",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARMINSTER TOWNSHIP DISTRICT 13",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARMINSTER TOWNSHIP DISTRICT 14",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "WARMINSTER TOWNSHIP DISTRICT 15",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "WARMINSTER TOWNSHIP DISTRICT 16",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARMINSTER TOWNSHIP DISTRICT 17",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARRINGTON TOWNSHIP DISTRICT 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "WARRINGTON TOWNSHIP DISTRICT 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARRINGTON TOWNSHIP DISTRICT 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARRINGTON TOWNSHIP DISTRICT 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARRINGTON TOWNSHIP DISTRICT 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARRINGTON TOWNSHIP DISTRICT 6",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARRINGTON TOWNSHIP DISTRICT 7",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARRINGTON TOWNSHIP DISTRICT 8",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARWICK TOWNSHIP DISTRICT 1",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARWICK TOWNSHIP DISTRICT 2",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARWICK TOWNSHIP DISTRICT 3",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARWICK TOWNSHIP DISTRICT 4",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WARWICK TOWNSHIP DISTRICT 5",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WEST ROCKHILL TOWNSHIP ARGUS",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WEST ROCKHILL TOWNSHIP ROCKHILL",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WRIGHTSTOWN TOWNSHIP",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "YARDLEY BOROUGH",
+   "seats": [
+    {
+     "seat": "Committeeman",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeewoman",
+     "status": "filled"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "precincts": 304,
+  "seats": 608,
+  "filled": 466,
+  "empty": 6,
+  "empty_no_filer": 0,
+  "unknown": 136
+ },
+ "notes": "Each precinct elects one Republican Committeeman and one Committeewoman (Vote for 1 each); 304 precincts. Filled = a ballot candidate won with more votes than all write-ins combined. Empty = no ballot candidate and zero write-in votes. Unknown = no ballot candidate but write-in votes were cast (136 seats). The certified report gives write-in totals only, and no 2026 write-in winners list was found on the county site. Three committeeman contest names in the source are misspelled (\"UPPER SOUTHAMTPON TOWNSHIP WEST 1\", \"WARRINGTON TOWNSHIP DISTIRCT 4\", \"YARDLY BOROUGH\") and were merged with the correctly spelled committeewoman contests. bucksvotes.gov did not respond to automated requests, so buckscounty.gov was used."
+}

@@ -1,0 +1,5591 @@
+{
+ "county": "Montgomery",
+ "checked_at": "2026-11-24",
+ "method": "election_results",
+ "election": "May 19, 2026 General Primary",
+ "as_of": "2026-06-08",
+ "seats_per_precinct": 2,
+ "sources": [
+  {
+   "url": "https://webapp07.montcopa.org/election/2026UnofficialPrimaryElectionSummaryReport.pdf",
+   "title": "Montgomery County Election Summary Report, Closed Primary May 19, 2026 (pages marked OFFICIAL RESULTS, 6/8/2026), with appended Notice Concerning Offices Eligible for Write-in Adjudication",
+   "type": "results",
+   "as_of": "2026-06-08"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "Abington 1-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 1-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 1-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Abington 2-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 2-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 2-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Abington 3-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Abington 3-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Abington 3-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 4-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 4-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 5-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 5-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 6-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Abington 6-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Abington 7-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 7-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Abington 7-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 8-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 8-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 9-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 9-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Abington 10-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 10-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 10-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Abington 11-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 11-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Abington 11-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 12-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 12-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 12-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 13-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Abington 13-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Abington 13-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 14-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 14-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 15-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Abington 15-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Ambler 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Ambler 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Ambler 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Bridgeport 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Bridgeport 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Bridgeport 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Bryn Athyn",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 1-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 1-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 1-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 1-4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 2-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 2-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 2-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 2-4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 3-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 3-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 3-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 3-4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 4-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 4-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 4-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 4-4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 5-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 5-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 5-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 5-4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 6-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 6-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 6-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 7-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 7-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Cheltenham 7-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Collegeville 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Collegeville 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Collegeville 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Conshohocken 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Conshohocken 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Conshohocken 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Conshohocken 4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Conshohocken 5",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Conshohocken 6",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Conshohocken 7",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Douglass 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Douglass 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Douglass 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Douglass 4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "East Greenville",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "East Norriton 1-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "East Norriton 1-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "East Norriton 1-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "East Norriton 1-4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "East Norriton 2-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "East Norriton 2-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "East Norriton 2-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "East Norriton 2-4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Franconia 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Franconia 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Franconia 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Franconia 4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Franconia 5",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Franconia 6",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Franconia 7",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Franconia 8",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Green Lane",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Hatboro North 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Hatboro North 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Hatboro South 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Hatboro South 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Hatfield 1-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Hatfield 1-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Hatfield 2-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Hatfield 2-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Hatfield 3-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Hatfield 3-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Hatfield 4-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Hatfield 4-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Hatfield 5-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Hatfield 5-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Hatfield Borough",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 1-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 1-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 1-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 1-4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 1-5",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 2-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 2-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 2-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 2-4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 3-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 3-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 3-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 3-4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 3-5",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 4-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 4-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 4-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Horsham 4-4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Jenkintown 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Jenkintown 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Jenkintown 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Jenkintown 4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lansdale 1-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lansdale 1-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lansdale 1-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lansdale 2-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lansdale 2-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lansdale 2-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lansdale 3-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lansdale 3-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lansdale 3-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Limerick 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Limerick 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Limerick 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Limerick 4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Limerick 5",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Limerick 6",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Frederick 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Frederick 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Gwynedd 1-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Gwynedd 1-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Gwynedd 1-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Gwynedd 1-4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Gwynedd 2-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Lower Gwynedd 2-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 1-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 1-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 1-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 2-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 2-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 2-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 3-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 3-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 3-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 4-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 4-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 4-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 5-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 5-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 5-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 6-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 6-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 6-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 7-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 7-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 7-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 8-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 8-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 8-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 8-4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 9-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 9-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 9-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 10-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 10-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 10-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 11-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 11-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 11-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 12-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 12-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 12-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 13-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 13-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 13-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 14-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 14-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Merion 14-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Moreland 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Moreland 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Moreland 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Lower Moreland 4-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Moreland 4-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Lower Moreland 5",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Moreland 6",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Pottsgrove 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Pottsgrove 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Pottsgrove 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Pottsgrove 4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Providence 1-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Providence 1-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Providence 2-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Providence 2-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Providence 2-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Providence 2-4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Providence 3-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Providence 3-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Providence 3-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Providence 3-4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Salford 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Lower Salford 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Salford 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Salford 4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Lower Salford 5",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lower Salford 6",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marlborough",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Montgomery 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Montgomery 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Montgomery 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Montgomery 4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Montgomery 5",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Montgomery 6",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Montgomery 7",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Montgomery 8",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Narberth 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Narberth 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Narberth 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "New Hanover 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "New Hanover 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "New Hanover 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Norristown 1-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Norristown 1-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Norristown 1-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Norristown 2-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Norristown 2-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Norristown 2-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Norristown 3-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Norristown 3-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Norristown 3-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Norristown 4-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Norristown 4-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Norristown 4-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "North Wales 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "North Wales 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "North Wales 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Pennsburg",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Perkiomen 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Perkiomen 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Plymouth 1-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Plymouth 1-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Plymouth 2-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Plymouth 2-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Plymouth 2-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Plymouth 3-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Plymouth 3-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Plymouth 3-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Plymouth 4-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Plymouth 4-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Pottstown 1-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Pottstown 1-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Pottstown 2-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Pottstown 2-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Pottstown 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Pottstown 4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Pottstown 5",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Pottstown 6",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Pottstown 7-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Pottstown 7-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Red Hill",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Rockledge",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Royersford 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Royersford 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Salford",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Schwenksville",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Skippack 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Skippack 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Skippack 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Souderton 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Souderton 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Souderton 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield 1-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Springfield 1-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield 2-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Springfield 2-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Springfield 2-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Springfield 3-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Springfield 3-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield 4-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield 4-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Springfield 5-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield 5-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield 6-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield 6-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Springfield 7-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Springfield 7-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Telford",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Towamencin 1-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Towamencin 1-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Towamencin 1-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Towamencin 2-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Towamencin 2-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Towamencin 2-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Towamencin 3-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Towamencin 3-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Towamencin 3-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Trappe",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 1-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 1-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 1-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 2-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 2-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 2-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 3-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 3-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 3-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 4-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 4-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 4-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 5-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 5-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 5-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 6-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 6-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 6-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 7-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 7-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Dublin 7-3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Frederick",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Gwynedd 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Gwynedd 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Gwynedd 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Gwynedd 4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Gwynedd 5",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Gwynedd 6",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Gwynedd 7",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Hanover 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Hanover 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Hanover 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Merion Belmont 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Merion Belmont 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Merion Belmont 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Merion Belmont 4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Merion Belmont 5",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Merion Candle 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Merion Candle 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Merion Gulph 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Merion Gulph 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Merion King 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Merion King 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Merion Roberts",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Merion Swedeland",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Merion Swedesburg",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Merion Town Center",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Moreland 1-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Moreland 1-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Moreland 2-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Moreland 2-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Moreland 3-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Moreland 3-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Moreland 4-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Moreland 4-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Moreland 5-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Moreland 5-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Moreland 6-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Moreland 6-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Moreland 7-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Upper Moreland 7-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Pottsgrove",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Providence Mingo 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Providence Mingo 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Providence Mont Clare",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Upper Providence Oaks",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Providence Trappe",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Upper Salford",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "West Conshohocken",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "West Norriton 1-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "West Norriton 1-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "West Norriton 2-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "West Norriton 2-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "West Norriton 3-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "West Norriton 3-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "West Norriton 4-1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "West Norriton 4-2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "West Pottsgrove",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitemarsh East 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitemarsh East 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitemarsh Middle 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Whitemarsh Middle 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitemarsh Middle 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitemarsh Middle 4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Whitemarsh Middle 5",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Whitemarsh West 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Whitemarsh West 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Whitemarsh West 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitpain 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitpain 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitpain 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Whitpain 4",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Whitpain 5",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Whitpain 6",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Whitpain 7",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitpain 8",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "unknown"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Whitpain 9",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitpain 10",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Whitpain 11",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Whitpain 12",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Worcester East 1",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Worcester East 2",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Worcester East 3",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Worcester West",
+   "seats": [
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    },
+    {
+     "seat": "Committeeperson",
+     "status": "filled"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "precincts": 428,
+  "seats": 856,
+  "filled": 329,
+  "empty": 455,
+  "empty_no_filer": 0,
+  "unknown": 72
+ },
+ "notes": "Each of 428 precincts has a \"Republican Committeeperson (Vote for 2)\" contest, so seats are labelled \"Committeeperson\". The file name says \"Unofficial\", but its pages are marked OFFICIAL RESULTS and dated 6/8/2026. The appended county notice lists the leading write-in candidate for each office eligible for write-in adjudication, with a 10-vote minimum for committeeperson, and says offices not listed did not qualify. Filled = a ballot candidate in the top two with more than the write-in total, or with any votes where no write-in was listed for the precinct. Empty = an open seat with no ballot candidate and no listed write-in. Unknown = a seat tied to a listed write-in (72 rows), because the county says it is still verifying write-in winners' eligibility. The precinct count (428) differs from the 426 in war_map/counties.geojson."
+}

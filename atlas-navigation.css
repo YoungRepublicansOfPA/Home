@@ -13,3 +13,4 @@
 .atlas-explore a {display: inline-block; color: #174e6b; padding: .4rem 0; text-underline-offset: .15em}
 .atlas-explore a:focus-visible {outline: 3px solid #9e640e; outline-offset: 2px}
 @media print {.atlas-explore {display: none}}
+.skip-link{position:absolute;left:1rem;top:-8rem;z-index:9;background:#fff;color:#173950;padding:.65rem;font:1rem system-ui,sans-serif}.skip-link:focus{top:.5rem}

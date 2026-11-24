@@ -49,6 +49,12 @@
     const dollars = new Intl.NumberFormat("en-US", {style: "currency", currency: "USD"});
     const totalText = root.querySelector(".bread-cost-summary");
     function calculate() {
+      for (const input of Object.values(controls)) {
+        const bad = !input.validity.valid;
+        input.setAttribute("aria-invalid", String(bad));
+        input.style.outline = bad ? "3px solid #b3261e" : "";
+        input.style.outlineOffset = bad ? "1px" : "";
+      }
       if (Object.values(controls).some(input => !input.validity.valid)) {
         totalText.textContent = "Check the highlighted inputs to calculate a valid cost.";
         return;

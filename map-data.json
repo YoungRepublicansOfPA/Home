@@ -57,11 +57,12 @@
     "Bucks": {
       "population": 647828,
       "party_control": "Democratic",
-      "party_control_as_of": "2026-11-23",
-      "party_source": "https://www.buckscounty.gov/DocumentCenter/View/15266/2023---Municipal-Election---Unofficial-Candidate-Listing",
+      "party_control_as_of": "2026-11-24",
+      "party_source": "https://buckscounty.gov/DocumentCenter/View/16368/2023---Municipal-Election---Statement-of-Votes-Cast-for-Certification-11-27-23",
       "party_control_body": "Board of Commissioners",
       "party_current_members_source": "https://buckscounty.gov/190/Commissioners",
-      "party_evidence": "Two current commissioners (Ellis-Marseglia and Harvie) are listed as Democrats in the county candidate listing; the current county board page confirms they still serve."
+      "party_evidence": "Certified November 7, 2023 results (statement of votes cast for certification, November 27, 2023): Ellis-Marseglia 104,580 and Harvie 96,515 won the two seats over DiGirolamo 90,290 and Van Blunk 85,507. The county candidate listing gives Ellis-Marseglia and Harvie as Democrats; the current county board page confirms they still serve.",
+      "party_affiliation_source": "https://www.buckscounty.gov/DocumentCenter/View/15266/2023---Municipal-Election---Unofficial-Candidate-Listing"
     },
     "Butler": {
       "population": 200169,
@@ -222,11 +223,12 @@
     "Lancaster": {
       "population": 563159,
       "party_control": "Republican",
-      "party_control_as_of": "2026-11-23",
-      "party_source": "https://co.lancaster.pa.us/DocumentCenter/View/15894/Candidate-Listing-Nov-23-Municipal-Election-082423",
+      "party_control_as_of": "2026-11-24",
+      "party_source": "https://vr.co.lancaster.pa.us/ElectionReturns/November_7,_2023_-_Municipal_Election/6.html",
       "party_control_body": "Board of Commissioners",
       "party_current_members_source": "https://co.lancaster.pa.us/131/Commissioners-Office",
-      "party_evidence": "Two current commissioners (Parsons and D’Agostino) are listed as Republicans in the county candidate listing; the current county board page confirms they still serve."
+      "party_evidence": "Certified November 7, 2023 results (county returns page marked certified to be official): Parsons 64,019 and D’Agostino 60,420 won the two seats over Yoder 54,454 and Hollister 52,044. The county candidate listing gives Parsons and D’Agostino as Republicans; the current county board page confirms they still serve.",
+      "party_affiliation_source": "https://co.lancaster.pa.us/DocumentCenter/View/15894/Candidate-Listing-Nov-23-Municipal-Election-082423"
     },
     "Lawrence": {
       "population": 83911,

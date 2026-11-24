@@ -1,8 +1,8 @@
 <!doctype html>
-<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Pennsylvania population history by county</title>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="How Pennsylvania’s population changed by county across census years, with downloadable source data."><title>Pennsylvania population history by county | Young Republicans of Pennsylvania</title>
 <link rel="stylesheet" href="atlas-navigation.css"><style>
 *{box-sizing:border-box}body{margin:0;background:#f4f7f9;color:#17334a;font:1rem/1.55 system-ui}main,nav{max-width:68rem;margin:auto;padding:1rem 5%}header{background:#102a43;border-bottom:4px solid #b98b4b}nav{display:flex;gap:2rem;flex-wrap:wrap}nav a{color:white}h1,h2{font-family:Georgia,serif;line-height:1.15}h1{font-size:clamp(2rem,5vw,3.6rem);margin-bottom:.6rem}select{padding:.5rem;font:inherit}table{width:100%;border-collapse:collapse;background:white}td,th{text-align:right;padding:.45rem;border-bottom:1px solid #d5dfe6}th:first-child{text-align:left}td:last-child{width:32%}.bar{background:#366686;height:.7rem}a{color:#165376}#summary{font-weight:650}label{font-weight:bold}
-</style><header><nav><a href="index.html#counties">County map</a><a href="trends.html">Pennsylvania trends</a><a href="history.html">Historical spending</a></nav></header><main>
+</style><a class="skip-link" href="#main">Skip to main content</a><header><nav><a href="index.html#counties">County map</a><a href="war_map/">War Map</a><a href="trends.html">Pennsylvania trends</a><a href="history.html">Historical spending</a></nav></header><main id="main">
 <h1>Pennsylvania population through time</h1><p>Pennsylvania gained 300,321 residents between 2010 and 2020. Population grew in 23 counties and fell in 44. Choose a county to see its longer history. The change column compares each count with the preceding census shown.</p>
 <label for="area">Choose a place</label> <select id="area"></select>
 <h2 id="title">Resident population</h2><p id="summary" aria-live="polite"></p>
@@ -36,4 +36,4 @@ function display(){
 }
 area.addEventListener('change',()=>{display();const url=new URL(location.href);url.searchParams.set('county',area.value);history.replaceState(null,'',url)});
 display();
-</script><aside class="atlas-explore" aria-label="Related pages"><h2>Related pages</h2><ul><li><a href="migration-tax.html">Read about migration</a></li><li><a href="public-health.html">Explore resident health data</a></li><li><a href="index.html#counties">Open the county map</a></li></ul></aside></html>
+</script><aside class="atlas-explore" aria-label="Related pages"><h2>Related pages</h2><ul><li><a href="migration-tax.html">Read about migration</a></li><li><a href="public-health.html">Explore resident health data</a></li><li><a href="index.html#counties">Open the county map</a></li><li><a href="war_map/">Open the War Map</a></li></ul></aside></html>

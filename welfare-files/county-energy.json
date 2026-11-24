@@ -1,0 +1,411 @@
+{
+  "period": "2003–2004",
+  "source_url": "https://www.legis.state.pa.us/WU01/LI/TR/Reports/2005_0021R.pdf",
+  "source": "Pennsylvania Department of Public Welfare, LIHEAP annual report, Cash and Crisis county expenditure tables",
+  "definition": "Reported cash and crisis benefit dollars spent in the 2003–04 LIHEAP season. Nominal dollars. County total combines the two components. Administrative costs and weatherization are outside these tables.",
+  "reconciliation": "The county cash figures extracted from the published tables sum to $78,101,661, $20,000 above the stated statewide total of $78,081,661. The crisis figures reconcile to $29,833,701. Consult the original before using the cash series for accounting.",
+  "counties": [
+    {
+      "county": "Adams",
+      "cash_usd": 211025,
+      "crisis_usd": 42274,
+      "total_usd": 253299
+    },
+    {
+      "county": "Allegheny",
+      "cash_usd": 7628943,
+      "crisis_usd": 2258407,
+      "total_usd": 9887350
+    },
+    {
+      "county": "Armstrong",
+      "cash_usd": 749567,
+      "crisis_usd": 189291,
+      "total_usd": 938858
+    },
+    {
+      "county": "Beaver",
+      "cash_usd": 1410908,
+      "crisis_usd": 413573,
+      "total_usd": 1824481
+    },
+    {
+      "county": "Bedford",
+      "cash_usd": 438809,
+      "crisis_usd": 349748,
+      "total_usd": 788557
+    },
+    {
+      "county": "Berks",
+      "cash_usd": 1034851,
+      "crisis_usd": 526303,
+      "total_usd": 1561154
+    },
+    {
+      "county": "Blair",
+      "cash_usd": 1582498,
+      "crisis_usd": 613056,
+      "total_usd": 2195554
+    },
+    {
+      "county": "Bradford",
+      "cash_usd": 636789,
+      "crisis_usd": 245681,
+      "total_usd": 882470
+    },
+    {
+      "county": "Bucks",
+      "cash_usd": 757031,
+      "crisis_usd": 321162,
+      "total_usd": 1078193
+    },
+    {
+      "county": "Butler",
+      "cash_usd": 983343,
+      "crisis_usd": 402438,
+      "total_usd": 1385781
+    },
+    {
+      "county": "Cambria",
+      "cash_usd": 1544857,
+      "crisis_usd": 777564,
+      "total_usd": 2322421
+    },
+    {
+      "county": "Cameron",
+      "cash_usd": 65441,
+      "crisis_usd": 25122,
+      "total_usd": 90563
+    },
+    {
+      "county": "Carbon",
+      "cash_usd": 391422,
+      "crisis_usd": 158727,
+      "total_usd": 550149
+    },
+    {
+      "county": "Centre",
+      "cash_usd": 436900,
+      "crisis_usd": 240740,
+      "total_usd": 677640
+    },
+    {
+      "county": "Chester",
+      "cash_usd": 603307,
+      "crisis_usd": 302600,
+      "total_usd": 905907
+    },
+    {
+      "county": "Clarion",
+      "cash_usd": 446414,
+      "crisis_usd": 124619,
+      "total_usd": 571033
+    },
+    {
+      "county": "Clearfield",
+      "cash_usd": 1175324,
+      "crisis_usd": 910681,
+      "total_usd": 2086005
+    },
+    {
+      "county": "Clinton",
+      "cash_usd": 358635,
+      "crisis_usd": 203357,
+      "total_usd": 561992
+    },
+    {
+      "county": "Columbia",
+      "cash_usd": 571422,
+      "crisis_usd": 192949,
+      "total_usd": 764371
+    },
+    {
+      "county": "Crawford",
+      "cash_usd": 1013530,
+      "crisis_usd": 425864,
+      "total_usd": 1439394
+    },
+    {
+      "county": "Cumberland",
+      "cash_usd": 394628,
+      "crisis_usd": 128195,
+      "total_usd": 522823
+    },
+    {
+      "county": "Dauphin",
+      "cash_usd": 962790,
+      "crisis_usd": 495039,
+      "total_usd": 1457829
+    },
+    {
+      "county": "Delaware",
+      "cash_usd": 1709786,
+      "crisis_usd": 631360,
+      "total_usd": 2341146
+    },
+    {
+      "county": "Elk",
+      "cash_usd": 267866,
+      "crisis_usd": 69075,
+      "total_usd": 336941
+    },
+    {
+      "county": "Erie",
+      "cash_usd": 2496428,
+      "crisis_usd": 656022,
+      "total_usd": 3152450
+    },
+    {
+      "county": "Fayette",
+      "cash_usd": 2163600,
+      "crisis_usd": 1599752,
+      "total_usd": 3763352
+    },
+    {
+      "county": "Forest",
+      "cash_usd": 73678,
+      "crisis_usd": 29924,
+      "total_usd": 103602
+    },
+    {
+      "county": "Franklin",
+      "cash_usd": 352635,
+      "crisis_usd": 64773,
+      "total_usd": 417408
+    },
+    {
+      "county": "Fulton",
+      "cash_usd": 112893,
+      "crisis_usd": 93302,
+      "total_usd": 206195
+    },
+    {
+      "county": "Greene",
+      "cash_usd": 443828,
+      "crisis_usd": 249388,
+      "total_usd": 693216
+    },
+    {
+      "county": "Huntingdon",
+      "cash_usd": 350621,
+      "crisis_usd": 332383,
+      "total_usd": 683004
+    },
+    {
+      "county": "Indiana",
+      "cash_usd": 659413,
+      "crisis_usd": 456716,
+      "total_usd": 1116129
+    },
+    {
+      "county": "Jefferson",
+      "cash_usd": 458008,
+      "crisis_usd": 138226,
+      "total_usd": 596234
+    },
+    {
+      "county": "Juniata",
+      "cash_usd": 121403,
+      "crisis_usd": 83608,
+      "total_usd": 205011
+    },
+    {
+      "county": "Lackawanna",
+      "cash_usd": 1667864,
+      "crisis_usd": 696692,
+      "total_usd": 2364556
+    },
+    {
+      "county": "Lancaster",
+      "cash_usd": 1124119,
+      "crisis_usd": 529764,
+      "total_usd": 1653883
+    },
+    {
+      "county": "Lawrence",
+      "cash_usd": 909967,
+      "crisis_usd": 444344,
+      "total_usd": 1354311
+    },
+    {
+      "county": "Lebanon",
+      "cash_usd": 301773,
+      "crisis_usd": 170570,
+      "total_usd": 472343
+    },
+    {
+      "county": "Lehigh",
+      "cash_usd": 1158922,
+      "crisis_usd": 287904,
+      "total_usd": 1446826
+    },
+    {
+      "county": "Luzerne",
+      "cash_usd": 3067437,
+      "crisis_usd": 885420,
+      "total_usd": 3952857
+    },
+    {
+      "county": "Lycoming",
+      "cash_usd": 911435,
+      "crisis_usd": 430086,
+      "total_usd": 1341521
+    },
+    {
+      "county": "McKean",
+      "cash_usd": 495990,
+      "crisis_usd": 114169,
+      "total_usd": 610159
+    },
+    {
+      "county": "Mercer",
+      "cash_usd": 1153828,
+      "crisis_usd": 418270,
+      "total_usd": 1572098
+    },
+    {
+      "county": "Mifflin",
+      "cash_usd": 381439,
+      "crisis_usd": 304612,
+      "total_usd": 686051
+    },
+    {
+      "county": "Monroe",
+      "cash_usd": 792609,
+      "crisis_usd": 168832,
+      "total_usd": 961441
+    },
+    {
+      "county": "Montgomery",
+      "cash_usd": 993309,
+      "crisis_usd": 279480,
+      "total_usd": 1272789
+    },
+    {
+      "county": "Montour",
+      "cash_usd": 117713,
+      "crisis_usd": 37735,
+      "total_usd": 155448
+    },
+    {
+      "county": "Northampton",
+      "cash_usd": 668543,
+      "crisis_usd": 190758,
+      "total_usd": 859301
+    },
+    {
+      "county": "Northumberland",
+      "cash_usd": 602264,
+      "crisis_usd": 187669,
+      "total_usd": 789933
+    },
+    {
+      "county": "Perry",
+      "cash_usd": 209434,
+      "crisis_usd": 130951,
+      "total_usd": 340385
+    },
+    {
+      "county": "Philadelphia",
+      "cash_usd": 21251015,
+      "crisis_usd": 7090158,
+      "total_usd": 28341173
+    },
+    {
+      "county": "Pike",
+      "cash_usd": 149933,
+      "crisis_usd": 39680,
+      "total_usd": 189613
+    },
+    {
+      "county": "Potter",
+      "cash_usd": 196527,
+      "crisis_usd": 34144,
+      "total_usd": 230671
+    },
+    {
+      "county": "Schuylkill",
+      "cash_usd": 940238,
+      "crisis_usd": 529064,
+      "total_usd": 1469302
+    },
+    {
+      "county": "Snyder",
+      "cash_usd": 149697,
+      "crisis_usd": 75896,
+      "total_usd": 225593
+    },
+    {
+      "county": "Somerset",
+      "cash_usd": 720716,
+      "crisis_usd": 436554,
+      "total_usd": 1157270
+    },
+    {
+      "county": "Sullivan",
+      "cash_usd": 72780,
+      "crisis_usd": 16406,
+      "total_usd": 89186
+    },
+    {
+      "county": "Susquehanna",
+      "cash_usd": 405087,
+      "crisis_usd": 215019,
+      "total_usd": 620106
+    },
+    {
+      "county": "Tioga",
+      "cash_usd": 496344,
+      "crisis_usd": 142251,
+      "total_usd": 638595
+    },
+    {
+      "county": "Union",
+      "cash_usd": 145031,
+      "crisis_usd": 60415,
+      "total_usd": 205446
+    },
+    {
+      "county": "Venango",
+      "cash_usd": 651545,
+      "crisis_usd": 239183,
+      "total_usd": 890728
+    },
+    {
+      "county": "Warren",
+      "cash_usd": 342752,
+      "crisis_usd": 90668,
+      "total_usd": 433420
+    },
+    {
+      "county": "Washington",
+      "cash_usd": 1290706,
+      "crisis_usd": 404576,
+      "total_usd": 1695282
+    },
+    {
+      "county": "Wayne",
+      "cash_usd": 420537,
+      "crisis_usd": 208641,
+      "total_usd": 629178
+    },
+    {
+      "county": "Westmoreland",
+      "cash_usd": 2580632,
+      "crisis_usd": 851390,
+      "total_usd": 3432022
+    },
+    {
+      "county": "Wyoming",
+      "cash_usd": 261163,
+      "crisis_usd": 66042,
+      "total_usd": 327205
+    },
+    {
+      "county": "York",
+      "cash_usd": 861719,
+      "crisis_usd": 304439,
+      "total_usd": 1166158
+    }
+  ]
+}

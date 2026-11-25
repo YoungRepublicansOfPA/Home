@@ -1,0 +1,579 @@
+{
+  "county": "Columbia",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-06-04",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://columbiapa.org/voter/2026/2026GeneralPrimaryCertifiedResults.pdf",
+      "title": "Columbia County 2026 General Primary Election Certified Results (Election Summary Report)",
+      "type": "results",
+      "as_of": "2026-06-04"
+    },
+    {
+      "url": "https://columbiapa.org/voter/index.php",
+      "title": "Columbia County Voter Registrations/Elections",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "BEAVER TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BENTON TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BENTON BOROUGH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BERWICK 1ST WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "BERWICK 2ND WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BERWICK 3RD WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BERWICK 4TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BLOOMSBURG 1ST WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BLOOMSBURG 2ND WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BLOOMSBURG 3-1 WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BLOOMSBURG 3-2 WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "BLOOMSBURG 4TH WARD",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BRIARCREEK NORTHEAST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BRIARCREEK TWP WEST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BRIARCREEK BOROUGH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "CATAWISSA TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CATAWISSA BOROUGH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CENTRALIA BOROUGH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "CLEVELAND TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "CONYNGHAM TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FISHINGCREEK TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FRANKLIN TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GREENWOOD TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "HEMLOCK TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "JACKSON TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LOCUST TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MADISON TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MAIN TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MIFFLIN TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MILLVILLE BOROUGH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "MONTOUR TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MOUNT PLEASANT TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH CENTRE TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ORANGE TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ORANGEVILLE BOROUGH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PINE TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ROARINGCREEK TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SCOTT TWP EAST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SCOTT TWP WEST",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH CENTRE TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "STILLWATER BOROUGH",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "SUGARLOAF TWP",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 42,
+    "seats": 84,
+    "filled": 26,
+    "empty": 9,
+    "empty_no_filer": 0,
+    "unknown": 49
+  },
+  "notes": "Columbia County listed one Republican COMMITTEE PERSON contest per precinct (42 precincts, Vote For 2, not gender-designated) in the certified 2026 primary report. A named ballot candidate who received votes is filled. Seats left only to write-ins are unknown, including where the report names write-in recipients marked (WI), because it does not say whether a write-in qualified or accepted. Seats with no candidate and zero votes are empty. Cleveland Twp had two candidates tied at 72 votes for the two seats, so both are filled. The report misspells two headers (REPULICAN Fishingcreek Twp, RUBLICAN Greenwood Twp); they are included. Appointments after the primary are not captured."
+}

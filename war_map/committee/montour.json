@@ -1,0 +1,209 @@
+{
+  "county": "Montour",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-05-27",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://montourcounty.gov/getmedia/95249aa6-64cd-4f46-b216-4e94692e4604/19-May-2026-Official-Election-Summary.pdf",
+      "title": "Montour County May 19, 2026 General Primary - Official Election Summary",
+      "type": "results",
+      "as_of": "2026-05-27"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "ANTHONY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "COOPER TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DANVILLE BOROUGH - FIRST WARD",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DANVILLE BOROUGH - SECOND WARD",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "DANVILLE BOROUGH - THIRD WARD",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DANVILLE BOROUGH - FOURTH WARD",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "DERRY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LIBERTY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LIMESTONE TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MAHONING TWP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MAYBERRY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "VALLEY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WASHINGTONVILLE BOROUGH",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "WEST HEMLOCK TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 14,
+    "seats": 28,
+    "filled": 4,
+    "empty": 5,
+    "empty_no_filer": 0,
+    "unknown": 19
+  },
+  "notes": "Montour County lists one REP COMMITTEEPERSON contest per precinct (14 precincts, Vote For 2, seats not designated by gender). A named ballot candidate who received votes is filled; seats with only write-in votes are unknown, including where the report names individual write-in recipients, because it does not show whether a write-in qualified or accepted; seats with no candidate and zero write-in votes are empty. Appointments after the primary are not captured. The map file counts 15 precincts; the county report lists 14."
+}

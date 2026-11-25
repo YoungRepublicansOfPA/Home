@@ -1,0 +1,559 @@
+{
+  "county": "Bedford",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "April 23, 2024 General Primary",
+  "as_of": "2024-05-21",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.bedfordcountypa.org/OfficialElectionSummaryDistrictReportRPT.pdf",
+      "title": "Bedford County 4.23.24 Official Primary Election Results (Precinct) - Election Summary Report",
+      "type": "results",
+      "as_of": "2024-05-21"
+    },
+    {
+      "url": "https://www.bedfordcountypa.org/Elections/2026/UNOFFICIAL%20ElectionSummaryReportRPT%2005.29.2026.pdf",
+      "title": "Bedford County May 19, 2026 Primary - Election Summary Report (unofficial; Democratic county committee contests only)",
+      "type": "results",
+      "as_of": "2026-05-29"
+    },
+    {
+      "url": "https://www.bedfordcountypa.org/departments/elections/election_results.php",
+      "title": "Bedford County Elections - Election Results",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Bedford Borough East",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bedford Borough West",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bedford Township 1",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bedford Township 2",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bloomfield Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Broad Top Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Coaldale Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Colerain Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Cumberland Valley Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Everett Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Harrison Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hopewell Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hopewell Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hyndman Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Juniata Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Kimmel Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "King Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Liberty Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lincoln Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Londonderry Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Mann Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Manns Choice Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Monroe Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Napier Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "New Paris Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Pleasantville Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "East Providence Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Providence Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Rainsburg Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Saxton Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Schellsburg Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Snake Spring Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Southampton Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "St. Clairsville Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "East St. Clair Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West St. Clair Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Pavia Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Woodbury Borough",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Woodbury Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "South Woodbury Township",
+      "seats": [
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committee Person",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 40,
+    "seats": 80,
+    "filled": 12,
+    "empty": 10,
+    "empty_no_filer": 0,
+    "unknown": 58
+  },
+  "notes": "Bedford County Republicans elect committee persons in presidential-year primaries: the official 2024 primary report lists one Republican Committee Person contest per precinct (40, Vote For 2, not gender-designated), while the 2026 primary carried only Democratic county committee contests (from the posted unofficial 2026 summary; no official 2026 file is linked). A named ballot candidate who received votes is filled. Seats left only to write-ins are unknown, including where the report lists named write-in recipients, because it does not show whether a write-in qualified or accepted. Seats with no candidate and zero votes are empty. Appointments since 2024 are not captured."
+}

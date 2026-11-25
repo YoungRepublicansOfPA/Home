@@ -1,0 +1,560 @@
+{
+  "county": "Tioga",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-06-11",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://tiogacountypa.us/getmedia/323fceeb-bb07-486c-9912-75a93b4bae7b/Official-Primary-Election-Results-2026.pdf",
+      "title": "Tioga County General Primary May 19 2026 - Official Results (Summary Results Report)",
+      "type": "results",
+      "as_of": "2026-06-11"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Blossburg Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Elkland Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Knoxville Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Lawrenceville Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Liberty Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Mansfield Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Roseville Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Tioga Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Wellsboro Boro Ward 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wellsboro Boro Ward 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Westfield Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Bloss Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Brookfield township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Charleston Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Chatham Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Clymer Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Covington Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Deerfield Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Delmar Township N",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Delmar Township S",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Duncan Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Elk Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Farmington Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Gaines Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hamilton Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Jackson Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lawrence Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Liberty Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Middlebury Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Morris Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Nelson Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Osceola Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Putnam Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Richmond Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Rutland Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Shippen Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sullivan Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Tioga Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Union Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Ward Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Westfield Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 41,
+    "seats": 82,
+    "filled": 15,
+    "empty": 18,
+    "empty_no_filer": 0,
+    "unknown": 49
+  },
+  "notes": "Tioga County listed a REP COMM MAN and a REP COMM WOMAN contest (Vote For 1 each) for all 41 precincts. Counts use the 30-page Election Summary section of the official report; the precinct pages later in the same PDF repeat the same contests and were not counted again. The county printed three precincts under slightly different names on the man and woman contests (Lawrenceville Boro/Borough, Wellsboro Ward 1/Boro Ward 1, Wellsboro Ward 2/Boro Ward 2); they are merged under the committeeman spelling. A named candidate who received votes is filled; seats with only write-in votes are unknown because the report does not show whether a write-in qualified or accepted; seats with zero votes are empty. Appointments after the primary are not captured."
+}

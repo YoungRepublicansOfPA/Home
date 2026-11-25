@@ -1,0 +1,468 @@
+{
+  "county": "Clinton",
+  "checked_at": "2026-11-24",
+  "method": "none_found",
+  "election": "May 19, 2026 General Primary (results not retrievable)",
+  "as_of": "2026-11-24",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.clintoncountypa.gov/home/showpublisheddocument/9297/639159090738270000",
+      "title": "Clinton County 2026 primary precinct report (one of the per-precinct documents; HTTP 403 to automated access)",
+      "type": "results",
+      "as_of": "2026-05"
+    },
+    {
+      "url": "https://www.clintoncountypa.gov/departments/voter-registration/county-map-election-results",
+      "title": "Clinton County Voter Registration - Election Results (source of the precinct list, from the 2026 general election per-precinct reports)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://www.clintoncountypa.gov/departments/voter-registration/voter-registration",
+      "title": "Clinton County Past Election Results (no 2026 primary entry listed)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Allison Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Avis Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bald Eagle Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Beech Creek Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Beech Creek Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Castanea Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Chapman Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Colebrook Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Crawford Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Dunnstable Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Flemington Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Gallagher Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Greene Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Grugan Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Keating Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lamar Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Leidy Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lock Haven First Ward",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lock Haven Second Ward",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lock Haven Third Ward",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lock Haven Fourth Ward",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lock Haven Fifth Ward",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Logan Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Loganton Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Mill Hall Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Noyes Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Pine Creek Township I",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Pine Creek Township II",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Porter Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Renovo Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "South Renovo Borough",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wayne Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Woodward Township",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 33,
+    "seats": 66,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 66
+  },
+  "notes": "Clinton County elects one Republican Committeeman and one Committeewoman per precinct; a search snippet of the county 2026 primary notice and precinct reports indicated these contests were on the May 19, 2026 ballot. The county posts results as per-precinct PDF documents, but its document server (Akamai) returned HTTP 403 Access Denied to automated requests, and the 2026 primary reports are no longer linked from the results pages, so seat status could not be read. All seats are unknown. The precinct list is the 33 individual precinct reports linked for the November 2026 general election; the map file counts 34."
+}

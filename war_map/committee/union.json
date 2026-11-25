@@ -1,0 +1,377 @@
+{
+  "county": "Union",
+  "checked_at": "2026-11-24",
+  "method": "none_found",
+  "election": "May 19, 2026 General Primary (results not posted)",
+  "as_of": "2026-11-24",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://sites.google.com/unionco.org/unioncoelections/election-information/election-results-archive",
+      "title": "Union County Elections - Election Results Archive (2018-2025; no 2026 primary)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://sites.google.com/unionco.org/unioncoelections/election-information/election-results-by-precinct",
+      "title": "Union County Elections - Election Results by Precinct (now shows the November 3, 2026 general election only)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://drive.google.com/uc?id=1IQH3tvdX223zevJ6TFLmB1-FnRel4Rly&export=download",
+      "title": "Union County May 2022 Precinct Totals (scanned; OCR shows precinct REP COMMITTEE contests, e.g. Buffalo 1)",
+      "type": "results",
+      "as_of": "2022"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "BUFFALO 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BUFFALO 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "EAST BUFFALO 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "EAST BUFFALO 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "EAST BUFFALO 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "EAST BUFFALO 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST BUFFALO",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GREGG",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARTLEY",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "KELLY 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "KELLY 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LEWIS",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LIMESTONE",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "UNION",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WHITE DEER 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WHITE DEER 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WHITE DEER 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WHITE DEER 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HARTLETON",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LEWISBURG 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LEWISBURG 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LEWISBURG 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LEWISBURG 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MIFFLINBURG EAST",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MIFFLINBURG WEST",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NEW BERLIN",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 26,
+    "seats": 52,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 52
+  },
+  "notes": "Union County Republicans appear to elect precinct committee members in gubernatorial-year primaries (the scanned May 2022 precinct totals show a REP COMMITTEE contest for Buffalo 1; the 2024 and 2025 precinct reports checked show none), so the May 19, 2026 primary is the relevant election. The county elections site no longer links any 2026 primary results (the precinct page now carries the November 2026 general election and the archive stops at 2025), so all seats are unknown. Two seats per precinct is an unverified placeholder; the 2022 OCR did not reliably show the Vote For number. Precinct names are from the 26 per-precinct reports for the May 2025 primary; the map file counts 27."
+}

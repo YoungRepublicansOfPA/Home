@@ -1,0 +1,1073 @@
+{
+  "county": "Lycoming",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-05-26",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.lycomingcountypa.gov/Documents/Government/Departments/Voter%20Services/PreviousResults/2026GPOfficial.pdf",
+      "title": "Lycoming County May 19, 2026 General Primary - Official Results",
+      "type": "results",
+      "as_of": "2026-05-26"
+    },
+    {
+      "url": "https://www.lycomingcountypa.gov/government/departments/voter_services/previouselectionresults.php",
+      "title": "Lycoming County Voter Services - Previous Election Results",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Anthony",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Armstrong",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Bastress",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Brady",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Brown",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Cascade",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Clinton",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Cogan House",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Cummings",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Duboistown",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Eldred",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Fairfield",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Franklin",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Gamble",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hepburn",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Hughesville 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hughesville 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Jackson",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Jersey Shore 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jersey Shore 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jersey Shore 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Jersey Shore 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jordan",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lewis",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Limestone",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Loyalsock 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Loyalsock 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Loyalsock 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Loyalsock 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Loyalsock 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Loyalsock 6",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Loyalsock 7",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lycoming Twp",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "McHenry",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "McIntyre",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "McNett",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Mifflin",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Mill Creek",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Montgomery",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Montoursville 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Montoursville 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Montoursville 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Moreland",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Muncy Boro",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Muncy Creek",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Muncy Twp",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Nippenose",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Old Lycoming 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Old Lycoming 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Penn",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Piatt",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Picture Rocks",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Pine",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Plunketts Creek",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Porter",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Salladasburg",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Shrewsbury",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "South Wmspt 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "South Wmspt 2-1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "South Wmspt 2-2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "South Wmspt 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Susquehanna",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Upper Fairfield",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Watson",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Wolf",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Woodward",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Williamsport 1",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Williamsport 2",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Williamsport 3",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Williamsport 4",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Williamsport 5",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Williamsport 6",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Williamsport 7",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Williamsport 8",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Williamsport 9",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Williamsport 10",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Williamsport 11",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Williamsport 12",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Williamsport 13",
+      "seats": [
+        {
+          "seat": "Committeeman",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeewoman",
+          "status": "filled"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 80,
+    "seats": 160,
+    "filled": 103,
+    "empty": 4,
+    "empty_no_filer": 0,
+    "unknown": 53
+  },
+  "notes": "Each of the 80 precincts had a Republican Committee (M) and (F) contest, Vote For 1 each, in the official 2026 primary results (report dated 2026-05-26). A named candidate who received votes and could not be overtaken by write-ins is filled; a seat with only write-in votes is unknown (the report does not name write-in winners or say whether they accepted); a seat with zero votes is empty. Labels M/F are shown as Committeeman/Committeewoman. Appointments after the primary are not captured. The map file counts 81 precincts; the county reports 80."
+}

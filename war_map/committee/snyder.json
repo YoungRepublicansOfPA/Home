@@ -1,0 +1,370 @@
+{
+  "county": "Snyder",
+  "checked_at": "2026-11-24",
+  "method": "roster",
+  "election": "April 23, 2024 General Primary (term 2024-2027)",
+  "as_of": "2024-05-21",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.snydercounty.org/wp-content/uploads/2024/08/Republican-Committee.Snyder.County.8.16.2024.pdf",
+      "title": "Snyder County Republican Committee Membership Directory 2024-2027 (updated 5/21/2024), posted by Snyder County Elections",
+      "type": "roster",
+      "as_of": "2024-05-21"
+    },
+    {
+      "url": "https://www.snydercounty.org/wp-content/uploads/2024/05/Official-Election-Summary-5.8.2024.pdf",
+      "title": "Snyder County 2024 General Primary Official Election Summary (25 REP MEMBER OF THE REPUBLICAN COUNTY COMMITTEE contests, Vote For 2)",
+      "type": "results",
+      "as_of": "2024-05-08"
+    },
+    {
+      "url": "https://www.snydercounty.org/wp-content/uploads/2026/05/Snyder-County-Election-Summary-5.21.2026.pdf",
+      "title": "Snyder County 2026 General Primary Election Summary (county committee contests are Democratic only)",
+      "type": "results",
+      "as_of": "2026-05-21"
+    },
+    {
+      "url": "https://www.snydercounty.org/departments/elections/",
+      "title": "Snyder County Elections page",
+      "type": "roster",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Adams Twp",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Beaver Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Beavertown Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Center Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Chapman Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Franklin Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Freeburg Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Jackson Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "McClure Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Middleburg Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Middlecreek Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Monroe Township #1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Monroe Township #2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Penn Township #1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Penn Township #2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Perry Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Selinsgrove Borough #1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Selinsgrove Borough #2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Selinsgrove Borough #3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Shamokin Dam Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Spring Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Union Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Washington Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "West Beaver Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "West Perry Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 25,
+    "seats": 50,
+    "filled": 36,
+    "empty": 14,
+    "empty_no_filer": 0,
+    "unknown": 0
+  },
+  "notes": "Snyder County Republicans elect committee members in presidential-year primaries for a 2024-2027 term (2024 primary: one contest per precinct, Vote For 2, not gender-designated); the 2026 primary carried only Democratic county committee contests. Status comes from the county-posted Republican Committee membership directory (updated 5/21/2024, file dated 8/16/2024): each listed member fills one seat and the remaining seats of the precinct are counted empty. Monroe Township #1, Penn Township #2 and West Perry Township have no listed member. Changes after the directory update are not captured. Precinct names follow the directory spelling (or the 2024 ballot for districts with no member)."
+}

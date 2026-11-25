@@ -1,0 +1,1068 @@
+{
+  "county": "Bradford",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "April 23, 2024 General Primary",
+  "as_of": "2024-04-29",
+  "seats_per_precinct": null,
+  "sources": [
+    {
+      "url": "https://www.bradfordcountypa.gov/DocumentCenter/View/358/2024-Primary-Results-PDF",
+      "title": "Bradford County April 23, 2024 Primary Election - Election Summary Report",
+      "type": "results",
+      "as_of": "2024-04-29"
+    },
+    {
+      "url": "https://www.bradfordcountypa.gov/DocumentCenter/View/1559/2026-Primary----Final-Results",
+      "title": "Bradford County May 19, 2026 General Primary - Final Results (Democratic committee contests only)",
+      "type": "results",
+      "as_of": "2026-05-26"
+    },
+    {
+      "url": "https://www.bradfordcountypa.gov/302/Elections",
+      "title": "Bradford County Elections page",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "ALBA BOROUGH",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ALBANY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ARMENIA TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ASYLUM TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ATHENS BOROUGH 1ST WARD",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "ATHENS BOROUGH 2ND WARD",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ATHENS BOROUGH 3RD WARD",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ATHENS BOROUGH 4TH WARD",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ATHENS TOWNSHIP 1ST DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ATHENS TOWNSHIP 2ND DISTRICT",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BURLINGTON BOROUGH",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "BURLINGTON TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST BURLINGTON TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "CANTON BOROUGH",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "CANTON TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "COLUMBIA TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "FRANKLIN TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "GRANVILLE TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HERRICK TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LERAYSVILLE BOROUGH",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "LEROY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "LITCHFIELD TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "MONROE BOROUGH",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "MONROE TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NEW ALBANY BOROUGH",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ORWELL TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "OVERTON TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "PIKE TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "RIDGEBURY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ROME BOROUGH",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "ROME TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SAYRE BOROUGH 1ST WARD",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SAYRE BOROUGH 2ND WARD",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SAYRE BOROUGH 3RD WARD",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SAYRE BOROUGH 4TH WARD",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SAYRE BOROUGH 5TH WARD",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "SHESHEQUIN TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SMITHFIELD TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH CREEK TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SOUTH WAVERLY BOROUGH",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SPRINGFIELD TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "STANDING STONE TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "STEVENS TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "SYLVANIA BOROUGH",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "TERRY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "TOWANDA BOROUGH 1ST WARD",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TOWANDA BOROUGH 2ND WARD",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TOWANDA BOROUGH 3RD WARD",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TOWANDA TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH TOWANDA TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "TROY BOROUGH",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TROY TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "TUSCARORA TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "ULSTER TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WARREN TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WELLS TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WILMOT TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WINDHAM TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WYALUSING BOROUGH",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WYALUSING TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WYSOX TOWNSHIP",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 61,
+    "seats": 181,
+    "filled": 43,
+    "empty": 15,
+    "empty_no_filer": 0,
+    "unknown": 123
+  },
+  "notes": "Bradford County Republicans elect committee members in presidential-year primaries: the April 23, 2024 primary had one REPUBLICAN COMMITTEE contest for each of 61 precincts, and the 2026 primary carried only Democratic committee contests. Seats per precinct vary from 1 to 6 (the Vote For number printed for each precinct), so seats_per_precinct is null. A named ballot candidate who received votes is filled; seats left only to write-ins are unknown, including where the report names write-in recipients marked (W), because it does not say whether a write-in qualified or accepted; seats with no votes at all are empty. The report prints No Candidate Filed in 35 precincts. The 2024 report (dated 2024-04-29) is the county-posted results file; it is not labelled official or unofficial in its header. Appointments since 2024 are not captured. The old bradfordcountypa.org site now redirects to bradfordcountypa.gov."
+}

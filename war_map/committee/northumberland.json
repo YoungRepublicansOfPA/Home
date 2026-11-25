@@ -1,0 +1,995 @@
+{
+  "county": "Northumberland",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-06-02",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.northumberlandcountypa.gov/htdocs/wp-content/uploads/documents/elections/2026_0519_official/overall.pdf",
+      "title": "Northumberland County May 19, 2026 General Primary - Summary Results Report (Official Reports)",
+      "type": "results",
+      "as_of": "2026-06-02"
+    },
+    {
+      "url": "https://northumberlandcountypa.gov/prior-results/",
+      "title": "Northumberland County Board of Elections - Prior Results",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Coal Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Coal Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Coal Township 3",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Coal Township 4-1",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Coal Township 4-2",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Coal Township 5",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Coal Township 6",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "East Cameron Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Kulpmont Borough 1",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Kulpmont Borough 2",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Kulpmont Borough 3",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Marion Heights Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Mount Carmel Borough 1",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Mount Carmel Borough 2",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Mount Carmel Borough 3",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Mount Carmel Borough 4",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Diamond/Exchange Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Locust Gap Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Natalie/Strong Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Ralpho Township 1",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Ralpho Township 2",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Shamokin City 1",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Shamokin City 2",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Shamokin City 3",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Shamokin City 4",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Shamokin City 5",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Shamokin City 6",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Shamokin City 7",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Shamokin City 8",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Cameron Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Zerbe Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Delaware Township East",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Delaware Township South",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Delaware Township West",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "East Chillisquaque Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Herndon Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jackson Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jordan Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Lewis Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Little Mahanoy Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lower Augusta Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lower Mahanoy Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "McEwensville Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Milton Borough 1",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Milton Borough 2",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Milton Borough 3",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Milton Borough 4",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Milton Borough 5",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Northumberland Borough 1",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Northumberland Borough 2",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Northumberland Borough 3",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Point Township East",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Point Township West",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Riverside Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Rockefeller Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Rush Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Shamokin Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Snydertown Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sunbury City 1",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Sunbury City 2",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sunbury City 5",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sunbury City 6",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sunbury City 4",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Sunbury City 3",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Turbot Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Turbotville Borough",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Upper Augusta Township Northeast",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Upper Augusta Township Northwest",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Upper Mahanoy Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Washington Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Watsontown Borough 1",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Watsontown Borough 2",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "filled"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "West Chillisquaque Township",
+      "seats": [
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        },
+        {
+          "seat": "Committeeperson",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 74,
+    "seats": 148,
+    "filled": 33,
+    "empty": 20,
+    "empty_no_filer": 0,
+    "unknown": 95
+  },
+  "notes": "Northumberland County listed one REP County Committeeperson contest per precinct (74 precincts, Vote For 2, not gender-designated) in the official 2026 primary report. A named ballot candidate who received votes is filled; seats left only to write-ins are unknown because the report does not show whether a write-in qualified or accepted (the county posted no write-in winners list for this primary); seats with no candidate and zero votes are empty. Appointments after the primary are not captured."
+}

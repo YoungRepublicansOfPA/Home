@@ -1,0 +1,904 @@
+{
+  "county": "Somerset",
+  "checked_at": "2026-11-24",
+  "method": "none_found",
+  "election": "Not determined (no committee results posted)",
+  "as_of": "2026-11-24",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "http://www.co.somerset.pa.us/pages/voters/electionresults.asp",
+      "title": "Somerset County Election Results page (only November 3, 2026 general election files posted)",
+      "type": "results",
+      "as_of": "2026-11-24"
+    },
+    {
+      "url": "http://www.co.somerset.pa.us/files/voter_files/ElectionResultsUpload/Precient%20by%20Precient%20Report.pdf",
+      "title": "Somerset County 2026 General Election official precinct report (source of precinct names)",
+      "type": "results",
+      "as_of": "2026-11-12"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Addison Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Addison Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Allegheny Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Benson Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Berlin Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Black Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Boswell Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Brothersvalley Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Casselman Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Central City Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Conemaugh Township No. 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Conemaugh Township No. 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Conemaugh Township No. 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Conemaugh Township No. 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Conemaugh Township No. 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Confluence Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Elk Lick Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Fairhope Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Garrett Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Greenville Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hooversville Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Indian Lake Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jefferson Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jenner Township No. 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jenner Township No. 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jenner Township No. 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jennerstown Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Larimer Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lincoln Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lower Turkeyfoot Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Meyersdale Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Middlecreek Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Milford Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "New Baltimore Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "New Centerville Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Northampton Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Ogle Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Paint Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Paint Township No. 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Paint Township No. 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Paint Township No. 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Quemahoning Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Rockwood Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Salisbury Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Seven Springs Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Shade Township No. 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Shade Township No. 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Shade Township No. 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Shanksville Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Somerset Borough East",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Somerset Borough Northwest",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Somerset Borough Southwest",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Somerset Township No. 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Somerset Township No. 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Somerset Township No. 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Somerset Township No. 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Southampton Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Stonycreek Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Stoystown Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Summit Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Upper Turkeyfoot Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Ursina Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wellersburg Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Windber Borough No. 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Windber Borough No. 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Windber Borough No. 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Windber Borough No. 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 67,
+    "seats": 134,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 134
+  },
+  "notes": "No public evidence of Republican committee seat status was found. The Somerset County results page posts only the current election (November 3, 2026 general) and keeps no archive of earlier primaries, so neither the 2026 nor the 2024 primary committee results could be checked, and it was not determined which year the county Republican committee is elected. All seats are unknown. Two seats per precinct is an unverified placeholder. Precinct names are the 67 precincts in the county 2026 general election precinct report; the map file counts 68."
+}

@@ -1,0 +1,240 @@
+{
+  "county": "Sullivan",
+  "checked_at": "2026-11-24",
+  "method": "election_results",
+  "election": "April 23, 2024 Presidential Primary",
+  "as_of": "2024-04-23",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.sullivancountypa.gov/s/SOVC2-OFFICIAL_PA_Sullivan_2024_Primary_bdfx.pdf",
+      "title": "Sullivan County 2024 Primary - Official Statement of Votes Cast with Precincts",
+      "type": "results",
+      "as_of": "2024-04-23"
+    },
+    {
+      "url": "https://www.sullivancountypa.gov/s/General-Primary-Official-Results-51926-xgs9.pdf",
+      "title": "Sullivan County 2026 General Primary - Official Results (scanned; OCR shows Democratic committee contests only)",
+      "type": "results",
+      "as_of": "2026-05-19"
+    },
+    {
+      "url": "https://www.sullivancountypa.gov/s/RECOUNT_OFFICIAL-Results-Primary-2022xlsx-Republican-Results.pdf",
+      "title": "Sullivan County 2022 Primary - Official Republican Results (no county committee contests)",
+      "type": "results",
+      "as_of": "2022"
+    },
+    {
+      "url": "https://www.sullivancountypa.gov/offices/election-bureau",
+      "title": "Sullivan County Elections & Voter Registration",
+      "type": "results",
+      "as_of": "2026-11-24"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Cherry Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bernice Precinct",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Colley Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Lopez Precinct",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Davidson Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Dushore Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Eagles Mere Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Elkland Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Forks Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Forksville Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Fox Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hillsgrove Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Laporte Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    },
+    {
+      "name": "Laporte Borough",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "Shrewsbury Township",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "filled"
+        },
+        {
+          "seat": "Member",
+          "status": "filled"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 15,
+    "seats": 30,
+    "filled": 16,
+    "empty": 4,
+    "empty_no_filer": 0,
+    "unknown": 10
+  },
+  "notes": "Sullivan County Republicans elect committee members in presidential-year primaries: the official 2024 statement of votes cast lists one COUNTY REPUBLICAN COMMITTEE contest per precinct (15, Vote For 2), the 2022 Republican results had none, and the scanned 2026 official results (read by OCR) show only Democratic county committee contests. A named ballot candidate who received votes is filled; seats left only to write-ins are unknown, including where the report names write-in recipients, because it does not say whether a write-in qualified or accepted; seats with no votes are empty. as_of is the election date because the report shows no run or certification date. Appointments since 2024 are not captured. Precinct names are as printed in the precinct column of the report."
+}

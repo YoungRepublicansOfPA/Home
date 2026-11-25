@@ -18,7 +18,13 @@ const CHAMBERS = {
   senate: {label: 'PA Senate', noun: 'Senate District', seats: 50},
   congress: {label: 'U.S. House', noun: 'Congressional District', seats: 17}
 };
-const COUNTY_LAYERS = ['results', 'population', 'government'];
+const COUNTY_LAYERS = ['results', 'chairs', 'population', 'government'];
+const CHAIR_SHADES = ['#4a3440', '#7a3040', '#a8333f', '#d9434c'];
+const CHAIR_STEPS = [.10, .25, .50];
+const METHOD_LABEL = {roster: 'Committee roster', election_results: 'Official committee results', candidate_listing: 'Candidate listing', none_found: 'No public record found'};
+let committee = {total: {}, counties: {}};
+const emptyOf = c => (c?.empty || 0) + (c?.empty_no_filer || 0);
+const knownOf = c => (c?.filled || 0) + emptyOf(c);
 
 const $ = id => document.getElementById(id);
 const slug = name => name.toLowerCase().replaceAll(' ', '-');
@@ -307,6 +313,10 @@ function tooltip(f) {
   }
   if (f.source === 'districts') return [CHAMBERS[p.kind].noun + ' ' + p.district, p.member ? p.member + ' (' + (p.party[0] || '?') + ')' : 'Member unavailable'];
   const c = countyByName.get(p.county).properties;
+  if (state.layer === 'chairs') {
+    const ch = committee.counties[p.county];
+    return [p.county + ' County', !ch || !knownOf(ch) ? 'No public record found' : fmt(emptyOf(ch)) + ' empty of ' + fmt(ch.seats) + ' seats · ' + fmt(ch.unknown) + ' unknown'];
+  }
   if (state.layer === 'population') return [p.county + ' County', fmt(c.population) + ' residents'];
   if (state.layer === 'government') return [p.county + ' County', 'Governing majority: ' + (c.party_control || 'unverified')];
   return [p.county + ' County', marginText(c.margin) + ' · ' + fmt(c.harris_led) + ' of ' + fmt(c.precincts) + ' precincts Harris-led'];
@@ -483,6 +493,16 @@ function renderHome() {
       ? [marginText(c.margin), leadClass(c.margin), fmt(c.harris_led) + ' of ' + fmt(c.precincts) + ' precincts Harris-led']
       : state.sort === 'votes' ? [compact.format(c.total), '', marginText(c.margin) + ' · ' + fmt(c.total) + ' votes']
       : [fmt(c.harris_led), 'd', 'of ' + fmt(c.precincts) + ' precincts Harris-led · ' + marginText(c.margin)];
+  } else if (l === 'chairs') {
+    const t = committee.total;
+    headBlock = head({eyebrow: 'Republican committee seats', title: 'At least ' + fmt(emptyOf(t)) + ' Republican committee seats are empty',
+      lede: fmt(t.empty) + ' had no winner and ' + fmt(t.empty_no_filer) + ' had no Republican filer, out of ' + fmt(t.seats) + ' seats on record. Another ' + fmt(t.unknown) + ' are unknown: write-in wins, filed candidates with no posted result, and counties with no public record. Pick a county for its sources.'});
+    sortOptions = null;
+    metric = c => {
+      const ch = committee.counties[c.county];
+      if (!ch || !knownOf(ch)) return ['—', '', 'No public record found'];
+      return [fmt(emptyOf(ch)), 'r', 'empty of ' + fmt(ch.seats) + ' seats · ' + fmt(ch.unknown) + ' unknown · ' + (METHOD_LABEL[ch.method] || ch.method)];
+    };
   } else if (l === 'population') {
     const total = all.reduce((n, c) => n + c.population, 0);
     headBlock = head({eyebrow: 'Population · ' + countyInfo.population_year, title: compact.format(total) + ' Pennsylvanians in 67 counties',
@@ -496,7 +516,8 @@ function renderHome() {
     sortOptions = null;
     metric = c => [c.party_control ? c.party_control[0] : '—', partyClass(c.party_control), c.party_control ? c.party_control + ' majority' : 'Unverified'];
   }
-  const sorter = l === 'population' ? (a, b) => b.population - a.population
+  const sorter = l === 'chairs' ? (a, b) => emptyOf(committee.counties[b.county]) - emptyOf(committee.counties[a.county]) || a.county.localeCompare(b.county)
+    : l === 'population' ? (a, b) => b.population - a.population
     : l === 'government' ? (a, b) => (!!b.party_control - !!a.party_control) || a.county.localeCompare(b.county)
     : SORTS[state.sort][1];
   const list = h('ul', {class: 'rows'});
@@ -520,6 +541,25 @@ function renderCounty() {
   const c = countyByName.get(state.county).properties;
   const profile = h('a', {class: 'link', href: '../#county-' + slug(c.county), text: 'Representatives, budgets and docket →'});
   const back = {label: 'Back to Pennsylvania', go: goHome};
+  if (state.layer === 'chairs') {
+    const ch = committee.counties[c.county];
+    const seg = (n, color) => h('span', {style: 'background:' + color + ';width:' + (100 * n / (ch?.seats || 1)) + '%'});
+    $('panel').replaceChildren(
+      ...head({eyebrow: 'Republican committee seats', title: c.county + ' County', back,
+        lede: !ch || !knownOf(ch) ? 'No public roster, results or candidate listing was found for this county. Every seat is unknown.'
+          : fmt(emptyOf(ch)) + ' of ' + fmt(ch.seats) + ' seats are empty across ' + fmt(ch.precincts) + ' precincts.'}),
+      ch && ch.seats ? h('div', {class: 'bar', role: 'img', 'aria-label': fmt(ch.filled) + ' filled, ' + fmt(emptyOf(ch)) + ' empty, ' + fmt(ch.unknown) + ' unknown'},
+        seg(ch.filled, '#5f9e6e'), seg(ch.empty, CHAIR_SHADES[3]), seg(ch.empty_no_filer, CHAIR_SHADES[1]), seg(ch.unknown, '#4b5568')) : null,
+      ch ? h('table', {class: 'votes'}, h('tbody', {},
+        [['Filled', ch.filled, '#5f9e6e'], ['Empty: no winner', ch.empty, CHAIR_SHADES[3]], ['Empty: no Republican filed', ch.empty_no_filer, CHAIR_SHADES[1]], ['Unknown', ch.unknown, '#4b5568']]
+          .map(([k, v, col]) => h('tr', {}, h('td', {}, h('span', {class: 'dot', style: 'background:' + col}), k), h('td', {text: fmt(v)}), h('td', {text: pct(v, ch.seats)}))))) : null,
+      ch ? h('p', {class: 'note', text: (METHOD_LABEL[ch.method] || ch.method) + (ch.election ? ' · ' + ch.election : '') + (ch.as_of ? ' · as of ' + ch.as_of : '') + ' · checked ' + ch.checked_at + '. Appointments made since then are not counted.'}) : null,
+      ch && ch.sources.length ? h('ul', {class: 'reps'}, ch.sources.map(s => h('li', {}, h('a', {href: s.url, text: s.title || s.url})))) : null,
+      h('div', {class: 'actions'}, h('a', {class: 'btn ghost', href: 'committee/' + (ch?.file || slug(c.county) + '.json'), text: 'Precinct data (JSON)'}),
+        h('button', {type: 'button', class: 'btn', onclick: () => setLayer('results', {keep: true}), text: 'See precinct results'})),
+      profile);
+    return;
+  }
   if (state.layer !== 'results') {
     $('panel').replaceChildren(
       ...head({eyebrow: state.layer === 'population' ? 'Population' : 'County government', title: c.county + ' County', back,
@@ -659,6 +699,8 @@ function legend() {
     const zoomHint = map.getZoom() < PRECINCT_ZOOM - .2 && !state.county;
     el.replaceChildren(ramp(COLORS.r, 'Trump lead'), ramp(COLORS.d, 'Harris lead'), h('span', {class: 'hint', text: 'Darker: 10+ and 30+ pt margins'}),
       ...(zoomHint ? [h('span', {class: 'hint', text: 'Zoom in to see precincts'})] : []));
+  } else if (l === 'chairs') {
+    el.replaceChildren(ramp(CHAIR_SHADES, 'Share of seats empty: under 10% → 50%+'), sw('#455467', 'No public record'), h('span', {class: 'hint', text: 'Unknown seats not counted as empty'}));
   } else if (l === 'population') {
     el.replaceChildren(ramp(POP_SHADES, 'Population: under 50k → 500k+'), h('span', {class: 'hint', text: 'July 1, 2025 estimates'}));
   } else if (l === 'government') {
@@ -793,7 +835,8 @@ function wireSearch() {
 
 /* ---------- Start ---------- */
 async function start() {
-  const [geo, meta] = await Promise.all([json('counties.geojson'), loadMeta()]);
+  const [geo, meta, chairs] = await Promise.all([json('counties.geojson'), loadMeta(), json('committee/summary.json').catch(() => null)]);
+  if (chairs) committee = chairs;
   countyInfo = meta;
   counties = geo.features;
   for (const f of counties) {
@@ -804,6 +847,9 @@ async function start() {
     p.fill_results = colorFor(p.margin);
     p.fill_population = POP_SHADES[POP_STEPS.filter(n => c.population >= n).length];
     p.fill_government = PARTY_FILL[c.party_control] || '#455467';
+    const ch = committee.counties[p.county];
+    p.chairs_empty = emptyOf(ch);
+    p.fill_chairs = !ch || !knownOf(ch) ? '#455467' : CHAIR_SHADES[CHAIR_STEPS.filter(n => emptyOf(ch) / ch.seats >= n).length];
     f.bbox = bboxOf(f.geometry);
     f.labelPoint = interiorPoint(f.geometry);
     countyByName.set(p.county, f);

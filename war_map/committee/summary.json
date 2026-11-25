@@ -1,0 +1,1867 @@
+{
+ "built_from": "war_map/committee/*.json",
+ "total": {
+  "seats": 17945,
+  "filled": 4370,
+  "empty": 4221,
+  "empty_no_filer": 2627,
+  "unknown": 6727
+ },
+ "counties": {
+  "Adams": {
+   "method": "election_results",
+   "election": "May 20, 2025 Municipal Primary",
+   "as_of": "2025-05-23",
+   "checked_at": "2026-11-24",
+   "precincts": 51,
+   "seats": 331,
+   "filled": 106,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 225,
+   "sources": [
+    {
+     "url": "https://www.adamscountypa.gov/getmedia/26d20d82-6443-4d28-8390-deca1715b958/b-Precinct-Summary-Results.pdf",
+     "title": "Adams County 2025 Primary Precinct Summary Results (report header reads UNOFFICIAL RESULTS, generated 05/23/2025)",
+     "type": "results"
+    },
+    {
+     "url": "https://adamscountypa.gov/getmedia/f1d63c2d-481a-4d63-9170-b7f01c56a63a/2025-NOTICE-OF-MUNICIPAL-PRIMARY-ELECTION.pdf",
+     "title": "Adams County 2025 Notice of Municipal Primary Election (Republican Committee Member seats per election district, 4-year term, as set by party by-laws)",
+     "type": "rules"
+    },
+    {
+     "url": "https://www.adamscountypa.gov/getmedia/575d07bc-6b97-44d7-90ca-cd1aad4ae3ad/e_Republican-Committee-Write-Ins.pdf",
+     "title": "Adams County 2025 Primary Republican Committee Write-In Winners (scanned image, not used for seat status)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.adamscountypa.gov/getmedia/8b4685ab-9f35-420a-81dc-0e6dab0caa4f/Official-Republican-General-Primary-Ballot.pdf",
+     "title": "Adams County Official Republican General Primary Ballot, May 19, 2026 (no county committee contest, confirming committee is not elected in 2026)",
+     "type": "rules"
+    }
+   ],
+   "file": "adams.json"
+  },
+  "Allegheny": {
+   "method": "candidate_listing",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-05-19",
+   "checked_at": "2026-11-24",
+   "precincts": 1327,
+   "seats": 2654,
+   "filled": 0,
+   "empty": 0,
+   "empty_no_filer": 2228,
+   "unknown": 426,
+   "sources": [
+    {
+     "url": "https://apps.alleghenycounty.us/website/PDF_REP/2026Pri-Rep%20Sample%20(1).pdf",
+     "title": "Official Republican General Primary Ballot, May 19, 2026, sample ballot for precinct 1 (Aleppo); one such PDF per precinct, numbered (1) through (1327) at the same path",
+     "type": "candidate_listing"
+    },
+    {
+     "url": "https://www.alleghenycounty.us/Government/Elections/Election-Updates",
+     "title": "Allegheny County Elections, Election Updates (links 2026 primary results on Clarity/Scytl)",
+     "type": "results"
+    }
+   ],
+   "file": "allegheny.json"
+  },
+  "Armstrong": {
+   "method": "candidate_listing",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-05-19",
+   "checked_at": "2026-11-24",
+   "precincts": 62,
+   "seats": 124,
+   "filled": 0,
+   "empty": 0,
+   "empty_no_filer": 87,
+   "unknown": 37,
+   "sources": [
+    {
+     "url": "https://www.co.armstrong.pa.us/images/departments/votersregistration/officestobeelected/candidatestobeelected.pdf",
+     "title": "Armstrong County Republican Unofficial Candidate List, May 19, 2026 primary (Committeeperson - 4 Yr, two per precinct, candidates marked Male/Female)",
+     "type": "candidate_listing"
+    },
+    {
+     "url": "https://www.co.armstrong.pa.us/images/departments/votersregistration/officestobeelected/officestobeelected.pdf",
+     "title": "Offices to be elected May 19th 2026 (includes Member of the Republican County Committee)",
+     "type": "candidate_listing"
+    },
+    {
+     "url": "https://www.co.armstrong.pa.us/index.php/county-government-m/elections-voters-registration-m/election-results-m-evr/election-results-official-depart-m",
+     "title": "Armstrong County official election results page (precinct PDFs currently read 'No results reported'; unofficial page now shows the November 2026 general)",
+     "type": "results"
+    }
+   ],
+   "file": "armstrong.json"
+  },
+  "Beaver": {
+   "method": "election_results",
+   "election": "April 23, 2024 General Primary",
+   "as_of": "2024-05-09",
+   "checked_at": "2026-11-24",
+   "precincts": 129,
+   "seats": 258,
+   "filled": 17,
+   "empty": 27,
+   "empty_no_filer": 0,
+   "unknown": 214,
+   "sources": [
+    {
+     "url": "https://www.beavercountypa.gov/getmedia/2145b2e1-e2ae-4e76-a59e-7d5ceb30769d/April-2024-Summary-Report.pdf",
+     "title": "2024 General Primary Summary Results Report, Official Results including write-in votes (Beaver County Bureau of Elections, Electionware, generated 05/09/2024)",
+     "type": "results"
+    },
+    {
+     "url": "https://beavercountypa.gov/getmedia/e72824a5-d3a3-4ef7-ab27-43b3e8106f5c/2026-General-Primary-Beaver-County-Precinct-Report-Upload6_Certified.pdf",
+     "title": "2026 General Primary certified precinct report (checked: contains no Republican county committee contests)",
+     "type": "results"
+    }
+   ],
+   "file": "beaver.json"
+  },
+  "Bedford": {
+   "method": "election_results",
+   "election": "April 23, 2024 General Primary",
+   "as_of": "2024-05-21",
+   "checked_at": "2026-11-24",
+   "precincts": 40,
+   "seats": 80,
+   "filled": 12,
+   "empty": 10,
+   "empty_no_filer": 0,
+   "unknown": 58,
+   "sources": [
+    {
+     "url": "https://www.bedfordcountypa.org/OfficialElectionSummaryDistrictReportRPT.pdf",
+     "title": "Bedford County 4.23.24 Official Primary Election Results (Precinct) - Election Summary Report",
+     "type": "results"
+    },
+    {
+     "url": "https://www.bedfordcountypa.org/Elections/2026/UNOFFICIAL%20ElectionSummaryReportRPT%2005.29.2026.pdf",
+     "title": "Bedford County May 19, 2026 Primary - Election Summary Report (unofficial; Democratic county committee contests only)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.bedfordcountypa.org/departments/elections/election_results.php",
+     "title": "Bedford County Elections - Election Results",
+     "type": "results"
+    }
+   ],
+   "file": "bedford.json"
+  },
+  "Berks": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-05",
+   "checked_at": "2026-11-24",
+   "precincts": 202,
+   "seats": 548,
+   "filled": 93,
+   "empty": 89,
+   "empty_no_filer": 0,
+   "unknown": 366,
+   "sources": [
+    {
+     "url": "https://www.berkspa.gov/getmedia/3b6ee6f8-7498-47d9-bf3c-ab7203d0517e/Summary-Report-5-19-2026.pdf",
+     "title": "Berks County Summary Results Report, 2026 General Primary, Official Results (report dated 06/05/2026)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.berkspa.gov/departments/election-services/election-results",
+     "title": "Berks County Election Services: Election Results index",
+     "type": "results"
+    }
+   ],
+   "file": "berks.json"
+  },
+  "Blair": {
+   "method": "election_results",
+   "election": "May 20, 2025 Municipal Primary",
+   "as_of": "2025-06-02",
+   "checked_at": "2026-11-24",
+   "precincts": 93,
+   "seats": 186,
+   "filled": 76,
+   "empty": 3,
+   "empty_no_filer": 0,
+   "unknown": 107,
+   "sources": [
+    {
+     "url": "https://www.blaircountypa.gov/getmedia/d0d60212-69ad-4f36-af9d-7c26e2319bc4/Official-Summary-Results-Report.pdf",
+     "title": "Blair County 2025 Primary Election - Official Summary Results Report",
+     "type": "results"
+    },
+    {
+     "url": "https://www.blaircountypa.gov/departments/elections-voter-registration/election-results/2025-primary",
+     "title": "Blair County Election Results - 2025 Primary Election",
+     "type": "results"
+    },
+    {
+     "url": "https://www.blaircountypa.gov/getmedia/06b3fbef-4fc1-4420-beb7-52a64ef0a171/Official-Precinct-Summary-Results-Report.pdf",
+     "title": "Blair County 2026 Primary - Official Precinct Summary Results Report (no Republican county committee contests on 2026 ballot)",
+     "type": "results"
+    }
+   ],
+   "file": "blair.json"
+  },
+  "Bradford": {
+   "method": "election_results",
+   "election": "April 23, 2024 General Primary",
+   "as_of": "2024-04-29",
+   "checked_at": "2026-11-24",
+   "precincts": 61,
+   "seats": 181,
+   "filled": 43,
+   "empty": 15,
+   "empty_no_filer": 0,
+   "unknown": 123,
+   "sources": [
+    {
+     "url": "https://www.bradfordcountypa.gov/DocumentCenter/View/358/2024-Primary-Results-PDF",
+     "title": "Bradford County April 23, 2024 Primary Election - Election Summary Report",
+     "type": "results"
+    },
+    {
+     "url": "https://www.bradfordcountypa.gov/DocumentCenter/View/1559/2026-Primary----Final-Results",
+     "title": "Bradford County May 19, 2026 General Primary - Final Results (Democratic committee contests only)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.bradfordcountypa.gov/302/Elections",
+     "title": "Bradford County Elections page",
+     "type": "results"
+    }
+   ],
+   "file": "bradford.json"
+  },
+  "Bucks": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-09",
+   "checked_at": "2026-11-24",
+   "precincts": 304,
+   "seats": 608,
+   "filled": 466,
+   "empty": 6,
+   "empty_no_filer": 0,
+   "unknown": 136,
+   "sources": [
+    {
+     "url": "https://www.buckscounty.gov/DocumentCenter/View/27504",
+     "title": "2026 General Primary Certified Returns - Summary Totals (Statement of Votes Cast by Geography, 2026-06-09)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.buckscounty.gov/1206/Election-Results",
+     "title": "Bucks County Election Results page",
+     "type": "results"
+    }
+   ],
+   "file": "bucks.json"
+  },
+  "Butler": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-05-19",
+   "checked_at": "2026-11-24",
+   "precincts": 95,
+   "seats": 190,
+   "filled": 57,
+   "empty": 11,
+   "empty_no_filer": 0,
+   "unknown": 122,
+   "sources": [
+    {
+     "url": "https://butlercountypa.gov/DocumentCenter/View/13313/SUMMARY-REPORT-PDF",
+     "title": "2026 General Primary Summary Results Report, UNOFFICIAL election night returns (Butler County Bureau of Elections, Electionware)",
+     "type": "results"
+    },
+    {
+     "url": "https://butlercountypa.gov/683/Archived-Election-Returns-2021---2026",
+     "title": "Butler County Archived Election Returns (2021-2026); the 2026 General Primary section posts only the unofficial summary and precinct reports",
+     "type": "results"
+    }
+   ],
+   "file": "butler.json"
+  },
+  "Cambria": {
+   "method": "none_found",
+   "election": "May 19, 2026 General Primary (results not retrievable)",
+   "as_of": "2026-06-08",
+   "checked_at": "2026-11-24",
+   "precincts": 125,
+   "seats": 250,
+   "filled": 0,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 250,
+   "sources": [
+    {
+     "url": "https://www.cambriacountypa.gov/download/515/2026-general-primary/14981/cambria_pa_dos_official_summary_text_groups_6-8-26.pdf",
+     "title": "Cambria County 2026 General Primary official summary (listed on county site; download blocked to automated access)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.cambriacountypa.gov/election-office/",
+     "title": "Cambria County Election Office",
+     "type": "results"
+    },
+    {
+     "url": "https://results.enr.clarityelections.com/PA/Cambria/113942/",
+     "title": "Cambria County 2022 Primary results (Clarity): one REP COMMITTEE PERSON contest per precinct, Vote For 2; used only for seat count",
+     "type": "rules"
+    },
+    {
+     "url": "https://results.enr.clarityelections.com/PA/Cambria/127572/",
+     "title": "Cambria County 2026 General Election results (Clarity): source of the 125 precinct names",
+     "type": "results"
+    }
+   ],
+   "file": "cambria.json"
+  },
+  "Cameron": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary (unofficial results)",
+   "as_of": "2026-05-19",
+   "checked_at": "2026-11-24",
+   "precincts": 10,
+   "seats": 10,
+   "filled": 0,
+   "empty": 5,
+   "empty_no_filer": 0,
+   "unknown": 5,
+   "sources": [
+    {
+     "url": "https://www.cameroncountypa.com/2026%20Primary%20Unofficial%20Results%20Precinct%20Summary.pdf",
+     "title": "Cameron County 2026 Primary Unofficial Results Precinct Summary (Electionware, 05/19/2026 9:13 PM)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.cameroncountypa.com/2026Primary_UnofficialResults.pdf",
+     "title": "Cameron County 2026 Primary Unofficial Results, scanned summary (05/19/2026 9:27 PM, posted 6/3/2026); same committee figures",
+     "type": "results"
+    },
+    {
+     "url": "https://www.cameroncountypa.com/OFFICIAL%20RESULTS%20PRIMARY%20SUMMARY.pdf",
+     "title": "Cameron County Official Results, Primary Election May 17, 2022 (prior 'Republican Committee Person' contests, for comparison)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.cameroncountypa.com/resident/elections/official_canvass_results.php",
+     "title": "Cameron County official canvass results page (no official 2026 primary report posted)",
+     "type": "results"
+    }
+   ],
+   "file": "cameron.json"
+  },
+  "Carbon": {
+   "method": "none_found",
+   "election": "May 19, 2026 General Primary (results not retrievable)",
+   "as_of": "2026-11-24",
+   "checked_at": "2026-11-24",
+   "precincts": 24,
+   "seats": 109,
+   "filled": 0,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 109,
+   "sources": [
+    {
+     "url": "https://cms5.revize.com/revize/carboncounty/Document%20Center/Service/Elections%20Voter%20Registration/2026%20General%20Primary%205-19-2026/ElectionSummaryReportRPT%20Final%20Official%20060226.pdf",
+     "title": "Carbon County 2026 General Primary official summary report (search-indexed); returned HTTP 404 when fetched on 2026-11-24",
+     "type": "results"
+    },
+    {
+     "url": "https://www.carboncountypa.gov/services/elections_voter_registration/results/past.php",
+     "title": "Carbon County past election results page (no 2026 primary entry when checked)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.carboncountypa.gov/Document%20Center/Service/Elections%20Voter%20Registration/Results/Past/2022/Official%20May%2017,%202022%20General%20PrimaryRPT.pdf",
+     "title": "Carbon County Official Election Summary Report, May 17, 2022 General Primary: source of the municipal seat structure",
+     "type": "results"
+    }
+   ],
+   "file": "carbon.json"
+  },
+  "Centre": {
+   "method": "none_found",
+   "election": "None identified (no Republican precinct committee contests on the 2024, 2025 or 2026 primary ballots)",
+   "as_of": "2026-06-04",
+   "checked_at": "2026-11-24",
+   "precincts": 87,
+   "seats": 174,
+   "filled": 0,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 174,
+   "sources": [
+    {
+     "url": "https://www.centrecountypa.gov/DocumentCenter/View/43879/Precinct-Summary",
+     "title": "Centre County 2026 Gubernatorial Primary - Official Precinct Summary (Republican contests: county chair and vice-chair only; no precinct committee contests)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.centrecountypa.gov/3699/2026-General-Primary-Unofficial-Results",
+     "title": "Centre County 2026 General Primary Results page",
+     "type": "results"
+    },
+    {
+     "url": "https://www.centrecountypa.gov/DocumentCenter/View/27257/Precinct-Summary",
+     "title": "Centre County 2024 General Primary - Official Precinct Summary (no Republican committee contests)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.centrecountypa.gov/DocumentCenter/View/31108/election-summary",
+     "title": "Centre County 2025 Municipal Primary - Official Election Summary (no committee contests)",
+     "type": "results"
+    }
+   ],
+   "file": "centre.json"
+  },
+  "Chester": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-03",
+   "checked_at": "2026-11-24",
+   "precincts": 230,
+   "seats": 460,
+   "filled": 262,
+   "empty": 5,
+   "empty_no_filer": 0,
+   "unknown": 193,
+   "sources": [
+    {
+     "url": "https://www.chesco.org/DocumentCenter/View/85012",
+     "title": "CHESTER 2026 PRIMARY OFFICIAL SUMMARY RESULTS",
+     "type": "results"
+    },
+    {
+     "url": "https://www.chesco.org/3979/Archived-Election-Results",
+     "title": "Chester County Archived Election Results",
+     "type": "results"
+    }
+   ],
+   "file": "chester.json"
+  },
+  "Clarion": {
+   "method": "election_results",
+   "election": "April 23, 2024 General Primary",
+   "as_of": "2024-05-14",
+   "checked_at": "2026-11-24",
+   "precincts": 40,
+   "seats": 80,
+   "filled": 21,
+   "empty": 5,
+   "empty_no_filer": 0,
+   "unknown": 54,
+   "sources": [
+    {
+     "url": "https://cms9files.revize.com/clarioncountypa/calendar_app/Document%20Center/Department/Election/Archived%20Election%20Results/2024%20Primary%20County%20Wide%20Election%20Results.pdf",
+     "title": "Clarion County Election Summary Report, Closed Primary, April 23, 2024 (5/14/2024)",
+     "type": "results"
+    },
+    {
+     "url": "https://cms9files.revize.com/clarioncountypa/calendar_app/Document%20Center/Department/Election/Archived%20Election%20Results/OFFICIAL%20ELECTION%20RESULTS%20COUNTYWIDE.pdf",
+     "title": "Clarion County Election Summary Report, Closed Primary, May 19, 2026 (no Republican county committee contests on the ballot)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.co.clarion.pa.us/government/departments/elections__voter_registration/archived_election_results.php",
+     "title": "Clarion County archived election results page",
+     "type": "results"
+    }
+   ],
+   "file": "clarion.json"
+  },
+  "Clearfield": {
+   "method": "election_results",
+   "election": "April 23, 2024 General Primary",
+   "as_of": "2024-05-08",
+   "checked_at": "2026-11-24",
+   "precincts": 70,
+   "seats": 140,
+   "filled": 14,
+   "empty": 10,
+   "empty_no_filer": 0,
+   "unknown": 116,
+   "sources": [
+    {
+     "url": "https://clearfieldcountypa.gov/DocumentCenter/View/129/Precinct-Report-PDF",
+     "title": "Clearfield County 2024 General Primary Precinct Summary Results Report, Official Results (05/08/2024)",
+     "type": "results"
+    },
+    {
+     "url": "https://clearfieldcountypa.gov/Archive.aspx?ADID=91",
+     "title": "Clearfield County results archive: 2024 General Primary",
+     "type": "results"
+    },
+    {
+     "url": "https://clearfieldcountypa.gov/DocumentCenter/View/1199/Precinct-Report---Official-Results_202606170905302437",
+     "title": "Clearfield County 2026 General Primary Precinct Report, Official Results (no Republican county committee contests on the ballot)",
+     "type": "results"
+    }
+   ],
+   "file": "clearfield.json"
+  },
+  "Clinton": {
+   "method": "none_found",
+   "election": "May 19, 2026 General Primary (results not retrievable)",
+   "as_of": "2026-11-24",
+   "checked_at": "2026-11-24",
+   "precincts": 33,
+   "seats": 66,
+   "filled": 0,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 66,
+   "sources": [
+    {
+     "url": "https://www.clintoncountypa.gov/home/showpublisheddocument/9297/639159090738270000",
+     "title": "Clinton County 2026 primary precinct report (one of the per-precinct documents; HTTP 403 to automated access)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.clintoncountypa.gov/departments/voter-registration/county-map-election-results",
+     "title": "Clinton County Voter Registration - Election Results (source of the precinct list, from the 2026 general election per-precinct reports)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.clintoncountypa.gov/departments/voter-registration/voter-registration",
+     "title": "Clinton County Past Election Results (no 2026 primary entry listed)",
+     "type": "results"
+    }
+   ],
+   "file": "clinton.json"
+  },
+  "Columbia": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-04",
+   "checked_at": "2026-11-24",
+   "precincts": 42,
+   "seats": 84,
+   "filled": 26,
+   "empty": 9,
+   "empty_no_filer": 0,
+   "unknown": 49,
+   "sources": [
+    {
+     "url": "https://columbiapa.org/voter/2026/2026GeneralPrimaryCertifiedResults.pdf",
+     "title": "Columbia County 2026 General Primary Election Certified Results (Election Summary Report)",
+     "type": "results"
+    },
+    {
+     "url": "https://columbiapa.org/voter/index.php",
+     "title": "Columbia County Voter Registrations/Elections",
+     "type": "results"
+    }
+   ],
+   "file": "columbia.json"
+  },
+  "Crawford": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-08-14",
+   "checked_at": "2026-11-24",
+   "precincts": 61,
+   "seats": 122,
+   "filled": 12,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 110,
+   "sources": [
+    {
+     "url": "https://results.enr.clarityelections.com/PA/Crawford/126362/web.345435/#/summary",
+     "title": "Crawford County Complete 2026 Official Online Primary Results (Clarity; precinct detail XML, timestamp 8/14/2026)",
+     "type": "results"
+    },
+    {
+     "url": "https://crawfordcountypa.net/government/election-result-archives/",
+     "title": "Crawford County election result archives (links the 2026 official primary results)",
+     "type": "results"
+    },
+    {
+     "url": "https://crawfordcountypa.net/wp-content/uploads/2026/04/2026-Primary-UMOVA-Notice.pdf",
+     "title": "Crawford County 2026 Primary notice: Republican County Committee, four-year term, not more than two committee people per precinct without distinction of gender",
+     "type": "rules"
+    }
+   ],
+   "file": "crawford.json"
+  },
+  "Cumberland": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-16",
+   "checked_at": "2026-11-24",
+   "precincts": 118,
+   "seats": 236,
+   "filled": 123,
+   "empty": 7,
+   "empty_no_filer": 0,
+   "unknown": 106,
+   "sources": [
+    {
+     "url": "https://records.ccpa.net/Weblink_Public/ElectronicFile.aspx?docid=1897331&dbid=7&repo=County-of-Cumberland-8",
+     "title": "Cumberland County 2026 General Primary, Summary Results - Republican (with write-ins), Election Results Archive",
+     "type": "results"
+    },
+    {
+     "url": "https://records.ccpa.net/Weblink_Public/ElectronicFile.aspx?docid=1897329&dbid=7&repo=County-of-Cumberland-8",
+     "title": "Cumberland County 2026 General Primary, Precinct Report - Republican",
+     "type": "results"
+    },
+    {
+     "url": "https://www.cumberlandcountypa.gov/3135/Election-Results",
+     "title": "Cumberland County Election Results page (links to the Election Results Archive)",
+     "type": "results"
+    }
+   ],
+   "file": "cumberland.json"
+  },
+  "Dauphin": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-05-29",
+   "checked_at": "2026-11-24",
+   "precincts": 158,
+   "seats": 316,
+   "filled": 114,
+   "empty": 21,
+   "empty_no_filer": 0,
+   "unknown": 181,
+   "sources": [
+    {
+     "url": "https://elections.dauphincounty.gov/?key=41",
+     "title": "Dauphin County Elections, 2026 Primary Election Results (marked OFFICIAL RESULTS, last update 5/29/2026); Local Party Committee races by municipality, e.g. ?key=41&race=HARRISBURG",
+     "type": "results"
+    }
+   ],
+   "file": "dauphin.json"
+  },
+  "Delaware": {
+   "method": "election_results",
+   "election": "April 23, 2024 General Primary",
+   "as_of": "2024-04-23",
+   "checked_at": "2026-11-24",
+   "precincts": 428,
+   "seats": 856,
+   "filled": 356,
+   "empty": 91,
+   "empty_no_filer": 0,
+   "unknown": 409,
+   "sources": [
+    {
+     "url": "https://results.enr.clarityelections.com/PA/Delaware/120839/web.317647/#/summary",
+     "title": "Delaware County Official Results: 2024 Primary Election (Clarity, data version 338133)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.delcopa.gov/delco-votes/election-results-archive",
+     "title": "Delaware County Election Results Archive",
+     "type": "results"
+    },
+    {
+     "url": "https://www.delcopa.gov/sites/default/files/media/REP_MORTON_BOR_MAY-2026.pdf",
+     "title": "Republican preview ballot, Morton Borough, May 19, 2026 (no county committee contest)",
+     "type": "candidate_listing"
+    },
+    {
+     "url": "https://delcopa.gov/sites/default/files/2026-05/Write-in-Cumulative-Results-Updated_5-27-2026.pdf",
+     "title": "2026 Primary write-in cumulative results (only Democratic county committee and Republican state committee contests appear)",
+     "type": "results"
+    }
+   ],
+   "file": "delaware.json"
+  },
+  "Elk": {
+   "method": "none_found",
+   "election": "None found: no Republican county committee contests in the 2022, 2024 or 2026 primaries",
+   "as_of": "2026-11-24",
+   "checked_at": "2026-11-24",
+   "precincts": 29,
+   "seats": 58,
+   "filled": 0,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 58,
+   "sources": [
+    {
+     "url": "https://countyofelkpa.gov/wp-content/uploads/2026_PPrecinct.pdf",
+     "title": "Elk County General Primary 2026 precinct results (Official): Republican ballot lists Elk County Republican Chairperson and State Committee, no county committee members",
+     "type": "results"
+    },
+    {
+     "url": "https://countyofelkpa.gov/wp-content/uploads/elk2024Pprecinct.pdf",
+     "title": "Elk County 2024 primary precinct results: no Republican county committee member contests",
+     "type": "results"
+    },
+    {
+     "url": "https://countyofelkpa.gov/wp-content/uploads/elk2022pprecinct.pdf",
+     "title": "Elk County 2022 primary precinct results: no Republican county committee member contests",
+     "type": "results"
+    },
+    {
+     "url": "https://countyofelkpa.gov/elk-county-offices/elections-voter-registration/election-results/",
+     "title": "Elk County election results page",
+     "type": "results"
+    }
+   ],
+   "file": "elk.json"
+  },
+  "Erie": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-08",
+   "checked_at": "2026-11-24",
+   "precincts": 149,
+   "seats": 298,
+   "filled": 47,
+   "empty": 21,
+   "empty_no_filer": 0,
+   "unknown": 230,
+   "sources": [
+    {
+     "url": "https://www.eriecountycouncilpa.gov/uploads/modules/resources/031365_2026_general_primary_official_results.pdf",
+     "title": "Erie County May 19, 2026 General Primary Official Election Results (summary by contest)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.eriecountycouncilpa.gov/uploads/modules/resources/842773_2026_general_primary_official_candidate_listing.pdf",
+     "title": "Erie County Official Candidate Listing - 2026 General Primary",
+     "type": "candidate_listing"
+    }
+   ],
+   "file": "erie.json"
+  },
+  "Fayette": {
+   "method": "none_found",
+   "election": "Unverified (likely May 19, 2026 General Primary)",
+   "as_of": null,
+   "checked_at": "2026-11-24",
+   "precincts": 77,
+   "seats": 0,
+   "filled": 0,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 0,
+   "sources": [
+    {
+     "url": "https://www.fayettecountypa.org/235/Election-Results",
+     "title": "Fayette County Election Results (2026 primary results posted only on Clarity/Scytl)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.fayettecountypa.org/612/Election-Bureau",
+     "title": "Fayette County Election Bureau (links 'May 19 Primary Official Results' at results.enr.clarityelections.com/PA/Fayette/126353)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.fayettecountypa.org/DocumentCenter/View/9115",
+     "title": "Official Results of May 18, 2021 Municipal Primary (checked: no committee contests)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.fayettecountypa.org/DocumentCenter/View/6591",
+     "title": "Primary 2023 Final Certified County and Local Results (checked: no committee contests)",
+     "type": "results"
+    }
+   ],
+   "file": "fayette.json"
+  },
+  "Forest": {
+   "method": "none_found",
+   "election": "May 19, 2026 General Primary (results not found)",
+   "as_of": "2026-11-24",
+   "checked_at": "2026-11-24",
+   "precincts": 9,
+   "seats": 18,
+   "filled": 0,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 18,
+   "sources": [
+    {
+     "url": "https://www.co.forest.pa.us/departments/election_results.php",
+     "title": "Forest County election results page (no 2026 primary results file found)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.co.forest.pa.us/All%20Results.pdf",
+     "title": "Forest County Summary Results Report, Primary Election 2022 (scanned, marked UNOFFICIAL): 'Republican Committee Member <precinct>', vote for 2, in all 9 precincts",
+     "type": "rules"
+    },
+    {
+     "url": "https://www.co.forest.pa.us/All%20Precincts.pdf",
+     "title": "Forest County Primary Election 2024 results (scanned, unofficial): no Republican committee member contests",
+     "type": "results"
+    }
+   ],
+   "file": "forest.json"
+  },
+  "Franklin": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-04",
+   "checked_at": "2026-11-24",
+   "precincts": 73,
+   "seats": 146,
+   "filled": 39,
+   "empty": 4,
+   "empty_no_filer": 0,
+   "unknown": 103,
+   "sources": [
+    {
+     "url": "https://www.livevoterturnout.com/ENR/franklinpaenr/14/en/Index_14.html",
+     "title": "Franklin County 2026 May Primary results (county's results vendor page; website updated 6/4/2026)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.franklincountypa.gov/wp-content/uploads/2026/02/UMOVA-Notice-General-Primary-2026.pdf",
+     "title": "Franklin County UMOVA Notice, General Primary 2026 (Committeeperson, vote for not more than two, all precincts)",
+     "type": "rules"
+    },
+    {
+     "url": "https://www.franklincountypa.gov/departments/elections-voter-registration/",
+     "title": "Franklin County Elections & Voter Registration page (links the results vendor; the county's fixed-name Precinct Results and Write-In Report PDFs now hold the November 2026 general)",
+     "type": "results"
+    }
+   ],
+   "file": "franklin.json"
+  },
+  "Fulton": {
+   "method": "none_found",
+   "election": null,
+   "as_of": null,
+   "checked_at": "2026-11-24",
+   "precincts": 13,
+   "seats": 0,
+   "filled": 0,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 0,
+   "sources": [
+    {
+     "url": "https://www.co.fulton.pa.us/elections.php",
+     "title": "Fulton County Elections & Voter Registration page (no election results, candidate listings or committee rosters posted; only Act 88 mail-ballot notices and board agendas)",
+     "type": "results"
+    }
+   ],
+   "file": "fulton.json"
+  },
+  "Greene": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-11-24",
+   "checked_at": "2026-11-24",
+   "precincts": 42,
+   "seats": 84,
+   "filled": 25,
+   "empty": 0,
+   "empty_no_filer": 41,
+   "unknown": 18,
+   "sources": [
+    {
+     "url": "https://greenecountypa.gov/Elections/Default.aspx?PageLayout=SUMMARY&Election=30067",
+     "title": "Greene County election results, 2026 Primary Election summary (county-hosted results site)",
+     "type": "results"
+    },
+    {
+     "url": "https://greenecountypa.gov/resources/58491",
+     "title": "Unofficial 2026 Primary Election Candidate Listing (May 19th, 2026), Member of the Republican County Committee, vote for one male and one female per precinct",
+     "type": "candidate_listing"
+    },
+    {
+     "url": "https://greenecountypa.gov/Elections/Default.aspx?PageLayout=PRECINCTS&Election=30067",
+     "title": "Greene County 2026 Primary precinct list (42 precincts)",
+     "type": "results"
+    }
+   ],
+   "file": "greene.json"
+  },
+  "Huntingdon": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-05-22",
+   "checked_at": "2026-11-24",
+   "precincts": 58,
+   "seats": 116,
+   "filled": 44,
+   "empty": 13,
+   "empty_no_filer": 0,
+   "unknown": 59,
+   "sources": [
+    {
+     "url": "https://www.huntingdoncountypa.gov/getmedia/d4f9a9cb-a099-4ce3-ae35-811271050617/Final-Precinct-Summary.pdf",
+     "title": "Huntingdon County May 19, 2026 Primary, Final Precinct Summary (report header reads UNOFFICIAL RESULTS, generated 05/22/2026)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.huntingdoncountypa.gov/departments/elections",
+     "title": "Huntingdon County Elections page (its '2026 FINAL Precinct Summary' link is the November general election, not the primary)",
+     "type": "results"
+    }
+   ],
+   "file": "huntingdon.json"
+  },
+  "Indiana": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-03",
+   "checked_at": "2026-11-24",
+   "precincts": 69,
+   "seats": 138,
+   "filled": 46,
+   "empty": 11,
+   "empty_no_filer": 0,
+   "unknown": 81,
+   "sources": [
+    {
+     "url": "https://www.indianacountypa.gov/wp-content/uploads/May-19-2026-Summary-Report-Second-Signing.pdf",
+     "title": "2026 General Primary Election Summary Results Report, Official Results, second signing (Indiana County, Electionware, generated 06/03/2026)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.indianacountypa.gov/wp-content/uploads/Republican-Candidates-May-19-2026.pdf",
+     "title": "Republican Candidates, May 19, 2026 Primary (lists County Committee, 4-year term, 2 per precinct)",
+     "type": "candidate_listing"
+    }
+   ],
+   "file": "indiana.json"
+  },
+  "Jefferson": {
+   "method": "election_results",
+   "election": "April 23, 2024 General Primary",
+   "as_of": "2024-05-01",
+   "checked_at": "2026-11-24",
+   "precincts": 37,
+   "seats": 74,
+   "filled": 17,
+   "empty": 2,
+   "empty_no_filer": 0,
+   "unknown": 55,
+   "sources": [
+    {
+     "url": "https://www.jeffersoncountypa.gov/wp-content/uploads/2024/05/ElectionSummaryReportRPTOfficial.pdf",
+     "title": "Jefferson County Election Summary Report, Closed Primary, April 23, 2024, Official Results (5/1/2024)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.jeffersoncountypa.gov/wp-content/uploads/2026/05/ElectionSummaryReportRPTADJ-Final.pdf",
+     "title": "Jefferson County Election Summary Report, May 19, 2026 primary (no Republican county committee contests on the ballot)",
+     "type": "results"
+    }
+   ],
+   "file": "jefferson.json"
+  },
+  "Juniata": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-05",
+   "checked_at": "2026-11-24",
+   "precincts": 18,
+   "seats": 45,
+   "filled": 13,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 32,
+   "sources": [
+    {
+     "url": "https://www.juniatacountypa.gov/DocumentCenter/View/417/2026-Primary-Precinct-Report-PDF",
+     "title": "Juniata County 2026 Primary Precinct Report (OFFICIAL RESULTS, created 2026-06-05)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.juniatacountypa.gov/238/Latest-Election-Results",
+     "title": "Juniata County Latest Election Results page",
+     "type": "results"
+    }
+   ],
+   "file": "juniata.json"
+  },
+  "Lackawanna": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-08",
+   "checked_at": "2026-11-24",
+   "precincts": 163,
+   "seats": 326,
+   "filled": 65,
+   "empty": 33,
+   "empty_no_filer": 0,
+   "unknown": 228,
+   "sources": [
+    {
+     "url": "https://www.lackawannacounty.org/Document_center/Department/Elections/P26.SUM.Certified.pdf",
+     "title": "Lackawanna County Summary Results Report, General Primary May 19, 2026, CERTIFIED RESULTS (report dated 06/08/2026)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.lackawannacounty.org/government/departments/elections/certified_election_results.php",
+     "title": "Lackawanna County Elections: Certified Election Results",
+     "type": "results"
+    }
+   ],
+   "file": "lackawanna.json"
+  },
+  "Lancaster": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-02",
+   "checked_at": "2026-11-24",
+   "precincts": 240,
+   "seats": 480,
+   "filled": 315,
+   "empty": 37,
+   "empty_no_filer": 0,
+   "unknown": 128,
+   "sources": [
+    {
+     "url": "https://electionresults.lancastercountypa.gov/cdn/results/01000000-0c90-bed5-2b89-08dc580b8c0e/Detailed%20Results_2b17c9e4-4bdc-46c9-8fac-fd472d371665.PDF",
+     "title": "Lancaster County 2026 Primary Election, Detailed Results Report (Precinct/District Results), official",
+     "type": "results"
+    },
+    {
+     "url": "https://electionresults.lancastercountypa.gov/results/public/lancaster-county-pa/elections/2026GeneralPrimary",
+     "title": "Lancaster County election results portal, 2026 Primary Election (marked official)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.lancastercountypa.gov/DocumentCenter/View/20672",
+     "title": "Candidate Listing, May 2026 General Primary (Republican Committeeman/Committeewoman, 2-year term, vote for 1 each)",
+     "type": "candidate_listing"
+    }
+   ],
+   "file": "lancaster.json"
+  },
+  "Lawrence": {
+   "method": "roster",
+   "election": "May 20, 2025 Municipal Primary (committee term 2025-2029)",
+   "as_of": "2026-11-19",
+   "checked_at": "2026-11-24",
+   "precincts": 75,
+   "seats": 150,
+   "filled": 102,
+   "empty": 46,
+   "empty_no_filer": 0,
+   "unknown": 2,
+   "sources": [
+    {
+     "url": "https://lawrencecountypa.gov/getmedia/22a187c1-6e6d-4ea9-88a4-d7db094171e9/REPUBLICAN-COUNTY-COMMITTEE-2026-updated-NOV-19-2026.pdf",
+     "title": "Republican County Committee, elected May 20, 2025, revised November 19, 2026 (Lawrence County Voter Registration & Elections)",
+     "type": "roster"
+    },
+    {
+     "url": "https://lawrencecountypa.gov/departments/voter-elections/elected-officials",
+     "title": "Lawrence County Elected Officials page (links the current roster)",
+     "type": "roster"
+    }
+   ],
+   "file": "lawrence.json"
+  },
+  "Lebanon": {
+   "method": "election_results",
+   "election": "April 23, 2024 Presidential Primary",
+   "as_of": "2024-05-02",
+   "checked_at": "2026-11-24",
+   "precincts": 60,
+   "seats": 180,
+   "filled": 143,
+   "empty": 6,
+   "empty_no_filer": 0,
+   "unknown": 31,
+   "sources": [
+    {
+     "url": "https://www.lebanoncountypa.gov/getmedia/e9cee5d6-e6e1-4548-87fe-3d4c532e06ac/Official-Primary-Precicint-Summary-Report-v-5.pdf",
+     "title": "Lebanon County 2024 Presidential Primary, Precinct Summary Results Report (Official Results, generated 05/02/2024)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.lebanoncountypa.gov/getmedia/45bfdd50-c238-42f7-a25f-dd413f5786eb/2024-Lebanon-Primary-Tie-Breaker-Results.xlsx",
+     "title": "Lebanon County 2024 Primary Tie Breaker Results (drawing of lots)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.lebanoncountypa.gov/getmedia/84cb982f-c59b-4257-a300-2198a95628f2/Precinct_Summary_Report_4.pdf",
+     "title": "Lebanon County 2026 Primary Precinct Summary Report (no Republican county committee contest; only Democratic county committee was elected in 2026)",
+     "type": "results"
+    }
+   ],
+   "file": "lebanon.json"
+  },
+  "Lehigh": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-08",
+   "checked_at": "2026-11-24",
+   "precincts": 158,
+   "seats": 315,
+   "filled": 81,
+   "empty": 9,
+   "empty_no_filer": 0,
+   "unknown": 225,
+   "sources": [
+    {
+     "url": "https://www.livevoterturnout.com/ENR/lehighpaenr/12/en/Index_12.html",
+     "title": "County of Lehigh Election Night Results, 2026 Primary, labeled 'Official Election Results' (website updated 6/8/2026); lists only contests with filed candidates",
+     "type": "results"
+    },
+    {
+     "url": "https://www.lehighcounty.org/Portals/0/PDF/Voter/Election%20Results/ResultsSummary060126a.pdf",
+     "title": "Lehigh County Summary Results Report by precinct, General Primary May 19, 2026 (labeled UNOFFICIAL, generated 06/02/2026), used for contests without filed candidates and write-in totals",
+     "type": "results"
+    },
+    {
+     "url": "https://www.lehighcounty.org/Departments/Voter-Registration/Election-Results",
+     "title": "Lehigh County Voter Registration: Election Results index",
+     "type": "results"
+    }
+   ],
+   "file": "lehigh.json"
+  },
+  "Luzerne": {
+   "method": "election_results",
+   "election": "April 23, 2024 General Primary",
+   "as_of": "2025-04-09",
+   "checked_at": "2026-11-24",
+   "precincts": 186,
+   "seats": 372,
+   "filled": 186,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 186,
+   "sources": [
+    {
+     "url": "https://www.luzernecounty.org/DocumentCenter/View/43924/2024-Primary-Election-Results",
+     "title": "Luzerne County Election Summary Report, Closed Primary April 23, 2024 (report dated 4/9/2025), listed as 'General Primary Election Results 2024' in the county's results archive",
+     "type": "results"
+    },
+    {
+     "url": "https://www.luzernecounty.org/404/Election-Results-Archive",
+     "title": "Luzerne County Election Results Archive",
+     "type": "results"
+    },
+    {
+     "url": "https://results.enr.clarityelections.com/PA/Luzerne/126281/",
+     "title": "Luzerne County 2026 Primary Election results (Clarity, detail XML timestamp 5/26/2026): contains Democratic county committee contests and no Republican county committee contests",
+     "type": "results"
+    }
+   ],
+   "file": "luzerne.json"
+  },
+  "Lycoming": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-05-26",
+   "checked_at": "2026-11-24",
+   "precincts": 80,
+   "seats": 160,
+   "filled": 103,
+   "empty": 4,
+   "empty_no_filer": 0,
+   "unknown": 53,
+   "sources": [
+    {
+     "url": "https://www.lycomingcountypa.gov/Documents/Government/Departments/Voter%20Services/PreviousResults/2026GPOfficial.pdf",
+     "title": "Lycoming County May 19, 2026 General Primary - Official Results",
+     "type": "results"
+    },
+    {
+     "url": "https://www.lycomingcountypa.gov/government/departments/voter_services/previouselectionresults.php",
+     "title": "Lycoming County Voter Services - Previous Election Results",
+     "type": "results"
+    }
+   ],
+   "file": "lycoming.json"
+  },
+  "McKean": {
+   "method": "none_found",
+   "election": "None found",
+   "as_of": "2026-11-24",
+   "checked_at": "2026-11-24",
+   "precincts": 42,
+   "seats": 0,
+   "filled": 0,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 0,
+   "sources": [
+    {
+     "url": "https://www.mckeancountypa.gov/departments/voter_registration___elections/index.php",
+     "title": "McKean County Voter Registration & Elections page (no published primary results files found)",
+     "type": "results"
+    },
+    {
+     "url": "https://gismaps.mckeancountypa.org/portal/apps/webappviewer/index.html?id=13a73720a3874314bbd58c753094b7bc",
+     "title": "McKean County Unofficial Election Results Viewer (GIS map; did not respond to automated access)",
+     "type": "results"
+    }
+   ],
+   "file": "mckean.json"
+  },
+  "Mercer": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-05",
+   "checked_at": "2026-11-24",
+   "precincts": 90,
+   "seats": 180,
+   "filled": 62,
+   "empty": 26,
+   "empty_no_filer": 0,
+   "unknown": 92,
+   "sources": [
+    {
+     "url": "https://www.mercercountypa.gov/election/Election.Results/2026/PRIMARY/PRECINCT.pdf",
+     "title": "Mercer County 2026 Primary Election Precinct Summary (marked OFFICIAL RESULTS, generated 06/05/2026)",
+     "type": "results"
+    }
+   ],
+   "file": "mercer.json"
+  },
+  "Mifflin": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-04",
+   "checked_at": "2026-11-24",
+   "precincts": 26,
+   "seats": 109,
+   "filled": 36,
+   "empty": 3,
+   "empty_no_filer": 0,
+   "unknown": 70,
+   "sources": [
+    {
+     "url": "https://www.mifflincountypa.gov/getmedia/1c448b72-97ad-43ff-8e51-973cc96ef3bf/2026-Primary-Election-Official-Results",
+     "title": "Mifflin County 2026 Primary Election Official Results (Summary Results Report, OFFICIAL RESULTS, 06/04/2026)",
+     "type": "results"
+    },
+    {
+     "url": "https://mifflincountypa.gov/getmedia/ff97709d-d0c7-4f12-8c7e-c7bac9a2eb9a/2024-Primary-Official-Election-Results",
+     "title": "Mifflin County 2024 Primary Official Election Results (earlier Republican committee contest, for context only)",
+     "type": "results"
+    }
+   ],
+   "file": "mifflin.json"
+  },
+  "Monroe": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-11-24",
+   "checked_at": "2026-11-24",
+   "precincts": 55,
+   "seats": 114,
+   "filled": 78,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 36,
+   "sources": [
+    {
+     "url": "https://agencies2.monroecountypa.gov/ElectionResults/Committee?party=Republican&id=9",
+     "title": "Monroe County PA Election Results: 2026 General Primary, Republican County Committee (page states 'Results are OFFICIAL')",
+     "type": "results"
+    },
+    {
+     "url": "https://agencies2.monroecountypa.gov/ElectionResults/Primary?id=9",
+     "title": "Monroe County PA Election Results: 2026 General Primary overview",
+     "type": "results"
+    }
+   ],
+   "file": "monroe.json"
+  },
+  "Montgomery": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-08",
+   "checked_at": "2026-11-24",
+   "precincts": 428,
+   "seats": 856,
+   "filled": 329,
+   "empty": 455,
+   "empty_no_filer": 0,
+   "unknown": 72,
+   "sources": [
+    {
+     "url": "https://webapp07.montcopa.org/election/2026UnofficialPrimaryElectionSummaryReport.pdf",
+     "title": "Montgomery County Election Summary Report, Closed Primary May 19, 2026 (pages marked OFFICIAL RESULTS, 6/8/2026), with appended Notice Concerning Offices Eligible for Write-in Adjudication",
+     "type": "results"
+    }
+   ],
+   "file": "montgomery.json"
+  },
+  "Montour": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-05-27",
+   "checked_at": "2026-11-24",
+   "precincts": 14,
+   "seats": 28,
+   "filled": 4,
+   "empty": 5,
+   "empty_no_filer": 0,
+   "unknown": 19,
+   "sources": [
+    {
+     "url": "https://montourcounty.gov/getmedia/95249aa6-64cd-4f46-b216-4e94692e4604/19-May-2026-Official-Election-Summary.pdf",
+     "title": "Montour County May 19, 2026 General Primary - Official Election Summary",
+     "type": "results"
+    }
+   ],
+   "file": "montour.json"
+  },
+  "Northampton": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-09",
+   "checked_at": "2026-11-24",
+   "precincts": 155,
+   "seats": 310,
+   "filled": 108,
+   "empty": 22,
+   "empty_no_filer": 0,
+   "unknown": 180,
+   "sources": [
+    {
+     "url": "https://www.norcopa.gov/corecode/uploads/document6/uploaded_pdfs/corecode/PE26%20Precinct%20Level%20Summary%20Results_2715.pdf",
+     "title": "Northampton County Summary Results Report by precinct, General Primary Election May 19, 2026, OFFICIAL RESULTS (generated 06/09/2026)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.norcopa.gov/election-result",
+     "title": "Northampton County Election Results page",
+     "type": "results"
+    }
+   ],
+   "file": "northampton.json"
+  },
+  "Northumberland": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-02",
+   "checked_at": "2026-11-24",
+   "precincts": 74,
+   "seats": 148,
+   "filled": 33,
+   "empty": 20,
+   "empty_no_filer": 0,
+   "unknown": 95,
+   "sources": [
+    {
+     "url": "https://www.northumberlandcountypa.gov/htdocs/wp-content/uploads/documents/elections/2026_0519_official/overall.pdf",
+     "title": "Northumberland County May 19, 2026 General Primary - Summary Results Report (Official Reports)",
+     "type": "results"
+    },
+    {
+     "url": "https://northumberlandcountypa.gov/prior-results/",
+     "title": "Northumberland County Board of Elections - Prior Results",
+     "type": "results"
+    }
+   ],
+   "file": "northumberland.json"
+  },
+  "Perry": {
+   "method": "election_results",
+   "election": "April 23, 2024 General Primary",
+   "as_of": "2024-05-02",
+   "checked_at": "2026-11-24",
+   "precincts": 31,
+   "seats": 120,
+   "filled": 42,
+   "empty": 5,
+   "empty_no_filer": 0,
+   "unknown": 73,
+   "sources": [
+    {
+     "url": "https://perryco.org/wp-content/uploads/2025/04/Statement-of-Votes-Cast-by-Precincts-for-PA_Perry_2024P_Official-198.pdf",
+     "title": "Perry County Statement of Votes Cast by Precinct, PA_Perry_2024P Official (April 23, 2024 primary; report dated 2024-05-02)",
+     "type": "results"
+    },
+    {
+     "url": "https://perryco.org/departments/elections-voter-registration/historical-election-results/",
+     "title": "Perry County Historical Election Results page",
+     "type": "results"
+    }
+   ],
+   "file": "perry.json"
+  },
+  "Philadelphia": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-02",
+   "checked_at": "2026-11-24",
+   "precincts": 1703,
+   "seats": 3406,
+   "filled": 304,
+   "empty": 3101,
+   "empty_no_filer": 0,
+   "unknown": 1,
+   "sources": [
+    {
+     "url": "https://vote.phila.gov/media/2026_PRI_COMMITTEEPEOPLE_WINNERS_REPUBLICAN.xlsx",
+     "title": "2026 Primary Republican Committeeperson Winners (Philadelphia City Commissioners)",
+     "type": "results"
+    },
+    {
+     "url": "https://vote.phila.gov/media/2026_Primary_Committeepeople_Results.xlsx",
+     "title": "2026 Primary Member of the Ward Executive Committee Results, by division",
+     "type": "results"
+    },
+    {
+     "url": "https://vote.phila.gov/media/2026_PRI_COMMITTEEPEOPLE_TIES_FOR_2ND_PLACE.pdf",
+     "title": "2026 Primary Committeeperson Ties for 2nd Place (unofficial)",
+     "type": "results"
+    },
+    {
+     "url": "https://vote.phila.gov/news/2026/06/02/2026-primary-committeepeople-write-in-results-reports/",
+     "title": "2026 Primary Committeepeople & Write-In Results Reports (news post linking the files)",
+     "type": "results"
+    }
+   ],
+   "file": "philadelphia.json"
+  },
+  "Pike": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-01",
+   "checked_at": "2026-11-24",
+   "precincts": 14,
+   "seats": 70,
+   "filled": 63,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 7,
+   "sources": [
+    {
+     "url": "https://www.pikepa.org/Document%20Center/Government/Election%20Office/2026/MAY%2019%202026%20OFFICIAL%20RESULTS.pdf",
+     "title": "Pike County Election Summary Report, May 19, 2026 Official Results (report dated 6/1/2026)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.pikepa.org/government/elections_office/past_election_results.php",
+     "title": "Pike County Elections Office: Past Election Results",
+     "type": "results"
+    }
+   ],
+   "file": "pike.json"
+  },
+  "Potter": {
+   "method": "election_results",
+   "election": "April 23, 2024 Primary Election",
+   "as_of": "2024-05-09",
+   "checked_at": "2026-11-24",
+   "precincts": 32,
+   "seats": 64,
+   "filled": 4,
+   "empty": 11,
+   "empty_no_filer": 0,
+   "unknown": 49,
+   "sources": [
+    {
+     "url": "https://pottercountypa.gov/Documents/Departments/Voter%20Registration%20and%20Elections/2024%20Primary%20Election%20-%20Summary.pdf",
+     "title": "Potter County Summary Results Report, Primary Election April 23, 2024, Official Results (Election Summary 05/09/2024)",
+     "type": "results"
+    },
+    {
+     "url": "https://pottercountypa.gov/departments/voter_registration_and_elections.php",
+     "title": "Potter County Voter Registration and Elections page (results links)",
+     "type": "results"
+    }
+   ],
+   "file": "potter.json"
+  },
+  "Schuylkill": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-05-29",
+   "checked_at": "2026-11-24",
+   "precincts": 125,
+   "seats": 125,
+   "filled": 37,
+   "empty": 5,
+   "empty_no_filer": 0,
+   "unknown": 83,
+   "sources": [
+    {
+     "url": "https://www.schuylkillcountypa.gov/Document_Center/Departments/Election%20Bureau/2026/Primary/Election%20Results/2026%20Primary%20Unofficial%20Results%20Schuylkill%20County%20v2.pdf",
+     "title": "Schuylkill County Summary Results Report, 2026 Primary Election (header 'UNOFFICIAL RESULTS', footer 'Final Results - 05/29/2026')",
+     "type": "results"
+    },
+    {
+     "url": "https://www.schuylkillcountypa.gov/departments/election_bureau/election_results.php",
+     "title": "Schuylkill County Election Bureau: Election Results",
+     "type": "results"
+    }
+   ],
+   "file": "schuylkill.json"
+  },
+  "Snyder": {
+   "method": "roster",
+   "election": "April 23, 2024 General Primary (term 2024-2027)",
+   "as_of": "2024-05-21",
+   "checked_at": "2026-11-24",
+   "precincts": 25,
+   "seats": 50,
+   "filled": 36,
+   "empty": 14,
+   "empty_no_filer": 0,
+   "unknown": 0,
+   "sources": [
+    {
+     "url": "https://www.snydercounty.org/wp-content/uploads/2024/08/Republican-Committee.Snyder.County.8.16.2024.pdf",
+     "title": "Snyder County Republican Committee Membership Directory 2024-2027 (updated 5/21/2024), posted by Snyder County Elections",
+     "type": "roster"
+    },
+    {
+     "url": "https://www.snydercounty.org/wp-content/uploads/2024/05/Official-Election-Summary-5.8.2024.pdf",
+     "title": "Snyder County 2024 General Primary Official Election Summary (25 REP MEMBER OF THE REPUBLICAN COUNTY COMMITTEE contests, Vote For 2)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.snydercounty.org/wp-content/uploads/2026/05/Snyder-County-Election-Summary-5.21.2026.pdf",
+     "title": "Snyder County 2026 General Primary Election Summary (county committee contests are Democratic only)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.snydercounty.org/departments/elections/",
+     "title": "Snyder County Elections page",
+     "type": "roster"
+    }
+   ],
+   "file": "snyder.json"
+  },
+  "Somerset": {
+   "method": "none_found",
+   "election": "Not determined (no committee results posted)",
+   "as_of": "2026-11-24",
+   "checked_at": "2026-11-24",
+   "precincts": 67,
+   "seats": 134,
+   "filled": 0,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 134,
+   "sources": [
+    {
+     "url": "http://www.co.somerset.pa.us/pages/voters/electionresults.asp",
+     "title": "Somerset County Election Results page (only November 3, 2026 general election files posted)",
+     "type": "results"
+    },
+    {
+     "url": "http://www.co.somerset.pa.us/files/voter_files/ElectionResultsUpload/Precient%20by%20Precient%20Report.pdf",
+     "title": "Somerset County 2026 General Election official precinct report (source of precinct names)",
+     "type": "results"
+    }
+   ],
+   "file": "somerset.json"
+  },
+  "Sullivan": {
+   "method": "election_results",
+   "election": "April 23, 2024 Presidential Primary",
+   "as_of": "2024-04-23",
+   "checked_at": "2026-11-24",
+   "precincts": 15,
+   "seats": 30,
+   "filled": 16,
+   "empty": 4,
+   "empty_no_filer": 0,
+   "unknown": 10,
+   "sources": [
+    {
+     "url": "https://www.sullivancountypa.gov/s/SOVC2-OFFICIAL_PA_Sullivan_2024_Primary_bdfx.pdf",
+     "title": "Sullivan County 2024 Primary - Official Statement of Votes Cast with Precincts",
+     "type": "results"
+    },
+    {
+     "url": "https://www.sullivancountypa.gov/s/General-Primary-Official-Results-51926-xgs9.pdf",
+     "title": "Sullivan County 2026 General Primary - Official Results (scanned; OCR shows Democratic committee contests only)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.sullivancountypa.gov/s/RECOUNT_OFFICIAL-Results-Primary-2022xlsx-Republican-Results.pdf",
+     "title": "Sullivan County 2022 Primary - Official Republican Results (no county committee contests)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.sullivancountypa.gov/offices/election-bureau",
+     "title": "Sullivan County Elections & Voter Registration",
+     "type": "results"
+    }
+   ],
+   "file": "sullivan.json"
+  },
+  "Susquehanna": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-08",
+   "checked_at": "2026-11-24",
+   "precincts": 41,
+   "seats": 82,
+   "filled": 20,
+   "empty": 3,
+   "empty_no_filer": 0,
+   "unknown": 59,
+   "sources": [
+    {
+     "url": "https://susqco.com/getmedia/d5a1316c-a32e-496d-bd3c-9a0cac859a2c/2026-Primary-Official-Summary-Report.pdf",
+     "title": "Susquehanna County Election Summary Report, Primary Election May 19, 2026, Official Results (dated 6/8/2026)",
+     "type": "results"
+    }
+   ],
+   "file": "susquehanna.json"
+  },
+  "Tioga": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-11",
+   "checked_at": "2026-11-24",
+   "precincts": 41,
+   "seats": 82,
+   "filled": 15,
+   "empty": 18,
+   "empty_no_filer": 0,
+   "unknown": 49,
+   "sources": [
+    {
+     "url": "https://tiogacountypa.us/getmedia/323fceeb-bb07-486c-9912-75a93b4bae7b/Official-Primary-Election-Results-2026.pdf",
+     "title": "Tioga County General Primary May 19 2026 - Official Results (Summary Results Report)",
+     "type": "results"
+    }
+   ],
+   "file": "tioga.json"
+  },
+  "Union": {
+   "method": "none_found",
+   "election": "May 19, 2026 General Primary (results not posted)",
+   "as_of": "2026-11-24",
+   "checked_at": "2026-11-24",
+   "precincts": 26,
+   "seats": 52,
+   "filled": 0,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 52,
+   "sources": [
+    {
+     "url": "https://sites.google.com/unionco.org/unioncoelections/election-information/election-results-archive",
+     "title": "Union County Elections - Election Results Archive (2018-2025; no 2026 primary)",
+     "type": "results"
+    },
+    {
+     "url": "https://sites.google.com/unionco.org/unioncoelections/election-information/election-results-by-precinct",
+     "title": "Union County Elections - Election Results by Precinct (now shows the November 3, 2026 general election only)",
+     "type": "results"
+    },
+    {
+     "url": "https://drive.google.com/uc?id=1IQH3tvdX223zevJ6TFLmB1-FnRel4Rly&export=download",
+     "title": "Union County May 2022 Precinct Totals (scanned; OCR shows precinct REP COMMITTEE contests, e.g. Buffalo 1)",
+     "type": "results"
+    }
+   ],
+   "file": "union.json"
+  },
+  "Venango": {
+   "method": "election_results",
+   "election": "April 23, 2024 General Primary",
+   "as_of": "2024-05-30",
+   "checked_at": "2026-11-24",
+   "precincts": 44,
+   "seats": 88,
+   "filled": 15,
+   "empty": 6,
+   "empty_no_filer": 0,
+   "unknown": 67,
+   "sources": [
+    {
+     "url": "https://www.venangocountypa.gov/Documents/Government/Voters%20and%20Elections/Election%20Results%20Archive/2024%20Generl%20Primary%20Summary%20Report%20with%20write-ins.pdf",
+     "title": "Venango County Election Summary Report with Write-in Names, General Primary 2024 (April 23, 2024), Official Results (05/30/2024)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.venangocountypa.gov/Documents/Government/Voters%20and%20Elections/Election%20Results%20Archive/2026%20General%20Primary%20Election%20Summary%20with%20Writeins%20OFFICIAL.pdf",
+     "title": "Venango County General Primary 2026 Election Summary with Write-ins, Official (no Republican county committee contests on the ballot)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.venangocountypa.gov/departments/voters_elections/election_results_archive.php",
+     "title": "Venango County election results archive",
+     "type": "results"
+    }
+   ],
+   "file": "venango.json"
+  },
+  "Warren": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-08",
+   "checked_at": "2026-11-24",
+   "precincts": 33,
+   "seats": 66,
+   "filled": 20,
+   "empty": 7,
+   "empty_no_filer": 0,
+   "unknown": 39,
+   "sources": [
+    {
+     "url": "https://warrencountypa.gov/DocumentCenter/View/3832/Official-Results-2026-General-Primary",
+     "title": "Warren County Official Results, 2026 General Primary (Election Summary Report, 6/8/2026)",
+     "type": "results"
+    },
+    {
+     "url": "https://warrencountypa.gov/1192",
+     "title": "Warren County elections page listing official 2026 primary results",
+     "type": "results"
+    }
+   ],
+   "file": "warren.json"
+  },
+  "Washington": {
+   "method": "candidate_listing",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-05-19",
+   "checked_at": "2026-11-24",
+   "precincts": 180,
+   "seats": 360,
+   "filled": 0,
+   "empty": 0,
+   "empty_no_filer": 271,
+   "unknown": 89,
+   "sources": [
+    {
+     "url": "https://cms.washingtoncopa.gov/uploads/2026_Precinct_Committee_People_Republican_5b50b16b59.pdf",
+     "title": "2026 Precinct Committee People, Republican Party (unofficial candidate list for Member Local Political Party Committee, linked from Washington County 2026 Election Information page)",
+     "type": "candidate_listing"
+    },
+    {
+     "url": "https://www.washcopa.gov/elections/2026-election-information",
+     "title": "Washington County 2026 Election Information (lists offices on the May 19, 2026 primary ballot)",
+     "type": "candidate_listing"
+    },
+    {
+     "url": "https://cms.washingtoncopa.gov/uploads/2025_Municipal_Primary_Precinct_Summary_Official_2b256b8f30.pdf",
+     "title": "2025 Municipal Primary Precinct Summary, Official (source of the 180 precinct names in use before the post-primary consolidation)",
+     "type": "results"
+    }
+   ],
+   "file": "washington.json"
+  },
+  "Wayne": {
+   "method": "none_found",
+   "election": "Not determined (latest Republican county committee results located: June 2, 2020 General Primary)",
+   "as_of": "2026-11-24",
+   "checked_at": "2026-11-24",
+   "precincts": 35,
+   "seats": 70,
+   "filled": 0,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 70,
+   "sources": [
+    {
+     "url": "https://www.waynecountypa.gov/1089/2026-General-Primary-Election-Official-R",
+     "title": "Wayne County Bureau of Elections: 2026 General Primary Election Official Results page; its two linked statements of votes (DocumentCenter/View/8327 and 8328) returned 404 when checked",
+     "type": "results"
+    },
+    {
+     "url": "https://www.waynecountypa.gov/Archive.aspx?AMID=36",
+     "title": "Wayne County archive of general and primary results (no 2024 primary results listed)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.waynecountypa.gov/Archive.aspx?ADID=184",
+     "title": "Wayne County June 2, 2020 General Primary results by precinct (unofficial election-night returns) showing male and female Republican County Committee Member contests per precinct",
+     "type": "results"
+    },
+    {
+     "url": "https://www.waynecountypa.gov/Archive.aspx?ADID=359",
+     "title": "Wayne County November 5, 2024 General Election results by precinct, source of the 35 precinct names",
+     "type": "results"
+    }
+   ],
+   "file": "wayne.json"
+  },
+  "Westmoreland": {
+   "method": "none_found",
+   "election": "Unverified (county site inaccessible)",
+   "as_of": null,
+   "checked_at": "2026-11-24",
+   "precincts": 306,
+   "seats": 0,
+   "filled": 0,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 0,
+   "sources": [
+    {
+     "url": "https://www.westmorelandcountypa.gov/350/Election-Bureau",
+     "title": "Westmoreland County Election Bureau (returned HTTP 403 to automated requests on 2026-11-24)",
+     "type": "results"
+    }
+   ],
+   "file": "westmoreland.json"
+  },
+  "Wyoming": {
+   "method": "election_results",
+   "election": "April 23, 2024 General Primary",
+   "as_of": "2024-06-10",
+   "checked_at": "2026-11-24",
+   "precincts": 28,
+   "seats": 56,
+   "filled": 23,
+   "empty": 0,
+   "empty_no_filer": 0,
+   "unknown": 33,
+   "sources": [
+    {
+     "url": "https://wyomingcountypa.gov/wp-content/uploads/2024-OFFICIAL-Presidential-primary.pdf",
+     "title": "Wyoming County PA official results, April 23, 2024 primary, 'REPUBLICAN COMMITTEE' section (file uploaded 2024-06-10)",
+     "type": "results"
+    },
+    {
+     "url": "https://wyomingcountypa.gov/wp-content/uploads/2026-WYCOPA-Primary-Election-Results-5-19-26-OFFICIAL.pdf",
+     "title": "Wyoming County official 2026 primary results (lists Democratic committee contests only; no Republican county committee contests)",
+     "type": "results"
+    },
+    {
+     "url": "https://wyomingcountypa.gov/wp-content/uploads/2020-OFFICIAL-Presidential-primary-1.pdf",
+     "title": "Wyoming County official 2020 primary results, 'REPUBLICAN COMMITTEE' section (shows two members per precinct)",
+     "type": "results"
+    }
+   ],
+   "file": "wyoming.json"
+  },
+  "York": {
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-11",
+   "checked_at": "2026-11-24",
+   "precincts": 161,
+   "seats": 322,
+   "filled": 101,
+   "empty": 16,
+   "empty_no_filer": 0,
+   "unknown": 205,
+   "sources": [
+    {
+     "url": "https://results.enr.clarityelections.com/PA/York/126283/",
+     "title": "York County 2026 General Primary results (Clarity Elections, linked from the county's Previous Election Results page); precinct detail XML last updated 6/11/2026",
+     "type": "results"
+    },
+    {
+     "url": "https://results.enr.clarityelections.com/PA/York/126283/375422/reports/detailxml.zip",
+     "title": "York County 2026 General Primary detailed results XML (all contests, by precinct)",
+     "type": "results"
+    },
+    {
+     "url": "https://yorkcountypa.gov/978/Previous-Election-Results",
+     "title": "York County Previous Election Results page (links to the Clarity results)",
+     "type": "results"
+    }
+   ],
+   "file": "york.json"
+  }
+ }
+}

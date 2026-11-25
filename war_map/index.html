@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Manrope:wght@400..800&display=swap">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css">
-<link rel="stylesheet" href="war-map.css?v=20261124-maplibre2">
+<link rel="stylesheet" href="war-map.css?v=20261124-chairs">
 </head>
 <body>
 <header class="topbar">
@@ -21,6 +21,7 @@
   <div id="map" role="region" aria-label="Pennsylvania map"></div>
   <nav class="tabs" aria-label="Map layer">
     <button type="button" data-layer="results" aria-pressed="true">Precinct results</button>
+    <button type="button" data-layer="chairs" aria-pressed="false">Empty chairs</button>
     <button type="button" data-layer="house" aria-pressed="false">PA House</button>
     <button type="button" data-layer="senate" aria-pressed="false">PA Senate</button>
     <button type="button" data-layer="congress" aria-pressed="false">U.S. House</button>
@@ -51,6 +52,6 @@
   <div id="legend" class="legend" aria-live="polite"></div>
 </main>
 <script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
-<script src="war-map.js?v=20261124-maplibre2"></script>
+<script src="war-map.js?v=20261124-chairs"></script>
 </body>
 </html>

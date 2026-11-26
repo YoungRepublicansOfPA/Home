@@ -93,10 +93,16 @@
    "county": "Cambria",
    "slug": "cambria",
    "current_method": "none_found",
-   "platform": "manual",
-   "election": "May 19, 2026 General Primary (results not retrievable)",
+   "platform": "electionware",
+   "election": "May 19, 2026 General Primary",
    "cycle_years": null,
-   "notes": "The May 19, 2026 primary is not on Clarity (127572 is the November 2026 general; 113942 is the 2022 primary). Its official results are a Department of State summary text file on cambriacountypa.gov, which needs a reader for that format."
+   "notes": "Official results are an Electionware election summary PDF on cambriacountypa.gov (not on Clarity; Clarity 127572 is the November 2026 general). The site refuses scripted requests, so the PDF is downloaded by a person. One contest per precinct, \"REP REPUBLICAN COUNTY COMMITTEE PERSONS <precinct>\", vote for 2.",
+   "electionware": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://www.cambriacountypa.gov/download/515/2026-general-primary/14981/cambria_pa_dos_official_summary_text_groups_6-8-26.pdf",
+    "page": "https://www.cambriacountypa.gov/election-office/"
+   }
   },
   {
    "county": "Cameron",

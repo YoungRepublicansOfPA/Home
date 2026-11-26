@@ -16,10 +16,11 @@ import {execFileSync} from 'node:child_process';
 import {basename, join, resolve} from 'node:path';
 import {validate} from './lib/validate.mjs';
 import * as clarity from './lib/clarity.mjs';
+import * as electionware from './lib/electionware.mjs';
 
 const here = new URL('.', import.meta.url).pathname;
 const mapDir = join(here, '../..');
-const READERS = {clarity};
+const READERS = {clarity, electionware};
 const fail = msg => { console.error('error: ' + msg); process.exit(1); };
 const argv = process.argv.slice(2);
 const dryRun = argv.includes('--dry-run');
@@ -89,9 +90,9 @@ for (const p of doc.precincts) {
 }
 
 // Record the evidence for the names.
-const src = {url: reader.exportUrl(cfg), title: `Summary CSV export of the official results, used for holder names (${basename(cached).replace(prefix, '')}${generated ? ', generated ' + generated : ''})`, type: 'results', as_of: generated || doc.as_of, sha256};
+const src = {url: reader.exportUrl(cfg), title: `Official results export, used for holder names (${basename(cached).replace(prefix, '')}${generated ? ', generated ' + generated : ''})`, type: 'results', as_of: generated || doc.as_of, sha256};
 doc.sources = [...doc.sources.filter(x => !(x.sha256 && x.url === src.url)), src];
-const note = ' Holder names come from the Summary CSV export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used).';
+const note = ' Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used).';
 if (!doc.notes.includes('Holder names come from')) doc.notes += note;
 
 const mapPath = join(mapDir, 'data', entry.slug + '.json');

@@ -1,1741 +1,1788 @@
 {
   "county": "Cambria",
-  "checked_at": "2026-11-24",
-  "method": "none_found",
-  "election": "May 19, 2026 General Primary (results not retrievable)",
+  "checked_at": "2026-11-25",
+  "method": "election_results",
+  "election": "May 19, 2026 General Primary",
   "as_of": "2026-06-08",
   "seats_per_precinct": 2,
   "sources": [
     {
       "url": "https://www.cambriacountypa.gov/download/515/2026-general-primary/14981/cambria_pa_dos_official_summary_text_groups_6-8-26.pdf",
-      "title": "Cambria County 2026 General Primary official summary (listed on county site; download blocked to automated access)",
+      "title": "Cambria County official results, May 19, 2026 General Primary (Electionware election summary report dated 2026-06-08, summary.pdf)",
       "type": "results",
-      "as_of": "2026-06-08"
+      "as_of": "2026-06-08",
+      "sha256": "337508104eec4b361c9cfae9dcf9f7e23c657f6630bbd86e5b724ac6a90135d9"
     },
     {
       "url": "https://www.cambriacountypa.gov/election-office/",
-      "title": "Cambria County Election Office",
+      "title": "Cambria County election office (where the report is posted)",
       "type": "results",
-      "as_of": "2026-11-24"
-    },
-    {
-      "url": "https://results.enr.clarityelections.com/PA/Cambria/113942/",
-      "title": "Cambria County 2022 Primary results (Clarity): one REP COMMITTEE PERSON contest per precinct, Vote For 2; used only for seat count",
-      "type": "rules",
-      "as_of": "2022"
-    },
-    {
-      "url": "https://results.enr.clarityelections.com/PA/Cambria/127572/",
-      "title": "Cambria County 2026 General Election results (Clarity): source of the 125 precinct names",
-      "type": "results",
-      "as_of": "2026-11"
+      "as_of": "2026-06-08"
     }
   ],
   "precincts": [
     {
-      "name": "Adams Township No. 1",
+      "name": "ADAMS TOWNSHIP NO.1",
       "map_id": "420210060",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "RENEE M. FELIX"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Adams Township - Dunlo",
+      "name": "ADAMS TOWNSHIP - DUNLO",
+      "map_id": "420210010",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Adams Township - Elton",
+      "name": "ADAMS TOWNSHIP- ELTON",
+      "map_id": "420210025",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "LOREEN A. BENCIE"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Adams Township - Gramlingtown",
+      "name": "ADAMS TOWNSHIP - GRAMLINGTOWN",
+      "map_id": "420210040",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "empty"
         },
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 2",
+          "status": "empty"
         }
       ]
     },
     {
-      "name": "Adams Township - St. Michael",
+      "name": "ADAMS TOWNSHIP - ST. MICHAEL",
+      "map_id": "420210055",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "LUCAS J. SLICK"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Allegheny Township",
+      "name": "ALLEGHENY TOWNSHIP",
       "map_id": "420210080",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Ashville Borough",
-      "map_id": "420210090",
+      "name": "ASHVILLE BORORGH",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Barr Township",
+      "name": "BARR TOWNSHIP",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "ROBERT DILLON"
         },
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 2",
+          "status": "filled",
+          "holder": "STEPHEN DILLON"
         }
       ]
     },
     {
-      "name": "Blacklick Township",
+      "name": "BLACKLICK TOWNSHIP",
       "map_id": "420210154",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "JAMES MCKEEL"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Brownstown Borough",
+      "name": "BROWNSTOWN BOROUGH",
       "map_id": "420210175",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Cambria Township No. 1",
+      "name": "CAMBRIA TOWNSHIP NO.1",
       "map_id": "420210210",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "ROBERT \"BOB\" FERGUSON"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Cambria Township - Colver",
+      "name": "CAMBRIA TOWNSHIP - COLVER",
+      "map_id": "420210190",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Cambria Township - Revloc",
+      "name": "CAMBRIA TOWNSHIP - REVLOC",
+      "map_id": "420210200",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Cambria Township No. 4",
+      "name": "CAMBRIA TOWNSHIP NO.4",
       "map_id": "420210220",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "THERESA KOSABER"
         },
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 2",
+          "status": "filled",
+          "holder": "HOWARD TERNDRUP"
         }
       ]
     },
     {
-      "name": "Carrolltown Borough",
+      "name": "CARROLLTOWN BOROUGH",
       "map_id": "420210235",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Cassandra Borough",
+      "name": "CASSANDRA BOROUGH",
       "map_id": "420210250",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "empty"
         },
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 2",
+          "status": "empty"
         }
       ]
     },
     {
-      "name": "Chest Springs Borough",
+      "name": "CHEST SPRINGS BOROUGH",
       "map_id": "420210270",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Chest Township",
+      "name": "CHEST TOWNSHIP",
       "map_id": "420210260",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Clearfield Township",
+      "name": "CLEARFIELD TOWNSHIP",
       "map_id": "420210280",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Conemaugh Township - Cover Hill",
+      "name": "CONEMAUGH TOWNSHIP - COVER HILL",
+      "map_id": "420210290",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Conemaugh Township - Center",
+      "name": "CONEMAUGH TOWNSHIP- CENTER",
+      "map_id": "420210305",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "THOMAS BRADISH"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Cresson Borough",
+      "name": "CRESSON BOROUGH",
       "map_id": "420210335",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Cresson Township - North",
+      "name": "CRESSON TOWNSHIP - NORTH",
+      "map_id": "420210315",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "MATTHEW KEARNEY"
         },
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 2",
+          "status": "filled",
+          "holder": "AUSTIN WAGNER"
         }
       ]
     },
     {
-      "name": "Cresson Township - South",
+      "name": "CRESSON TOWNSHIP - SOUTH",
+      "map_id": "420210325",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Croyle Township No. 1",
+      "name": "CROYLE TOWNSHIP NO.1",
       "map_id": "420210350",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Croyle Township No. 2",
+      "name": "CROYLE TOWNSHIP NO.2",
       "map_id": "420210367",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Daisytown Borough",
+      "name": "DAISYTOWN BOROUGH",
       "map_id": "420210390",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Dale Borough",
+      "name": "DALE BOROUGH",
       "map_id": "420210405",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Dean Township",
+      "name": "DEAN TOWNSHIP",
       "map_id": "420210420",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "East Carroll Township - North",
+      "name": "EAST CARROLL TOWNSHIP - NORTH",
+      "map_id": "420210430",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "East Carroll Township - South",
+      "name": "EAST CARROLL TOWNSHIP - SOUTH",
+      "map_id": "420210440",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "East Conemaugh Borough",
+      "name": "EAST CONEMAUGH BOROUGH",
       "map_id": "420210457",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "East Taylor Township No. 1",
+      "name": "EAST TAYLOR TOWNSHIP NO.1",
       "map_id": "420210478",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "East Taylor Township No. 2",
+      "name": "EAST TAYLOR TOWNSHIP NO.2",
       "map_id": "420210479",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Ebensburg Borough - Center",
+      "name": "EBENSBURG BOROUGH - CENTER",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Ebensburg Borough - East",
+      "name": "EBENSBURG BOROUGH - EAST",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "JOSHUA YODER"
         },
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 2",
+          "status": "empty"
         }
       ]
     },
     {
-      "name": "Ebensburg Borough - West",
+      "name": "EBENSBURG BOROUGH - WEST",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Ehrenfeld Borough",
+      "name": "EHRENFELD BOROUGH",
       "map_id": "420210550",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Elder Township",
+      "name": "ELDER TOWNSHIP",
       "map_id": "420210560",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Ferndale Borough",
+      "name": "FERNDALE BOROUGH",
       "map_id": "420210575",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Franklin Borough",
+      "name": "FRANKLIN BOROUGH",
       "map_id": "420210595",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "empty"
         },
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 2",
+          "status": "empty"
         }
       ]
     },
     {
-      "name": "Gallitzin Borough",
+      "name": "GALLITZIN BOROUGH",
       "map_id": "420210636",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Gallitzin Township",
+      "name": "GALLITZIN TOWNSHIP",
       "map_id": "420210615",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Geistown Borough No. 1",
+      "name": "GEISTOWN BOROUGH NO.1",
       "map_id": "420210660",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Geistown Borough No. 2",
+      "name": "GEISTOWN BOROUGH NO.2",
       "map_id": "420210675",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Hastings Borough",
+      "name": "HASTINGS BOROUGH",
       "map_id": "420210695",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "CATHERINE A. DUMAN"
         },
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 2",
+          "status": "filled",
+          "holder": "MICHAEL A. DUMAN"
         }
       ]
     },
     {
-      "name": "Jackson Township No. 1",
+      "name": "JACKSON TOWNSHIP NO.1",
       "map_id": "420210720",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Jackson Township - Vinco",
+      "name": "JACKSON TOWNSHIP - VINCO",
+      "map_id": "420210710",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Jackson Township No. 3",
+      "name": "JACKSON TOWNSHIP NO.3",
       "map_id": "420210730",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Lilly Borough - 1st Ward",
+      "name": "LILLY BOROUGH 1ST WARD",
       "map_id": "420211200",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Lilly Borough - 2nd Ward",
+      "name": "LILLY BOROUGH 2ND WARD",
       "map_id": "420211210",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Lorain Borough",
+      "name": "LORAIN BOROUGH",
       "map_id": "420211220",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Loretto Borough.",
+      "name": "LORETTO BOROUGH",
       "map_id": "420211230",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Lower Yoder Township No. 1",
+      "name": "LOWER YODER TOWNSHIP NO.1",
       "map_id": "420211241",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Lower Yoder Township No. 2",
+      "name": "LOWER YODER TOWNSHIP NO.2",
       "map_id": "420211255",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Middle Taylor Township",
+      "name": "MIDDLE TAYLOR TOWNSHIP",
       "map_id": "420211280",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "WILFRED J. PUDLINER"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Munster Township",
+      "name": "MUNSTER TOWNSHIP",
       "map_id": "420211290",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Nanty Glo Borough - 1st Ward",
+      "name": "NANTY GLO BOROUGH 1ST WARD",
       "map_id": "420211301",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Nanty Glo Borough - 2nd Ward",
+      "name": "NANTY GLO BOROUGH 2ND WARD",
       "map_id": "420211321",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Northern Cambria North",
+      "name": "NORTHERN CAMBRIA BOROUGH - NORTH",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Northern Cambria Center",
+      "name": "NORTHERN CAMBRIA BOROUGH - CENTER",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Northern Cambria South",
+      "name": "NORTHERN CAMBRIA BOROUGH - SOUTH",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Patton Borough - 1st Ward",
+      "name": "PATTON BOROUGH 1ST WARD",
       "map_id": "420211340",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Patton Borough - 2nd Ward",
+      "name": "PATTON BOROUGH 2ND WARD",
       "map_id": "420211350",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Portage Borough - 1st Ward",
+      "name": "PORTAGE BOROUGH 1ST WARD",
       "map_id": "420211385",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Portage Borough - 2nd Ward",
+      "name": "PORTAGE BOROUGH 2ND WARD",
       "map_id": "420211395",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Portage Borough - 3rd Ward",
+      "name": "PORTAGE BOROUGH 3RD WARD",
       "map_id": "420211405",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Portage Township - Center",
+      "name": "PORTAGE TOWNSHIP - CENTER",
+      "map_id": "420211361",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Portage Township - Southwest",
+      "name": "PORTAGE TOWNSHIP - SOUTHWEST",
+      "map_id": "420211380",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Reade Township",
+      "name": "READE TOWNSHIP",
       "map_id": "420211452",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "LISA CRYNOCK"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Richland Township No. 1",
+      "name": "RICHLAND TOWNSHIP NO.1",
       "map_id": "420211471",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Richland Township No. 2",
+      "name": "RICHLAND TOWNSHIP NO.2",
       "map_id": "420211481",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Richland Township No. 3",
+      "name": "RICHLAND TOWNSHIP NO.3",
       "map_id": "420211490",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Richland Township No. 4",
+      "name": "RICHLAND TOWNSHIP NO.4",
       "map_id": "420211505",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "JACQUELINE KULBACK"
         },
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 2",
+          "status": "filled",
+          "holder": "JAMES VASILKO"
         }
       ]
     },
     {
-      "name": "Richland Township No. 5",
+      "name": "RICHLAND TOWNSHIP NO.5",
       "map_id": "420211510",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Richland Township No. 6",
+      "name": "RICHLAND TOWNSHIP NO.6",
       "map_id": "420211525",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "CHRISTINE A. COX"
         },
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 2",
+          "status": "filled",
+          "holder": "RYAN GINDLESPERGER"
         }
       ]
     },
     {
-      "name": "Richland Township No. 7",
+      "name": "RICHLAND TOWNSHIP NO.7",
       "map_id": "420211530",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "ANN CASTNER"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Richland Township No. 8",
+      "name": "RICHLAND TOWNSHIP NO.8",
       "map_id": "420211540",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Richland Township No. 9",
+      "name": "RICHLAND TOWNSHIP NO.9",
       "map_id": "420211555",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "JOHN AUGUSTINE II"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Sankertown Borough",
+      "name": "SANKERTOWN BOROUGH",
       "map_id": "420211580",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Scalp Level Borough",
+      "name": "SCALP LEVEL BOROUGH",
       "map_id": "420211595",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "South Fork Borough",
+      "name": "SOUTH FORK BOROUGH",
       "map_id": "420211616",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Southmont Borough No. 1",
+      "name": "SOUTHMONT BOROUGH NO.1",
       "map_id": "420211651",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "SCOTT W. HUNT"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Southmont Borough No. 2",
+      "name": "SOUTHMONT BOROUGH NO.2",
       "map_id": "420211660",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "empty"
         },
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 2",
+          "status": "empty"
         }
       ]
     },
     {
-      "name": "Stonycreek Township - Ward 1",
+      "name": "STONYCREEK TOWNSHIP - WARD 1",
       "map_id": "420211700",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Stonycreek Township - Ward 2",
+      "name": "STONYCREEK TOWNSHIP - WARD 2",
       "map_id": "420211710",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "GEOFFREY STUMPO"
         },
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 2",
+          "status": "empty"
         }
       ]
     },
     {
-      "name": "Stonycreek Township - Ward 3",
+      "name": "STONYCREEK TOWNSHIP - WARD 3",
       "map_id": "420211720",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Stonycreek Township - Ward 4",
+      "name": "STONYCREEK TOWNSHIP - WARD 4",
       "map_id": "420211730",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Summerhill Borough",
+      "name": "SUMMERHILL BOROUGH",
       "map_id": "420211770",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Summerhill Township - North",
+      "name": "SUMMERHILL TOWNSHIP - NORTH",
+      "map_id": "420211760",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Summerhill Township - South",
+      "name": "SUMMERHILL TOWNSHIP - SOUTH",
+      "map_id": "420211765",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Susquehanna Township - North",
+      "name": "SUSQUEHANNA TOWNSHIP - NORTH",
+      "map_id": "420211785",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Susquehanna Township - South",
+      "name": "SUSQUEHANNA TOWNSHIP - SOUTH",
+      "map_id": "420211800",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "CHAD W. STIFFEY"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Tunnelhill Borough",
+      "name": "TUNNELHILL BOROUGH",
       "map_id": "420211820",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "empty"
         },
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 2",
+          "status": "empty"
         }
       ]
     },
     {
-      "name": "Upper Yoder Township No. 1",
+      "name": "UPPER YODER TOWNSHIP NO.1",
       "map_id": "420211830",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Upper Yoder Township No. 2",
+      "name": "UPPER YODER TOWNSHIP NO.2",
       "map_id": "420211840",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Upper Yoder Township No. 3",
+      "name": "UPPER YODER TOWNSHIP NO.3",
       "map_id": "420211851",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Upper Yoder Township No. 4",
+      "name": "UPPER YODER TOWNSHIP NO.4",
       "map_id": "420211860",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Vintondale Borough",
+      "name": "VINTONDALE BOROUGH",
       "map_id": "420211880",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "empty"
         },
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 2",
+          "status": "empty"
         }
       ]
     },
     {
-      "name": "Washington Township",
+      "name": "WASHINGTON TOWNSHIP",
       "map_id": "420211890",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "TYLER REAM"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "West Carroll Township - North",
+      "name": "WEST CARROLL TOWNSHIP - NORTH",
+      "map_id": "420211900",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "West Carroll Township - South",
+      "name": "WEST CARROLL TOWNSHIP - SOUTH",
+      "map_id": "420211910",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Westmont Borough No. 1",
+      "name": "WESTMONT BOROUGH NO.1",
       "map_id": "420211931",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "RICHARD J. KIEHART"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Westmont Borough No. 2",
+      "name": "WESTMONT BOROUGH NO.2",
       "map_id": "420211941",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "PATRICK KIRKPATRICK"
         },
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 2",
+          "status": "filled",
+          "holder": "REGINA KIRKPATRICK"
         }
       ]
     },
     {
-      "name": "Westmont Borough No. 3",
+      "name": "WESTMONT BOROUGH NO.3",
       "map_id": "420211951",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "West Taylor Township",
+      "name": "WEST TAYLOR TOWNSHIP",
       "map_id": "420211920",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "White Township",
+      "name": "WHITE TOWNSHIP",
       "map_id": "420211995",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Wilmore Borough",
+      "name": "WILMORE BOROUGH",
       "map_id": "420212010",
       "seats": [
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 1",
+          "status": "empty"
         },
         {
-          "seat": "Committee Person",
-          "status": "unknown"
+          "seat": "Committeeperson 2",
+          "status": "empty"
         }
       ]
     },
     {
-      "name": "Johnstown Center Town",
+      "name": "JOHNSTOWN - CENTER TOWN",
+      "map_id": "420210767",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Johnstown Kernville",
+      "name": "JOHNSTOWN - KERNVILLE",
+      "map_id": "420210786",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Johnstown Seventh Ward",
+      "name": "JOHNSTOWN - SEVENTH WARD",
       "map_id": "420210826",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Johnstown Eighth Ward No. 1",
+      "name": "JOHNSTOWN - EIGHTH WARD NO.1",
       "map_id": "420210862",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Johnstown Eighth Ward No. 3",
+      "name": "JOHNSTOWN - EIGHTH WARD NO.3",
       "map_id": "420210881",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Johnstown Old Conemaugh Woodvale",
+      "name": "JOHNSTOWN - OLD CONEMAUGH/WOODVALE",
+      "map_id": "420210942",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Johnstown Prospect",
+      "name": "JOHNSTOWN - PROSPECT",
+      "map_id": "420210966",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "JOHNSTOWN - CAMBRIA CITY",
+      "map_id": "420211016",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Johnstown Cambria City",
+      "name": "JOHNSTOWN - SEVENTEENTH WARD NO.1",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "JOSEPH F. TARANTO"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "filled",
+          "holder": "SAKI Y. TARANTO"
+        }
+      ]
+    },
+    {
+      "name": "JOHNSTOWN - SEVENTEENTH WARD NO.2",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "JOHNSTOWN - SEVENTEENTH WARD NO.3",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "filled",
+          "holder": "JOHN A. DEBARTOLA"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "JOHNSTOWN - SEVENTEENTH WARD NO.4",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
+          "status": "empty"
+        },
+        {
+          "seat": "Committeeperson 2",
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "name": "JOHNSTOWN - EIGHTEENTH WARD",
+      "seats": [
+        {
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Johnstown Seventeenth Ward No. 1",
+      "name": "JOHNSTOWN - NINETEENTH WARD",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Johnstown Seventeenth Ward No. 2",
+      "name": "JOHNSTOWN - TWENTIETH WARD NO.1",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Johnstown Seventeenth Ward No. 3",
+      "name": "JOHNSTOWN - TWENTIETH WARD NO.2",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
     },
     {
-      "name": "Johnstown Seventeenth Ward No. 4",
+      "name": "JOHNSTOWN - TWENTY-FIRST WARD",
       "seats": [
         {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 1",
           "status": "unknown"
         },
         {
-          "seat": "Committee Person",
-          "status": "unknown"
-        }
-      ]
-    },
-    {
-      "name": "Johnstown Eighteenth Ward",
-      "seats": [
-        {
-          "seat": "Committee Person",
-          "status": "unknown"
-        },
-        {
-          "seat": "Committee Person",
-          "status": "unknown"
-        }
-      ]
-    },
-    {
-      "name": "Johnstown Nineteenth Ward",
-      "seats": [
-        {
-          "seat": "Committee Person",
-          "status": "unknown"
-        },
-        {
-          "seat": "Committee Person",
-          "status": "unknown"
-        }
-      ]
-    },
-    {
-      "name": "Johnstown Twentieth Ward No. 1",
-      "seats": [
-        {
-          "seat": "Committee Person",
-          "status": "unknown"
-        },
-        {
-          "seat": "Committee Person",
-          "status": "unknown"
-        }
-      ]
-    },
-    {
-      "name": "Johnstown Twentieth Ward No. 2",
-      "seats": [
-        {
-          "seat": "Committee Person",
-          "status": "unknown"
-        },
-        {
-          "seat": "Committee Person",
-          "status": "unknown"
-        }
-      ]
-    },
-    {
-      "name": "Johnstown Twenty-First Ward",
-      "seats": [
-        {
-          "seat": "Committee Person",
-          "status": "unknown"
-        },
-        {
-          "seat": "Committee Person",
+          "seat": "Committeeperson 2",
           "status": "unknown"
         }
       ]
@@ -1744,10 +1791,10 @@
   "totals": {
     "precincts": 125,
     "seats": 250,
-    "filled": 0,
-    "empty": 0,
+    "filled": 33,
+    "empty": 23,
     "empty_no_filer": 0,
-    "unknown": 250
+    "unknown": 194
   },
-  "notes": "Cambria Republicans elect precinct committee persons in gubernatorial-year primaries (the 2022 primary had 125 REP COMMITTEE PERSON contests, Vote For 2), so the May 19, 2026 primary is the most recent committee election. The county posts its 2026 primary official summary (dated 6.8.26) only as a file download on cambriacountypa.gov, which returns HTTP 403 to automated access (Cloudflare), so seat results could not be read; no 2026 primary Clarity page was linked. All 250 seats are unknown pending a manual download of that file. Precinct names are from the county Clarity results for the November 3, 2026 general election. The 2022 results were not used for seat status because they are superseded."
+  "notes": "Built by war_map/tools/committee/run.mjs from the official May 19, 2026 General Primary results for every Republican county committee contest (125 contests). A seat is filled when a named candidate had the most votes, and holder is that winner's name as printed in the results; empty when no candidate was on the ballot and no write-in votes were cast; unknown when only write-in votes were cast (public results don't name write-in winners, who may also have declined) or when the result was tied or a named candidate had zero votes. Appointments made since the election are not counted. Official results are an Electionware election summary PDF on cambriacountypa.gov (not on Clarity; Clarity 127572 is the November 2026 general). The site refuses scripted requests, so the PDF is downloaded by a person. One contest per precinct, \"REP REPUBLICAN COUNTY COMMITTEE PERSONS <precinct>\", vote for 2."
 }

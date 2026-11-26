@@ -10,6 +10,7 @@ run.mjs              import one county's export -> check -> write county file ->
 add-holders.mjs      add holder names to a county file's filled seats from an export, keeping its statuses
 link-map.mjs         link every county file's precincts to the map's precinct ids (map_id), then rebuild summary
 lib/clarity.mjs      reader for Clarity/Scytl sites (results.enr.clarityelections.com)
+lib/electionware.mjs reader for Electionware "Election Summary" PDFs (checks each contest against its own total)
 lib/rules.mjs        vote totals -> filled / empty / unknown, with the winner's name on filled seats
 lib/match.mjs        precinct-name matching against the map (strict -> loose -> abbreviations, one-to-one only)
 lib/validate.mjs     totals, allowed fields (holder only on filled seats), map ids against the map
@@ -49,8 +50,14 @@ node war_map/tools/committee/link-map.mjs
 | Platform | Counties | Reader |
 |---|---|---|
 | `clarity` | Allegheny (run.mjs); York, Crawford, Delaware (add-holders.mjs) | `lib/clarity.mjs` |
+| `electionware` | Cambria | `lib/electionware.mjs` |
 | `livevoterturnout` | Franklin, Lehigh | not yet |
-| `manual` | the other 61, including Luzerne (2024 results are a PDF) and Cambria (2026 results are a Department of State summary text file) | not yet |
+| `manual` | the other 60, including Luzerne (its 2024 results are a PDF in another layout) | not yet |
+
+Electionware reports are PDFs that start "Summary Results" and end each page "Report generated with
+Electionware". Set `electionware.url` (the PDF), `electionware.page` (where the county posts it) and, if the
+county titles its contests differently, `electionware.contest_pattern` (named groups `seat` and `precinct`,
+matched against the title line). Needs `pdftotext` (poppler).
 
 Clarity contest names differ by county. `clarity.contest_pattern` is a regular expression with named groups
 `seat` and `precinct`, matched against the contest name without "(Vote For N)". `clarity.party` ("REP") drops

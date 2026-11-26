@@ -20,6 +20,8 @@ export function tokens(name) {
   if (firstWord > 0) t = t.slice(firstWord);
   // A lone letter before a number marks the unit: "Ashley W 1", "Alsace P 1", "Amwell X 1".
   t = t.filter((x, i) => !(x.length === 1 && /[a-z]/.test(x) && /^\d+$/.test(t[i + 1] || '') && i > 0));
+  // The map also uses a lone "X" before a precinct's own name: "Adams X Dunlo".
+  t = t.filter((x, i) => !(x === 'x' && i > 0 && i < t.length - 1));
   return t.map(x => /^\d+$/.test(x) ? String(+x) : (SYN[x] ?? x)).filter(Boolean);
 }
 const strictKey = name => tokens(name).join(' ');

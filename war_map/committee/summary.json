@@ -21,13 +21,13 @@
  },
  "total": {
   "seats": 17945,
-  "filled": 4796,
-  "empty": 4952,
+  "filled": 4829,
+  "empty": 4975,
   "empty_no_filer": 399,
-  "unknown": 7798,
-  "named": 893,
+  "unknown": 7742,
+  "named": 926,
   "precincts": 9117,
-  "mapped": 7837
+  "mapped": 8083
  },
  "counties": {
   "Adams": {
@@ -124,7 +124,7 @@
    "empty_no_filer": 87,
    "unknown": 37,
    "named": 0,
-   "mapped": 43,
+   "mapped": 59,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -396,7 +396,7 @@
    "empty_no_filer": 0,
    "unknown": 122,
    "named": 0,
-   "mapped": 67,
+   "mapped": 81,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -421,18 +421,18 @@
    "file": "butler.json"
   },
   "Cambria": {
-   "method": "none_found",
-   "election": "May 19, 2026 General Primary (results not retrievable)",
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
    "as_of": "2026-06-08",
-   "checked_at": "2026-11-24",
+   "checked_at": "2026-11-25",
    "precincts": 125,
    "seats": 250,
-   "filled": 0,
-   "empty": 0,
+   "filled": 33,
+   "empty": 23,
    "empty_no_filer": 0,
-   "unknown": 250,
-   "named": 0,
-   "mapped": 83,
+   "unknown": 194,
+   "named": 33,
+   "mapped": 108,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -445,22 +445,12 @@
    "sources": [
     {
      "url": "https://www.cambriacountypa.gov/download/515/2026-general-primary/14981/cambria_pa_dos_official_summary_text_groups_6-8-26.pdf",
-     "title": "Cambria County 2026 General Primary official summary (listed on county site; download blocked to automated access)",
+     "title": "Cambria County official results, May 19, 2026 General Primary (Electionware election summary report dated 2026-06-08, summary.pdf)",
      "type": "results"
     },
     {
      "url": "https://www.cambriacountypa.gov/election-office/",
-     "title": "Cambria County Election Office",
-     "type": "results"
-    },
-    {
-     "url": "https://results.enr.clarityelections.com/PA/Cambria/113942/",
-     "title": "Cambria County 2022 Primary results (Clarity): one REP COMMITTEE PERSON contest per precinct, Vote For 2; used only for seat count",
-     "type": "rules"
-    },
-    {
-     "url": "https://results.enr.clarityelections.com/PA/Cambria/127572/",
-     "title": "Cambria County 2026 General Election results (Clarity): source of the 125 precinct names",
+     "title": "Cambria County election office (where the report is posted)",
      "type": "results"
     }
    ],
@@ -478,7 +468,7 @@
    "empty_no_filer": 0,
    "unknown": 5,
    "named": 0,
-   "mapped": 5,
+   "mapped": 6,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -565,7 +555,7 @@
    "empty_no_filer": 0,
    "unknown": 174,
    "named": 0,
-   "mapped": 20,
+   "mapped": 79,
    "next_election": {
     "year": 2028,
     "date": "2028-04-25",
@@ -647,7 +637,7 @@
    "empty_no_filer": 0,
    "unknown": 54,
    "named": 0,
-   "mapped": 33,
+   "mapped": 37,
    "next_election": {
     "year": 2028,
     "date": "2028-04-25",
@@ -852,7 +842,7 @@
    "empty_no_filer": 0,
    "unknown": 106,
    "named": 0,
-   "mapped": 94,
+   "mapped": 96,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -1144,7 +1134,7 @@
    "empty_no_filer": 0,
    "unknown": 103,
    "named": 0,
-   "mapped": 66,
+   "mapped": 71,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -1216,7 +1206,7 @@
    "empty_no_filer": 41,
    "unknown": 18,
    "named": 0,
-   "mapped": 32,
+   "mapped": 41,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -1365,7 +1355,7 @@
    "empty_no_filer": 0,
    "unknown": 32,
    "named": 0,
-   "mapped": 16,
+   "mapped": 17,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -1514,7 +1504,7 @@
    "empty_no_filer": 0,
    "unknown": 31,
    "named": 0,
-   "mapped": 17,
+   "mapped": 60,
    "next_election": {
     "year": 2028,
     "date": "2028-04-25",
@@ -1709,7 +1699,7 @@
    "empty_no_filer": 0,
    "unknown": 92,
    "named": 0,
-   "mapped": 71,
+   "mapped": 90,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -1776,7 +1766,7 @@
    "empty_no_filer": 0,
    "unknown": 36,
    "named": 0,
-   "mapped": 41,
+   "mapped": 49,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -1874,7 +1864,7 @@
    "empty_no_filer": 0,
    "unknown": 180,
    "named": 0,
-   "mapped": 79,
+   "mapped": 105,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -2100,7 +2090,7 @@
    "empty_no_filer": 0,
    "unknown": 83,
    "named": 0,
-   "mapped": 91,
+   "mapped": 100,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -2182,7 +2172,7 @@
    "empty_no_filer": 0,
    "unknown": 134,
    "named": 0,
-   "mapped": 62,
+   "mapped": 63,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -2295,7 +2285,7 @@
    "empty_no_filer": 0,
    "unknown": 49,
    "named": 0,
-   "mapped": 39,
+   "mapped": 41,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -2326,7 +2316,7 @@
    "empty_no_filer": 0,
    "unknown": 52,
    "named": 0,
-   "mapped": 24,
+   "mapped": 26,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",

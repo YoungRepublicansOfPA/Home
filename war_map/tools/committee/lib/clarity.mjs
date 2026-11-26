@@ -17,6 +17,12 @@ export const DEFAULT_CONTEST = '^REP\\s+County\\s+(?<seat>Committeeman|Committee
 
 export const exportUrl = c => `https://results.enr.clarityelections.com/${c.site}/${c.election_id}/${c.version}/reports/summary.zip`;
 export const pageUrl = c => `https://results.enr.clarityelections.com/${c.site}/${c.election_id}/`;
+export function sources(c, {county, election, file, generated, asOf, sha256}) {
+  return [
+    {url: pageUrl(c), title: `${county} County official results, ${election} (election ${c.election_id}, version ${c.version})`, type: 'results', as_of: asOf},
+    {url: exportUrl(c), title: `Summary CSV export of those results (${file}${generated ? ', generated ' + generated : ''})`, type: 'results', as_of: asOf, sha256}
+  ];
+}
 
 function readExport(path) {
   if (!/\.zip$/i.test(path)) return {csv: readFileSync(path, 'utf8'), generated: null};

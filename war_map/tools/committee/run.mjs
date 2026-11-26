@@ -15,10 +15,11 @@ import {seats} from './lib/rules.mjs';
 import {matchPrecincts} from './lib/match.mjs';
 import {validate, countTotals} from './lib/validate.mjs';
 import * as clarity from './lib/clarity.mjs';
+import * as electionware from './lib/electionware.mjs';
 
 const here = new URL('.', import.meta.url).pathname;
 const mapDir = join(here, '../..');
-const READERS = {clarity};
+const READERS = {clarity, electionware};
 
 function args(argv) {
   const out = {_: []};
@@ -80,10 +81,7 @@ const doc = {
   election: entry.election,
   as_of: asOf,
   seats_per_precinct: seatCounts.size === 1 ? [...seatCounts][0] : null,
-  sources: [
-    {url: reader.pageUrl(cfg), title: `${entry.county} County official results, ${entry.election} (election ${cfg.election_id}, version ${cfg.version})`, type: 'results', as_of: asOf},
-    {url: reader.exportUrl(cfg), title: `Summary CSV export of those results (${basename(a.file)}${generated ? ', generated ' + generated : ''})`, type: 'results', as_of: asOf, sha256}
-  ],
+  sources: reader.sources(cfg, {county: entry.county, election: entry.election, file: basename(cached).replace(prefix, ''), generated, asOf, sha256}),
   precincts: precinctList,
   totals,
   notes: [

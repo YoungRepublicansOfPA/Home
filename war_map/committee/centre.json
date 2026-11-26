@@ -34,6 +34,7 @@
   "precincts": [
     {
       "name": "1 BELLEFONTE NORTH",
+      "map_id": "420270010",
       "seats": [
         {
           "seat": "Member",
@@ -47,6 +48,7 @@
     },
     {
       "name": "2 BELLEFONTE NORTHEAST",
+      "map_id": "420270020",
       "seats": [
         {
           "seat": "Member",
@@ -60,6 +62,7 @@
     },
     {
       "name": "3 BELLEFONTE SOUTH",
+      "map_id": "420270030",
       "seats": [
         {
           "seat": "Member",
@@ -73,6 +76,7 @@
     },
     {
       "name": "4 BELLEFONTE SOUTHEAST",
+      "map_id": "420270040",
       "seats": [
         {
           "seat": "Member",
@@ -86,6 +90,7 @@
     },
     {
       "name": "5 BELLEFONTE WEST",
+      "map_id": "420270050",
       "seats": [
         {
           "seat": "Member",
@@ -224,6 +229,7 @@
     },
     {
       "name": "15 RUSH NORTH CENTRAL",
+      "map_id": "420270535",
       "seats": [
         {
           "seat": "Member",
@@ -237,6 +243,7 @@
     },
     {
       "name": "16 STATE COLLEGE NORTH",
+      "map_id": "420270680",
       "seats": [
         {
           "seat": "Member",
@@ -250,6 +257,7 @@
     },
     {
       "name": "17 STATE COLLEGE NORTHEAST",
+      "map_id": "420270690",
       "seats": [
         {
           "seat": "Member",
@@ -263,6 +271,7 @@
     },
     {
       "name": "18 STATE COLLEGE NORTHWEST",
+      "map_id": "420270700",
       "seats": [
         {
           "seat": "Member",
@@ -276,6 +285,7 @@
     },
     {
       "name": "19 STATE COLLEGE SOUTH 1",
+      "map_id": "420270710",
       "seats": [
         {
           "seat": "Member",
@@ -289,6 +299,7 @@
     },
     {
       "name": "20 STATE COLLEGE SOUTH 2",
+      "map_id": "420270720",
       "seats": [
         {
           "seat": "Member",
@@ -302,6 +313,7 @@
     },
     {
       "name": "21 STATE COLLEGE SOUTHEAST",
+      "map_id": "420270750",
       "seats": [
         {
           "seat": "Member",
@@ -315,6 +327,7 @@
     },
     {
       "name": "22 STATE COLLEGE SOUTH CENTRAL 1",
+      "map_id": "420270730",
       "seats": [
         {
           "seat": "Member",
@@ -328,6 +341,7 @@
     },
     {
       "name": "23 STATE COLLEGE SOUTH CENTRAL 2",
+      "map_id": "420270740",
       "seats": [
         {
           "seat": "Member",
@@ -354,6 +368,7 @@
     },
     {
       "name": "26 STATE COLLEGE EAST 3",
+      "map_id": "420270630",
       "seats": [
         {
           "seat": "Member",
@@ -367,6 +382,7 @@
     },
     {
       "name": "29 STATE COLLEGE EAST CENTRAL 2",
+      "map_id": "420270660",
       "seats": [
         {
           "seat": "Member",
@@ -380,6 +396,7 @@
     },
     {
       "name": "30 STATE COLLEGE EAST CENTRAL 3",
+      "map_id": "420270670",
       "seats": [
         {
           "seat": "Member",
@@ -393,6 +410,7 @@
     },
     {
       "name": "31 STATE COLLEGE WEST 1",
+      "map_id": "420270760",
       "seats": [
         {
           "seat": "Member",
@@ -406,6 +424,7 @@
     },
     {
       "name": "32 STATE COLLEGE WEST 2",
+      "map_id": "420270770",
       "seats": [
         {
           "seat": "Member",
@@ -419,6 +438,7 @@
     },
     {
       "name": "34 STATE COLLEGE WEST CENTRAL 2",
+      "map_id": "420270790",
       "seats": [
         {
           "seat": "Member",
@@ -446,6 +466,7 @@
     },
     {
       "name": "36 BENNER NORTH",
+      "map_id": "420270060",
       "seats": [
         {
           "seat": "Member",
@@ -459,6 +480,7 @@
     },
     {
       "name": "37 BENNER SOUTH",
+      "map_id": "420270070",
       "seats": [
         {
           "seat": "Member",
@@ -472,6 +494,7 @@
     },
     {
       "name": "38 BOGGS EAST",
+      "map_id": "420270080",
       "seats": [
         {
           "seat": "Member",
@@ -485,6 +508,7 @@
     },
     {
       "name": "39 BOGGS WEST",
+      "map_id": "420270090",
       "seats": [
         {
           "seat": "Member",
@@ -512,6 +536,7 @@
     },
     {
       "name": "41 COLLEGE NORTH",
+      "map_id": "420270130",
       "seats": [
         {
           "seat": "Member",
@@ -525,6 +550,7 @@
     },
     {
       "name": "42 COLLEGE SOUTH",
+      "map_id": "420270140",
       "seats": [
         {
           "seat": "Member",
@@ -538,6 +564,7 @@
     },
     {
       "name": "43 COLLEGE EAST",
+      "map_id": "420270120",
       "seats": [
         {
           "seat": "Member",
@@ -564,6 +591,7 @@
     },
     {
       "name": "45 CURTIN NORTH",
+      "map_id": "420270160",
       "seats": [
         {
           "seat": "Member",
@@ -577,6 +605,7 @@
     },
     {
       "name": "46 CURTIN SOUTH",
+      "map_id": "420270170",
       "seats": [
         {
           "seat": "Member",
@@ -590,6 +619,7 @@
     },
     {
       "name": "47 FERGUSON NORTH 1",
+      "map_id": "420270190",
       "seats": [
         {
           "seat": "Member",
@@ -603,6 +633,7 @@
     },
     {
       "name": "48 FERGUSON NORTH 2",
+      "map_id": "420270200",
       "seats": [
         {
           "seat": "Member",
@@ -629,6 +660,7 @@
     },
     {
       "name": "50 FERGUSON NORTHEAST 2",
+      "map_id": "420270220",
       "seats": [
         {
           "seat": "Member",
@@ -642,6 +674,7 @@
     },
     {
       "name": "51 FERGUSON EAST",
+      "map_id": "420270180",
       "seats": [
         {
           "seat": "Member",
@@ -655,6 +688,7 @@
     },
     {
       "name": "52 FERGUSON WEST",
+      "map_id": "420270230",
       "seats": [
         {
           "seat": "Member",
@@ -709,6 +743,7 @@
     },
     {
       "name": "56 HARRIS EAST",
+      "map_id": "420270270",
       "seats": [
         {
           "seat": "Member",
@@ -722,6 +757,7 @@
     },
     {
       "name": "57 HARRIS WEST",
+      "map_id": "420270280",
       "seats": [
         {
           "seat": "Member",
@@ -791,6 +827,7 @@
     },
     {
       "name": "62 MILES EAST",
+      "map_id": "420270340",
       "seats": [
         {
           "seat": "Member",
@@ -804,6 +841,7 @@
     },
     {
       "name": "63 MILES WEST",
+      "map_id": "420270350",
       "seats": [
         {
           "seat": "Member",
@@ -817,6 +855,7 @@
     },
     {
       "name": "64 PATTON NORTH 1",
+      "map_id": "420270380",
       "seats": [
         {
           "seat": "Member",
@@ -830,6 +869,7 @@
     },
     {
       "name": "65 PATTON NORTH 2",
+      "map_id": "420270390",
       "seats": [
         {
           "seat": "Member",
@@ -843,6 +883,7 @@
     },
     {
       "name": "66 PATTON SOUTH 1",
+      "map_id": "420270400",
       "seats": [
         {
           "seat": "Member",
@@ -856,6 +897,7 @@
     },
     {
       "name": "67 PATTON SOUTH 2",
+      "map_id": "420270410",
       "seats": [
         {
           "seat": "Member",
@@ -869,6 +911,7 @@
     },
     {
       "name": "68 PATTON SOUTH 3",
+      "map_id": "420270420",
       "seats": [
         {
           "seat": "Member",
@@ -896,6 +939,7 @@
     },
     {
       "name": "70 POTTER NORTH",
+      "map_id": "420270480",
       "seats": [
         {
           "seat": "Member",
@@ -909,6 +953,7 @@
     },
     {
       "name": "71 POTTER SOUTH",
+      "map_id": "420270490",
       "seats": [
         {
           "seat": "Member",
@@ -922,6 +967,7 @@
     },
     {
       "name": "72 RUSH NORTH",
+      "map_id": "420270510",
       "seats": [
         {
           "seat": "Member",
@@ -935,6 +981,7 @@
     },
     {
       "name": "73 RUSH SOUTH",
+      "map_id": "420270520",
       "seats": [
         {
           "seat": "Member",
@@ -948,6 +995,7 @@
     },
     {
       "name": "74 RUSH EAST",
+      "map_id": "420270500",
       "seats": [
         {
           "seat": "Member",
@@ -961,6 +1009,7 @@
     },
     {
       "name": "75 RUSH WEST",
+      "map_id": "420270530",
       "seats": [
         {
           "seat": "Member",
@@ -974,6 +1023,7 @@
     },
     {
       "name": "76 SNOW SHOE EAST",
+      "map_id": "420270540",
       "seats": [
         {
           "seat": "Member",
@@ -987,6 +1037,7 @@
     },
     {
       "name": "77 SNOW SHOE WEST",
+      "map_id": "420270550",
       "seats": [
         {
           "seat": "Member",
@@ -1000,6 +1051,7 @@
     },
     {
       "name": "78 SPRING NORTH",
+      "map_id": "420270582",
       "seats": [
         {
           "seat": "Member",
@@ -1013,6 +1065,7 @@
     },
     {
       "name": "79 SPRING SOUTH",
+      "map_id": "420270590",
       "seats": [
         {
           "seat": "Member",
@@ -1026,6 +1079,7 @@
     },
     {
       "name": "80 SPRING WEST",
+      "map_id": "420270600",
       "seats": [
         {
           "seat": "Member",
@@ -1067,6 +1121,7 @@
     },
     {
       "name": "83 WALKER EAST",
+      "map_id": "420270830",
       "seats": [
         {
           "seat": "Member",
@@ -1080,6 +1135,7 @@
     },
     {
       "name": "84 WALKER WEST",
+      "map_id": "420270840",
       "seats": [
         {
           "seat": "Member",
@@ -1107,6 +1163,7 @@
     },
     {
       "name": "86 SPRING EAST",
+      "map_id": "420270605",
       "seats": [
         {
           "seat": "Member",
@@ -1120,6 +1177,7 @@
     },
     {
       "name": "87 SPRING SOUTHWEST",
+      "map_id": "420270595",
       "seats": [
         {
           "seat": "Member",
@@ -1133,6 +1191,7 @@
     },
     {
       "name": "88 FERGUSON NORTH 3",
+      "map_id": "420270205",
       "seats": [
         {
           "seat": "Member",

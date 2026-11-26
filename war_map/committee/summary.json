@@ -25,7 +25,7 @@
   "empty": 4952,
   "empty_no_filer": 399,
   "unknown": 7798,
-  "named": 426,
+  "named": 893,
   "precincts": 9117,
   "mapped": 7837
  },
@@ -805,7 +805,7 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 110,
-   "named": 0,
+   "named": 12,
    "mapped": 61,
    "next_election": {
     "year": 2030,
@@ -831,6 +831,11 @@
      "url": "https://crawfordcountypa.net/wp-content/uploads/2026/04/2026-Primary-UMOVA-Notice.pdf",
      "title": "Crawford County 2026 Primary notice: Republican County Committee, four-year term, not more than two committee people per precinct without distinction of gender",
      "type": "rules"
+    },
+    {
+     "url": "https://results.enr.clarityelections.com/PA/Crawford/126362/378478/reports/summary.zip",
+     "title": "Summary CSV export of the official results, used for holder names (summary.zip, generated 2026-08-14)",
+     "type": "results"
     }
    ],
    "file": "crawford.json"
@@ -918,7 +923,7 @@
    "empty": 91,
    "empty_no_filer": 0,
    "unknown": 409,
-   "named": 0,
+   "named": 354,
    "mapped": 421,
    "next_election": {
     "year": 2028,
@@ -948,6 +953,11 @@
     {
      "url": "https://delcopa.gov/sites/default/files/2026-05/Write-in-Cumulative-Results-Updated_5-27-2026.pdf",
      "title": "2026 Primary write-in cumulative results (only Democratic county committee and Republican state committee contests appear)",
+     "type": "results"
+    },
+    {
+     "url": "https://results.enr.clarityelections.com/PA/Delaware/120839/338133/reports/summary.zip",
+     "title": "Summary CSV export of the official results, used for holder names (summary.zip, generated 2024-05-20)",
      "type": "results"
     }
    ],
@@ -2592,7 +2602,7 @@
    "empty": 16,
    "empty_no_filer": 0,
    "unknown": 205,
-   "named": 0,
+   "named": 101,
    "mapped": 160,
    "next_election": {
     "year": 2030,
@@ -2617,6 +2627,11 @@
     {
      "url": "https://yorkcountypa.gov/978/Previous-Election-Results",
      "title": "York County Previous Election Results page (links to the Clarity results)",
+     "type": "results"
+    },
+    {
+     "url": "https://results.enr.clarityelections.com/PA/York/126283/375422/reports/summary.zip",
+     "title": "Summary CSV export of the official results, used for holder names (summary.zip, generated 2026-06-11)",
      "type": "results"
     }
    ],

@@ -23,6 +23,13 @@
       "title": "Crawford County 2026 Primary notice: Republican County Committee, four-year term, not more than two committee people per precinct without distinction of gender",
       "type": "rules",
       "as_of": "2026-04"
+    },
+    {
+      "url": "https://results.enr.clarityelections.com/PA/Crawford/126362/378478/reports/summary.zip",
+      "title": "Summary CSV export of the official results, used for holder names (summary.zip, generated 2026-08-14)",
+      "type": "results",
+      "as_of": "2026-08-14",
+      "sha256": "c85ed06627d9a609140b5ed0e24924505778ff2c0051b73921912d7540f6ff4c"
     }
   ],
   "precincts": [
@@ -32,7 +39,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JACK C POST"
         },
         {
           "seat": "Committee Person",
@@ -46,11 +54,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MARSHA D HOLOWELL"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PAUL W BURGESS"
         }
       ]
     },
@@ -228,7 +238,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVID VALESKY"
         },
         {
           "seat": "Committee Person",
@@ -242,7 +253,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "FRANCIS F WEIDERSPAHN JR"
         },
         {
           "seat": "Committee Person",
@@ -452,7 +464,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LUIGI DEFRANCESCO"
         },
         {
           "seat": "Committee Person",
@@ -466,7 +479,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DANIEL HEALY"
         },
         {
           "seat": "Committee Person",
@@ -690,11 +704,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "STACEY A HOLZER"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LANNY WILLIAMS"
         }
       ]
     },
@@ -704,11 +720,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MIKE FORBES"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BETH FORBES"
         }
       ]
     },
@@ -774,7 +792,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PATRICK W MCHENRY"
         },
         {
           "seat": "Committee Person",
@@ -889,5 +908,5 @@
     "empty_no_filer": 0,
     "unknown": 110
   },
-  "notes": "Crawford elects two Republican committee people per precinct, without gender distinction, for four-year terms (county notice). Contest: 'Local Republican Committeepeople', vote for 2. A seat is 'filled' when a printed (party-labelled) ballot candidate received votes, 'empty' when no candidate and no write-in votes were recorded, and 'unknown' when write-in votes were cast, since the results do not show whether a write-in qualified or accepted. Every Crawford contest recorded at least one write-in vote, so no seat is classified 'empty'; most are 'unknown'. Appointments after the primary are not reflected. The official results contain no Republican committee contest for Conneautville Boro (the Democratic committee contests for that precinct are present); its two seats are recorded as 'unknown'."
+  "notes": "Crawford elects two Republican committee people per precinct, without gender distinction, for four-year terms (county notice). Contest: 'Local Republican Committeepeople', vote for 2. A seat is 'filled' when a printed (party-labelled) ballot candidate received votes, 'empty' when no candidate and no write-in votes were recorded, and 'unknown' when write-in votes were cast, since the results do not show whether a write-in qualified or accepted. Every Crawford contest recorded at least one write-in vote, so no seat is classified 'empty'; most are 'unknown'. Appointments after the primary are not reflected. The official results contain no Republican committee contest for Conneautville Boro (the Democratic committee contests for that precinct are present); its two seats are recorded as 'unknown'. Holder names come from the Summary CSV export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

@@ -7,9 +7,13 @@
 import {execFileSync} from 'node:child_process';
 import {readFileSync} from 'node:fs';
 import {parseCsv} from './csv.mjs';
+import {isWriteIn} from './rules.mjs';
 
-// "REP County Committeeman Aleppo (Vote For 1)" -> seat "Committeeman", precinct "Aleppo", voteFor 1
-export const DEFAULT_CONTEST = '^REP\\s+County\\s+(Committeeman|Committeewoman|Committee\\s*person|Committee\\s*member)\\s+(.+?)\\s*\\(Vote For (\\d+)\\)$';
+// Contest names differ by county, so counties.json can set clarity.contest_pattern:
+// a regular expression with named groups `seat` and `precinct`, matched against the
+// contest name without its "(Vote For N)" suffix. The default fits Allegheny:
+//   "REP County Committeeman Aleppo (Vote For 1)" -> seat "Committeeman", precinct "Aleppo"
+export const DEFAULT_CONTEST = '^REP\\s+County\\s+(?<seat>Committeeman|Committeewoman|Committee\\s*person|Committee\\s*member)\\s+(?<precinct>.+)$';
 
 export const exportUrl = c => `https://results.enr.clarityelections.com/${c.site}/${c.election_id}/${c.version}/reports/summary.zip`;
 export const pageUrl = c => `https://results.enr.clarityelections.com/${c.site}/${c.election_id}/`;
@@ -23,22 +27,44 @@ function readExport(path) {
   return {csv, generated: m ? `${m[1]}-${m[2]}-${m[3]}` : null};
 }
 
-// Returns {generated, contests: [{seat, precinct, voteFor, choices: [{name, votes}]}]}
-// in the order the export lists them. Choice names stay in memory only.
+// Returns {generated, contests: [{seat, precinct, voteFor, choices: [{name, votes, ballot}]}]}
+// in the order the export lists them. `ballot` is true for a candidate printed on the
+// ballot; write-ins (named or not) are false. Choice names stay in memory only.
+//
+// cfg.party (e.g. "REP"): rows from another party are dropped, and a choice with a blank
+// party in a contest that has party-labelled choices is a write-in (York and Crawford list
+// named write-in recipients that way).
 export function read(path, cfg = {}) {
   const {csv, generated} = readExport(path);
   const re = new RegExp(cfg.contest_pattern || DEFAULT_CONTEST, 'i');
-  const byName = new Map();
+  const contests = [];
+  let current = null, currentName = null;
   for (const r of parseCsv(csv)) {
-    const m = r['contest name'].trim().match(re);
-    if (!m) continue;
-    let c = byName.get(r['contest name']);
-    if (!c) {
-      const seat = m[1].replace(/\s+/g, '').toLowerCase(); // "Committee person" -> "committeeperson"
-      c = {seat: seat[0].toUpperCase() + seat.slice(1), precinct: m[2].trim(), voteFor: +m[3], choices: []};
-      byName.set(r['contest name'], c);
+    const full = r['contest name'].trim();
+    const party = (r['party name'] || '').trim();
+    if (cfg.party && party && party !== cfg.party) continue;
+    const vf = full.match(/\s*\(Vote For (\d+)\)\s*$/i);
+    const m = full.replace(/\s*\(Vote For \d+\)\s*$/i, '').match(re);
+    if (!m) { currentName = null; continue; }
+    const name = r['choice name'].trim();
+    // A new contest starts when the name changes, or when a choice repeats: two contests
+    // can share a name (Delaware 2024 lists two "Committeewoman, Chadds Ford Township").
+    if (full !== currentName || current.choices.some(c => c.name === name)) {
+      const g = m.groups || {seat: m[1], precinct: m[2]};
+      const seat = g.seat.replace(/\s+/g, '').toLowerCase();
+      const dup = contests.filter(c => c.full === full).length;
+      current = {full, seat: seat[0].toUpperCase() + seat.slice(1), precinct: g.precinct.trim() + (dup ? ` (contest ${dup + 1})` : ''),
+        voteFor: vf ? +vf[1] : 1, choices: []};
+      contests.push(current);
+      currentName = full;
     }
-    c.choices.push({name: r['choice name'], votes: Number(r['total votes']) || 0});
+    current.choices.push({name, votes: Number(r['total votes']) || 0, party});
   }
-  return {generated, contests: [...byName.values()]};
+  for (const c of contests) {
+    const partied = c.choices.some(x => x.party);
+    for (const x of c.choices) x.ballot = !isWriteIn(x.name) && !(cfg.party && partied && !x.party);
+    for (const x of c.choices) delete x.party;
+    delete c.full;
+  }
+  return {generated, contests};
 }

@@ -5,13 +5,17 @@
 //   unknown - won only by unnamed write-ins, or an unresolved tie
 // Only winners' names are returned; losing candidates' names never leave this function.
 
-export const isWriteIn = name => /^write[\s-]?ins?\b/i.test(name.trim());
+// Write-in tallies as exports label them: "Write-in", "Unassigned write-ins",
+// "SCATTERED - BLANK WRITE-IN", "SCATTERED - INELIGIBLE", "Uncertified write-ins".
+export const isWriteIn = name => /write[\s-]?ins?\b|^scattered\b|^unassigned\b|^uncertified\b/i.test(name.trim());
+// A choice printed on the ballot. Readers set `ballot` when the export says so (party column).
+const onBallot = c => c.ballot ?? !isWriteIn(c.name);
 
-// contest: {voteFor, choices: [{name, votes}]}  ->  [{status, holder?}], one per seat
+// contest: {voteFor, choices: [{name, votes, ballot?}]}  ->  [{status, holder?}], one per seat
 export function seats({voteFor, choices}) {
   const n = Math.max(1, voteFor || 1);
-  const named = choices.filter(c => !isWriteIn(c.name)).sort((a, b) => b.votes - a.votes);
-  const writeInVotes = choices.filter(c => isWriteIn(c.name)).reduce((s, c) => s + c.votes, 0);
+  const named = choices.filter(onBallot).sort((a, b) => b.votes - a.votes);
+  const writeInVotes = choices.filter(c => !onBallot(c)).reduce((s, c) => s + c.votes, 0);
   const out = [];
   for (let i = 0; i < n; i++) {
     const c = named[i];

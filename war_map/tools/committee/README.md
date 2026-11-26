@@ -7,6 +7,7 @@ The evidence rules and file format are in [`../../committee/README.md`](../../co
 ```
 counties.json        where each of the 67 counties publishes results (platform, election ID, cycle)
 run.mjs              import one county's export -> check -> write county file -> rebuild summary.json
+add-holders.mjs      add holder names to a county file's filled seats from an export, keeping its statuses
 link-map.mjs         link every county file's precincts to the map's precinct ids (map_id), then rebuild summary
 lib/clarity.mjs      reader for Clarity/Scytl sites (results.enr.clarityelections.com)
 lib/rules.mjs        vote totals -> filled / empty / unknown, with the winner's name on filled seats
@@ -47,9 +48,27 @@ node war_map/tools/committee/link-map.mjs
 
 | Platform | Counties | Reader |
 |---|---|---|
-| `clarity` | Allegheny, Cambria, Crawford, Delaware, Luzerne, York | `lib/clarity.mjs` |
+| `clarity` | Allegheny (run.mjs); York, Crawford, Delaware (add-holders.mjs) | `lib/clarity.mjs` |
 | `livevoterturnout` | Franklin, Lehigh | not yet |
-| `manual` | the other 59 (county PDFs, rosters, or nothing public) | not yet |
+| `manual` | the other 61, including Luzerne (2024 results are a PDF) and Cambria (2026 results are a Department of State summary text file) | not yet |
+
+Clarity contest names differ by county. `clarity.contest_pattern` is a regular expression with named groups
+`seat` and `precinct`, matched against the contest name without "(Vote For N)". `clarity.party` ("REP") drops
+other parties' rows and treats blank-party choices as write-ins, which is how York and Crawford list named
+write-in recipients.
+
+### Names only (`add-holders.mjs`)
+
+When a county file's statuses follow rules documented in its notes, or the Summary CSV leaves out rows a full
+re-import would need, add names without touching statuses:
+
+```bash
+node war_map/tools/committee/add-holders.mjs york --file war_map/tools/committee/.cache/york/126283-375422-summary.zip --dry-run
+```
+
+Each seat already counted as filled gets the next winning ballot candidate by votes. Named write-ins are never
+used. A precinct whose filled seats don't line up with the export (no contest, too few ballot candidates, a tie
+at the cutoff) is skipped and listed, never guessed.
 
 `clarity.verified: false` means the election ID was copied from an older source and still needs to be
 checked against the 2026 primary.

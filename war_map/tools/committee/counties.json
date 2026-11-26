@@ -93,14 +93,10 @@
    "county": "Cambria",
    "slug": "cambria",
    "current_method": "none_found",
-   "platform": "clarity",
-   "clarity": {
-    "site": "PA/Cambria",
-    "election_id": "127572",
-    "verified": false
-   },
+   "platform": "manual",
    "election": "May 19, 2026 General Primary (results not retrievable)",
-   "cycle_years": null
+   "cycle_years": null,
+   "notes": "The May 19, 2026 primary is not on Clarity (127572 is the November 2026 general; 113942 is the 2022 primary). Its official results are a Department of State summary text file on cambriacountypa.gov, which needs a reader for that format."
   },
   {
    "county": "Cameron",
@@ -174,10 +170,14 @@
    "clarity": {
     "site": "PA/Crawford",
     "election_id": "126362",
-    "verified": false
+    "version": "378478",
+    "verified": true,
+    "party": "REP",
+    "contest_pattern": "^LOCAL REPUBLICAN (?<seat>COMMITTEEPEOPLE) for (?<precinct>.+?) \\(REP\\)$"
    },
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "notes": "Holder names are added with add-holders.mjs, keeping the statuses in the county file (the Summary CSV omits write-in rows or uses county-specific write-in labels)."
   },
   {
    "county": "Cumberland",
@@ -203,10 +203,14 @@
    "clarity": {
     "site": "PA/Delaware",
     "election_id": "120839",
-    "verified": false
+    "version": "338133",
+    "verified": true,
+    "party": "REP",
+    "contest_pattern": "^(?<seat>Committeeman|Committeewoman), (?<precinct>.+)$"
    },
    "election": "April 23, 2024 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "notes": "Republican committee is elected in presidential-year primaries; election 120839 is the April 23, 2024 primary. Holder names are added with add-holders.mjs, keeping the statuses in the county file."
   },
   {
    "county": "Elk",
@@ -342,14 +346,10 @@
    "county": "Luzerne",
    "slug": "luzerne",
    "current_method": "election_results",
-   "platform": "clarity",
-   "clarity": {
-    "site": "PA/Luzerne",
-    "election_id": "126281",
-    "verified": false
-   },
+   "platform": "manual",
    "election": "April 23, 2024 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "notes": "Republican committee is elected in presidential-year primaries. The April 23, 2024 primary results were published only as a PDF (luzernecounty.org DocumentCenter 43924), not on Clarity; Clarity 126281 is the 2026 primary, which has no Republican committee contests."
   },
   {
    "county": "Lycoming",
@@ -567,10 +567,14 @@
    "clarity": {
     "site": "PA/York",
     "election_id": "126283",
-    "verified": false
+    "version": "375422",
+    "verified": true,
+    "party": "REP",
+    "contest_pattern": "^(?<precinct>.+?) Republican (?<seat>Committeeperson) 4 Year Term$"
    },
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "notes": "Holder names are added with add-holders.mjs, keeping the statuses in the county file (the Summary CSV omits write-in rows or uses county-specific write-in labels)."
   }
  ]
 }

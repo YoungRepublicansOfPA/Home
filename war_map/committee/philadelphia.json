@@ -29,6 +29,13 @@
    "title": "2026 Primary Committeepeople & Write-In Results Reports (news post linking the files)",
    "type": "results",
    "as_of": "2026-06-02"
+  },
+  {
+   "url": "https://vote.phila.gov/media/2026_PRI_COMMITTEEPEOPLE_WINNERS_REPUBLICAN.xlsx",
+   "title": "Official results export, used for holder names (winners.xlsx)",
+   "type": "results",
+   "as_of": "2026-06-02",
+   "sha256": "26a540fed170b1d075dc065c60fbfaae6a6c0d32b4a833deb0c68c40bbb64803"
   }
  ],
  "precincts": [
@@ -38,7 +45,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "BILLY LANZILOTTI SR"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -150,7 +158,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "PALMA DIGEROLAMO"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -178,7 +187,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "FRAN ESPOSITO"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -248,7 +258,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "FRANK FRAL"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -262,11 +273,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MARJILYN MURRAY"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ANTHONY BARBERA"
     }
    ]
   },
@@ -304,7 +317,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MATT MAYFIELD"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -962,7 +976,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "RONALD BLUE"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -1452,7 +1467,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MICHAEL J MCLAUGHLIN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -1480,11 +1496,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "LYNN LANDES"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "LOUISA FREDLYN ELFMAN"
     }
    ]
   },
@@ -2376,7 +2394,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "KATHLEEN TORRES"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -2516,7 +2535,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "SARAH E ROBBERTZE"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -2992,11 +3012,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CHARLES E HUMPHREYS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MARK A UMANSKY"
     }
    ]
   },
@@ -3020,7 +3042,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOHN J SOROKO"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -3034,11 +3057,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "RYAN N WLEKLINSKI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CASANDRA LEAL KEEN"
     }
    ]
   },
@@ -3048,7 +3073,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ARISTARCHUS PATRINOS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -3076,11 +3102,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "SUSAN E SEGAL BONAVITACOLA"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "GARRETT A MILLER"
     }
    ]
   },
@@ -5666,7 +5694,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOHN F SZYMANSKI SR"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -5694,7 +5723,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ANTHONY KUCZYNSKI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -5708,7 +5738,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "VERONICA DEJESUS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -5792,7 +5823,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ANITA MOORE"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -5876,7 +5908,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ROSA C CABRERA"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -6086,7 +6119,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CARLOS A SANTIAGO"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -6506,11 +6540,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ALEXANDER L KHANUJA"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "NICHOLAS KEVIN SALERNO"
     }
    ]
   },
@@ -6842,7 +6878,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "STANTON M POPEWINY"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -6870,11 +6907,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "EUGENE N CIPRIANI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "NANCY K CIPRIANI"
     }
    ]
   },
@@ -6940,11 +6979,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CALVIN R TUCKER"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "AARON C R TUCKER"
     }
    ]
   },
@@ -6996,11 +7037,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DAVID E PEARSON"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "WILLIAM F SNODGRASS"
     }
    ]
   },
@@ -7514,11 +7557,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ANYSSA KELLENBENZ"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MICHAEL DELLA POLLA"
     }
    ]
   },
@@ -7948,11 +7993,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ROBYN L BIRD"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "BENJAMIN TRIBUIANI"
     }
    ]
   },
@@ -7962,11 +8009,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "BRANDY M MYERS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOSEPH PETACCIO"
     }
    ]
   },
@@ -7976,7 +8025,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOHN BURKE"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -8004,11 +8054,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DEBORAH CLEGG"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "PAUL FURNESS"
     }
    ]
   },
@@ -8074,7 +8126,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MARY DUNBAR"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -8116,7 +8169,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "HARRIS STEINBERG"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -8256,11 +8310,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "SUE RAGO"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "SANDRA M LAVINI"
     }
    ]
   },
@@ -8270,11 +8326,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ANDREA  PELLICANE"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DOMINIQUE A STRATI"
     }
    ]
   },
@@ -8284,11 +8342,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOHN AVICOLLI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ANTHONY CHRISTINA"
     }
    ]
   },
@@ -8298,11 +8358,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "BILLY LANZILOTTI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "EVE JANKOVIC"
     }
    ]
   },
@@ -8312,11 +8374,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MARIO BOCELLI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "RITA DELVECCHIO"
     }
    ]
   },
@@ -8326,11 +8390,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DANNY MCMICHEN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "GRACE DELSPECHIO"
     }
    ]
   },
@@ -8340,11 +8406,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "RICKY LEES"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "NICKY DEIHL"
     }
    ]
   },
@@ -8354,11 +8422,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "YVONNE GIORGIO"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MICHELLE LEONE"
     }
    ]
   },
@@ -8368,11 +8438,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "STEVE QUICI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DONNA CESARI"
     }
    ]
   },
@@ -8382,7 +8454,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "PETER J SPURIO JR"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -8396,11 +8469,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "SYDNEY DUER"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MARYLOU E GDOWIK"
     }
    ]
   },
@@ -8410,11 +8485,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "THERESA A DINTINO"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ROSEMARIE RAUSER"
     }
    ]
   },
@@ -8424,11 +8501,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "PAULA A TERRERI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "STEPHEN A SCHAEFER"
     }
    ]
   },
@@ -8438,11 +8517,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "AVA TOLOMEO"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "PAM CAPOCCI TOLOMEO"
     }
    ]
   },
@@ -8452,11 +8533,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOSEPH DERITA"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ALICE DERITA"
     }
    ]
   },
@@ -8480,11 +8563,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DENISE DELULLO"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOSEPH DELULLO"
     }
    ]
   },
@@ -8494,7 +8579,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "KELLY M SEPPY"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -8508,11 +8594,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "SONNY MAZZONE"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MELISSA E HOSBACH"
     }
    ]
   },
@@ -8522,11 +8610,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MARIA G TIERNAN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CHRISTA A LERRO"
     }
    ]
   },
@@ -8550,7 +8640,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOSEPH D DINICOLANTONIO"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -8564,11 +8655,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "GIANNI MATTEO"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JULIET CAPETOLA"
     }
    ]
   },
@@ -8648,11 +8741,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "LEON BEY"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JONATHAN MONSALVO"
     }
    ]
   },
@@ -8732,7 +8827,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ANTOINETTE CAMPBELL"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -9544,7 +9640,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "SCOTT COHEN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -9670,7 +9767,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JENNIFER GUDKNECHT"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -9726,11 +9824,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DANIELLE BORMAN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "RONALD SIMONDS"
     }
    ]
   },
@@ -9740,11 +9840,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "WILLIAM J PETRUCCI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MATTHEW T DAVALOS"
     }
    ]
   },
@@ -9810,11 +9912,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "BARBARA J MOREHEAD"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MICHAEL LANG"
     }
    ]
   },
@@ -9838,11 +9942,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DONALD EVANS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ROBIN SCHAFFER"
     }
    ]
   },
@@ -9852,11 +9958,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "BERNADETTE M CIMINI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ANN MARIE WINNING"
     }
    ]
   },
@@ -9866,11 +9974,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "THOMAS NICKELS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ADRIENNE MCALLISTER"
     }
    ]
   },
@@ -9894,11 +10004,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DOMINIC J PENNACHIETTI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DOMINIC P PENNACHIETTI"
     }
    ]
   },
@@ -10342,11 +10454,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ERLINDA QUETULIO GARCIA"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "REGINA P NEELS"
     }
    ]
   },
@@ -10384,7 +10498,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "LUIS A CABRERA SR"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -10538,7 +10653,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ISRAEL CASIANO"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -10552,7 +10668,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "FRANCIS J COYLE"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -10860,7 +10977,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JEROME S SZPILA"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -10944,11 +11062,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "SUSAN A MCGLONE"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "PATRICK C MCGLONE"
     }
    ]
   },
@@ -11098,7 +11218,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "TIFFANY VANN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -11280,7 +11401,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "GARY GRISAFI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -11322,11 +11444,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "BARBARA A DOUGHERTY"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "VICTOR J CZAPOR"
     }
    ]
   },
@@ -11700,11 +11824,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "THERESA WILSON"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOANNE MAY"
     }
    ]
   },
@@ -12162,7 +12288,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "NAYIPS CONSTANTINI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -12484,7 +12611,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JESSICA ARRIAGA"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -12498,7 +12626,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JUAN O CENTENO"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -12554,7 +12683,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "LUIS A MONTAÑEZ"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -12876,7 +13006,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DONNA JURIEL CIARROCCHI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -12918,11 +13049,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "RICK ROSATI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "SOPHIA COCCIA"
     }
    ]
   },
@@ -12974,7 +13107,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MARY LISTMAN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -13212,11 +13346,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "GREG VLASSOPOULOS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "COLLEEN VLASSOPOULOS"
     }
    ]
   },
@@ -13240,11 +13376,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "BRITTANY PANICHELLI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JANET COCCIA"
     }
    ]
   },
@@ -13282,11 +13420,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CHLOE NICOLINA SILIGRINI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOELLE SILIGRINI"
     }
    ]
   },
@@ -13296,7 +13436,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CHRISTINA IACONELLI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -13338,7 +13479,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CORY MECCA"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -13366,11 +13508,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JADEN GDOWIK"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CAROL RAFFERTY"
     }
    ]
   },
@@ -13380,11 +13524,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MARISA PIERANDOZZI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "VINNY IANNECE"
     }
    ]
   },
@@ -13394,7 +13540,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "PATTY COSENZA"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -13408,11 +13555,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "TOMMY FORTE"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "LISA LEPORE"
     }
    ]
   },
@@ -13436,11 +13585,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOE BABA MICALI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "FREDDY MICALI"
     }
    ]
   },
@@ -13478,7 +13629,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MARGIE CURRAN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -13856,7 +14008,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CRAIG N MELIDOSIAN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -13898,11 +14051,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DEBORAH P FERKLER"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "EDWIN V DUNFEE"
     }
    ]
   },
@@ -14192,7 +14347,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DIANE RUGGERI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -14304,7 +14460,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MINERVA A BÁEZ"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -14332,11 +14489,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MICHAEL G SPINOSA"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ROBERT KOWNACKI"
     }
    ]
   },
@@ -14374,7 +14533,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "LEONARD J HUGHES"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -14430,7 +14590,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JAMES F TAYLOR JR"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -14486,7 +14647,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MICHAEL MROZ"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -14626,11 +14788,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ESTEFANY BANEGAS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DAVID RODRIGUEZ"
     }
    ]
   },
@@ -14640,11 +14804,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DENNIS BURGOS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CHANELE DELOATCH"
     }
    ]
   },
@@ -14668,7 +14834,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "RICHARD PEKACH"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -14682,11 +14849,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MICHAEL B BERRY"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "FRANKLIN ROMERO"
     }
    ]
   },
@@ -14696,7 +14865,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "KARL INGRAM"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -14738,11 +14908,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CARMEN M VARGAS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MARA ORTIZ"
     }
    ]
   },
@@ -14836,7 +15008,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ALEXANDRA I MINDZIAK"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -14892,11 +15065,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "TIFFANY M MARTINEZ"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "EVELYN JACKSON"
     }
    ]
   },
@@ -14906,11 +15081,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ENRIQUETA ESTRADA"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "BARBARA J DU BRUL"
     }
    ]
   },
@@ -15032,7 +15209,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "EMILIO A VAZQUEZ III"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -15368,7 +15546,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "BOBBY STEWART"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -15564,11 +15743,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "RICHARD H PYOTT JR"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "IAN P FERRY"
     }
    ]
   },
@@ -15578,7 +15759,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "BRIDGETTE D KUENY"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -15592,7 +15774,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "BRIAN WINANS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -15606,7 +15789,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "AARON JONES"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -15620,11 +15804,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CHARLIE O'CONNOR"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "GARY SCHROEDER"
     }
    ]
   },
@@ -15634,11 +15820,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ROBERT J HORN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DOUGLAS M BARON"
     }
    ]
   },
@@ -15648,7 +15836,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "GEORGEANN NEWMAN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -15662,11 +15851,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "FAITH HUEBER"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DANIEL HUEBER"
     }
    ]
   },
@@ -15760,11 +15951,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DAWN O'NEILL"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MARY JANE BURNS"
     }
    ]
   },
@@ -15788,11 +15981,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "KATHLEEN M SCHWEIKER"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JAMES D RIDGEWAY"
     }
    ]
   },
@@ -15816,7 +16011,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "FRANK CRISTINZIO"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -15830,11 +16026,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CHARLOTTE R DELANEY"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "BRUCE FRANCIS REIKOW SR"
     }
    ]
   },
@@ -15844,11 +16042,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JESSICA P LUBIN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "BILLY CORTES"
     }
    ]
   },
@@ -15858,11 +16058,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOSEPH B SIEGLE JR"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "WALT MAZUR"
     }
    ]
   },
@@ -15872,11 +16074,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "AMY GRACE"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DANIEL R NARDI JR"
     }
    ]
   },
@@ -15886,11 +16090,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "KEVIN M PASQUAY"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JEFFREY J SWEET SR"
     }
    ]
   },
@@ -15900,11 +16106,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ALLEN R SMITH"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JANET A SMITH"
     }
    ]
   },
@@ -16124,7 +16332,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ANDREW C WHEELER"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -16656,7 +16865,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CHRISTOPHER C REESE"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -17482,7 +17692,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "RANEE H MEANS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -17580,7 +17791,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MORRIS MANSON"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -17594,11 +17806,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "GABRIELLE F KITTRELES"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MARIA EWELL"
     }
    ]
   },
@@ -17678,7 +17892,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DONNA THOMAS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -17804,7 +18019,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ANDREW GENTSCH"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -18406,7 +18622,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "THOMAS BRADY"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -18490,7 +18707,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MARVIN MITCHELL"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -18518,7 +18736,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "BIRAN MAHMOUD"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -18546,11 +18765,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "PAUL SCALLY"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JEANETTE SCALLY"
     }
    ]
   },
@@ -18574,7 +18795,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ERIC EISSLER"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -18714,11 +18936,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "AARON BASHIR"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "SAIMA HAROON BASHIR"
     }
    ]
   },
@@ -18882,11 +19106,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "KHURRAM SAMSON"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "YAQOOB SAMSON"
     }
    ]
   },
@@ -18966,7 +19192,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "KATHLEEN MCGLYNN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -19008,7 +19235,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ROBERT J DILLON"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -19022,7 +19250,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "GARRY THOMAS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -19050,11 +19279,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "PATRICIA F VOGLER"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CHRISTOPHER M VOGLER"
     }
    ]
   },
@@ -19092,11 +19323,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DENNIS J RANIERI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "LAWRENCE A RANIERI III"
     }
    ]
   },
@@ -19148,7 +19381,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOHN C KOVACS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -19190,7 +19424,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CAROLYN J BOXMEYER"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -19218,11 +19453,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "KEVIN P LEONARD"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "KEVIN W LEONARD"
     }
    ]
   },
@@ -19260,11 +19497,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "RICHARD G CELLUCCI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ANNE L CELLUCCI"
     }
    ]
   },
@@ -19344,11 +19583,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ASIF JOHN GILL"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "SALIM JOHN"
     }
    ]
   },
@@ -19400,11 +19641,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "PETER A GILL"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "AIZAZ J GILL"
     }
    ]
   },
@@ -19750,11 +19993,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "SHAHZAD ANJUM"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ROCKAS MAURICE"
     }
    ]
   },
@@ -19974,7 +20219,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "LUCAS ALBESER"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -20030,7 +20276,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ADAM HANCOCK"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -20044,11 +20291,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "E MARC COSTANZO"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "LISA COSTANZO"
     }
    ]
   },
@@ -20058,11 +20307,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "LINDSAY SMITH"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "LEIGH ANN O'NEILL"
     }
    ]
   },
@@ -20114,7 +20365,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "REGINA CHEPELEVICH"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -20156,7 +20408,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MICHAEL GALLAGHER"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -20198,7 +20451,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MICHAEL O'DRAIN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -20212,7 +20466,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "FELICIA C SWEENEY"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -20310,7 +20565,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CHRISTINA HANEY"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -20352,11 +20608,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "BRANDAN PATRICK MCCAMMITT"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "EDWARD J MCCAMMITT"
     }
    ]
   },
@@ -20422,7 +20680,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "PATRICIA M DOWD"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -20436,7 +20695,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MADONNA DUFFY"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -20450,7 +20710,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MICHAEL GOZZI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -20548,7 +20809,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JERRY ROCKS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -20576,11 +20838,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "SEAN M MCNICHOLAS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DIANE RIZZO"
     }
    ]
   },
@@ -20590,7 +20854,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JAMES PIETROWSKI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -20730,7 +20995,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "HARRY F LEY JR"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -20800,7 +21066,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JONATHAN GREAVES"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -20828,11 +21095,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOSEPH A PICOZZI"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ALICE M UDOVICH"
     }
    ]
   },
@@ -21444,7 +21713,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ED WILLIAMS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -21584,7 +21854,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOHN JAMES YUST"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -22326,7 +22597,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOHN F GILL"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -22340,11 +22612,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CHARLES W MATHUES III"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "TREY GREENWOOD"
     }
    ]
   },
@@ -22354,11 +22628,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "LINDA GAYNOR"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "AL TAUBENBERGER"
     }
    ]
   },
@@ -22424,7 +22700,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CASEY M WECH"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -22438,11 +22715,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MIKE BOBBY"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DEBORAH PRESS"
     }
    ]
   },
@@ -22494,7 +22773,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "LISA KATURAN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -22522,7 +22802,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "SUSAN K PINKERTON"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -22536,11 +22817,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "SUSAN MACARTNEY"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOSEPH REGAN"
     }
    ]
   },
@@ -22550,11 +22833,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MARIA MYERS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JAMES J NICOLO SR"
     }
    ]
   },
@@ -22592,7 +22877,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JANICE MANTON"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -22606,7 +22892,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DUKE SLADEK"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -22620,11 +22907,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DEBRA BREWSTER"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOHN BREWSTER"
     }
    ]
   },
@@ -22634,7 +22923,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DAN ANDREWS"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -22704,7 +22994,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MICHAEL J STRAUGHN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -22732,7 +23023,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "VINCENT P MARIANO"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -22802,11 +23094,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MARIA CONDEN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOSEPH KINEE"
     }
    ]
   },
@@ -22900,7 +23194,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ROMAN HRYHORCHUK"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -22928,7 +23223,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CAROLINE BELGER"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -22998,7 +23294,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOSEPH MOORE"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -23250,11 +23547,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JASON J GRENSKY"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "ROBERT NORTON"
     }
    ]
   },
@@ -23306,11 +23605,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "RAYMOND H KAMPF JR"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "PATRICIA KAMPF"
     }
    ]
   },
@@ -23348,11 +23649,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DAVID P BRESLIN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "WARREN WALTERS"
     }
    ]
   },
@@ -23362,7 +23665,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MICHAEL COSTANZO"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -23376,7 +23680,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "DANIELLE MCDERMOND"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -23404,7 +23709,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JOHN F IRWIN"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -23460,11 +23766,13 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "WALTER MULHOLLAND"
     },
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "CAMILLE G MCCOLGAN"
     }
    ]
   },
@@ -23502,7 +23810,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "MATTHEW JONES"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -23642,7 +23951,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "FRANCIS JOHN DAUBER JR"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -23824,7 +24134,8 @@
    "seats": [
     {
      "seat": "Member of the Ward Executive Committee",
-     "status": "filled"
+     "status": "filled",
+     "holder": "WILLIAM P RAPONE"
     },
     {
      "seat": "Member of the Ward Executive Committee",
@@ -23883,5 +24194,5 @@
   "empty_no_filer": 0,
   "unknown": 1
  },
- "notes": "Precincts are ward-divisions (WW-DD) as printed by the City Commissioners. Each division elects two Republican members of the ward executive committee (ballot: Vote for 2); seats are not split by sex, so both are labelled \"Member of the Ward Executive Committee\". A seat is filled for each Republican winner on the City Commissioners' winners list (304 winners, including write-in winners the list names). Remaining seats are empty: no winner was listed. One seat in division 42-06 is unknown: two ballot candidates tied for second place with write-in votes also cast, and no second winner is listed. Ties in 42-04 and 42-23 were settled by drawing lots on June 5, 2026 and both divisions show two listed winners. The winners list was posted June 2, 2026 and may not reflect later resignations or ward-leader appointments. Division count (1,703) matches the results file."
+ "notes": "Precincts are ward-divisions (WW-DD) as printed by the City Commissioners. Each division elects two Republican members of the ward executive committee (ballot: Vote for 2); seats are not split by sex, so both are labelled \"Member of the Ward Executive Committee\". A seat is filled for each Republican winner on the City Commissioners' winners list (304 winners, including write-in winners the list names). Remaining seats are empty: no winner was listed. One seat in division 42-06 is unknown: two ballot candidates tied for second place with write-in votes also cast, and no second winner is listed. Ties in 42-04 and 42-23 were settled by drawing lots on June 5, 2026 and both divisions show two listed winners. The winners list was posted June 2, 2026 and may not reflect later resignations or ward-leader appointments. Division count (1,703) matches the results file. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

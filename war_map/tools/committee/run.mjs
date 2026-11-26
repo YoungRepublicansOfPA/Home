@@ -16,10 +16,12 @@ import {matchPrecincts} from './lib/match.mjs';
 import {validate, countTotals} from './lib/validate.mjs';
 import * as clarity from './lib/clarity.mjs';
 import * as electionware from './lib/electionware.mjs';
+import * as textreport from './lib/textreport.mjs';
+import * as winners from './lib/winners.mjs';
 
 const here = new URL('.', import.meta.url).pathname;
 const mapDir = join(here, '../..');
-const READERS = {clarity, electionware};
+const READERS = {clarity, electionware, textreport, winners};
 
 function args(argv) {
   const out = {_: []};

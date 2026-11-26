@@ -25,7 +25,7 @@
   "empty": 4975,
   "empty_no_filer": 399,
   "unknown": 7742,
-  "named": 926,
+  "named": 2600,
   "precincts": 9117,
   "mapped": 8083
  },
@@ -359,7 +359,7 @@
    "empty": 6,
    "empty_no_filer": 0,
    "unknown": 136,
-   "named": 0,
+   "named": 466,
    "mapped": 304,
    "next_election": {
     "year": 2030,
@@ -379,6 +379,11 @@
     {
      "url": "https://www.buckscounty.gov/1206/Election-Results",
      "title": "Bucks County Election Results page",
+     "type": "results"
+    },
+    {
+     "url": "https://www.buckscounty.gov/DocumentCenter/View/27504",
+     "title": "Official results export, used for holder names (results.pdf, generated 2026-06-09)",
      "type": "results"
     }
    ],
@@ -600,7 +605,7 @@
    "empty": 5,
    "empty_no_filer": 0,
    "unknown": 193,
-   "named": 0,
+   "named": 262,
    "mapped": 159,
    "next_election": {
     "year": 2030,
@@ -620,6 +625,11 @@
     {
      "url": "https://www.chesco.org/3979/Archived-Election-Results",
      "title": "Chester County Archived Election Results",
+     "type": "results"
+    },
+    {
+     "url": "https://www.chesco.org/DocumentCenter/View/85012",
+     "title": "Official results export, used for holder names (results.pdf, generated 2026-06-03)",
      "type": "results"
     }
    ],
@@ -1426,7 +1436,7 @@
    "empty": 37,
    "empty_no_filer": 0,
    "unknown": 128,
-   "named": 0,
+   "named": 313,
    "mapped": 165,
    "next_election": {
     "year": 2030,
@@ -1452,6 +1462,11 @@
      "url": "https://www.lancastercountypa.gov/DocumentCenter/View/20672",
      "title": "Candidate Listing, May 2026 General Primary (Republican Committeeman/Committeewoman, 2-year term, vote for 1 each)",
      "type": "candidate_listing"
+    },
+    {
+     "url": "https://electionresults.lancastercountypa.gov/cdn/results/01000000-0c90-bed5-2b89-08dc580b8c0e/Detailed%20Results_2b17c9e4-4bdc-46c9-8fac-fd472d371665.PDF",
+     "title": "Official results export, used for holder names (results.pdf, generated 2026-06-02)",
+     "type": "results"
     }
    ],
    "file": "lancaster.json"
@@ -1801,7 +1816,7 @@
    "empty": 455,
    "empty_no_filer": 0,
    "unknown": 72,
-   "named": 0,
+   "named": 329,
    "mapped": 426,
    "next_election": {
     "year": 2030,
@@ -1816,6 +1831,11 @@
     {
      "url": "https://webapp07.montcopa.org/election/2026UnofficialPrimaryElectionSummaryReport.pdf",
      "title": "Montgomery County Election Summary Report, Closed Primary May 19, 2026 (pages marked OFFICIAL RESULTS, 6/8/2026), with appended Notice Concerning Offices Eligible for Write-in Adjudication",
+     "type": "results"
+    },
+    {
+     "url": "https://webapp07.montcopa.org/election/2026UnofficialPrimaryElectionSummaryReport.pdf",
+     "title": "Official results export, used for holder names (results.pdf)",
      "type": "results"
     }
    ],
@@ -1971,7 +1991,7 @@
    "empty": 3101,
    "empty_no_filer": 0,
    "unknown": 1,
-   "named": 0,
+   "named": 304,
    "mapped": 1703,
    "next_election": {
     "year": 2030,
@@ -2001,6 +2021,11 @@
     {
      "url": "https://vote.phila.gov/news/2026/06/02/2026-primary-committeepeople-write-in-results-reports/",
      "title": "2026 Primary Committeepeople & Write-In Results Reports (news post linking the files)",
+     "type": "results"
+    },
+    {
+     "url": "https://vote.phila.gov/media/2026_PRI_COMMITTEEPEOPLE_WINNERS_REPUBLICAN.xlsx",
+     "title": "Official results export, used for holder names (winners.xlsx)",
      "type": "results"
     }
    ],

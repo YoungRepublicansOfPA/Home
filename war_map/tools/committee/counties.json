@@ -77,9 +77,24 @@
    "county": "Bucks",
    "slug": "bucks",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://www.buckscounty.gov/DocumentCenter/View/27504",
+    "page": "https://www.buckscounty.gov/1206/Election-Results",
+    "title": "certified results report",
+    "contest_pattern": "^(?<precinct>.+?) (?<seat>COMMITTEEMAN|COMMITTEEWOMAN) \\(Rep\\) \\(Vote for (?<n>\\d+)\\)$",
+    "any_contest": "\\(Vote for \\d+\\)$",
+    "end": "^Total\\s+[\\d,]",
+    "precinct_aliases": {
+     "UPPER SOUTHAMTPON TOWNSHIP WEST 1": "UPPER SOUTHAMPTON TOWNSHIP WEST 1",
+     "WARRINGTON TOWNSHIP DISTIRCT 4": "WARRINGTON TOWNSHIP DISTRICT 4",
+     "YARDLY BOROUGH": "YARDLEY BOROUGH"
+    }
+   }
   },
   {
    "county": "Butler",
@@ -132,9 +147,18 @@
    "county": "Chester",
    "slug": "chester",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://www.chesco.org/DocumentCenter/View/85012",
+    "page": "https://www.chesco.org/3979/Archived-Election-Results",
+    "title": "Electionware election summary",
+    "contest_pattern": "^REP Republican County (?<seat>Committee Member) (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND)\\s+\\S"
+   }
   },
   {
    "county": "Clarion",
@@ -319,9 +343,18 @@
    "county": "Lancaster",
    "slug": "lancaster",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://electionresults.lancastercountypa.gov/cdn/results/01000000-0c90-bed5-2b89-08dc580b8c0e/Detailed%20Results_2b17c9e4-4bdc-46c9-8fac-fd472d371665.PDF",
+    "page": "https://electionresults.lancastercountypa.gov/results/public/lancaster-county-pa/elections",
+    "title": "official detailed results",
+    "contest_pattern": "^REPUBLICAN (?<seat>COMMITTEEMAN|COMMITTEEWOMAN) (?<precinct>.+)$",
+    "end": "^Total Votes Cast\\s+[\\d,]"
+   }
   },
   {
    "county": "Lawrence",
@@ -401,9 +434,18 @@
    "county": "Montgomery",
    "slug": "montgomery",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://webapp07.montcopa.org/election/2026UnofficialPrimaryElectionSummaryReport.pdf",
+    "title": "election summary report marked OFFICIAL RESULTS, dated 6/8/2026",
+    "contest_pattern": "^(?<precinct>.+?) Republican (?<seat>Committeeperson) \\(Vote for (?<n>\\d+)\\)$",
+    "any_contest": "\\(Vote for \\d+\\)$",
+    "end": "^Total Votes\\s+[\\d,]"
+   }
   },
   {
    "county": "Montour",
@@ -441,9 +483,19 @@
    "county": "Philadelphia",
    "slug": "philadelphia",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "winners",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "winners": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://vote.phila.gov/media/2026_PRI_COMMITTEEPEOPLE_WINNERS_REPUBLICAN.xlsx",
+    "race_column": "A",
+    "name_column": "C",
+    "race_pattern": "^(?<precinct>\\d{2}-\\d{2}) REP$",
+    "seat": "Member of the Ward Executive Committee",
+    "vote_for": 2
+   }
   },
   {
    "county": "Pike",

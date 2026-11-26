@@ -17,10 +17,12 @@ import {basename, join, resolve} from 'node:path';
 import {validate} from './lib/validate.mjs';
 import * as clarity from './lib/clarity.mjs';
 import * as electionware from './lib/electionware.mjs';
+import * as textreport from './lib/textreport.mjs';
+import * as winners from './lib/winners.mjs';
 
 const here = new URL('.', import.meta.url).pathname;
 const mapDir = join(here, '../..');
-const READERS = {clarity, electionware};
+const READERS = {clarity, electionware, textreport, winners};
 const fail = msg => { console.error('error: ' + msg); process.exit(1); };
 const argv = process.argv.slice(2);
 const dryRun = argv.includes('--dry-run');

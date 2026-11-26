@@ -11,6 +11,8 @@ add-holders.mjs      add holder names to a county file's filled seats from an ex
 link-map.mjs         link every county file's precincts to the map's precinct ids (map_id), then rebuild summary
 lib/clarity.mjs      reader for Clarity/Scytl sites (results.enr.clarityelections.com)
 lib/electionware.mjs reader for Electionware "Election Summary" PDFs (checks each contest against its own total)
+lib/textreport.mjs   configurable reader for other text-layout results PDFs (Bucks, Montgomery, Lancaster, Chester)
+lib/winners.mjs      reader for an official winners-list spreadsheet (Philadelphia); reads only race and name
 lib/rules.mjs        vote totals -> filled / empty / unknown, with the winner's name on filled seats
 lib/match.mjs        precinct-name matching against the map (strict -> loose -> abbreviations, one-to-one only)
 lib/validate.mjs     totals, allowed fields (holder only on filled seats), map ids against the map
@@ -51,6 +53,8 @@ node war_map/tools/committee/link-map.mjs
 |---|---|---|
 | `clarity` | Allegheny (run.mjs); York, Crawford, Delaware (add-holders.mjs) | `lib/clarity.mjs` |
 | `electionware` | Cambria | `lib/electionware.mjs` |
+| `textreport` | Bucks, Montgomery, Lancaster, Chester (add-holders.mjs) | `lib/textreport.mjs` |
+| `winners` | Philadelphia (add-holders.mjs) | `lib/winners.mjs` |
 | `livevoterturnout` | Franklin, Lehigh | not yet |
 | `manual` | the other 60, including Luzerne (its 2024 results are a PDF in another layout) | not yet |
 
@@ -58,6 +62,11 @@ Electionware reports are PDFs that start "Summary Results" and end each page "Re
 Electionware". Set `electionware.url` (the PDF), `electionware.page` (where the county posts it) and, if the
 county titles its contests differently, `electionware.contest_pattern` (named groups `seat` and `precinct`,
 matched against the title line). Needs `pdftotext` (poppler).
+
+`textreport` settings: `contest_pattern` (named groups `seat`, `precinct`, optional `n`), `any_contest` (any title,
+ends the current contest), `end` (a line that ends a contest), `precinct_aliases` (misspelled source titles). The
+total column is found by arithmetic, an unreadable numeric line stops the run, and long names that wrap around
+their vote line are rebuilt and listed in the output for review.
 
 Clarity contest names differ by county. `clarity.contest_pattern` is a regular expression with named groups
 `seat` and `precinct`, matched against the contest name without "(Vote For N)". `clarity.party` ("REP") drops

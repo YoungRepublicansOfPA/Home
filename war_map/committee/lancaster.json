@@ -23,6 +23,13 @@
       "title": "Candidate Listing, May 2026 General Primary (Republican Committeeman/Committeewoman, 2-year term, vote for 1 each)",
       "type": "candidate_listing",
       "as_of": "2026-03-25"
+    },
+    {
+      "url": "https://electionresults.lancastercountypa.gov/cdn/results/01000000-0c90-bed5-2b89-08dc580b8c0e/Detailed%20Results_2b17c9e4-4bdc-46c9-8fac-fd472d371665.PDF",
+      "title": "Official results export, used for holder names (results.pdf, generated 2026-06-02)",
+      "type": "results",
+      "as_of": "2026-06-02",
+      "sha256": "d882b88083c5b8271cdf7dda51b1b2c5795d9979962fed39192bda2d3aaa54f3"
     }
   ],
   "precincts": [
@@ -48,7 +55,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kimberly A Rankin"
         }
       ]
     },
@@ -148,7 +156,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "John E Barley"
         },
         {
           "seat": "Committeewoman",
@@ -174,7 +183,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ted Darcus"
         },
         {
           "seat": "Committeewoman",
@@ -226,7 +236,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Anthony C Panzino"
         },
         {
           "seat": "Committeewoman",
@@ -239,11 +250,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Lawrence Resh II"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kimberly Kauffman"
         }
       ]
     },
@@ -330,7 +343,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Willie Borden Jr"
         },
         {
           "seat": "Committeewoman",
@@ -395,7 +409,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jonathan Mitchell"
         },
         {
           "seat": "Committeewoman",
@@ -438,7 +453,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jami Rhynes"
         }
       ]
     },
@@ -460,7 +476,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jacob Glensor"
         },
         {
           "seat": "Committeewoman",
@@ -473,7 +490,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Christopher P Larsen"
         },
         {
           "seat": "Committeewoman",
@@ -538,11 +556,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Steven Davis"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Cheryl L Davis"
         }
       ]
     },
@@ -552,11 +572,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ryan Cochran"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Angie Lehman"
         }
       ]
     },
@@ -566,11 +588,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Glen G Beiler Jr"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Hope W Stayer"
         }
       ]
     },
@@ -579,11 +603,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Robin Coffroth"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Brenda Shock"
         }
       ]
     },
@@ -676,11 +702,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Rodney Redcay"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Sunny Redcay"
         }
       ]
     },
@@ -690,7 +718,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kevin Harley"
         },
         {
           "seat": "Committeewoman",
@@ -704,7 +733,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Travis S Anderson"
         },
         {
           "seat": "Committeewoman",
@@ -718,7 +748,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Grant W Keener"
         },
         {
           "seat": "Committeewoman",
@@ -732,11 +763,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Marlin Keller"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Carla Turner"
         }
       ]
     },
@@ -746,11 +779,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Miguel Cruz"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Margaret Hayes"
         }
       ]
     },
@@ -760,11 +795,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Peter Ogilvie"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Sharon L Ogilvie"
         }
       ]
     },
@@ -774,11 +811,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jeff Winterborne"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Emily Gallo"
         }
       ]
     },
@@ -788,11 +827,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jason Harvey"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Laura Harvey"
         }
       ]
     },
@@ -802,11 +843,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "William Ives"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Emily Carper"
         }
       ]
     },
@@ -816,11 +859,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Gregor Phillips"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Amanda Sell"
         }
       ]
     },
@@ -834,7 +879,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Lydia Kovalchuk"
         }
       ]
     },
@@ -844,7 +890,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Steven B Heffner"
         },
         {
           "seat": "Committeewoman",
@@ -872,7 +919,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Michael Brown"
         },
         {
           "seat": "Committeewoman",
@@ -886,11 +934,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jason Haddad"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Gina Sanguinetti"
         }
       ]
     },
@@ -904,7 +954,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Tannia Carpenter"
         }
       ]
     },
@@ -928,11 +979,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kurt C Strenck"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kelly Anne Smith"
         }
       ]
     },
@@ -942,11 +995,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Brenden Wagner"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mindy Fee"
         }
       ]
     },
@@ -956,11 +1011,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Andrew Dorman"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Diane E Dorman"
         }
       ]
     },
@@ -970,11 +1027,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Scott Nagle"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Margaret Schwenk"
         }
       ]
     },
@@ -984,11 +1043,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Justin Hess"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Erin M Snyder"
         }
       ]
     },
@@ -998,11 +1059,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Edward Hersh"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Stephanie Hersh"
         }
       ]
     },
@@ -1012,11 +1075,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jeffrey W Rambish"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Dorothy L Imel"
         }
       ]
     },
@@ -1026,11 +1091,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "John Michener"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jill Hope"
         }
       ]
     },
@@ -1054,11 +1121,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Robin E Hess"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Marilyn J Hess"
         }
       ]
     },
@@ -1068,7 +1137,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "James D Yoder"
         },
         {
           "seat": "Committeewoman",
@@ -1082,11 +1152,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Barry E Mowrer"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Corinne Clark"
         }
       ]
     },
@@ -1095,7 +1167,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Todd Williams"
         },
         {
           "seat": "Committeewoman",
@@ -1109,11 +1182,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jason Kauffman"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Heather Kauffman"
         }
       ]
     },
@@ -1137,7 +1212,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Branden Downing"
         },
         {
           "seat": "Committeewoman",
@@ -1150,11 +1226,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "John Riddell"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kathy Sutherland"
         }
       ]
     },
@@ -1164,11 +1242,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "David L Felpel"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Amy Keller"
         }
       ]
     },
@@ -1178,11 +1258,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Michael Chance"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mary Beth Rohrer"
         }
       ]
     },
@@ -1191,7 +1273,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Joshua S Horst"
         },
         {
           "seat": "Committeewoman",
@@ -1204,11 +1287,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Sam Fisher"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Miriam Fisher"
         }
       ]
     },
@@ -1218,11 +1303,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jeffrey Sauder"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Heidi Sauder"
         }
       ]
     },
@@ -1232,11 +1319,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Shawn Eberly"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Priscilla Eberly"
         }
       ]
     },
@@ -1245,11 +1334,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Linford L Weaver"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Katie Walker"
         }
       ]
     },
@@ -1258,11 +1349,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Paul E Breneman"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Janice R Breneman"
         }
       ]
     },
@@ -1271,11 +1364,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Tristan Hurst"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Beverly Hoffman"
         }
       ]
     },
@@ -1285,11 +1380,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Donald Groff"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Randi Shober"
         }
       ]
     },
@@ -1299,11 +1396,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JamesOwen Cutts"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Desiree L Wagner"
         }
       ]
     },
@@ -1313,11 +1412,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Steve Brubaker"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Lorraine Kulp"
         }
       ]
     },
@@ -1327,11 +1428,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ronald Forsyth"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Betty Weaver"
         }
       ]
     },
@@ -1341,11 +1444,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "James Cage"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Dawn Cage"
         }
       ]
     },
@@ -1355,11 +1460,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Brian L Weiland"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Aubri Weiland"
         }
       ]
     },
@@ -1368,11 +1475,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Scott Dombach"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Robin W Church"
         }
       ]
     },
@@ -1381,11 +1490,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Donald Connelly"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Christine Connelly"
         }
       ]
     },
@@ -1394,11 +1505,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Steve Mohr"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kelly Heisey"
         }
       ]
     },
@@ -1408,11 +1521,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Darren R Miller"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Sarah Slobozien"
         }
       ]
     },
@@ -1422,11 +1537,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Christopher Dorr"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Lydia Dorr"
         }
       ]
     },
@@ -1436,11 +1553,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Tom Jones"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Rochelle Jones"
         }
       ]
     },
@@ -1450,11 +1569,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jon Brandt"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ginger L Wayde"
         }
       ]
     },
@@ -1464,11 +1585,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Dale Aungst"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Diana Focht"
         }
       ]
     },
@@ -1478,11 +1601,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Daniel Slade"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Stephanie Slade"
         }
       ]
     },
@@ -1492,11 +1617,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Don Lamb"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Nanette Lamb"
         }
       ]
     },
@@ -1505,11 +1632,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Bryan D Cutler"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Cheyanne M Cutler"
         }
       ]
     },
@@ -1518,11 +1647,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Thomas J Whitehill"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Tara J Welch"
         }
       ]
     },
@@ -1532,11 +1663,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Leon Hurst"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Diane Hurst"
         }
       ]
     },
@@ -1546,11 +1679,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Bob Winegardner"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Valerie A Spelman"
         }
       ]
     },
@@ -1560,11 +1695,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "James Shirk"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Anita C Yoder"
         }
       ]
     },
@@ -1574,11 +1711,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Justin Sauder"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Karen Sauder"
         }
       ]
     },
@@ -1588,7 +1727,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Steven Schulz"
         },
         {
           "seat": "Committeewoman",
@@ -1602,11 +1742,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Michael T Greiner"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Natale Benigno"
         }
       ]
     },
@@ -1615,7 +1757,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "David Thornton"
         },
         {
           "seat": "Committeewoman",
@@ -1628,11 +1771,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Dustin Giffing"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Christina Giffing"
         }
       ]
     },
@@ -1641,11 +1786,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Gary Shenk"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Theresa A Diehl"
         }
       ]
     },
@@ -1655,7 +1802,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Shawn M Landis"
         },
         {
           "seat": "Committeewoman",
@@ -1669,11 +1817,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Rob Rohrbach"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Marjorie Hornberger"
         }
       ]
     },
@@ -1683,11 +1833,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jack F Peters"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Brenda Peters"
         }
       ]
     },
@@ -1696,11 +1848,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Leon J Ressler"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Louann Ressler"
         }
       ]
     },
@@ -1710,11 +1864,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jason D Smith"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jennifer Poletti"
         }
       ]
     },
@@ -1724,11 +1880,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Dylan T Bard"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Wendy Voulopos"
         }
       ]
     },
@@ -1738,7 +1896,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mitchell J Barnes"
         },
         {
           "seat": "Committeewoman",
@@ -1752,7 +1911,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Brett R Miller"
         },
         {
           "seat": "Committeewoman",
@@ -1766,7 +1926,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Daniel C White"
         },
         {
           "seat": "Committeewoman",
@@ -1780,7 +1941,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Adam T Aloisi"
         },
         {
           "seat": "Committeewoman",
@@ -1794,11 +1956,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ed Pfursich"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jacquelyn Pfursich"
         }
       ]
     },
@@ -1822,11 +1986,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Guy G Borghi"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Janet L Borghi"
         }
       ]
     },
@@ -1850,11 +2016,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Scott Wiglesworth"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Melissa Montgomery-Woolfolk"
         }
       ]
     },
@@ -1878,11 +2046,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Douglas Brubaker"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Thelma J McEvoy"
         }
       ]
     },
@@ -1892,11 +2062,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Michael Tallarico"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mary Anne Richards"
         }
       ]
     },
@@ -1906,7 +2078,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Alex D Tran"
         },
         {
           "seat": "Committeewoman",
@@ -1920,11 +2093,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Terry Trego"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Holly Trego"
         }
       ]
     },
@@ -1934,11 +2109,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Matthew Frigm"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Carol A Frigm"
         }
       ]
     },
@@ -1962,11 +2139,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ed Fisher"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Debra Bixler"
         }
       ]
     },
@@ -1976,11 +2155,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Brent N Smith"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Elen O'Donnell"
         }
       ]
     },
@@ -2004,11 +2185,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "David M Dumeyer"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Trudy Kay Lapp"
         }
       ]
     },
@@ -2017,7 +2200,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Luke Weaver"
         },
         {
           "seat": "Committeewoman",
@@ -2030,11 +2214,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Robert B Hayward Jr"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Denise Zabala"
         }
       ]
     },
@@ -2043,11 +2229,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Neal A Rice"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Melissa S Rice"
         }
       ]
     },
@@ -2073,7 +2261,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Marilynn R Davison"
         }
       ]
     },
@@ -2082,11 +2271,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "David L Reath"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Gina L Reath"
         }
       ]
     },
@@ -2095,11 +2286,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Merv Smucker"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kathy S Smucker"
         }
       ]
     },
@@ -2122,11 +2315,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ray D'Agostino"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Elaine T Benner"
         }
       ]
     },
@@ -2136,11 +2331,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Immo Sulyok"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Cindy Smucker"
         }
       ]
     },
@@ -2149,7 +2346,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Eric Bieber"
         },
         {
           "seat": "Committeewoman",
@@ -2163,11 +2361,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Hilmar L Fricke"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Fay Snyder"
         }
       ]
     },
@@ -2177,11 +2377,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Dustin A Dommel"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Angie Eichelberger"
         }
       ]
     },
@@ -2191,11 +2393,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Marc Frampton"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jean Maher"
         }
       ]
     },
@@ -2204,11 +2408,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Geoffrey Beers"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jennifer Beers"
         }
       ]
     },
@@ -2218,11 +2424,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jake Sudderth"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Anne Rivers"
         }
       ]
     },
@@ -2288,7 +2496,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Max Anater"
         },
         {
           "seat": "Committeewoman",
@@ -2343,7 +2552,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Lee Esh"
         },
         {
           "seat": "Committeewoman",
@@ -2357,11 +2567,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Lee Stoltzfus"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Darlene Stoltzfus"
         }
       ]
     },
@@ -2371,11 +2583,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Keith J Greiner"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Dawn C Bomberger"
         }
       ]
     },
@@ -2385,11 +2599,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Eric D W Reath"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jenna I Reath"
         }
       ]
     },
@@ -2398,11 +2614,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Timothy Osborne"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kristy Osborne"
         }
       ]
     },
@@ -2412,11 +2630,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Tyler Hochstetler"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Duffy Johnson"
         }
       ]
     },
@@ -2426,7 +2646,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jon Kabel"
         },
         {
           "seat": "Committeewoman",
@@ -2440,11 +2661,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "R Larson Lundquist"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Sara Irvine"
         }
       ]
     },
@@ -2454,11 +2677,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Allen Wesley Carr Jr"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Julia A Livingston"
         }
       ]
     },
@@ -2468,11 +2693,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Roy E Baldwin"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Margaret B Barranger"
         }
       ]
     },
@@ -2482,7 +2709,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mark Stanavage"
         },
         {
           "seat": "Committeewoman",
@@ -2514,7 +2742,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Beverly J Martin"
         }
       ]
     },
@@ -2528,7 +2757,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Barbara Green"
         }
       ]
     },
@@ -2538,11 +2768,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Michael Rudisill"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Julie Brooks Rudisill"
         }
       ]
     },
@@ -2580,11 +2812,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Wendell Huyard"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mary Jo Huyard"
         }
       ]
     },
@@ -2598,7 +2832,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Cathy Kambouroglos"
         }
       ]
     },
@@ -2608,11 +2843,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Eric Beezer"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Valerie Harnish"
         }
       ]
     },
@@ -2622,11 +2859,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Nathan Van Name"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Corie Adams"
         }
       ]
     },
@@ -2636,7 +2875,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Stephen Ferich"
         },
         {
           "seat": "Committeewoman",
@@ -2650,7 +2890,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kevin L Lapp"
         },
         {
           "seat": "Committeewoman",
@@ -2678,11 +2919,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Nathan Geesey"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Anne L Cooper"
         }
       ]
     },
@@ -2710,7 +2953,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Devon Musser"
         }
       ]
     },
@@ -2720,11 +2964,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Michael E Zimmerman"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Lisa L Buckwalter"
         }
       ]
     },
@@ -2734,11 +2980,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Victor Knight"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Michelle Knight"
         }
       ]
     },
@@ -2748,11 +2996,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Michael K Leaman"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Lori J Leaman"
         }
       ]
     },
@@ -2762,11 +3012,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mark A Harris"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Denise R Harris"
         }
       ]
     },
@@ -2776,11 +3028,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jim Keck"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Stephanie A Keck"
         }
       ]
     },
@@ -2790,11 +3044,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "S Frederick Herr"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Martha Fiffer Raush"
         }
       ]
     },
@@ -2804,7 +3060,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Rolland King"
         },
         {
           "seat": "Committeewoman",
@@ -2818,11 +3075,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Matthew B Reever"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Janet E Purcell"
         }
       ]
     },
@@ -2832,11 +3091,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Carlton Lee Rintz"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Cathy E Rintz"
         }
       ]
     },
@@ -2846,7 +3107,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jeffrey Weinman"
         },
         {
           "seat": "Committeewoman",
@@ -2860,11 +3122,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Keith Edward Kauffman"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kathleen Trevino"
         }
       ]
     },
@@ -2874,11 +3138,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mike Hall"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Amber Martin"
         }
       ]
     },
@@ -2888,11 +3154,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Alan Spoonhour"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Marcia Spoonhour"
         }
       ]
     },
@@ -2902,11 +3170,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "James Gilles"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Lori S Longenecker"
         }
       ]
     },
@@ -2916,11 +3186,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "James Shrum"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Nicky Woods"
         }
       ]
     },
@@ -2930,11 +3202,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Paul T Mummau Jr"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Donna Coble"
         }
       ]
     },
@@ -2943,11 +3217,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Raymond Stoltzfus"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Emily Stoltzfus"
         }
       ]
     },
@@ -2957,11 +3233,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Lonnel J Swarr"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Carrie Swarr"
         }
       ]
     },
@@ -2985,11 +3263,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Thomas Walsh"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Loretta J Radanovic"
         }
       ]
     },
@@ -3013,11 +3293,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Michael D Novak"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Beth V Novak"
         }
       ]
     },
@@ -3027,11 +3309,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "John Schroeder"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jill Schroeder"
         }
       ]
     },
@@ -3041,11 +3325,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Brent A Siegrist"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Esther Smoker"
         }
       ]
     },
@@ -3055,11 +3341,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Timothy J Ryan"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Tina Mummau Dagen"
         }
       ]
     },
@@ -3068,11 +3356,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Robert D Kettering"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Nancy Sprowls"
         }
       ]
     },
@@ -3082,11 +3372,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ken Kowalski"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Sara Shenk"
         }
       ]
     },
@@ -3095,11 +3387,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mark E Erb"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ann M Hess"
         }
       ]
     },
@@ -3113,7 +3407,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Judy Mills"
         }
       ]
     },
@@ -3122,11 +3417,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kyle Linardo"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Lil Nissley"
         }
       ]
     },
@@ -3136,11 +3433,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Matt Wanner"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Tamara Wanner"
         }
       ]
     },
@@ -3150,11 +3449,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Robert L Beiler"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Teri Stoltzfus"
         }
       ]
     },
@@ -3164,11 +3465,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Benjamin L Ingles"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Denise Byler"
         }
       ]
     },
@@ -3177,11 +3480,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "John Stoltzfus"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kelly Osborne"
         }
       ]
     },
@@ -3191,11 +3496,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Rich Mellott"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Dale Keeney"
         }
       ]
     },
@@ -3205,7 +3512,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jerry Steinman"
         },
         {
           "seat": "Committeewoman",
@@ -3219,11 +3527,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Randall L Wenger"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Christina Ovalle"
         }
       ]
     },
@@ -3247,11 +3557,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ryan Armstrong"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Angelea Lingo"
         }
       ]
     },
@@ -3261,11 +3573,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Scott Felty"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jessica Musser"
         }
       ]
     },
@@ -3275,11 +3589,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Justin Kratzer"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Stephanie Hill"
         }
       ]
     },
@@ -3289,11 +3605,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Andrew E Spade"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Nicole Weaver"
         }
       ]
     },
@@ -3303,11 +3621,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Rick Rhinier"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jean Kelley"
         }
       ]
     }
@@ -3320,5 +3640,5 @@
     "empty_no_filer": 0,
     "unknown": 128
   },
-  "notes": "Seat status from official precinct results for the REPUBLICAN COMMITTEEMAN and REPUBLICAN COMMITTEEWOMAN contests (vote for 1 each; the county candidate listing shows a 2-year term, so these seats are elected every even-year primary). filled = a ballot candidate received votes (no write-in total exceeded the ballot candidate anywhere). empty = no ballot candidate and zero votes cast. unknown = no ballot candidate but write-in votes were cast (including named write-ins), so a write-in may have won and accepted; the public report does not say. Precinct names are the contest titles printed in the results (Committeeman contest title used for both seats; Committeewoman titles in East Petersburg and two Hempfield districts omit the word 'District'). The results report has 241 reporting sections because Lancaster City 7-8 (0708) is reported in two parts (0708-2 CV and 0708-3 LS); their votes were combined into one 7-8 precinct, giving 240 committee districts and 480 seats. Appointments made after the primary are not captured."
+  "notes": "Seat status from official precinct results for the REPUBLICAN COMMITTEEMAN and REPUBLICAN COMMITTEEWOMAN contests (vote for 1 each; the county candidate listing shows a 2-year term, so these seats are elected every even-year primary). filled = a ballot candidate received votes (no write-in total exceeded the ballot candidate anywhere). empty = no ballot candidate and zero votes cast. unknown = no ballot candidate but write-in votes were cast (including named write-ins), so a write-in may have won and accepted; the public report does not say. Precinct names are the contest titles printed in the results (Committeeman contest title used for both seats; Committeewoman titles in East Petersburg and two Hempfield districts omit the word 'District'). The results report has 241 reporting sections because Lancaster City 7-8 (0708) is reported in two parts (0708-2 CV and 0708-3 LS); their votes were combined into one 7-8 precinct, giving 240 committee districts and 480 seats. Appointments made after the primary are not captured. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

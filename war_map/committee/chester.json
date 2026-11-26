@@ -17,6 +17,13 @@
    "title": "Chester County Archived Election Results",
    "type": "results",
    "as_of": "2026-11-24"
+  },
+  {
+   "url": "https://www.chesco.org/DocumentCenter/View/85012",
+   "title": "Official results export, used for holder names (results.pdf, generated 2026-06-03)",
+   "type": "results",
+   "as_of": "2026-06-03",
+   "sha256": "cd94b91d096a187bc1590355a9e1b6a294dba7be704944f30c89baebc52f8b0b"
   }
  ],
  "precincts": [
@@ -40,11 +47,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Debra Bergo"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Conrad Bergo"
     }
    ]
   },
@@ -54,11 +63,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Ashley Miersch"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Matthew Roland"
     }
    ]
   },
@@ -68,11 +79,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Kim Gehrke"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Peter George Mylonas"
     }
    ]
   },
@@ -81,11 +94,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Caroline Fijan"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Christopher Downing"
     }
    ]
   },
@@ -94,11 +109,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Susanne L. Kelly"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Mary Ann Saenz"
     }
    ]
   },
@@ -107,11 +124,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Susan Batcher"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Michael W. Nichols"
     }
    ]
   },
@@ -120,7 +139,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Anita Edgarian"
     },
     {
      "seat": "County Committee Member",
@@ -134,7 +154,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Brandi Levine"
     },
     {
      "seat": "County Committee Member",
@@ -148,7 +169,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Brian J. Herkalo"
     },
     {
      "seat": "County Committee Member",
@@ -162,11 +184,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Mark Marciano"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Rebecca Podhiny"
     }
    ]
   },
@@ -203,7 +227,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Donna Knaak"
     },
     {
      "seat": "County Committee Member",
@@ -216,11 +241,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Diane P. Mulhearn"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Paul Vranesic"
     }
    ]
   },
@@ -230,11 +257,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Stacy Melesky"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Michael Melesky"
     }
    ]
   },
@@ -256,11 +285,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Jon Veurink"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Cheryl Schneider"
     }
    ]
   },
@@ -270,11 +301,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Ann Marie Franciscus"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Jack Conti"
     }
    ]
   },
@@ -284,7 +317,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Tony Wagner"
     },
     {
      "seat": "County Committee Member",
@@ -298,11 +332,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "William O. Acker III"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "David Lemon"
     }
    ]
   },
@@ -326,11 +362,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "George Chambers"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Sean Deminski"
     }
    ]
   },
@@ -368,11 +406,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Sally Mininger"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Eileen Christian"
     }
    ]
   },
@@ -382,11 +422,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Christine V. Hill"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Chick Coles"
     }
    ]
   },
@@ -396,11 +438,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Brian P. Sullivan"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Ian Thompson"
     }
    ]
   },
@@ -535,11 +579,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Tim Hennessey"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Carol Hennessey"
     }
    ]
   },
@@ -562,7 +608,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Michael Albert Moyer"
     },
     {
      "seat": "County Committee Member",
@@ -590,11 +637,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Rick Cameron"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Mark Wolfrey"
     }
    ]
   },
@@ -632,7 +681,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Stacey Ranalli"
     },
     {
      "seat": "County Committee Member",
@@ -660,7 +710,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "James McGuire"
     },
     {
      "seat": "County Committee Member",
@@ -674,11 +725,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Christina Laczko"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "William Laczko"
     }
    ]
   },
@@ -702,11 +755,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Elizabeth A. Cavanaugh-Kerr"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "James A. Kerr"
     }
    ]
   },
@@ -730,11 +785,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Christopher Glover"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Alessandra Nicolas"
     }
    ]
   },
@@ -758,11 +815,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Donna Ellingsen"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Les Mahan"
     }
    ]
   },
@@ -772,11 +831,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Monica Feeley"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Tom Feeley"
     }
    ]
   },
@@ -800,11 +861,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Nina Petro"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Bob Knecht"
     }
    ]
   },
@@ -814,11 +877,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Daniel Keane"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Joe Piazza"
     }
    ]
   },
@@ -828,11 +893,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "John Auerbach"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "David Galligan"
     }
    ]
   },
@@ -842,11 +909,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "John F. Hertzog"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Linda C. Hertzog"
     }
    ]
   },
@@ -856,7 +925,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Mary Anne Lipton"
     },
     {
      "seat": "County Committee Member",
@@ -870,7 +940,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Kennan Flanagan"
     },
     {
      "seat": "County Committee Member",
@@ -884,7 +955,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Karen Miller"
     },
     {
      "seat": "County Committee Member",
@@ -898,11 +970,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Kathy Pioggia"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Fred Pioggia"
     }
    ]
   },
@@ -912,11 +986,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Willis Guyer III"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "James Barger"
     }
    ]
   },
@@ -940,11 +1016,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Kimberly K. Schaffer"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Michael Trio"
     }
    ]
   },
@@ -954,11 +1032,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Melissa Bright"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Cody Bright"
     }
    ]
   },
@@ -967,11 +1047,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Karen Tooke"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Eric Tooke"
     }
    ]
   },
@@ -980,11 +1062,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Mark B. Cahill"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "David Wills Leyshon"
     }
    ]
   },
@@ -993,11 +1077,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Ada Nestor"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Felice Fein"
     }
    ]
   },
@@ -1032,7 +1118,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Ryan Glisson"
     },
     {
      "seat": "County Committee Member",
@@ -1045,7 +1132,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Kris R. Vollrath"
     },
     {
      "seat": "County Committee Member",
@@ -1058,7 +1146,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Glynnis Harvey"
     },
     {
      "seat": "County Committee Member",
@@ -1071,7 +1160,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Jeff Rice"
     },
     {
      "seat": "County Committee Member",
@@ -1098,7 +1188,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Dana Young"
     },
     {
      "seat": "County Committee Member",
@@ -1112,11 +1203,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Sandra L. Cooper"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Natalie Dawn Hill"
     }
    ]
   },
@@ -1126,11 +1219,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Jolene Morrison"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Scott Stilson"
     }
    ]
   },
@@ -1140,11 +1235,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Nick DiGiacomo"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Michael Scott Hartz"
     }
    ]
   },
@@ -1180,7 +1277,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Russell Crane"
     },
     {
      "seat": "County Committee Member",
@@ -1208,11 +1306,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "David Shoemaker"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "John W. James III"
     }
    ]
   },
@@ -1250,11 +1350,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Russell McKinnon"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Shelley F. Sanders"
     }
    ]
   },
@@ -1264,11 +1366,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Cindy Reyburn"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Margaret Mamola"
     }
    ]
   },
@@ -1278,11 +1382,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Evelyn Curtin Spencer"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Timothy M. Frazier II"
     }
    ]
   },
@@ -1292,11 +1398,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Charlene Santucci"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Jerry La Mastra"
     }
    ]
   },
@@ -1306,11 +1414,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Catherine O. Raymond"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Gail Newman"
     }
    ]
   },
@@ -1320,11 +1430,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "James Horgan"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "George Rogers Howard, Jr."
     }
    ]
   },
@@ -1390,11 +1502,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Parker Loomis"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Connie Frame"
     }
    ]
   },
@@ -1404,7 +1518,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Steve Phillips"
     },
     {
      "seat": "County Committee Member",
@@ -1418,11 +1533,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Ann Marie Cassidy"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Gwendolyn G. Oscar"
     }
    ]
   },
@@ -1431,7 +1548,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Anthony DiFrancesco"
     },
     {
      "seat": "County Committee Member",
@@ -1458,11 +1576,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Jim Cassidy"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Geddes Marcano"
     }
    ]
   },
@@ -1472,11 +1592,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Monica DeLucia"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Al Wells"
     }
    ]
   },
@@ -1486,11 +1608,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Michael Miele"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Casey Bye"
     }
    ]
   },
@@ -1500,11 +1624,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Dan Barr"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Sherri Smith"
     }
    ]
   },
@@ -1514,11 +1640,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Elizabeth Varcardipone"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "David Varcardipone"
     }
    ]
   },
@@ -1528,11 +1656,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Michele Rich-Ianieri"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Nicola D. Ianieri"
     }
    ]
   },
@@ -1542,7 +1672,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Stephen Gaspar"
     },
     {
      "seat": "County Committee Member",
@@ -1570,11 +1701,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Kevin Stroup"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Gerald Iler"
     }
    ]
   },
@@ -1584,11 +1717,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Donald L. Hershey"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Rebecca F. Conner"
     }
    ]
   },
@@ -1598,7 +1733,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Sharon Wolf"
     },
     {
      "seat": "County Committee Member",
@@ -1626,11 +1762,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Jacki Smiro"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Devin Purcell"
     }
    ]
   },
@@ -1652,11 +1790,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Mark DeVito"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Gail McCarthy"
     }
    ]
   },
@@ -1665,11 +1805,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Frank Schweitzer"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Kathleen Tobia"
     }
    ]
   },
@@ -1678,11 +1820,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Diane Mateson"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "James Stuart Wiswall"
     }
    ]
   },
@@ -1691,7 +1835,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Michael Kuznar"
     },
     {
      "seat": "County Committee Member",
@@ -1743,11 +1888,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Jamie Schaffer"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "John Schaffer"
     }
    ]
   },
@@ -1756,7 +1903,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Lawrence M. Hogan"
     },
     {
      "seat": "County Committee Member",
@@ -1821,11 +1969,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Diane Marro"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Paul G. Celentano"
     }
    ]
   },
@@ -1834,11 +1984,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Danielle Calvert"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Becky McCarron"
     }
    ]
   },
@@ -1848,11 +2000,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Christine Roussey"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Tracy Ray Bowes"
     }
    ]
   },
@@ -1862,7 +2016,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Cathy Ingham"
     },
     {
      "seat": "County Committee Member",
@@ -1876,7 +2031,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Zachary Kravitz"
     },
     {
      "seat": "County Committee Member",
@@ -1890,11 +2046,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Harold M. Hallman III"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Jeffrey Kern"
     }
    ]
   },
@@ -1904,7 +2062,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Andrea Gosselin"
     },
     {
      "seat": "County Committee Member",
@@ -1918,7 +2077,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Tricia Daller"
     },
     {
      "seat": "County Committee Member",
@@ -1946,7 +2106,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Arthur H. Wright III"
     },
     {
      "seat": "County Committee Member",
@@ -1960,11 +2121,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Lisa Detwiller-Sifford"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Brooke Olander"
     }
    ]
   },
@@ -1988,11 +2151,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Deb Sulli"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Joseph Greco"
     }
    ]
   },
@@ -2002,11 +2167,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Robin Coroniti"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Dolores Troiani"
     }
    ]
   },
@@ -2086,11 +2253,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Joe Spall"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Barbara Spall"
     }
    ]
   },
@@ -2099,7 +2268,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Edward Rubinstein"
     },
     {
      "seat": "County Committee Member",
@@ -2112,11 +2282,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Suzanne Niemeyer"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Samuel H. Wrightson, Jr."
     }
    ]
   },
@@ -2125,11 +2297,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Anna Rockich"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Kevin Rockich"
     }
    ]
   },
@@ -2138,11 +2312,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Frank Cook"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "David Crossed"
     }
    ]
   },
@@ -2151,11 +2327,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Jean Faber"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Raffi Terzian"
     }
    ]
   },
@@ -2190,11 +2368,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Rosemary Fordjour"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Lisa Jane Greenwood"
     }
    ]
   },
@@ -2216,11 +2396,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Jay G. Joyce"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Barbara Ellis"
     }
    ]
   },
@@ -2242,7 +2424,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Clare Jameson"
     },
     {
      "seat": "County Committee Member",
@@ -2255,7 +2438,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Kristin Robie"
     },
     {
      "seat": "County Committee Member",
@@ -2268,7 +2452,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Ronald Zartarian"
     },
     {
      "seat": "County Committee Member",
@@ -2281,7 +2466,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Andrew W. Snyder"
     },
     {
      "seat": "County Committee Member",
@@ -2294,7 +2480,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Richard Cordes"
     },
     {
      "seat": "County Committee Member",
@@ -2307,11 +2494,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Ying Yang"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Ruijin Qi"
     }
    ]
   },
@@ -2321,11 +2510,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Barbara Sherlock"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Todd Rimmer"
     }
    ]
   },
@@ -2335,7 +2526,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Scott Fetterolf"
     },
     {
      "seat": "County Committee Member",
@@ -2349,11 +2541,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Jean Dufresne"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "John D. Peterson"
     }
    ]
   },
@@ -2363,11 +2557,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Kimberly Hellmig"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Nancy Kane"
     }
    ]
   },
@@ -2377,7 +2573,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Christopher Wright"
     },
     {
      "seat": "County Committee Member",
@@ -2391,11 +2588,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Douglas H. Simpson"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Lois Cleary"
     }
    ]
   },
@@ -2405,7 +2604,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Diane Houser"
     },
     {
      "seat": "County Committee Member",
@@ -2433,11 +2633,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Paula Tropiano"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Susan Kiesling"
     }
    ]
   },
@@ -2447,11 +2649,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Craig McNeill"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Rob Willis"
     }
    ]
   },
@@ -2461,11 +2665,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Frank Sullivan"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "David R. Smith"
     }
    ]
   },
@@ -2475,11 +2681,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Barbara C. Macdonald"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Joseph Samarco"
     }
    ]
   },
@@ -2488,7 +2696,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Matthew Butch"
     },
     {
      "seat": "County Committee Member",
@@ -2501,7 +2710,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Allison Roelofs"
     },
     {
      "seat": "County Committee Member",
@@ -2514,11 +2724,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Beckie Laughlin"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Paulette L. Nicolas"
     }
    ]
   },
@@ -2542,7 +2754,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Marietta Gies"
     },
     {
      "seat": "County Committee Member",
@@ -2584,11 +2797,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Michelle Davis"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Robert Minninger"
     }
    ]
   },
@@ -2598,11 +2813,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Anthony J. Simonetti"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "George Dulchinos"
     }
    ]
   },
@@ -2612,11 +2829,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Thomas Helwig"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Jeffrey Goldberg"
     }
    ]
   },
@@ -2626,11 +2845,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Caleb M. Jones"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Stephen J. Biddy"
     }
    ]
   },
@@ -2640,11 +2861,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Ryan Sharp"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Todd Verrecchia"
     }
    ]
   },
@@ -2654,11 +2877,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Samantha L. Horosky"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Brooks Roland"
     }
    ]
   },
@@ -2668,11 +2893,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Linda Ingenthron"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Nicholas Toolan"
     }
    ]
   },
@@ -2696,11 +2923,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Sharon Higgins"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "James Hanak"
     }
    ]
   },
@@ -2710,11 +2939,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Michael Gola"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Donna Gola"
     }
    ]
   },
@@ -2724,11 +2955,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Brian Brink"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Brian Knaub"
     }
    ]
   },
@@ -2738,11 +2971,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Ashley Padula"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Linda D. Nave"
     }
    ]
   },
@@ -2766,7 +3001,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Tracia Chen"
     },
     {
      "seat": "County Committee Member",
@@ -2780,11 +3016,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Gregory Biles"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Steve Aylward"
     }
    ]
   },
@@ -2822,7 +3060,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Angeline Cremins"
     },
     {
      "seat": "County Committee Member",
@@ -2836,7 +3075,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Nancy Fulginiti"
     },
     {
      "seat": "County Committee Member",
@@ -2850,7 +3090,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Patricia E. Roscioli"
     },
     {
      "seat": "County Committee Member",
@@ -2864,11 +3105,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Fernando Fonseca"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Geoffrey M. Cope"
     }
    ]
   },
@@ -2878,11 +3121,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Christian Callahan"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "JC Callahan"
     }
    ]
   },
@@ -2892,11 +3137,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Kimberly J. Taylor"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Kimberly Keiser"
     }
    ]
   },
@@ -2906,11 +3153,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Scott Fellows"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Melissa Behm"
     }
    ]
   },
@@ -2920,7 +3169,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Eva Cieslak"
     },
     {
      "seat": "County Committee Member",
@@ -2934,11 +3184,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Christopher Ousey"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Mike Winterode"
     }
    ]
   },
@@ -2947,11 +3199,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Frank Martinsky"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Adam Reiland"
     }
    ]
   },
@@ -2960,7 +3214,8 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Blake Stehr"
     },
     {
      "seat": "County Committee Member",
@@ -2973,11 +3228,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Jean LoCastro"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Ted Leisenring"
     }
    ]
   },
@@ -2986,11 +3243,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Deborah J. Regester"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "William H. Tickner"
     }
    ]
   },
@@ -2999,11 +3258,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Donald Mancini"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Jennifer Hanak"
     }
    ]
   },
@@ -3025,11 +3286,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Rachel Shoemaker"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Erich Barchi"
     }
    ]
   },
@@ -3038,11 +3301,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Patricia Gallagher"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Jennifer Moller"
     }
    ]
   },
@@ -3051,11 +3316,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Robert A. DeLuca"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Marie Quinn-Johnson"
     }
    ]
   },
@@ -3065,11 +3332,13 @@
    "seats": [
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Mary Maguire"
     },
     {
      "seat": "County Committee Member",
-     "status": "filled"
+     "status": "filled",
+     "holder": "Liane Burton Duncheskie"
     }
    ]
   },
@@ -3178,5 +3447,5 @@
   "empty_no_filer": 0,
   "unknown": 193
  },
- "notes": "Each of 230 precincts has a \"Republican County Committee Member\" contest (Vote for 2), so seats are labelled \"County Committee Member\". Republican committee contests also appeared in the 2024 primary; 2026 is used as the most recent. Filled = a ballot candidate placed in the top two with more votes than all write-ins combined. Empty = an open seat beyond the number of write-in votes cast (each write-in vote can elect at most one person). Unknown = an open seat that write-in votes could have filled (193 seats). The official report names some write-in recipients (\"Write-In: ...\"), but write-in winners are kept unknown because no county list confirms who qualified or accepted."
+ "notes": "Each of 230 precincts has a \"Republican County Committee Member\" contest (Vote for 2), so seats are labelled \"County Committee Member\". Republican committee contests also appeared in the 2024 primary; 2026 is used as the most recent. Filled = a ballot candidate placed in the top two with more votes than all write-ins combined. Empty = an open seat beyond the number of write-in votes cast (each write-in vote can elect at most one person). Unknown = an open seat that write-in votes could have filled (193 seats). The official report names some write-in recipients (\"Write-In: ...\"), but write-in winners are kept unknown because no county list confirms who qualified or accepted. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

@@ -15,6 +15,7 @@ import {createHash} from 'node:crypto';
 import {execFileSync} from 'node:child_process';
 import {basename, join, resolve} from 'node:path';
 import {validate} from './lib/validate.mjs';
+import {matchPrecincts} from './lib/match.mjs';
 import * as clarity from './lib/clarity.mjs';
 import * as electionware from './lib/electionware.mjs';
 import * as textreport from './lib/textreport.mjs';
@@ -57,20 +58,32 @@ const doc = JSON.parse(readFileSync(outFile));
 
 const norm = s => s.toLowerCase().replace(/\s+/g, ' ').trim();
 const seatKey = s => norm(s).replace(/[\s\d]+$/, '').replace(/\s+/g, ''); // "Committeeperson 1" -> "committeeperson"
-const byPrecinct = new Map();
+// Some reports print each contest twice (a summary, then precinct sections). Identical copies
+// are merged; copies that disagree make that contest unusable, so its precinct is skipped.
+const byPrecinct = new Map(), conflicted = new Set();
+const sig = c => JSON.stringify(c.choices.map(x => [x.name, x.votes, x.ballot]));
 for (const c of contests) {
   const k = norm(c.precinct);
   if (!byPrecinct.has(k)) byPrecinct.set(k, []);
+  const same = byPrecinct.get(k).find(x => x.seat === c.seat);
+  if (same) { if (sig(same) !== sig(c)) conflicted.add(k); continue; }
   byPrecinct.get(k).push(c);
 }
+
+// Precinct names in the export that differ from the county file ("CHERRY" vs "Cherry Township")
+// are matched one-to-one with the same matcher used for the map; ambiguous ones stay unmatched.
+const exportNames = [...byPrecinct.keys()].map(k => ({id: k, name: byPrecinct.get(k)[0].precinct}));
+const fileNames = doc.precincts.map(p => p.name).filter(n => !byPrecinct.has(norm(n)));
+const {ids: fuzzy} = matchPrecincts(fileNames, exportNames.filter(e => !doc.precincts.some(p => norm(p.name) === e.id)));
 
 let named = 0, skipped = [], cleared = 0;
 for (const p of doc.precincts) {
   for (const s of p.seats) if (s.holder) { delete s.holder; cleared++; }
   const filled = p.seats.filter(s => s.status === 'filled');
   if (!filled.length) continue;
-  const found = byPrecinct.get(norm(p.name));
+  const found = byPrecinct.get(norm(p.name)) || byPrecinct.get(fuzzy.get(p.name));
   if (!found) { skipped.push(`${p.name}: no contest in the export`); continue; }
+  if (conflicted.has(norm(found[0].precinct))) { skipped.push(`${p.name}: the export prints this contest twice with different results`); continue; }
   // Which contest covers which seats: one contest for all seats (vote for N), or one per seat label.
   // A single contest electing every seat (York, Crawford: vote for 2) covers them all;
   // otherwise each contest covers the seats with its own label (Committeeman, Committeewoman).
@@ -90,7 +103,7 @@ for (const p of doc.precincts) {
     seats.filter(s => s.status === 'filled').forEach((s, i) => plan.push([s, ballot[i].name]));
   }
   if (!ok) continue;
-  for (const [s, name] of plan) { s.holder = name; named++; }
+  for (const [s, name] of plan) { if (!s.holder) named++; s.holder = name; }
 }
 
 // Record the evidence for the names.

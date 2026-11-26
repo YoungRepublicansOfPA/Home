@@ -17,6 +17,13 @@
       "title": "2026 General Primary certified precinct report (checked: contains no Republican county committee contests)",
       "type": "results",
       "as_of": "2026-06-03"
+    },
+    {
+      "url": "https://www.beavercountypa.gov/getmedia/2145b2e1-e2ae-4e76-a59e-7d5ceb30769d/April-2024-Summary-Report.pdf",
+      "title": "Official results export, used for holder names (results.pdf, generated 2024-05-09)",
+      "type": "results",
+      "as_of": "2024-05-09",
+      "sha256": "b684cc25b1728e4f5355f307e39fb78325f14e07c6aebcf1f1a860fc37817dbe"
     }
   ],
   "precincts": [
@@ -236,11 +243,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MICHAEL J GALLAGHER"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "REBECCA GALLAGHER"
         }
       ]
     },
@@ -403,7 +412,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "REGIS A COLLINS"
         },
         {
           "seat": "Committeewoman",
@@ -417,11 +427,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CRAIG R HOLDREN"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PENNY MORROW HOLDREN"
         }
       ]
     },
@@ -477,7 +489,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ANITA ALBERTI"
         }
       ]
     },
@@ -589,7 +602,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "AMY VORDERBRUEGGEN"
         }
       ]
     },
@@ -711,7 +725,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVE ANDERSON"
         },
         {
           "seat": "Committeewoman",
@@ -799,7 +814,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TONI SHUPPE"
         }
       ]
     },
@@ -947,7 +963,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CARMEN D SPARA"
         },
         {
           "seat": "Committeewoman",
@@ -991,7 +1008,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MARY CHRISTINE WHIPPLE"
         }
       ]
     },
@@ -1005,7 +1023,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "FABIOLA GERGERICH"
         }
       ]
     },
@@ -1197,11 +1216,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHN ANTHONY FANTONE"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DEBRA LEE FANTONE"
         }
       ]
     },
@@ -1225,7 +1246,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVID BARENSFELD"
         },
         {
           "seat": "Committeewoman",
@@ -1438,7 +1460,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BARBARA BLAKE"
         }
       ]
     },
@@ -1641,7 +1664,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MARTIN E PLUTKO"
         },
         {
           "seat": "Committeewoman",
@@ -1826,5 +1850,5 @@
     "empty_no_filer": 0,
     "unknown": 214
   },
-  "notes": "Beaver County Republicans elect county committee in presidential-year primaries; the certified May 19, 2026 primary report has Democratic committee contests but no Republican county committee contests, so the April 23, 2024 official results are the latest election evidence. Each of 129 precincts elects one Committeeman and one Committeewoman (vote for 1 each). 'filled' = a named ballot candidate received votes; 'unknown' = no ballot candidate but write-in votes were cast (the report shows them as 'Not Assigned', and in one contest, Economy Boro 1 Committeewoman, as a named write-in; seats with a named write-in leader are deliberately left 'unknown'); 'empty' = no candidate and zero votes. Separately, the 2024 ballot also had 20 municipal 'Committee Member At-Large' contests electing 69 at-large seats, which are not precinct seats and are excluded from these totals (their status by the same rules: filled 5, unknown 64). Appointments since May 2024 are not reflected; no public current roster was found."
+  "notes": "Beaver County Republicans elect county committee in presidential-year primaries; the certified May 19, 2026 primary report has Democratic committee contests but no Republican county committee contests, so the April 23, 2024 official results are the latest election evidence. Each of 129 precincts elects one Committeeman and one Committeewoman (vote for 1 each). 'filled' = a named ballot candidate received votes; 'unknown' = no ballot candidate but write-in votes were cast (the report shows them as 'Not Assigned', and in one contest, Economy Boro 1 Committeewoman, as a named write-in; seats with a named write-in leader are deliberately left 'unknown'); 'empty' = no candidate and zero votes. Separately, the 2024 ballot also had 20 municipal 'Committee Member At-Large' contests electing 69 at-large seats, which are not precinct seats and are excluded from these totals (their status by the same rules: filled 5, unknown 64). Appointments since May 2024 are not reflected; no public current roster was found. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

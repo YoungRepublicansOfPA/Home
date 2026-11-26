@@ -23,6 +23,13 @@
       "title": "Bedford County Elections - Election Results",
       "type": "results",
       "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://www.bedfordcountypa.org/OfficialElectionSummaryDistrictReportRPT.pdf",
+      "title": "Official results export, used for holder names (results.pdf)",
+      "type": "results",
+      "as_of": "2024-05-21",
+      "sha256": "edbb85055305325539dcc6b34760097b068c430bf631782fdca6357ba012f56e"
     }
   ],
   "precincts": [
@@ -44,7 +51,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Sandra L Geisel"
         },
         {
           "seat": "Committee Person",
@@ -58,7 +66,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Christine Dallara Jones"
         },
         {
           "seat": "Committee Person",
@@ -72,7 +81,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Sandra J Diehl"
         },
         {
           "seat": "Committee Person",
@@ -155,7 +165,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Harry F Leonard Jr"
         },
         {
           "seat": "Committee Person",
@@ -197,7 +208,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Melissa A Cottle"
         },
         {
           "seat": "Committee Person",
@@ -253,11 +265,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Wanda Whitcomb"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Randy Maxwell"
         }
       ]
     },
@@ -407,7 +421,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jordan Teeters"
         },
         {
           "seat": "Committee Person",
@@ -519,11 +534,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Barry Dallara"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Sharon L Dallara"
         }
       ]
     },
@@ -561,11 +578,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Christine Hershberger Ebersole"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Karen J Weaver"
         }
       ]
     },
@@ -592,5 +611,5 @@
     "empty_no_filer": 0,
     "unknown": 58
   },
-  "notes": "Bedford County Republicans elect committee persons in presidential-year primaries: the official 2024 primary report lists one Republican Committee Person contest per precinct (40, Vote For 2, not gender-designated), while the 2026 primary carried only Democratic county committee contests (from the posted unofficial 2026 summary; no official 2026 file is linked). A named ballot candidate who received votes is filled. Seats left only to write-ins are unknown, including where the report lists named write-in recipients, because it does not show whether a write-in qualified or accepted. Seats with no candidate and zero votes are empty. Appointments since 2024 are not captured."
+  "notes": "Bedford County Republicans elect committee persons in presidential-year primaries: the official 2024 primary report lists one Republican Committee Person contest per precinct (40, Vote For 2, not gender-designated), while the 2026 primary carried only Democratic county committee contests (from the posted unofficial 2026 summary; no official 2026 file is linked). A named ballot candidate who received votes is filled. Seats left only to write-ins are unknown, including where the report lists named write-in recipients, because it does not show whether a write-in qualified or accepted. Seats with no candidate and zero votes are empty. Appointments since 2024 are not captured. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

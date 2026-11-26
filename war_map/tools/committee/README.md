@@ -55,12 +55,12 @@ node war_map/tools/committee/link-map.mjs
 |---|---|---|
 | `clarity` | Allegheny (run.mjs); York, Crawford, Delaware (add-holders.mjs) | `lib/clarity.mjs` |
 | `electionware` | Cambria | `lib/electionware.mjs` |
-| `textreport` | Bucks, Montgomery, Lancaster, Chester, Luzerne, Lebanon, Cumberland, Northampton, Adams, Berks, Lehigh, Blair, Lackawanna, Mercer, Butler, Indiana, Erie, Lycoming (add-holders.mjs) | `lib/textreport.mjs` |
+| `textreport` | 31 counties, from Bucks to Juniata (add-holders.mjs); see counties.json | `lib/textreport.mjs` |
 | `winners` | Philadelphia (add-holders.mjs) | `lib/winners.mjs` |
 | `roster` | Lawrence (add-holders.mjs) | `lib/roster.mjs` |
 | `htmllines` | Monroe (add-holders.mjs) | `lib/htmllines.mjs` |
 | `livevoterturnout` | Franklin, Lehigh | not yet |
-| `manual` | the rest; Dauphin's results are a web app, Pike refuses scripted and in-page requests, and Huntingdon's site timed out | not yet |
+| `manual` | the rest: Dauphin (web app), Pike, Clarion, Venango, Potter (refuse scripted requests), Mifflin (timed out), Columbia (two contests side by side per page), Franklin and Greene (web pages), Bradford, Snyder, Wyoming, Susquehanna (other layouts) | not yet |
 
 Some county sites refuse scripted downloads (Lycoming, Pike, Cambria). Download those files in a browser and pass
 the saved path with `--file`.
@@ -89,7 +89,9 @@ re-import would need, add names without touching statuses:
 node war_map/tools/committee/add-holders.mjs york --file war_map/tools/committee/.cache/york/126283-375422-summary.zip --dry-run
 ```
 
-Each seat already counted as filled gets the next winning ballot candidate by votes. Named write-ins are never
+Each seat already counted as filled gets the next winning ballot candidate by votes. Contests a report prints twice
+(summary and precinct sections) are merged when identical and skipped when they differ. Precinct names that differ
+from the county file are matched one-to-one with lib/match.mjs. Named write-ins are never
 used. A precinct whose filled seats don't line up with the export (no contest, too few ballot candidates, a tie
 at the cutoff) is skipped and listed, never guessed.
 

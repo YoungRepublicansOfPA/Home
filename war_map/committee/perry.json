@@ -17,6 +17,13 @@
       "title": "Perry County Historical Election Results page",
       "type": "results",
       "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://perryco.org/wp-content/uploads/2025/04/Statement-of-Votes-Cast-by-Precincts-for-PA_Perry_2024P_Official-198.pdf",
+      "title": "Official results export, used for holder names (results.pdf)",
+      "type": "results",
+      "as_of": "2024-05-02",
+      "sha256": "db022001cade535c1603eefa8776dd97069bc251bafa83b1576a0726a7e00237"
     }
   ],
   "precincts": [
@@ -26,7 +33,8 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KAREN L GOCHENAUR"
         },
         {
           "seat": "Member 2",
@@ -68,23 +76,28 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PATTI L MCLAUGHLIN"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "STEVEN J WILT"
         },
         {
           "seat": "Member 3",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LEEANN MCLAUGHLIN"
         },
         {
           "seat": "Member 4",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LILY GUTHRIE"
         },
         {
           "seat": "Member 5",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KENNETH \"NEMO\" NIEMANN"
         },
         {
           "seat": "Member 6",
@@ -140,15 +153,18 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "STEVEN C BARLUP"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TIMOTHY MOENCH"
         },
         {
           "seat": "Member 3",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TRICIA MOENCH"
         }
       ]
     },
@@ -158,43 +174,53 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DENNIS W SHAMBAUGH"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "THERESA RESSLER"
         },
         {
           "seat": "Member 3",
-          "status": "filled"
+          "status": "filled",
+          "holder": "WILLIAM E WALLENMEYER"
         },
         {
           "seat": "Member 4",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SHERYL LUCAS"
         },
         {
           "seat": "Member 5",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVID J LANZA"
         },
         {
           "seat": "Member 6",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ANDREW M LUCAS"
         },
         {
           "seat": "Member 7",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DOUGLAS G DAVEY"
         },
         {
           "seat": "Member 8",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JENNIFER L BIDOLI"
         },
         {
           "seat": "Member 9",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JAMES LUCAS"
         },
         {
           "seat": "Member 10",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ROBERT B KEITH"
         },
         {
           "seat": "Member 11",
@@ -290,7 +316,8 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DANNY E RICE"
         },
         {
           "seat": "Member 2",
@@ -304,11 +331,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CHRISTINE KERKENDALL"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KRYSTAL HEATH"
         },
         {
           "seat": "Member 3",
@@ -336,11 +365,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DONALD N MCCLURE JR"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVID C PUNDOCK"
         }
       ]
     },
@@ -363,11 +394,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KELLY R WETZEL"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LEIGH ANN M URBAN"
         },
         {
           "seat": "Member 3",
@@ -407,11 +440,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "HOLLY E CABELL"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "THOMAS A SWEGER"
         }
       ]
     },
@@ -421,11 +456,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "HARVA OWINGS BAUGHMAN"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CAROL J THORN"
         }
       ]
     },
@@ -434,7 +471,8 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "STEPHEN F PETERS JR"
         },
         {
           "seat": "Member 2",
@@ -494,15 +532,18 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LAURA FEDDER"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CARRIE L LINGLE"
         },
         {
           "seat": "Member 3",
-          "status": "filled"
+          "status": "filled",
+          "holder": "EMMA M LINGLE"
         },
         {
           "seat": "Member 4",
@@ -527,7 +568,8 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CLYDE S MCMILLEN"
         },
         {
           "seat": "Member 2",
@@ -541,7 +583,8 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RUBY F VILLARREAL"
         },
         {
           "seat": "Member 2",
@@ -607,11 +650,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ROBERT MYERS"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JAMES W HAMILTON III"
         },
         {
           "seat": "Member 3",
@@ -629,7 +674,8 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PATRICIA A GUTHEIL"
         },
         {
           "seat": "Member 2",
@@ -647,15 +693,18 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVE WILSON"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JAMES L FULLER"
         },
         {
           "seat": "Member 3",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LINDA L FULLER"
         },
         {
           "seat": "Member 4",
@@ -692,5 +741,5 @@
     "empty_no_filer": 0,
     "unknown": 73
   },
-  "notes": "Perry County Republicans elected '<precinct> REPUBLICAN COMMITTEE PERSONS' in the April 23, 2024 primary, with 2 to 15 seats per precinct (120 total across 31 precincts), so seats_per_precinct is null and seats are labelled Member 1..N. The 2025 primary had no Republican committee contest. The county's May 19, 2026 primary results file was not posted on its historical-results page when checked, so it couldn't be confirmed whether Republican committee seats were also on the 2026 ballot; if they were, these 2024 figures are superseded. The report lists each write-in recipient as an unnamed 'Write-in' line. Seats are filled in order of votes: a ballot candidate with votes = filled; a place held by a write-in recipient = unknown; a tie across the cutoff = unknown; leftover seats with no votes at all = empty. Precinct names are as printed in the contest titles (municipality names; e.g. 'LIVERPOOL BORO', 'TOBOYNE 1ST'). The county-wide section of the report was used, since page breaks garble some precinct-section blocks. Appointments since 2024 are not captured."
+  "notes": "Perry County Republicans elected '<precinct> REPUBLICAN COMMITTEE PERSONS' in the April 23, 2024 primary, with 2 to 15 seats per precinct (120 total across 31 precincts), so seats_per_precinct is null and seats are labelled Member 1..N. The 2025 primary had no Republican committee contest. The county's May 19, 2026 primary results file was not posted on its historical-results page when checked, so it couldn't be confirmed whether Republican committee seats were also on the 2026 ballot; if they were, these 2024 figures are superseded. The report lists each write-in recipient as an unnamed 'Write-in' line. Seats are filled in order of votes: a ballot candidate with votes = filled; a place held by a write-in recipient = unknown; a tie across the cutoff = unknown; leftover seats with no votes at all = empty. Precinct names are as printed in the contest titles (municipality names; e.g. 'LIVERPOOL BORO', 'TOBOYNE 1ST'). The county-wide section of the report was used, since page breaks garble some precinct-section blocks. Appointments since 2024 are not captured. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

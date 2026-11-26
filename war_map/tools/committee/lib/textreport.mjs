@@ -10,6 +10,7 @@
 //                    line followed by numbers). end and any_contest are case-sensitive.
 //   precinct_aliases {"SOURCE SPELLING": "name in the county file"} for misspelled titles.
 //   seat_labels      {"M": "Committeeman"} when the title uses a short seat label.
+//   label_column     index of the name among the text columns, when other columns precede the votes.
 //
 // Which number is the total is found by arithmetic: a choice line's total is the column equal
 // to the sum of the others (first in Bucks and Chester, last in Montgomery), or its only number.
@@ -61,12 +62,13 @@ export function read(path, cfg = {}) {
       contests.push(cur);
       continue;
     }
-    if (any && any.test(t)) { cur = null; continue; }
-    if (!cur) continue;
+    // A seat-count line can look like a title ending "(Vote for 2)", so read it first.
     // Luzerne wraps long titles: "(REP) (Vote for 2)" or "for 2)" on the next line.
     // Erie wraps "(Vote for" / "2)", so a lone "2)" is the seat count too.
     const vf = t.match(/^(?:\((?:REP|DEM)\)\s*)?\(?(?:Vote )?For (\d+)\)?$/i) || t.match(/^(\d+)\)$/);
-    if (vf) { cur.voteFor = +vf[1]; continue; }
+    if (vf) { if (cur) cur.voteFor = +vf[1]; continue; }
+    if (any && any.test(t)) { cur = null; continue; }
+    if (!cur) continue;
     if (end.test(t)) { cur = null; continue; }
     if (SKIP.test(t) || FURNITURE.test(t) || !/\d/.test(t)) continue; // column headers, wrapped titles, page furniture
     // Drop percentage columns ("62    100.00%    54    8" in Lackawanna) before finding the total.
@@ -81,7 +83,9 @@ export function read(path, cfg = {}) {
     // ("WRITE-IN" in Luzerne, "DEM") marks a write-in or another party's line.
     const cols = m[1].split(/\s{2,}/);
     let party = cols.length > 1 && /^[A-Z][A-Z-]{1,9}$/.test(cols.at(-1)) ? cols.pop() : null;
-    let label = cols.join(' ').replace(/\s+(REP|DEM)$/, '').trim();
+    // label_column: when the report prints more columns before the votes (Sullivan prints the
+    // precinct), only that column is the name.
+    let label = (cfg.label_column != null ? cols[cfg.label_column] || '' : cols.join(' ')).replace(/\s+(REP|DEM)$/, '').trim();
     // A long name can wrap around its vote line: "CATHERINE ZHOU" / "REP  111 ... 133" / "MATTHEWS".
     // When the vote line carries only a party code, rebuild the name from the adjacent text lines.
     if (/^(REP|DEM)$/.test(label)) {

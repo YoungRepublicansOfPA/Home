@@ -11,6 +11,13 @@
       "title": "Tioga County General Primary May 19 2026 - Official Results (Summary Results Report)",
       "type": "results",
       "as_of": "2026-06-11"
+    },
+    {
+      "url": "https://tiogacountypa.us/getmedia/323fceeb-bb07-486c-9912-75a93b4bae7b/Official-Primary-Election-Results-2026.pdf",
+      "title": "Official results export, used for holder names (results.pdf, generated 2026-06-11)",
+      "type": "results",
+      "as_of": "2026-06-11",
+      "sha256": "baeca86078e0e3a61ce4340975b0daf6840917b21c82ecb38f7a6aa52c3ebb4c"
     }
   ],
   "precincts": [
@@ -202,11 +209,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Gary Wilson"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Pamela J. English"
         }
       ]
     },
@@ -216,11 +225,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Joseph Slomian"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JoAnne Slomian"
         }
       ]
     },
@@ -234,7 +245,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Margaret Carol Druck"
         }
       ]
     },
@@ -272,11 +284,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Marc Rice"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Chelsie Martin"
         }
       ]
     },
@@ -346,7 +360,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Sandra L. Stevens"
         }
       ]
     },
@@ -398,7 +413,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Donald O Norman"
         },
         {
           "seat": "Committeewoman",
@@ -416,7 +432,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Joy Childs"
         }
       ]
     },
@@ -430,7 +447,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Lauren Owlett"
         }
       ]
     },
@@ -482,11 +500,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Charles Caswell"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Vanessa A. Caswell"
         }
       ]
     },
@@ -510,7 +530,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "William V. West"
         },
         {
           "seat": "Committeewoman",
@@ -580,7 +601,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Paul Zelinka"
         },
         {
           "seat": "Committeewoman",
@@ -597,5 +619,5 @@
     "empty_no_filer": 0,
     "unknown": 49
   },
-  "notes": "Tioga County listed a REP COMM MAN and a REP COMM WOMAN contest (Vote For 1 each) for all 41 precincts. Counts use the 30-page Election Summary section of the official report; the precinct pages later in the same PDF repeat the same contests and were not counted again. The county printed three precincts under slightly different names on the man and woman contests (Lawrenceville Boro/Borough, Wellsboro Ward 1/Boro Ward 1, Wellsboro Ward 2/Boro Ward 2); they are merged under the committeeman spelling. A named candidate who received votes is filled; seats with only write-in votes are unknown because the report does not show whether a write-in qualified or accepted; seats with zero votes are empty. Appointments after the primary are not captured."
+  "notes": "Tioga County listed a REP COMM MAN and a REP COMM WOMAN contest (Vote For 1 each) for all 41 precincts. Counts use the 30-page Election Summary section of the official report; the precinct pages later in the same PDF repeat the same contests and were not counted again. The county printed three precincts under slightly different names on the man and woman contests (Lawrenceville Boro/Borough, Wellsboro Ward 1/Boro Ward 1, Wellsboro Ward 2/Boro Ward 2); they are merged under the committeeman spelling. A named candidate who received votes is filled; seats with only write-in votes are unknown because the report does not show whether a write-in qualified or accepted; seats with zero votes are empty. Appointments after the primary are not captured. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

@@ -23,6 +23,13 @@
       "title": "Clearfield County 2026 General Primary Precinct Report, Official Results (no Republican county committee contests on the ballot)",
       "type": "results",
       "as_of": "2026-06-17"
+    },
+    {
+      "url": "https://clearfieldcountypa.gov/DocumentCenter/View/129/Precinct-Report-PDF",
+      "title": "Official results export, used for holder names (results.pdf)",
+      "type": "results",
+      "as_of": "2024-05-08",
+      "sha256": "2aafd65a6fec88d1ae5c4a1c2dfa3ea51c8b6fb5d6e3c3d7a2fd3e6fd68276a3"
     }
   ],
   "precincts": [
@@ -32,7 +39,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ZANE G HENSAL"
         },
         {
           "seat": "Member",
@@ -172,7 +180,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DANA E SMITH"
         },
         {
           "seat": "Member",
@@ -214,7 +223,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BERNARD L GABRIEL"
         },
         {
           "seat": "Member",
@@ -256,7 +266,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ROBERT A FERGUSON"
         },
         {
           "seat": "Member",
@@ -437,11 +448,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JAMES F MULTHAUF"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ARLEEN P MULTHAUF"
         }
       ]
     },
@@ -521,11 +534,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ROGER D RORABAUGH"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MELANIE J RORABAUGH"
         }
       ]
     },
@@ -633,7 +648,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JEFFREY O MCCLINTOCK"
         },
         {
           "seat": "Member",
@@ -784,11 +800,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ADRIANNE M PETERS SIPES"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CHAD ALAN MANEY"
         }
       ]
     },
@@ -797,7 +815,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SUSAN L WILLIAMS"
         },
         {
           "seat": "Member",
@@ -932,11 +951,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ADA C GABLER"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVID J SINGER"
         }
       ]
     },
@@ -1004,5 +1025,5 @@
     "empty_no_filer": 0,
     "unknown": 116
   },
-  "notes": "Clearfield Republican county committee members were last on the ballot in the April 23, 2024 primary as 'Member of the Republican County Committee <precinct>', vote for 2 per precinct; the May 19, 2026 primary report contains no Republican county committee contests. A seat is 'filled' when a printed ballot candidate received votes, 'empty' when no candidate ran and zero write-in votes were cast, and 'unknown' when write-in votes were cast (including any named write-in winner), since the report does not show whether a write-in winner qualified or accepted. The 2024 report has 70 precincts; the 2026 report has 63 after redistricting (petitions to redistrict DuBois City, Sandy, Beccaria, Cooper, Morris and Woodward were posted by the county), so these 2024 names may not match current precincts. 'CLEARFIED BOROUGH - 3RD WARD' is printed with that spelling in the source. Appointments or vacancies since 2024 are not reflected."
+  "notes": "Clearfield Republican county committee members were last on the ballot in the April 23, 2024 primary as 'Member of the Republican County Committee <precinct>', vote for 2 per precinct; the May 19, 2026 primary report contains no Republican county committee contests. A seat is 'filled' when a printed ballot candidate received votes, 'empty' when no candidate ran and zero write-in votes were cast, and 'unknown' when write-in votes were cast (including any named write-in winner), since the report does not show whether a write-in winner qualified or accepted. The 2024 report has 70 precincts; the 2026 report has 63 after redistricting (petitions to redistrict DuBois City, Sandy, Beccaria, Cooper, Morris and Woodward were posted by the county), so these 2024 names may not match current precincts. 'CLEARFIED BOROUGH - 3RD WARD' is printed with that spelling in the source. Appointments or vacancies since 2024 are not reflected. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

@@ -17,6 +17,13 @@
       "title": "Northumberland County Board of Elections - Prior Results",
       "type": "results",
       "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://www.northumberlandcountypa.gov/htdocs/wp-content/uploads/documents/elections/2026_0519_official/overall.pdf",
+      "title": "Official results export, used for holder names (results.pdf, generated 2026-06-02)",
+      "type": "results",
+      "as_of": "2026-06-02",
+      "sha256": "f25fa37d859706b866618e424b3cde9ee28417b624c4e47811cc6fa9b0e6396d"
     }
   ],
   "precincts": [
@@ -96,7 +103,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "WENDY M. GALLICK"
         },
         {
           "seat": "Committeeperson",
@@ -206,7 +214,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TONY MATULEWICZ"
         },
         {
           "seat": "Committeeperson",
@@ -298,7 +307,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DERRICK A. BACKER"
         },
         {
           "seat": "Committeeperson",
@@ -465,11 +475,13 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DOUGLAS L. WHITMOYER"
         },
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ANDREW HERTZLER"
         }
       ]
     },
@@ -491,11 +503,13 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "GAIL FOREMAN"
         },
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LONA H. SHOLLY"
         }
       ]
     },
@@ -630,11 +644,13 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOSEPH MORALEZ"
         },
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "STEPHANIE MORALEZ"
         }
       ]
     },
@@ -658,7 +674,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LINDA S. MECKLEY"
         },
         {
           "seat": "Committeeperson",
@@ -714,7 +731,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JEFF COLE"
         },
         {
           "seat": "Committeeperson",
@@ -728,7 +746,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "STEVEN BOYER"
         },
         {
           "seat": "Committeeperson",
@@ -741,11 +760,13 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CLAYTON ROWE"
         },
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ZACHARY R. BLACK"
         }
       ]
     },
@@ -768,7 +789,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BARBARA KRINER"
         },
         {
           "seat": "Committeeperson",
@@ -796,7 +818,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOANN SASSANI"
         },
         {
           "seat": "Committeeperson",
@@ -824,7 +847,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TERRY LEE CURRAN"
         },
         {
           "seat": "Committeeperson",
@@ -838,11 +862,13 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "NATHAN SAVIDGE"
         },
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JAMES EISTER"
         }
       ]
     },
@@ -852,7 +878,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ANDREW RAMOS"
         },
         {
           "seat": "Committeeperson",
@@ -866,7 +893,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JULIE A. BROSIUS"
         },
         {
           "seat": "Committeeperson",
@@ -880,7 +908,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOSEPH D. STUTZMAN, JR."
         },
         {
           "seat": "Committeeperson",
@@ -894,11 +923,13 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BENJAMIN APFELBAUM"
         },
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JENNA EISTER-WHITAKER"
         }
       ]
     },
@@ -908,11 +939,13 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DEBORAH A. BETZ"
         },
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BRIAN C. BETZ"
         }
       ]
     },
@@ -949,11 +982,13 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVID FEASTER"
         },
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BONNIE FEASTER"
         }
       ]
     },
@@ -975,11 +1010,13 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHNATHAN MCLAUGHLIN"
         },
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MARTHA S. MILBRAND"
         }
       ]
     },
@@ -989,11 +1026,13 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RAHN E. TROUTMAN"
         },
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TRACI L. TROUTMAN"
         }
       ]
     },
@@ -1017,7 +1056,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CLARISSA PAIGE"
         },
         {
           "seat": "Committeeperson",
@@ -1048,5 +1088,5 @@
     "empty_no_filer": 0,
     "unknown": 95
   },
-  "notes": "Northumberland County listed one REP County Committeeperson contest per precinct (74 precincts, Vote For 2, not gender-designated) in the official 2026 primary report. A named ballot candidate who received votes is filled; seats left only to write-ins are unknown because the report does not show whether a write-in qualified or accepted (the county posted no write-in winners list for this primary); seats with no candidate and zero votes are empty. Appointments after the primary are not captured."
+  "notes": "Northumberland County listed one REP County Committeeperson contest per precinct (74 precincts, Vote For 2, not gender-designated) in the official 2026 primary report. A named ballot candidate who received votes is filled; seats left only to write-ins are unknown because the report does not show whether a write-in qualified or accepted (the county posted no write-in winners list for this primary); seats with no candidate and zero votes are empty. Appointments after the primary are not captured. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

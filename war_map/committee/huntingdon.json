@@ -17,6 +17,13 @@
       "title": "Huntingdon County Elections page (its '2026 FINAL Precinct Summary' link is the November general election, not the primary)",
       "type": "results",
       "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://www.huntingdoncountypa.gov/getmedia/d4f9a9cb-a099-4ce3-ae35-811271050617/Final-Precinct-Summary.pdf",
+      "title": "Official results export, used for holder names (results.pdf)",
+      "type": "results",
+      "as_of": "2026-05-22",
+      "sha256": "f02eb0269d30ff74e20d80f6f417e9f5e2a62b97f532c32f71b2c21eaf033142"
     }
   ],
   "precincts": [
@@ -26,11 +33,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MICHAEL SCOTT"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JUDY A SCOTT"
         }
       ]
     },
@@ -68,11 +77,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LOUISE A BROWN"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PAUL W BROWN"
         }
       ]
     },
@@ -110,11 +121,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "STEVEN CAROWICK JR"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "WENDY MATTER"
         }
       ]
     },
@@ -124,7 +137,8 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "AARON HICKS"
         },
         {
           "seat": "Member 2",
@@ -166,11 +180,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "WADE E BOOHER"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JASON A MCCLURE"
         }
       ]
     },
@@ -276,11 +292,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JULIA B WILT"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MELITA I RENNINGER"
         }
       ]
     },
@@ -290,7 +308,8 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "GAIE ISETT WILT"
         },
         {
           "seat": "Member 2",
@@ -304,11 +323,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DICK SCIALABBA"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KATHRYN A OSER"
         }
       ]
     },
@@ -332,7 +353,8 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DONALD E MALLIBAND"
         },
         {
           "seat": "Member 2",
@@ -346,11 +368,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SAMUEL J BRICKER"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LINDA J BRICKER"
         }
       ]
     },
@@ -360,7 +384,8 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TOM RITCHEY"
         },
         {
           "seat": "Member 2",
@@ -500,11 +525,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVE SMITH"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ANDREA SMITH"
         }
       ]
     },
@@ -514,7 +541,8 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "AIDEN CONESE"
         },
         {
           "seat": "Member 2",
@@ -542,11 +570,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KEVIN FLUKE"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PEGGY STULLER"
         }
       ]
     },
@@ -570,11 +600,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SHARON REIHART"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KURT L GRANLUND"
         }
       ]
     },
@@ -584,7 +616,8 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOANN WAKEFIELD"
         },
         {
           "seat": "Member 2",
@@ -598,7 +631,8 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LEX J BARD"
         },
         {
           "seat": "Member 2",
@@ -625,11 +659,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SUSAN M HARRY"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "EDWARD F HARRY JR"
         }
       ]
     },
@@ -638,11 +674,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LINDA L MCCLURE"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "C ARNOLD MCCLURE"
         }
       ]
     },
@@ -679,11 +717,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KENNETH SHEA"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RUTH ELAINE SHEA"
         }
       ]
     },
@@ -693,7 +733,8 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LISA A LOW"
         },
         {
           "seat": "Member 2",
@@ -707,11 +748,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RICH IRVIN"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JAIME EWELL-IRVIN"
         }
       ]
     },
@@ -721,7 +764,8 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CONNIE BERRIER"
         },
         {
           "seat": "Member 2",
@@ -735,11 +779,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ROBERT DEAN TREGO"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CHARLES E HARPER"
         }
       ]
     },
@@ -777,11 +823,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SCOTT WALLS"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHNATHAN (JOHN) HYDE"
         }
       ]
     },
@@ -791,11 +839,13 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KAREN K GILLILAND"
         },
         {
           "seat": "Member 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAN FERRELL"
         }
       ]
     },
@@ -805,7 +855,8 @@
       "seats": [
         {
           "seat": "Member 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PAUL J SHARUM"
         },
         {
           "seat": "Member 2",
@@ -836,5 +887,5 @@
     "empty_no_filer": 0,
     "unknown": 59
   },
-  "notes": "Huntingdon County Republicans elect 2 members per precinct ('REP MEMBER OF REPUBLICAN COUNTY COMMITTEE <precinct>', vote for 2) in all 58 precincts at the 2026 primary; seats are labelled Member 1-2. Seats are filled in order of votes: a ballot candidate with votes = filled; a place held by a named write-in = unknown (both seats in Todd; named write-in winners stay unknown because acceptance isn't public); leftover seats = unknown if write-in votes were cast, empty if none. The precinct report used is titled Final Precinct Summary but its header still reads UNOFFICIAL RESULTS (05/22/2026); no certified primary precinct report was found on the county site. The county site returned intermittent TLS certificate errors to automated downloads. Appointments since the primary are not captured."
+  "notes": "Huntingdon County Republicans elect 2 members per precinct ('REP MEMBER OF REPUBLICAN COUNTY COMMITTEE <precinct>', vote for 2) in all 58 precincts at the 2026 primary; seats are labelled Member 1-2. Seats are filled in order of votes: a ballot candidate with votes = filled; a place held by a named write-in = unknown (both seats in Todd; named write-in winners stay unknown because acceptance isn't public); leftover seats = unknown if write-in votes were cast, empty if none. The precinct report used is titled Final Precinct Summary but its header still reads UNOFFICIAL RESULTS (05/22/2026); no certified primary precinct report was found on the county site. The county site returned intermittent TLS certificate errors to automated downloads. Appointments since the primary are not captured. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

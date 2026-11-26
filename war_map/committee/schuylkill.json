@@ -17,6 +17,13 @@
       "title": "Schuylkill County Election Bureau: Election Results",
       "type": "results",
       "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://www.schuylkillcountypa.gov/Document_Center/Departments/Election%20Bureau/2026/Primary/Election%20Results/2026%20Primary%20Unofficial%20Results%20Schuylkill%20County%20v2.pdf",
+      "title": "Official results export, used for holder names (results.pdf)",
+      "type": "results",
+      "as_of": "2026-05-29",
+      "sha256": "6cb5844039ecab986b55fd29b2014e2d14fbb7b5019912e15e67f9a1ddd83533"
     }
   ],
   "precincts": [
@@ -56,7 +63,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Seth Hubler"
         }
       ]
     },
@@ -184,7 +192,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mary Beth Dougherty"
         }
       ]
     },
@@ -323,7 +332,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Christopher Smith"
         }
       ]
     },
@@ -342,7 +352,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mark W. Schreader"
         }
       ]
     },
@@ -362,7 +373,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jim McBreen"
         }
       ]
     },
@@ -392,7 +404,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Clyde Champ Holman"
         }
       ]
     },
@@ -401,7 +414,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Michael A. DiBaggio"
         }
       ]
     },
@@ -419,7 +433,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Richard E. Tomko"
         }
       ]
     },
@@ -439,7 +454,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Michael Zeckie Uholik"
         }
       ]
     },
@@ -488,7 +504,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Dorothy Fetterolf"
         }
       ]
     },
@@ -527,7 +544,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Scott Gerber"
         }
       ]
     },
@@ -546,7 +564,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Joseph D. Sterns"
         }
       ]
     },
@@ -556,7 +575,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Robert J. Bylone Jr."
         }
       ]
     },
@@ -566,7 +586,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jonathan E. Biros"
         }
       ]
     },
@@ -576,7 +597,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jerry Notaro"
         }
       ]
     },
@@ -596,7 +618,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mary A. Labert"
         }
       ]
     },
@@ -606,7 +629,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Joseph A. Madochick"
         }
       ]
     },
@@ -616,7 +640,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Larry Padora"
         }
       ]
     },
@@ -655,7 +680,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Dave Argall"
         }
       ]
     },
@@ -683,7 +709,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Gary Feathers"
         }
       ]
     },
@@ -693,7 +720,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Brian Connely"
         }
       ]
     },
@@ -703,7 +731,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mary Linkevich"
         }
       ]
     },
@@ -713,7 +742,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Robert Coombe"
         }
       ]
     },
@@ -723,7 +753,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Matthew Matukonis"
         }
       ]
     },
@@ -733,7 +764,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Barron Boots Hetherington"
         }
       ]
     },
@@ -743,7 +775,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Nicholas Boyle"
         }
       ]
     },
@@ -753,7 +786,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Sheila M. Smith"
         }
       ]
     },
@@ -773,7 +807,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Larry Wittig"
         }
       ]
     },
@@ -783,7 +818,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Tony Prudenti"
         }
       ]
     },
@@ -959,7 +995,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ron Boltz"
         }
       ]
     },
@@ -977,7 +1014,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Gary Bender"
         }
       ]
     },
@@ -1037,7 +1075,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "David Merrick"
         }
       ]
     },
@@ -1047,7 +1086,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Philip McClintock"
         }
       ]
     },
@@ -1133,7 +1173,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Christy Joy"
         }
       ]
     },
@@ -1201,7 +1242,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Theresa Santai Gaffney"
         }
       ]
     },
@@ -1231,7 +1273,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Bryan Miller"
         }
       ]
     },
@@ -1241,7 +1284,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Linda Gallo Yeich"
         }
       ]
     }
@@ -1254,5 +1298,5 @@
     "empty_no_filer": 0,
     "unknown": 83
   },
-  "notes": "The county ballot carries one 'Member of Republican County Committee' contest per precinct with Vote For 1, so each of the 125 precincts has one seat here; the party rule behind the single seat was not located. The only 2026 primary results the county had posted when checked are labeled UNOFFICIAL (final count dated 05/29/2026); no official write-in winners list for 2026 was posted. Status rules: filed candidate with votes = filled (unknown if write-ins exceeded that candidate); no filed candidate = unknown when any write-in votes were cast (the report lists named write-ins, often 1-3 votes each), empty when none were. Appointments after the primary are not reflected."
+  "notes": "The county ballot carries one 'Member of Republican County Committee' contest per precinct with Vote For 1, so each of the 125 precincts has one seat here; the party rule behind the single seat was not located. The only 2026 primary results the county had posted when checked are labeled UNOFFICIAL (final count dated 05/29/2026); no official write-in winners list for 2026 was posted. Status rules: filed candidate with votes = filled (unknown if write-ins exceeded that candidate); no filed candidate = unknown when any write-in votes were cast (the report lists named write-ins, often 1-3 votes each), empty when none were. Appointments after the primary are not reflected. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

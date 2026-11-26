@@ -46,17 +46,35 @@
    "county": "Beaver",
    "slug": "beaver",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "April 23, 2024 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2024-primary",
+    "version": "official",
+    "url": "https://www.beavercountypa.gov/getmedia/2145b2e1-e2ae-4e76-a59e-7d5ceb30769d/April-2024-Summary-Report.pdf",
+    "title": "official results report",
+    "contest_pattern": "^REP REPUBLICAN (?<seat>COMMITTEEMAN|COMMITTEEWOMAN) (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND)\\s+\\S",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b"
+   }
   },
   {
    "county": "Bedford",
    "slug": "bedford",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "April 23, 2024 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2024-primary",
+    "version": "official",
+    "url": "https://www.bedfordcountypa.org/OfficialElectionSummaryDistrictReportRPT.pdf",
+    "title": "official results report",
+    "contest_pattern": "^Republican (?<seat>Committee Person) - (?<precinct>.+?)(?: \\(REP\\))?(?: \\(Vote(?: for(?: (?<n>\\d+)\\))?)?)?$",
+    "any_contest": "\\(Vote(?: for(?: \\d+\\))?)?$",
+    "end": "^Total Votes\\s+[\\d,]"
+   }
   },
   {
    "county": "Berks",
@@ -209,9 +227,18 @@
    "county": "Clearfield",
    "slug": "clearfield",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "April 23, 2024 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2024-primary",
+    "version": "official",
+    "url": "https://clearfieldcountypa.gov/DocumentCenter/View/129/Precinct-Report-PDF",
+    "title": "official results report",
+    "contest_pattern": "^REP (?<seat>MEMBER) OF THE REPUBLICAN COUNTY COMMITTEE (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND|Rep|Dem)\\s+\\S",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b"
+   }
   },
   {
    "county": "Clinton",
@@ -358,9 +385,18 @@
    "county": "Huntingdon",
    "slug": "huntingdon",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://www.huntingdoncountypa.gov/getmedia/d4f9a9cb-a099-4ce3-ae35-811271050617/Final-Precinct-Summary.pdf",
+    "title": "official results report",
+    "contest_pattern": "^REP (?<seat>MEMBER) OF REPUBLICAN COUNTY COMMITTEE (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND|Rep|Dem)\\s+\\S",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b"
+   }
   },
   {
    "county": "Indiana",
@@ -383,17 +419,34 @@
    "county": "Jefferson",
    "slug": "jefferson",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "April 23, 2024 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2024-primary",
+    "version": "official",
+    "url": "https://www.jeffersoncountypa.gov/wp-content/uploads/2024/05/ElectionSummaryReportRPTOfficial.pdf",
+    "title": "official results report",
+    "contest_pattern": "^Republican (?<seat>Committeeperson) \\(4 Yr\\) - (?<precinct>.+?)(?: \\(Rep\\))?(?: \\(Vote(?: for(?: (?<n>\\d+)\\))?)?)?$",
+    "any_contest": "\\(Vote(?: for(?: \\d+\\))?)?$",
+    "end": "^Total Votes\\s+[\\d,]"
+   }
   },
   {
    "county": "Juniata",
    "slug": "juniata",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://www.juniatacountypa.gov/DocumentCenter/View/417/2026-Primary-Precinct-Report-PDF",
+    "title": "official precinct summary",
+    "contest_pattern": "^(?<precinct>.+?) REPUBLICAN (?<seat>COMMITTEEPERSON)$",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b"
+   }
   },
   {
    "county": "Lackawanna",
@@ -588,9 +641,18 @@
    "county": "Montour",
    "slug": "montour",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://montourcounty.gov/getmedia/95249aa6-64cd-4f46-b216-4e94692e4604/19-May-2026-Official-Election-Summary.pdf",
+    "title": "official results report",
+    "contest_pattern": "^REP (?<seat>COMMITTEEPERSON) (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND|Rep|Dem)\\s+\\S",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b"
+   }
   },
   {
    "county": "Northampton",
@@ -613,17 +675,35 @@
    "county": "Northumberland",
    "slug": "northumberland",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://www.northumberlandcountypa.gov/htdocs/wp-content/uploads/documents/elections/2026_0519_official/overall.pdf",
+    "title": "official results report",
+    "contest_pattern": "^REP County (?<seat>Committeeperson) (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND|Rep|Dem)\\s+\\S",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b"
+   }
   },
   {
    "county": "Perry",
    "slug": "perry",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "April 23, 2024 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2024-primary",
+    "version": "official",
+    "url": "https://perryco.org/wp-content/uploads/2025/04/Statement-of-Votes-Cast-by-Precincts-for-PA_Perry_2024P_Official-198.pdf",
+    "title": "official results report",
+    "contest_pattern": "^(?<precinct>.+?) REPUBLICAN (?<seat>COMMITTEE PERSONS) \\(REP\\) \\(Vote for (?<n>\\d+)\\)$",
+    "any_contest": "\\(Vote for \\d+\\)$",
+    "end": "^Total\\s+[\\d,]"
+   }
   },
   {
    "county": "Philadelphia",
@@ -663,9 +743,18 @@
    "county": "Schuylkill",
    "slug": "schuylkill",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://www.schuylkillcountypa.gov/Document_Center/Departments/Election%20Bureau/2026/Primary/Election%20Results/2026%20Primary%20Unofficial%20Results%20Schuylkill%20County%20v2.pdf",
+    "title": "official results report",
+    "contest_pattern": "^Rep (?<seat>MEMBER) OF REPUBLICAN COUNTY COMMITTEE (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND|Rep|Dem)\\s+\\S",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b"
+   }
   },
   {
    "county": "Snyder",
@@ -687,9 +776,19 @@
    "county": "Sullivan",
    "slug": "sullivan",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "April 23, 2024 Presidential Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2024-primary",
+    "version": "official",
+    "url": "https://www.sullivancountypa.gov/s/SOVC2-OFFICIAL_PA_Sullivan_2024_Primary_bdfx.pdf",
+    "title": "official results report",
+    "contest_pattern": "^COUNTY REPUBLICAN (?<seat>COMMITTEE) - (?<precinct>.+?)(?: \\(REP\\))?(?: \\(Vote(?: for(?: (?<n>\\d+)\\))?)?)?$",
+    "any_contest": "\\(Vote(?: for(?: \\d+\\))?)?$",
+    "end": "^Total Votes\\s+[\\d,]",
+    "label_column": 0
+   }
   },
   {
    "county": "Susquehanna",
@@ -703,9 +802,22 @@
    "county": "Tioga",
    "slug": "tioga",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://tiogacountypa.us/getmedia/323fceeb-bb07-486c-9912-75a93b4bae7b/Official-Primary-Election-Results-2026.pdf",
+    "title": "official results report",
+    "contest_pattern": "^REP REP COMM (?<seat>MAN|WOMAN) (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND|Rep|Dem)\\s+\\S",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b",
+    "seat_labels": {
+     "MAN": "Committeeman",
+     "WOMAN": "Committeewoman"
+    }
+   }
   },
   {
    "county": "Union",
@@ -727,9 +839,18 @@
    "county": "Warren",
    "slug": "warren",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://warrencountypa.gov/DocumentCenter/View/3832/Official-Results-2026-General-Primary",
+    "title": "official results report",
+    "contest_pattern": "^(?<seat>Member) of Warren County Republican Committee (?<precinct>.+?)(?: \\(REP\\))?(?: \\(Vote(?: for(?: (?<n>\\d+)\\))?)?)?$",
+    "any_contest": "\\(Vote(?: for(?: \\d+\\))?)?$",
+    "end": "^Total Votes\\s+[\\d,]"
+   }
   },
   {
    "county": "Washington",

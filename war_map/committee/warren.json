@@ -17,6 +17,13 @@
       "title": "Warren County elections page listing official 2026 primary results",
       "type": "results",
       "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://warrencountypa.gov/DocumentCenter/View/3832/Official-Results-2026-General-Primary",
+      "title": "Official results export, used for holder names (results.pdf)",
+      "type": "results",
+      "as_of": "2026-06-08",
+      "sha256": "77cb932eedc53c5f6a81be042ceb76d578dd84bcc60e52674c3a1dd1c527354b"
     }
   ],
   "precincts": [
@@ -25,7 +32,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "WILL CHAMPLIN"
         },
         {
           "seat": "Member",
@@ -64,11 +72,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOSEPH MCCLELLAN"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JEFFREY ESCHBORN"
         }
       ]
     },
@@ -77,11 +87,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHN G WORTMAN"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "WILLIAM BUSSOLETTI"
         }
       ]
     },
@@ -90,7 +102,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JARED VILLELLA"
         },
         {
           "seat": "Member",
@@ -174,7 +187,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOSEPH PERRIN"
         },
         {
           "seat": "Member",
@@ -188,11 +202,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LOU ANDERSON-NORDIN"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MICHAEL JONES"
         }
       ]
     },
@@ -202,11 +218,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KATHERINE KEMP JENSEN"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CASSANDRA GONZALES"
         }
       ]
     },
@@ -230,7 +248,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KATHY L RAPP"
         },
         {
           "seat": "Member",
@@ -300,7 +319,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JUDY BAKER"
         },
         {
           "seat": "Member",
@@ -314,7 +334,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ASH KHARE"
         },
         {
           "seat": "Member",
@@ -328,7 +349,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SHAUNA YEAGER"
         },
         {
           "seat": "Member",
@@ -342,11 +364,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JACOB FANKHOUSER"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "NORMA M BANKOSKE"
         }
       ]
     },
@@ -356,7 +380,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DALE T HONHART"
         },
         {
           "seat": "Member",
@@ -384,7 +409,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BRIAN K ZEYBEL"
         },
         {
           "seat": "Member",
@@ -398,7 +424,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOANNE CULBERTSON"
         },
         {
           "seat": "Member",
@@ -485,5 +512,5 @@
     "empty_no_filer": 0,
     "unknown": 39
   },
-  "notes": "Each Warren precinct had one contest, 'Member of Warren County Republican Committee <precinct>', vote for 2 (no gender split). A seat is 'filled' when a printed ballot candidate received votes, 'empty' when no candidate ran and zero write-in votes were cast, and 'unknown' when write-in votes were cast, since the report does not show whether a write-in winner qualified or accepted. The separate precinct-level PDF (DocumentCenter/View/3836, about 55 MB) was not needed because the summary already reports each precinct's committee contest. Appointments after the primary are not reflected."
+  "notes": "Each Warren precinct had one contest, 'Member of Warren County Republican Committee <precinct>', vote for 2 (no gender split). A seat is 'filled' when a printed ballot candidate received votes, 'empty' when no candidate ran and zero write-in votes were cast, and 'unknown' when write-in votes were cast, since the report does not show whether a write-in winner qualified or accepted. The separate precinct-level PDF (DocumentCenter/View/3836, about 55 MB) was not needed because the summary already reports each precinct's committee contest. Appointments after the primary are not reflected. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

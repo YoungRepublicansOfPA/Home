@@ -11,6 +11,13 @@
       "title": "Montour County May 19, 2026 General Primary - Official Election Summary",
       "type": "results",
       "as_of": "2026-05-27"
+    },
+    {
+      "url": "https://montourcounty.gov/getmedia/95249aa6-64cd-4f46-b216-4e94692e4604/19-May-2026-Official-Election-Summary.pdf",
+      "title": "Official results export, used for holder names (results.pdf, generated 2026-05-27)",
+      "type": "results",
+      "as_of": "2026-05-27",
+      "sha256": "51c1afad4e21658679a5a45724499a8d27941fb889cc458b6d7cd06810fc6408"
     }
   ],
   "precincts": [
@@ -20,7 +27,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RANDALL H WATTS"
         },
         {
           "seat": "Committeeperson",
@@ -62,7 +70,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CAROL DEROBA"
         },
         {
           "seat": "Committeeperson",
@@ -118,7 +127,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TERRY B BROWN"
         },
         {
           "seat": "Committeeperson",
@@ -173,7 +183,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DONALD KUZIAK"
         },
         {
           "seat": "Committeeperson",
@@ -218,5 +229,5 @@
     "empty_no_filer": 0,
     "unknown": 19
   },
-  "notes": "Montour County lists one REP COMMITTEEPERSON contest per precinct (14 precincts, Vote For 2, seats not designated by gender). A named ballot candidate who received votes is filled; seats with only write-in votes are unknown, including where the report names individual write-in recipients, because it does not show whether a write-in qualified or accepted; seats with no candidate and zero write-in votes are empty. Appointments after the primary are not captured. The map file counts 15 precincts; the county report lists 14."
+  "notes": "Montour County lists one REP COMMITTEEPERSON contest per precinct (14 precincts, Vote For 2, seats not designated by gender). A named ballot candidate who received votes is filled; seats with only write-in votes are unknown, including where the report names individual write-in recipients, because it does not show whether a write-in qualified or accepted; seats with no candidate and zero write-in votes are empty. Appointments after the primary are not captured. The map file counts 15 precincts; the county report lists 14. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

@@ -17,6 +17,13 @@
       "title": "Jefferson County Election Summary Report, May 19, 2026 primary (no Republican county committee contests on the ballot)",
       "type": "results",
       "as_of": "2026-05-27"
+    },
+    {
+      "url": "https://www.jeffersoncountypa.gov/wp-content/uploads/2024/05/ElectionSummaryReportRPTOfficial.pdf",
+      "title": "Official results export, used for holder names (results.pdf)",
+      "type": "results",
+      "as_of": "2024-05-01",
+      "sha256": "e040fed80bce83569007b28ad27cbce83d7c7c93228c20f5f5876fa27e18386a"
     }
   ],
   "precincts": [
@@ -26,7 +33,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Luc Doolittle"
         },
         {
           "seat": "Committeeperson",
@@ -82,7 +90,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mary Frey"
         },
         {
           "seat": "Committeeperson",
@@ -96,7 +105,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "April Miller Crance"
         },
         {
           "seat": "Committeeperson",
@@ -110,7 +120,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Randon W Bartley"
         },
         {
           "seat": "Committeeperson",
@@ -222,11 +233,13 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Samuel L Bartley"
         },
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Renee Stiver"
         }
       ]
     },
@@ -248,11 +261,13 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Chad Horner"
         },
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Edward J McGinnis"
         }
       ]
     },
@@ -262,7 +277,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Danny Kunselman"
         },
         {
           "seat": "Committeeperson",
@@ -346,11 +362,13 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Eric C Story"
         },
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jordan D White"
         }
       ]
     },
@@ -360,7 +378,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Zach Garman"
         },
         {
           "seat": "Committeeperson",
@@ -388,11 +407,13 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Karen McNutt"
         },
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Myron McNutt"
         }
       ]
     },
@@ -500,7 +521,8 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ronald P Hannah"
         },
         {
           "seat": "Committeeperson",
@@ -528,11 +550,13 @@
       "seats": [
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ron Walker"
         },
         {
           "seat": "Committeeperson",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Rose Handyside"
         }
       ]
     }
@@ -545,5 +569,5 @@
     "empty_no_filer": 0,
     "unknown": 55
   },
-  "notes": "Jefferson County Republican committee seats were last on the ballot in the April 23, 2024 primary as 'Republican Committeeperson (4 Yr) - <precinct>', vote for 2 per precinct; the May 19, 2026 primary results contain no Republican county committee contests. A seat is 'filled' when a printed ballot candidate received votes, 'empty' when no candidate ran and no write-in votes were cast, and 'unknown' when write-in votes were cast, since the report does not show whether a write-in winner qualified or accepted. The 2024 report has 37 precincts; by 2026 the county reported 38 precincts and renamed Brookville and Punxsutawney districts (e.g. 'Brookville Borough 1') and added a 'Falls Creek Borough 2', so these 2024 names may not match current precinct names. Appointments or vacancies since 2024 are not reflected."
+  "notes": "Jefferson County Republican committee seats were last on the ballot in the April 23, 2024 primary as 'Republican Committeeperson (4 Yr) - <precinct>', vote for 2 per precinct; the May 19, 2026 primary results contain no Republican county committee contests. A seat is 'filled' when a printed ballot candidate received votes, 'empty' when no candidate ran and no write-in votes were cast, and 'unknown' when write-in votes were cast, since the report does not show whether a write-in winner qualified or accepted. The 2024 report has 37 precincts; by 2026 the county reported 38 precincts and renamed Brookville and Punxsutawney districts (e.g. 'Brookville Borough 1') and added a 'Falls Creek Borough 2', so these 2024 names may not match current precinct names. Appointments or vacancies since 2024 are not reflected. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

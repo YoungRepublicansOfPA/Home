@@ -25,7 +25,7 @@
   "empty": 4975,
   "empty_no_filer": 399,
   "unknown": 7742,
-  "named": 4061,
+  "named": 4345,
   "precincts": 9117,
   "mapped": 8083
  },
@@ -169,7 +169,7 @@
    "empty": 27,
    "empty_no_filer": 0,
    "unknown": 214,
-   "named": 0,
+   "named": 17,
    "mapped": 120,
    "next_election": {
     "year": 2028,
@@ -190,6 +190,11 @@
      "url": "https://beavercountypa.gov/getmedia/e72824a5-d3a3-4ef7-ab27-43b3e8106f5c/2026-General-Primary-Beaver-County-Precinct-Report-Upload6_Certified.pdf",
      "title": "2026 General Primary certified precinct report (checked: contains no Republican county committee contests)",
      "type": "results"
+    },
+    {
+     "url": "https://www.beavercountypa.gov/getmedia/2145b2e1-e2ae-4e76-a59e-7d5ceb30769d/April-2024-Summary-Report.pdf",
+     "title": "Official results export, used for holder names (results.pdf, generated 2024-05-09)",
+     "type": "results"
     }
    ],
    "file": "beaver.json"
@@ -205,7 +210,7 @@
    "empty": 10,
    "empty_no_filer": 0,
    "unknown": 58,
-   "named": 0,
+   "named": 12,
    "mapped": 37,
    "next_election": {
     "year": 2028,
@@ -230,6 +235,11 @@
     {
      "url": "https://www.bedfordcountypa.org/departments/elections/election_results.php",
      "title": "Bedford County Elections - Election Results",
+     "type": "results"
+    },
+    {
+     "url": "https://www.bedfordcountypa.org/OfficialElectionSummaryDistrictReportRPT.pdf",
+     "title": "Official results export, used for holder names (results.pdf)",
      "type": "results"
     }
    ],
@@ -707,7 +717,7 @@
    "empty": 10,
    "empty_no_filer": 0,
    "unknown": 116,
-   "named": 0,
+   "named": 14,
    "mapped": 59,
    "next_election": {
     "year": 2028,
@@ -732,6 +742,11 @@
     {
      "url": "https://clearfieldcountypa.gov/DocumentCenter/View/1199/Precinct-Report---Official-Results_202606170905302437",
      "title": "Clearfield County 2026 General Primary Precinct Report, Official Results (no Republican county committee contests on the ballot)",
+     "type": "results"
+    },
+    {
+     "url": "https://clearfieldcountypa.gov/DocumentCenter/View/129/Precinct-Report-PDF",
+     "title": "Official results export, used for holder names (results.pdf)",
      "type": "results"
     }
    ],
@@ -1286,7 +1301,7 @@
    "empty": 13,
    "empty_no_filer": 0,
    "unknown": 59,
-   "named": 0,
+   "named": 44,
    "mapped": 53,
    "next_election": {
     "year": 2030,
@@ -1306,6 +1321,11 @@
     {
      "url": "https://www.huntingdoncountypa.gov/departments/elections",
      "title": "Huntingdon County Elections page (its '2026 FINAL Precinct Summary' link is the November general election, not the primary)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.huntingdoncountypa.gov/getmedia/d4f9a9cb-a099-4ce3-ae35-811271050617/Final-Precinct-Summary.pdf",
+     "title": "Official results export, used for holder names (results.pdf)",
      "type": "results"
     }
    ],
@@ -1363,7 +1383,7 @@
    "empty": 2,
    "empty_no_filer": 0,
    "unknown": 55,
-   "named": 0,
+   "named": 17,
    "mapped": 35,
    "next_election": {
     "year": 2028,
@@ -1384,6 +1404,11 @@
      "url": "https://www.jeffersoncountypa.gov/wp-content/uploads/2026/05/ElectionSummaryReportRPTADJ-Final.pdf",
      "title": "Jefferson County Election Summary Report, May 19, 2026 primary (no Republican county committee contests on the ballot)",
      "type": "results"
+    },
+    {
+     "url": "https://www.jeffersoncountypa.gov/wp-content/uploads/2024/05/ElectionSummaryReportRPTOfficial.pdf",
+     "title": "Official results export, used for holder names (results.pdf)",
+     "type": "results"
     }
    ],
    "file": "jefferson.json"
@@ -1399,7 +1424,7 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 32,
-   "named": 0,
+   "named": 13,
    "mapped": 17,
    "next_election": {
     "year": 2030,
@@ -1419,6 +1444,11 @@
     {
      "url": "https://www.juniatacountypa.gov/238/Latest-Election-Results",
      "title": "Juniata County Latest Election Results page",
+     "type": "results"
+    },
+    {
+     "url": "https://www.juniatacountypa.gov/DocumentCenter/View/417/2026-Primary-Precinct-Report-PDF",
+     "title": "Official results export, used for holder names (results.pdf)",
      "type": "results"
     }
    ],
@@ -1927,7 +1957,7 @@
    "empty": 5,
    "empty_no_filer": 0,
    "unknown": 19,
-   "named": 0,
+   "named": 4,
    "mapped": 13,
    "next_election": {
     "year": 2030,
@@ -1942,6 +1972,11 @@
     {
      "url": "https://montourcounty.gov/getmedia/95249aa6-64cd-4f46-b216-4e94692e4604/19-May-2026-Official-Election-Summary.pdf",
      "title": "Montour County May 19, 2026 General Primary - Official Election Summary",
+     "type": "results"
+    },
+    {
+     "url": "https://montourcounty.gov/getmedia/95249aa6-64cd-4f46-b216-4e94692e4604/19-May-2026-Official-Election-Summary.pdf",
+     "title": "Official results export, used for holder names (results.pdf, generated 2026-05-27)",
      "type": "results"
     }
    ],
@@ -1999,7 +2034,7 @@
    "empty": 20,
    "empty_no_filer": 0,
    "unknown": 95,
-   "named": 0,
+   "named": 33,
    "mapped": 57,
    "next_election": {
     "year": 2030,
@@ -2020,6 +2055,11 @@
      "url": "https://northumberlandcountypa.gov/prior-results/",
      "title": "Northumberland County Board of Elections - Prior Results",
      "type": "results"
+    },
+    {
+     "url": "https://www.northumberlandcountypa.gov/htdocs/wp-content/uploads/documents/elections/2026_0519_official/overall.pdf",
+     "title": "Official results export, used for holder names (results.pdf, generated 2026-06-02)",
+     "type": "results"
     }
    ],
    "file": "northumberland.json"
@@ -2035,7 +2075,7 @@
    "empty": 5,
    "empty_no_filer": 0,
    "unknown": 73,
-   "named": 0,
+   "named": 42,
    "mapped": 28,
    "next_election": {
     "year": 2028,
@@ -2055,6 +2095,11 @@
     {
      "url": "https://perryco.org/departments/elections-voter-registration/historical-election-results/",
      "title": "Perry County Historical Election Results page",
+     "type": "results"
+    },
+    {
+     "url": "https://perryco.org/wp-content/uploads/2025/04/Statement-of-Votes-Cast-by-Precincts-for-PA_Perry_2024P_Official-198.pdf",
+     "title": "Official results export, used for holder names (results.pdf)",
      "type": "results"
     }
    ],
@@ -2194,7 +2239,7 @@
    "empty": 5,
    "empty_no_filer": 0,
    "unknown": 83,
-   "named": 0,
+   "named": 37,
    "mapped": 100,
    "next_election": {
     "year": 2030,
@@ -2214,6 +2259,11 @@
     {
      "url": "https://www.schuylkillcountypa.gov/departments/election_bureau/election_results.php",
      "title": "Schuylkill County Election Bureau: Election Results",
+     "type": "results"
+    },
+    {
+     "url": "https://www.schuylkillcountypa.gov/Document_Center/Departments/Election%20Bureau/2026/Primary/Election%20Results/2026%20Primary%20Unofficial%20Results%20Schuylkill%20County%20v2.pdf",
+     "title": "Official results export, used for holder names (results.pdf)",
      "type": "results"
     }
    ],
@@ -2312,7 +2362,7 @@
    "empty": 4,
    "empty_no_filer": 0,
    "unknown": 10,
-   "named": 0,
+   "named": 16,
    "mapped": 13,
    "next_election": {
     "year": 2028,
@@ -2342,6 +2392,11 @@
     {
      "url": "https://www.sullivancountypa.gov/offices/election-bureau",
      "title": "Sullivan County Elections & Voter Registration",
+     "type": "results"
+    },
+    {
+     "url": "https://www.sullivancountypa.gov/s/SOVC2-OFFICIAL_PA_Sullivan_2024_Primary_bdfx.pdf",
+     "title": "Official results export, used for holder names (results.pdf)",
      "type": "results"
     }
    ],
@@ -2389,7 +2444,7 @@
    "empty": 18,
    "empty_no_filer": 0,
    "unknown": 49,
-   "named": 0,
+   "named": 15,
    "mapped": 41,
    "next_election": {
     "year": 2030,
@@ -2404,6 +2459,11 @@
     {
      "url": "https://tiogacountypa.us/getmedia/323fceeb-bb07-486c-9912-75a93b4bae7b/Official-Primary-Election-Results-2026.pdf",
      "title": "Tioga County General Primary May 19 2026 - Official Results (Summary Results Report)",
+     "type": "results"
+    },
+    {
+     "url": "https://tiogacountypa.us/getmedia/323fceeb-bb07-486c-9912-75a93b4bae7b/Official-Primary-Election-Results-2026.pdf",
+     "title": "Official results export, used for holder names (results.pdf, generated 2026-06-11)",
      "type": "results"
     }
    ],
@@ -2502,7 +2562,7 @@
    "empty": 7,
    "empty_no_filer": 0,
    "unknown": 39,
-   "named": 0,
+   "named": 20,
    "mapped": 27,
    "next_election": {
     "year": 2030,
@@ -2522,6 +2582,11 @@
     {
      "url": "https://warrencountypa.gov/1192",
      "title": "Warren County elections page listing official 2026 primary results",
+     "type": "results"
+    },
+    {
+     "url": "https://warrencountypa.gov/DocumentCenter/View/3832/Official-Results-2026-General-Primary",
+     "title": "Official results export, used for holder names (results.pdf)",
      "type": "results"
     }
    ],

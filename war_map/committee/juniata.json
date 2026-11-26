@@ -17,6 +17,13 @@
       "title": "Juniata County Latest Election Results page",
       "type": "results",
       "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://www.juniatacountypa.gov/DocumentCenter/View/417/2026-Primary-Precinct-Report-PDF",
+      "title": "Official results export, used for holder names (results.pdf)",
+      "type": "results",
+      "as_of": "2026-06-05",
+      "sha256": "5dbd6ab82183f38bdcf1f138683692e3594070a8243e93fcdc5acbb7d7855840"
     }
   ],
   "precincts": [
@@ -58,11 +65,13 @@
       "seats": [
         {
           "seat": "Committeeperson 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "GLENN S. KERSTETTER"
         },
         {
           "seat": "Committeeperson 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JASON L. SNYDER"
         },
         {
           "seat": "Committeeperson 3",
@@ -88,15 +97,18 @@
       "seats": [
         {
           "seat": "Committeeperson 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BRADLEY D. HERSHEY"
         },
         {
           "seat": "Committeeperson 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOSHUA J. FULTZ"
         },
         {
           "seat": "Committeeperson 3",
-          "status": "filled"
+          "status": "filled",
+          "holder": "NANCI AUMILLER"
         },
         {
           "seat": "Committeeperson 4",
@@ -154,11 +166,13 @@
       "seats": [
         {
           "seat": "Committeeperson 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHN HERSHEY"
         },
         {
           "seat": "Committeeperson 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KIMBERLY E. CLARK"
         },
         {
           "seat": "Committeeperson 3",
@@ -176,11 +190,13 @@
       "seats": [
         {
           "seat": "Committeeperson 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JUSTIN L. SNYDER"
         },
         {
           "seat": "Committeeperson 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ROBERT L. COMPTON, JR."
         },
         {
           "seat": "Committeeperson 3",
@@ -212,11 +228,13 @@
       "seats": [
         {
           "seat": "Committeeperson 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "EMILEY BROWN"
         },
         {
           "seat": "Committeeperson 2",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RONNIE BROWN"
         }
       ]
     },
@@ -226,7 +244,8 @@
       "seats": [
         {
           "seat": "Committeeperson 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KIMBERLY S. RICE"
         },
         {
           "seat": "Committeeperson 2",
@@ -291,7 +310,8 @@
       "seats": [
         {
           "seat": "Committeeperson 1",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MONICA K. WERT"
         },
         {
           "seat": "Committeeperson 2",
@@ -316,5 +336,5 @@
     "empty_no_filer": 0,
     "unknown": 32
   },
-  "notes": "Juniata County Republicans elected '<precinct> REPUBLICAN COMMITTEEPERSON' in all 18 precincts at the 2026 primary, with 1 to 6 seats per precinct (45 total), so seats_per_precinct is null and seats are labelled Committeeperson 1..N. Republican committee contests were not on the 2024 or 2025 primary ballots. The official report names individual write-in recipients. Seats are filled in order of votes: a ballot candidate with votes = filled; a place held by a named write-in = unknown (named write-in winners stay unknown because acceptance isn't public); a tie across the cutoff = unknown (common, since many write-ins got 1 vote); leftover seats = unknown if write-in votes were cast, empty if none. Appointments since the primary are not captured."
+  "notes": "Juniata County Republicans elected '<precinct> REPUBLICAN COMMITTEEPERSON' in all 18 precincts at the 2026 primary, with 1 to 6 seats per precinct (45 total), so seats_per_precinct is null and seats are labelled Committeeperson 1..N. Republican committee contests were not on the 2024 or 2025 primary ballots. The official report names individual write-in recipients. Seats are filled in order of votes: a ballot candidate with votes = filled; a place held by a named write-in = unknown (named write-in winners stay unknown because acceptance isn't public); a tie across the cutoff = unknown (common, since many write-ins got 1 vote); leftover seats = unknown if write-in votes were cast, empty if none. Appointments since the primary are not captured. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

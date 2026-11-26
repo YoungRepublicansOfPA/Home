@@ -9,6 +9,7 @@
 //   end              regex for a line that ends a contest (default: a Total / Total Votes / Total Votes Cast
 //                    line followed by numbers). end and any_contest are case-sensitive.
 //   precinct_aliases {"SOURCE SPELLING": "name in the county file"} for misspelled titles.
+//   seat_labels      {"M": "Committeeman"} when the title uses a short seat label.
 //
 // Which number is the total is found by arithmetic: a choice line's total is the column equal
 // to the sum of the others (first in Bucks and Chester, last in Montgomery), or its only number.
@@ -53,7 +54,8 @@ export function read(path, cfg = {}) {
     if (!t) continue;
     const head = t.match(re);
     if (head) {
-      const g = head.groups, seat = g.seat.replace(/\s+/g, '').toLowerCase();
+      // seat_labels maps short source labels to the county file's, e.g. Lycoming's (M)/(F).
+      const g = head.groups, seat = (cfg.seat_labels?.[g.seat.trim()] || g.seat).replace(/\s+/g, '').toLowerCase();
       const precinct = aliases[g.precinct.trim().toUpperCase()] || g.precinct.trim();
       cur = {seat: seat[0].toUpperCase() + seat.slice(1), precinct, voteFor: g.n ? +g.n : 1, choices: []};
       contests.push(cur);
@@ -62,11 +64,13 @@ export function read(path, cfg = {}) {
     if (any && any.test(t)) { cur = null; continue; }
     if (!cur) continue;
     // Luzerne wraps long titles: "(REP) (Vote for 2)" or "for 2)" on the next line.
-    const vf = t.match(/^(?:\((?:REP|DEM)\)\s*)?\(?(?:Vote )?For (\d+)\)?$/i);
+    // Erie wraps "(Vote for" / "2)", so a lone "2)" is the seat count too.
+    const vf = t.match(/^(?:\((?:REP|DEM)\)\s*)?\(?(?:Vote )?For (\d+)\)?$/i) || t.match(/^(\d+)\)$/);
     if (vf) { cur.voteFor = +vf[1]; continue; }
     if (end.test(t)) { cur = null; continue; }
     if (SKIP.test(t) || FURNITURE.test(t) || !/\d/.test(t)) continue; // column headers, wrapped titles, page furniture
-    const m = t.match(/^(.*?\S)\s{2,}((?:[\d,]+\s+)*[\d,]+)$/);
+    // Drop percentage columns ("62    100.00%    54    8" in Lackawanna) before finding the total.
+    const m = t.replace(/\s+[\d.]+%/g, '').match(/^(.*?\S)\s{2,}((?:[\d,]+\s+)*[\d,]+)$/);
     if (!m) {
       // Only a line shaped like a vote line (a wide gap, then numbers) must be readable;
       // anything else here is a section heading or page text.

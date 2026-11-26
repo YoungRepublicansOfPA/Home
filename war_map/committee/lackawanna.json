@@ -17,6 +17,13 @@
       "title": "Lackawanna County Elections: Certified Election Results",
       "type": "results",
       "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://www.lackawannacounty.org/Document_center/Department/Elections/P26.SUM.Certified.pdf",
+      "title": "Official results export, used for holder names (results.pdf)",
+      "type": "results",
+      "as_of": "2026-06-08",
+      "sha256": "f46b67bf2e4da11256ccdf7b679830db54282b5f80ed408a61643c0f927118e2"
     }
   ],
   "precincts": [
@@ -125,7 +132,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LINDA BONCZKIEWICZ"
         }
       ]
     },
@@ -149,7 +157,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RICHARD EVANS"
         },
         {
           "seat": "Committeewoman",
@@ -177,7 +186,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CHET MERLI"
         },
         {
           "seat": "Committeewoman",
@@ -191,7 +201,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JAMES F QUINN"
         },
         {
           "seat": "Committeewoman",
@@ -406,7 +417,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "STEPHEN GUZA"
         },
         {
           "seat": "Committeewoman",
@@ -419,11 +431,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ROBERT P SHEILS III"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MARY DENSEVICH SHEILS"
         }
       ]
     },
@@ -486,7 +500,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KENNETH KROUCHICK JR"
         },
         {
           "seat": "Committeewoman",
@@ -694,7 +709,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "AMITKUMAR AMRUTIYA"
         },
         {
           "seat": "Committeewoman",
@@ -812,11 +828,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "FRANCESCO LEO"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KRISTA LEO"
         }
       ]
     },
@@ -825,7 +843,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BRUCE A SMALLACOMBE"
         },
         {
           "seat": "Committeewoman",
@@ -838,7 +857,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PAUL EASTLAKE"
         },
         {
           "seat": "Committeewoman",
@@ -851,11 +871,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CHRISTOPHER COOK"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "STACEY A COOK"
         }
       ]
     },
@@ -883,7 +905,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JO MAYER"
         }
       ]
     },
@@ -924,7 +947,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SHARON SOLTIS SPARANO"
         }
       ]
     },
@@ -976,7 +1000,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "WENDY BOCHNOVICH"
         }
       ]
     },
@@ -989,7 +1014,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DIANA CAMPBELL"
         }
       ]
     },
@@ -1002,7 +1028,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SHARON TUCKER SPECK"
         }
       ]
     },
@@ -1011,11 +1038,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "FRANK A SERAFINI"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "STASIA W SERAFINI"
         }
       ]
     },
@@ -1024,11 +1053,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PETER SANDY"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LYNN G KOKINDA"
         }
       ]
     },
@@ -1050,11 +1081,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "EARNEST C CHURCH"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TERESA M RIPLEY"
         }
       ]
     },
@@ -1063,11 +1096,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MIKE PARRY"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ROBIN LEE MEDEIROS"
         }
       ]
     },
@@ -1080,7 +1115,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RENEE CZUBOWICZ"
         }
       ]
     },
@@ -1089,11 +1125,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MARIO NESE"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JO ANN SCHNEIDER"
         }
       ]
     },
@@ -1102,11 +1140,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ART BROWN"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LILLIAN BROWN"
         }
       ]
     },
@@ -1115,11 +1155,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "FRANK SCAVO"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LAUREEN A CUMMINGS"
         }
       ]
     },
@@ -1141,7 +1183,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LAWRENCE A SEMENZA"
         },
         {
           "seat": "Committeewoman",
@@ -1173,7 +1216,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KIMBERLY KRAH"
         }
       ]
     },
@@ -1182,11 +1226,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KEITH MACDONALD"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KIMBERLY DEMATTEO"
         }
       ]
     },
@@ -1327,11 +1373,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MICHAEL A GIANNETTA"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "THERESA KANE"
         }
       ]
     },
@@ -1341,7 +1389,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JAMES V WILLIAMS JR"
         },
         {
           "seat": "Committeewoman",
@@ -1383,11 +1432,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVID BURGERHOFF"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MARY ANN MCGUIRE"
         }
       ]
     },
@@ -1411,7 +1462,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MARC PANE"
         },
         {
           "seat": "Committeewoman",
@@ -1425,7 +1477,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "GEORGE AREIZAGA JR"
         },
         {
           "seat": "Committeewoman",
@@ -1439,7 +1492,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KEITH BUNDY"
         },
         {
           "seat": "Committeewoman",
@@ -1466,11 +1520,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVID SPIOTTO"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CHRISTINE SPIOTTO"
         }
       ]
     },
@@ -1578,7 +1634,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ANTHONY PAMELIA"
         },
         {
           "seat": "Committeewoman",
@@ -1703,11 +1760,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JEFFREY LABROSKY"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LYNN LABROSKY"
         }
       ]
     },
@@ -1717,11 +1776,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JEFF MORAN"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PATRICIA PAWLIKOWSKI"
         }
       ]
     },
@@ -1744,7 +1805,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MATTHEW ZALE"
         },
         {
           "seat": "Committeewoman",
@@ -2022,11 +2084,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ANGEL L GONZALEZ"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JEANNE GIALLORENZI"
         }
       ]
     },
@@ -2035,11 +2099,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "WILLIAM T JONES"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MARGARET BILLINGS JONES"
         }
       ]
     },
@@ -2078,7 +2144,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PAMELA GINTOFF"
         }
       ]
     },
@@ -2091,7 +2158,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "HILARY POPE"
         }
       ]
     },
@@ -2152,11 +2220,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "GLENN CAPMAN"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JEANINE CAPMAN"
         }
       ]
     },
@@ -2191,11 +2261,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MATTHEW TRENTACOSTA"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CHRISTINE BURNS"
         }
       ]
     },
@@ -2234,5 +2306,5 @@
     "empty_no_filer": 0,
     "unknown": 228
   },
-  "notes": "Each of 163 precincts has a 'REP DISTRICT COMMITTEEMAN' and a 'REP DISTRICT COMMITTEEWOMAN' contest (vote for 1). The certified summary reports write-ins only as totals; the county's separate write-in report (WI.6.8.2026.pdf) was not used to resolve write-in winners. Status rules: filed candidate with the most votes = filled (unknown on a tie or if write-ins exceeded a lone candidate); no filed candidate = unknown when any write-in votes were cast, empty when none were. Appointments after the primary are not reflected."
+  "notes": "Each of 163 precincts has a 'REP DISTRICT COMMITTEEMAN' and a 'REP DISTRICT COMMITTEEWOMAN' contest (vote for 1). The certified summary reports write-ins only as totals; the county's separate write-in report (WI.6.8.2026.pdf) was not used to resolve write-in winners. Status rules: filed candidate with the most votes = filled (unknown on a tie or if write-ins exceeded a lone candidate); no filed candidate = unknown when any write-in votes were cast, empty when none were. Appointments after the primary are not reflected. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

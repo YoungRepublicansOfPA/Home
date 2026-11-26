@@ -17,6 +17,13 @@
       "title": "Butler County Archived Election Returns (2021-2026); the 2026 General Primary section posts only the unofficial summary and precinct reports",
       "type": "results",
       "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://butlercountypa.gov/DocumentCenter/View/13313/SUMMARY-REPORT-PDF",
+      "title": "Official results export, used for holder names (results.pdf, generated 2026-06-08)",
+      "type": "results",
+      "as_of": "2026-06-08",
+      "sha256": "ed9354a9d6fa9770b1ce80b9e41e9dde5d0a24a8e5404583736bd2bd335e4b52"
     }
   ],
   "precincts": [
@@ -25,11 +32,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHN E PAWLOWICZ"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "STACEY C PALMER"
         }
       ]
     },
@@ -43,7 +52,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CARRIE L YAUCH"
         }
       ]
     },
@@ -65,7 +75,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JIM INSCO"
         },
         {
           "seat": "Committeewoman",
@@ -79,7 +90,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "GARY METKLER"
         },
         {
           "seat": "Committeewoman",
@@ -97,7 +109,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MARTY BEST"
         }
       ]
     },
@@ -121,11 +134,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MICHAEL J OEHLING JR"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TRISH LINDSAY"
         }
       ]
     },
@@ -180,7 +195,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CAROL ANN KRAVITS"
         }
       ]
     },
@@ -190,7 +206,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TRENTON BOWSER"
         },
         {
           "seat": "Committeewoman",
@@ -204,11 +221,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MARC GALANTE"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LEE ANN GALANTE"
         }
       ]
     },
@@ -260,11 +279,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "GREGORY SMITH"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ALLY SMITH"
         }
       ]
     },
@@ -329,7 +350,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "NICHOLAS L CLAYPOOLE"
         },
         {
           "seat": "Committeewoman",
@@ -347,7 +369,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KATHLEEN JODZIS"
         }
       ]
     },
@@ -385,11 +408,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "FREDERICK W HENSEL"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DONNA M HENSEL"
         }
       ]
     },
@@ -440,11 +465,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHN CZOLBA"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TRACY BAZZY"
         }
       ]
     },
@@ -454,11 +481,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "G CHRISTOPHER HALL"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SHANA J REINHART"
         }
       ]
     },
@@ -468,7 +497,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "THOMAS C BARRAGE"
         },
         {
           "seat": "Committeewoman",
@@ -482,11 +512,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BRUCE MAZZONI"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KAREN NEWPOL"
         }
       ]
     },
@@ -496,7 +528,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TERRENCE MOORE"
         },
         {
           "seat": "Committeewoman",
@@ -509,7 +542,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVID VESSELS"
         },
         {
           "seat": "Committeewoman",
@@ -522,11 +556,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CHESTER JACK"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DENISE ETTER"
         }
       ]
     },
@@ -550,11 +586,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ERIC SCHULTIES"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JILL SCHULTIES"
         }
       ]
     },
@@ -564,11 +602,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "K ALAN DODD"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MICHELE MUSTELLO"
         }
       ]
     },
@@ -596,7 +636,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PAMELA D SMITH"
         }
       ]
     },
@@ -620,11 +661,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ROBERT GREGOR"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "AMY G DELUCIA"
         }
       ]
     },
@@ -660,11 +703,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DARRYL TABACCHI"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DENISE TABACCHI"
         }
       ]
     },
@@ -678,7 +723,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CINDY KNIESS"
         }
       ]
     },
@@ -688,7 +734,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MICHAEL FRAZIER"
         },
         {
           "seat": "Committeewoman",
@@ -716,11 +763,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHN L KENNEDY"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TAYLOR J KENNEDY"
         }
       ]
     },
@@ -744,11 +793,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ROY C KURTZROCK"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JUDY MOLINARO KURTZROCK"
         }
       ]
     },
@@ -800,11 +851,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "WILLARD E BURNS JR"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LORI VISH STEARNS"
         }
       ]
     },
@@ -828,7 +881,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JAMES WEST"
         },
         {
           "seat": "Committeewoman",
@@ -856,11 +910,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ERIC REFFERT"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "NICOLE BOWMAN"
         }
       ]
     },
@@ -982,11 +1038,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JEFFREY ZBEZINSKI"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DEBORAH WILLIAMSON"
         }
       ]
     },
@@ -1093,7 +1151,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "AARON ROSE"
         },
         {
           "seat": "Committeewoman",
@@ -1176,11 +1235,13 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JONDAVID LONGO"
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JENNIFER RAVERT"
         }
       ]
     },
@@ -1232,7 +1293,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHN R MCMILLIN JR"
         },
         {
           "seat": "Committeewoman",
@@ -1249,7 +1311,8 @@
         },
         {
           "seat": "Committeewoman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JANET MAHARG"
         }
       ]
     },
@@ -1328,7 +1391,8 @@
       "seats": [
         {
           "seat": "Committeeman",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TERRANCE BERRY"
         },
         {
           "seat": "Committeewoman",
@@ -1345,5 +1409,5 @@
     "empty_no_filer": 0,
     "unknown": 122
   },
-  "notes": "Butler County Republicans elect one Precinct Committeeman and one Precinct Committeewoman per precinct (95 precincts on the 2026 ballot; the map's precinct layer has 94). Only UNOFFICIAL election-night results are posted for the May 19, 2026 primary; no official/certified committee results or write-in winners list for 2026 was found on the county site. 'filled' = a named ballot candidate received votes; 'unknown' = no ballot candidate but write-in votes were cast (write-ins are not attributed in the unofficial report); 'empty' = no candidate and zero votes. Appointments after the primary are not reflected."
+  "notes": "Butler County Republicans elect one Precinct Committeeman and one Precinct Committeewoman per precinct (95 precincts on the 2026 ballot; the map's precinct layer has 94). Only UNOFFICIAL election-night results are posted for the May 19, 2026 primary; no official/certified committee results or write-in winners list for 2026 was found on the county site. 'filled' = a named ballot candidate received votes; 'unknown' = no ballot candidate but write-in votes were cast (write-ins are not attributed in the unofficial report); 'empty' = no candidate and zero votes. Appointments after the primary are not reflected. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

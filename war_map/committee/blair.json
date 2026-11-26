@@ -23,6 +23,13 @@
       "title": "Blair County 2026 Primary - Official Precinct Summary Results Report (no Republican county committee contests on 2026 ballot)",
       "type": "results",
       "as_of": "2026-06-03"
+    },
+    {
+      "url": "https://www.blaircountypa.gov/getmedia/d0d60212-69ad-4f36-af9d-7c26e2319bc4/Official-Summary-Results-Report.pdf",
+      "title": "Official results export, used for holder names (results.pdf, generated 2025-06-02)",
+      "type": "results",
+      "as_of": "2025-06-02",
+      "sha256": "97d10bb9377cbe1053b886c8d4249e5273f7a6f85376a0e92dfcf1500f399d2a"
     }
   ],
   "precincts": [
@@ -116,11 +123,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CHERYL RUPP"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVID F SERVELLO SR"
         }
       ]
     },
@@ -144,11 +153,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ANNA MARIE RODKEY"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOSEPH F RODKEY"
         }
       ]
     },
@@ -172,11 +183,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PAUL HEAD"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "NANCY E HEAD"
         }
       ]
     },
@@ -186,7 +199,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LAWRENCE J BILOTTO"
         },
         {
           "seat": "Member",
@@ -200,7 +214,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SHELLEY R CLINICH"
         },
         {
           "seat": "Member",
@@ -270,11 +285,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MICHELE M DIETZEL"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JACK E DIETZEL"
         }
       ]
     },
@@ -298,7 +315,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CHARLES GILLESPIE"
         },
         {
           "seat": "Member",
@@ -326,11 +344,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RON BEATTY"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KATHIE BEATTY"
         }
       ]
     },
@@ -340,11 +360,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVID W BUTTERBAUGH JR"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JASON M EBERSOLE"
         }
       ]
     },
@@ -382,7 +404,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PATTY SWIRES"
         },
         {
           "seat": "Member",
@@ -396,7 +419,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVID WOLESLAGLE"
         },
         {
           "seat": "Member",
@@ -424,11 +448,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "J MICHAEL SANDERS III"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "NITA L SANDERS"
         }
       ]
     },
@@ -452,11 +478,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "AUGUST C STICKEL IV"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BABETTE N GOTTSHALL"
         }
       ]
     },
@@ -466,7 +494,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TERRY L FIGART"
         },
         {
           "seat": "Member",
@@ -480,7 +509,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BARRY BRADFIELD"
         },
         {
           "seat": "Member",
@@ -494,7 +524,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "HELEN V EHGARTNER"
         },
         {
           "seat": "Member",
@@ -508,11 +539,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KAREN Y BUBIER"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVID E BURCHFIELD JR"
         }
       ]
     },
@@ -522,7 +555,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOSEPH ORICKO"
         },
         {
           "seat": "Member",
@@ -536,11 +570,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MICHAEL LUTHER"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MANNY NICHOLS"
         }
       ]
     },
@@ -578,11 +614,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CHRISTOPHER A FORSHEY"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BENJAMIN HORNBERGER"
         }
       ]
     },
@@ -606,7 +644,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JIM FOREMAN"
         },
         {
           "seat": "Member",
@@ -620,7 +659,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RICK MADARA"
         },
         {
           "seat": "Member",
@@ -634,7 +674,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JACOB WIBLE"
         },
         {
           "seat": "Member",
@@ -648,11 +689,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CHARLOTTE COCHRANE"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHN S LEAR"
         }
       ]
     },
@@ -676,11 +719,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SCOTT BARGER"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BETH BARGER"
         }
       ]
     },
@@ -690,7 +735,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SONYA VONADA"
         },
         {
           "seat": "Member",
@@ -704,11 +750,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "VICTORIA S COLLINS"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SANDRA NEWFIELD"
         }
       ]
     },
@@ -718,7 +766,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MELISSA MCHUGH"
         },
         {
           "seat": "Member",
@@ -746,11 +795,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PHILLIP J MENTZER"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "STEVE MUELLER"
         }
       ]
     },
@@ -760,11 +811,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "AMANDA WALKER"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KATHY GASSLER"
         }
       ]
     },
@@ -774,11 +827,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RAY S BENTON"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KIMBERLY J BENTON"
         }
       ]
     },
@@ -802,7 +857,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ED FIGART"
         },
         {
           "seat": "Member",
@@ -858,7 +914,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JAMES R HUFF II"
         },
         {
           "seat": "Member",
@@ -872,11 +929,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KATHRYN ERB MATHIAS"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVID GORMAN"
         }
       ]
     },
@@ -900,11 +959,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "AMY WEBSTER"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOE ADDINK"
         }
       ]
     },
@@ -914,7 +975,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "STACEY Y KENSINGER"
         },
         {
           "seat": "Member",
@@ -928,7 +990,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ALLAN R STOMBAUGH"
         },
         {
           "seat": "Member",
@@ -956,11 +1019,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RON HELLER"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JACK L RAWLINGS"
         }
       ]
     },
@@ -970,7 +1035,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "HELEN P SCHMITT"
         },
         {
           "seat": "Member",
@@ -998,11 +1064,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JAMIE L SCARANGELLA"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ROY A STEWARD JR"
         }
       ]
     },
@@ -1026,7 +1094,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ED FRONTINO"
         },
         {
           "seat": "Member",
@@ -1082,11 +1151,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KEVIN L SMITH"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LISA KEIM SMITH"
         }
       ]
     },
@@ -1110,11 +1181,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KRISTY D OAKES"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RICK BOSTON"
         }
       ]
     },
@@ -1124,7 +1197,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RODNEY GREEN"
         },
         {
           "seat": "Member",
@@ -1152,7 +1226,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SUSAN R BONSELL"
         },
         {
           "seat": "Member",
@@ -1194,7 +1269,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LINDA C DANIELS"
         },
         {
           "seat": "Member",
@@ -1264,11 +1340,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DEBRA L WESTON"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHN P STEPHENS SR"
         }
       ]
     },
@@ -1278,11 +1356,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "J GRANT HORMELL"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SHANE M FEDELI"
         }
       ]
     },
@@ -1306,7 +1386,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KARYN SHAW"
         },
         {
           "seat": "Member",
@@ -1320,11 +1401,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "GAIL C NEVITT"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JUDITH M SCHNARRS"
         }
       ]
     }
@@ -1337,5 +1420,5 @@
     "empty_no_filer": 0,
     "unknown": 107
   },
-  "notes": "Blair County Republican committee members appear on the ballot in odd-year municipal primaries: the 2025 municipal primary listed one REP COUNTY COMMITTEE contest per precinct (93 contests, Vote For 2, seats not designated by gender), and the May 19, 2026 primary had none. Status is derived from the official 2025 summary report: a named candidate who received votes and could not be overtaken by pooled write-ins is filled; seats left with only scattered write-in votes are unknown (the report does not show whether a write-in qualified or accepted); seats with no candidate and zero write-in votes are empty. Vacancies filled by appointment after May 2025 are not captured. The old blairco.org document links now redirect to blaircountypa.gov."
+  "notes": "Blair County Republican committee members appear on the ballot in odd-year municipal primaries: the 2025 municipal primary listed one REP COUNTY COMMITTEE contest per precinct (93 contests, Vote For 2, seats not designated by gender), and the May 19, 2026 primary had none. Status is derived from the official 2025 summary report: a named candidate who received votes and could not be overtaken by pooled write-ins is filled; seats left with only scattered write-in votes are unknown (the report does not show whether a write-in qualified or accepted); seats with no candidate and zero write-in votes are empty. Vacancies filled by appointment after May 2025 are not captured. The old blairco.org document links now redirect to blaircountypa.gov. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

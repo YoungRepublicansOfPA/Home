@@ -17,6 +17,13 @@
       "title": "Erie County Official Candidate Listing - 2026 General Primary",
       "type": "candidate_listing",
       "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://www.eriecountycouncilpa.gov/uploads/modules/resources/031365_2026_general_primary_official_results.pdf",
+      "title": "Official results export, used for holder names (results.pdf)",
+      "type": "results",
+      "as_of": "2026-06-08",
+      "sha256": "c132e41fe4b11782ca4d8303926ad9db03e65cc403ee0fb5edb267f2c13be4c0"
     }
   ],
   "precincts": [
@@ -402,7 +409,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ANITA FAY"
         },
         {
           "seat": "Committee Person",
@@ -542,11 +550,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MICHELLE PREVITE"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOSEPH PREVITE"
         }
       ]
     },
@@ -668,11 +678,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TIMOTHY P KUZMA"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ELIZABETH WHELPLEY"
         }
       ]
     },
@@ -1018,11 +1030,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DOUGLAS J TOMLINSON"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JENNIFER DAVIS"
         }
       ]
     },
@@ -1045,7 +1059,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MARK FISCHER"
         },
         {
           "seat": "Committee Person",
@@ -1101,11 +1116,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ROSE M KUHN"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "WILLIAM R KUHN"
         }
       ]
     },
@@ -1115,7 +1132,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PAMELA J BROWN"
         },
         {
           "seat": "Committee Person",
@@ -1227,11 +1245,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CALEB J LANDIS"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KERRY KERR"
         }
       ]
     },
@@ -1241,7 +1261,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DALE KLOBUSNIK"
         },
         {
           "seat": "Committee Person",
@@ -1255,7 +1276,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CRAIG HELFERT"
         },
         {
           "seat": "Committee Person",
@@ -1297,7 +1319,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MICAH GORING"
         },
         {
           "seat": "Committee Person",
@@ -1311,11 +1334,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KAREN JACKMAN"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ANGELA BARSOTTI"
         }
       ]
     },
@@ -1381,7 +1406,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "STAN WILLIAMS"
         },
         {
           "seat": "Committee Person",
@@ -1409,11 +1435,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KEVIN BARTLETT"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JANICE BARTLETT"
         }
       ]
     },
@@ -1437,11 +1465,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BRIAN SHANK"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOSEPH C JACOBS"
         }
       ]
     },
@@ -1562,7 +1592,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JEREMY J MARKHAM"
         },
         {
           "seat": "Committee Person",
@@ -1644,11 +1675,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BRANDON E BARR"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BRAD PEGANOFF"
         }
       ]
     },
@@ -1658,7 +1691,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BARBARA SHANNON"
         },
         {
           "seat": "Committee Person",
@@ -1700,11 +1734,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KEITH D CANFIELD"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHN M GUYTON"
         }
       ]
     },
@@ -1714,7 +1750,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BRADLEY J CURRY"
         },
         {
           "seat": "Committee Person",
@@ -1756,7 +1793,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MATTHEW BLACKBURN"
         },
         {
           "seat": "Committee Person",
@@ -1812,11 +1850,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "NANCY S SHEA"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JASON D SHEA"
         }
       ]
     },
@@ -1826,7 +1866,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CAROL L PFEIFLE"
         },
         {
           "seat": "Committee Person",
@@ -1854,11 +1895,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MATTHEW SAFT"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "GWENDOLYN SAFT"
         }
       ]
     },
@@ -1896,11 +1939,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PAUL WOJCIK"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LAUREN HANSON"
         }
       ]
     },
@@ -1924,7 +1969,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MARK A STEG"
         },
         {
           "seat": "Committee Person",
@@ -1952,11 +1998,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DANA RICHTER"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "THERESA RICHTER"
         }
       ]
     },
@@ -1966,11 +2014,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "GRACIE SMATHERS"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CLIFF SMATHERS"
         }
       ]
     },
@@ -1980,11 +2030,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ELIZABETH SMITH"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOE SALORINO"
         }
       ]
     },
@@ -2008,7 +2060,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KOLLEEN SWEENEY"
         },
         {
           "seat": "Committee Person",
@@ -2050,7 +2103,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "GREG HAYES"
         },
         {
           "seat": "Committee Person",
@@ -2109,5 +2163,5 @@
     "empty_no_filer": 0,
     "unknown": 230
   },
-  "notes": "Erie County lists one contest per precinct, 'Erie County Republican Committee Person', vote for two, 2-year term (per the official candidate listing). Seats are labelled generically because the county does not split them into committeeman/committeewoman. A seat is 'filled' when a printed ballot candidate received votes; remaining seats are 'empty' when the contest recorded no write-in votes at all and 'unknown' when any write-in votes (resolved or unresolved) were cast, since the results do not show whether a write-in winner qualified or accepted. No tie at the winning cutoff was found. Appointments after the primary are not reflected."
+  "notes": "Erie County lists one contest per precinct, 'Erie County Republican Committee Person', vote for two, 2-year term (per the official candidate listing). Seats are labelled generically because the county does not split them into committeeman/committeewoman. A seat is 'filled' when a printed ballot candidate received votes; remaining seats are 'empty' when the contest recorded no write-in votes at all and 'unknown' when any write-in votes (resolved or unresolved) were cast, since the results do not show whether a write-in winner qualified or accepted. No tie at the winning cutoff was found. Appointments after the primary are not reflected. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

@@ -19,10 +19,11 @@ import * as electionware from './lib/electionware.mjs';
 import * as textreport from './lib/textreport.mjs';
 import * as winners from './lib/winners.mjs';
 import * as roster from './lib/roster.mjs';
+import * as htmllines from './lib/htmllines.mjs';
 
 const here = new URL('.', import.meta.url).pathname;
 const mapDir = join(here, '../..');
-const READERS = {clarity, electionware, textreport, winners, roster};
+const READERS = {clarity, electionware, textreport, winners, roster, htmllines};
 
 function args(argv) {
   const out = {_: []};

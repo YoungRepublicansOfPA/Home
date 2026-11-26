@@ -25,7 +25,7 @@
   "empty": 4975,
   "empty_no_filer": 399,
   "unknown": 7742,
-  "named": 3446,
+  "named": 4061,
   "precincts": 9117,
   "mapped": 8083
  },
@@ -287,7 +287,7 @@
    "empty": 3,
    "empty_no_filer": 0,
    "unknown": 107,
-   "named": 0,
+   "named": 76,
    "mapped": 93,
    "next_election": {
     "year": 2029,
@@ -312,6 +312,11 @@
     {
      "url": "https://www.blaircountypa.gov/getmedia/06b3fbef-4fc1-4420-beb7-52a64ef0a171/Official-Precinct-Summary-Results-Report.pdf",
      "title": "Blair County 2026 Primary - Official Precinct Summary Results Report (no Republican county committee contests on 2026 ballot)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.blaircountypa.gov/getmedia/d0d60212-69ad-4f36-af9d-7c26e2319bc4/Official-Summary-Results-Report.pdf",
+     "title": "Official results export, used for holder names (results.pdf, generated 2025-06-02)",
      "type": "results"
     }
    ],
@@ -410,7 +415,7 @@
    "empty": 11,
    "empty_no_filer": 0,
    "unknown": 122,
-   "named": 0,
+   "named": 57,
    "mapped": 81,
    "next_election": {
     "year": 2030,
@@ -430,6 +435,11 @@
     {
      "url": "https://butlercountypa.gov/683/Archived-Election-Returns-2021---2026",
      "title": "Butler County Archived Election Returns (2021-2026); the 2026 General Primary section posts only the unofficial summary and precinct reports",
+     "type": "results"
+    },
+    {
+     "url": "https://butlercountypa.gov/DocumentCenter/View/13313/SUMMARY-REPORT-PDF",
+     "title": "Official results export, used for holder names (results.pdf, generated 2026-06-08)",
      "type": "results"
     }
    ],
@@ -1035,7 +1045,7 @@
    "empty": 21,
    "empty_no_filer": 0,
    "unknown": 230,
-   "named": 0,
+   "named": 47,
    "mapped": 143,
    "next_election": {
     "year": 2030,
@@ -1056,6 +1066,11 @@
      "url": "https://www.eriecountycouncilpa.gov/uploads/modules/resources/842773_2026_general_primary_official_candidate_listing.pdf",
      "title": "Erie County Official Candidate Listing - 2026 General Primary",
      "type": "candidate_listing"
+    },
+    {
+     "url": "https://www.eriecountycouncilpa.gov/uploads/modules/resources/031365_2026_general_primary_official_results.pdf",
+     "title": "Official results export, used for holder names (results.pdf)",
+     "type": "results"
     }
    ],
    "file": "erie.json"
@@ -1307,7 +1322,7 @@
    "empty": 11,
    "empty_no_filer": 0,
    "unknown": 81,
-   "named": 0,
+   "named": 46,
    "mapped": 63,
    "next_election": {
     "year": 2030,
@@ -1328,6 +1343,11 @@
      "url": "https://www.indianacountypa.gov/wp-content/uploads/Republican-Candidates-May-19-2026.pdf",
      "title": "Republican Candidates, May 19, 2026 Primary (lists County Committee, 4-year term, 2 per precinct)",
      "type": "candidate_listing"
+    },
+    {
+     "url": "https://www.indianacountypa.gov/wp-content/uploads/May-19-2026-Summary-Report-Second-Signing.pdf",
+     "title": "Official results export, used for holder names (results.pdf, generated 2026-06-03)",
+     "type": "results"
     }
    ],
    "file": "indiana.json"
@@ -1415,7 +1435,7 @@
    "empty": 33,
    "empty_no_filer": 0,
    "unknown": 228,
-   "named": 0,
+   "named": 65,
    "mapped": 86,
    "next_election": {
     "year": 2030,
@@ -1435,6 +1455,11 @@
     {
      "url": "https://www.lackawannacounty.org/government/departments/elections/certified_election_results.php",
      "title": "Lackawanna County Elections: Certified Election Results",
+     "type": "results"
+    },
+    {
+     "url": "https://www.lackawannacounty.org/Document_center/Department/Elections/P26.SUM.Certified.pdf",
+     "title": "Official results export, used for holder names (results.pdf)",
      "type": "results"
     }
    ],
@@ -1584,7 +1609,7 @@
    "empty": 9,
    "empty_no_filer": 0,
    "unknown": 225,
-   "named": 0,
+   "named": 81,
    "mapped": 158,
    "next_election": {
     "year": 2030,
@@ -1609,6 +1634,11 @@
     {
      "url": "https://www.lehighcounty.org/Departments/Voter-Registration/Election-Results",
      "title": "Lehigh County Voter Registration: Election Results index",
+     "type": "results"
+    },
+    {
+     "url": "https://www.lehighcounty.org/Portals/0/PDF/Voter/Election%20Results/ResultsSummary060126a.pdf",
+     "title": "Official results export, used for holder names (results.pdf)",
      "type": "results"
     }
    ],
@@ -1671,7 +1701,7 @@
    "empty": 4,
    "empty_no_filer": 0,
    "unknown": 53,
-   "named": 0,
+   "named": 103,
    "mapped": 75,
    "next_election": {
     "year": 2030,
@@ -1691,6 +1721,11 @@
     {
      "url": "https://www.lycomingcountypa.gov/government/departments/voter_services/previouselectionresults.php",
      "title": "Lycoming County Voter Services - Previous Election Results",
+     "type": "results"
+    },
+    {
+     "url": "https://www.lycomingcountypa.gov/Documents/Government/Departments/Voter%20Services/PreviousResults/2026GPOfficial.pdf",
+     "title": "Official results export, used for holder names (results.pdf)",
      "type": "results"
     }
    ],
@@ -1743,7 +1778,7 @@
    "empty": 26,
    "empty_no_filer": 0,
    "unknown": 92,
-   "named": 0,
+   "named": 62,
    "mapped": 90,
    "next_election": {
     "year": 2030,
@@ -1758,6 +1793,11 @@
     {
      "url": "https://www.mercercountypa.gov/election/Election.Results/2026/PRIMARY/PRECINCT.pdf",
      "title": "Mercer County 2026 Primary Election Precinct Summary (marked OFFICIAL RESULTS, generated 06/05/2026)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.mercercountypa.gov/election/Election.Results/2026/PRIMARY/PRECINCT.pdf",
+     "title": "Official results export, used for holder names (results.pdf)",
      "type": "results"
     }
    ],
@@ -1810,7 +1850,7 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 36,
-   "named": 0,
+   "named": 78,
    "mapped": 49,
    "next_election": {
     "year": 2030,
@@ -1830,6 +1870,11 @@
     {
      "url": "https://agencies2.monroecountypa.gov/ElectionResults/Primary?id=9",
      "title": "Monroe County PA Election Results: 2026 General Primary overview",
+     "type": "results"
+    },
+    {
+     "url": "https://agencies2.monroecountypa.gov/ElectionResults/Committee?party=Republican&id=9",
+     "title": "Official results export, used for holder names (committee.html)",
      "type": "results"
     }
    ],

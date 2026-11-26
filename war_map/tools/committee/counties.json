@@ -79,9 +79,18 @@
    "county": "Blair",
    "slug": "blair",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 20, 2025 Municipal Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2025-primary",
+    "version": "official",
+    "url": "https://www.blaircountypa.gov/getmedia/d0d60212-69ad-4f36-af9d-7c26e2319bc4/Official-Summary-Results-Report.pdf",
+    "contest_pattern": "^REP (?<seat>COUNTY COMMITTEE) (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND)\\s+\\S",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b",
+    "title": "official results report"
+   }
   },
   {
    "county": "Bradford",
@@ -118,9 +127,18 @@
    "county": "Butler",
    "slug": "butler",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://butlercountypa.gov/DocumentCenter/View/13313/SUMMARY-REPORT-PDF",
+    "contest_pattern": "^REP REPUBLICAN PRECINCT (?<seat>COMMITTEEMAN|COMMITTEEWOMAN) (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND)\\s+\\S",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b",
+    "title": "official results report"
+   }
   },
   {
    "county": "Cambria",
@@ -282,9 +300,18 @@
    "county": "Erie",
    "slug": "erie",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://www.eriecountycouncilpa.gov/uploads/modules/resources/031365_2026_general_primary_official_results.pdf",
+    "title": "official results report",
+    "contest_pattern": "^(?<precinct>.+?) REPUBLICAN (?<seat>COMMITTEE PERSON)(?: \\(Vote(?: for(?: (?<n>\\d+)\\))?)?)?$",
+    "any_contest": "\\(Vote(?: for(?: \\d+\\))?)?$",
+    "end": "^Total Votes\\s+[\\d,]"
+   }
   },
   {
    "county": "Fayette",
@@ -339,9 +366,18 @@
    "county": "Indiana",
    "slug": "indiana",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://www.indianacountypa.gov/wp-content/uploads/May-19-2026-Summary-Report-Second-Signing.pdf",
+    "contest_pattern": "^REP REP (?<seat>COUNTY COMM) (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND)\\s+\\S",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b",
+    "title": "official results report"
+   }
   },
   {
    "county": "Jefferson",
@@ -363,9 +399,18 @@
    "county": "Lackawanna",
    "slug": "lackawanna",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://www.lackawannacounty.org/Document_center/Department/Elections/P26.SUM.Certified.pdf",
+    "contest_pattern": "^REP DISTRICT (?<seat>COMMITTEEMAN|COMMITTEEWOMAN) (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND)\\s+\\S",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b",
+    "title": "official results report"
+   }
   },
   {
    "county": "Lancaster",
@@ -420,10 +465,19 @@
    "county": "Lehigh",
    "slug": "lehigh",
    "current_method": "election_results",
-   "platform": "livevoterturnout",
+   "platform": "textreport",
    "results_url": "https://www.livevoterturnout.com/ENR/lehighpaenr/12/en/Index_12.html",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://www.lehighcounty.org/Portals/0/PDF/Voter/Election%20Results/ResultsSummary060126a.pdf",
+    "contest_pattern": "^REP (?<seat>Member) of the County Committee (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND)\\s+\\S",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b",
+    "title": "official results report"
+   }
   },
   {
    "county": "Luzerne",
@@ -447,9 +501,23 @@
    "county": "Lycoming",
    "slug": "lycoming",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://www.lycomingcountypa.gov/Documents/Government/Departments/Voter%20Services/PreviousResults/2026GPOfficial.pdf",
+    "page": "https://www.lycomingcountypa.gov/government/departments/voter_services/previouselectionresults.php",
+    "title": "official results report",
+    "contest_pattern": "^(?<precinct>.+?) Rep Committee \\((?<seat>M|F)\\) \\(Rep\\) \\(Vote for (?<n>\\d+)\\)",
+    "any_contest": "\\(Vote for \\d+\\)",
+    "seat_labels": {
+     "M": "Committeeman",
+     "F": "Committeewoman"
+    },
+    "notes_download": "The county site refuses scripted requests (HTTP 403); download the PDF in a browser."
+   }
   },
   {
    "county": "McKean",
@@ -463,9 +531,18 @@
    "county": "Mercer",
    "slug": "mercer",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://www.mercercountypa.gov/election/Election.Results/2026/PRIMARY/PRECINCT.pdf",
+    "contest_pattern": "^REP PRECINCT (?<seat>COMMITTEEMAN|COMMITTEEWOMAN) (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND)\\s+\\S",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b",
+    "title": "official results report"
+   }
   },
   {
    "county": "Mifflin",
@@ -479,9 +556,16 @@
    "county": "Monroe",
    "slug": "monroe",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "htmllines",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "htmllines": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://agencies2.monroecountypa.gov/ElectionResults/Committee?party=Republican&id=9",
+    "title": "Republican committee results",
+    "contest_pattern": "^(?<seat>MEMBER) OF REPUBLICAN COUNTY COMMITTEE (?<precinct>.+)$"
+   }
   },
   {
    "county": "Montgomery",

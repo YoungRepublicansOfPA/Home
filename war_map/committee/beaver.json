@@ -22,6 +22,7 @@
   "precincts": [
     {
       "name": "ALIQUIPPA 1",
+      "map_id": "420070005",
       "seats": [
         {
           "seat": "Committeeman",
@@ -35,6 +36,7 @@
     },
     {
       "name": "ALIQUIPPA 2",
+      "map_id": "420070015",
       "seats": [
         {
           "seat": "Committeeman",
@@ -48,6 +50,7 @@
     },
     {
       "name": "ALIQUIPPA 3",
+      "map_id": "420070026",
       "seats": [
         {
           "seat": "Committeeman",
@@ -61,6 +64,7 @@
     },
     {
       "name": "ALIQUIPPA 4",
+      "map_id": "420070036",
       "seats": [
         {
           "seat": "Committeeman",
@@ -74,6 +78,7 @@
     },
     {
       "name": "ALIQUIPPA 5",
+      "map_id": "420070045",
       "seats": [
         {
           "seat": "Committeeman",
@@ -87,6 +92,7 @@
     },
     {
       "name": "ALIQUIPPA 6",
+      "map_id": "420070055",
       "seats": [
         {
           "seat": "Committeeman",
@@ -100,6 +106,7 @@
     },
     {
       "name": "ALIQUIPPA 7",
+      "map_id": "420070065",
       "seats": [
         {
           "seat": "Committeeman",
@@ -113,6 +120,7 @@
     },
     {
       "name": "ALIQUIPPA 8",
+      "map_id": "420070075",
       "seats": [
         {
           "seat": "Committeeman",
@@ -126,6 +134,7 @@
     },
     {
       "name": "ALIQUIPPA 9",
+      "map_id": "420070095",
       "seats": [
         {
           "seat": "Committeeman",
@@ -139,6 +148,7 @@
     },
     {
       "name": "AMBRIDGE BORO 1",
+      "map_id": "420070155",
       "seats": [
         {
           "seat": "Committeeman",
@@ -152,6 +162,7 @@
     },
     {
       "name": "AMBRIDGE BORO 2",
+      "map_id": "420070165",
       "seats": [
         {
           "seat": "Committeeman",
@@ -165,6 +176,7 @@
     },
     {
       "name": "AMBRIDGE BORO 3",
+      "map_id": "420070175",
       "seats": [
         {
           "seat": "Committeeman",
@@ -178,6 +190,7 @@
     },
     {
       "name": "AMBRIDGE BORO 4",
+      "map_id": "420070185",
       "seats": [
         {
           "seat": "Committeeman",
@@ -191,6 +204,7 @@
     },
     {
       "name": "AMBRIDGE BORO 5",
+      "map_id": "420070195",
       "seats": [
         {
           "seat": "Committeeman",
@@ -204,6 +218,7 @@
     },
     {
       "name": "BADEN BORO 1",
+      "map_id": "420070250",
       "seats": [
         {
           "seat": "Committeeman",
@@ -217,6 +232,7 @@
     },
     {
       "name": "BADEN BORO 2",
+      "map_id": "420070265",
       "seats": [
         {
           "seat": "Committeeman",
@@ -230,6 +246,7 @@
     },
     {
       "name": "BADEN BORO 3",
+      "map_id": "420070275",
       "seats": [
         {
           "seat": "Committeeman",
@@ -243,6 +260,7 @@
     },
     {
       "name": "BEAVER BORO 1",
+      "map_id": "420070290",
       "seats": [
         {
           "seat": "Committeeman",
@@ -256,6 +274,7 @@
     },
     {
       "name": "BEAVER BORO 2",
+      "map_id": "420070300",
       "seats": [
         {
           "seat": "Committeeman",
@@ -282,6 +301,7 @@
     },
     {
       "name": "BEAVER FALLS 1",
+      "map_id": "420070325",
       "seats": [
         {
           "seat": "Committeeman",
@@ -295,6 +315,7 @@
     },
     {
       "name": "BEAVER FALLS 2",
+      "map_id": "420070335",
       "seats": [
         {
           "seat": "Committeeman",
@@ -308,6 +329,7 @@
     },
     {
       "name": "BEAVER FALLS 3",
+      "map_id": "420070345",
       "seats": [
         {
           "seat": "Committeeman",
@@ -321,6 +343,7 @@
     },
     {
       "name": "BEAVER FALLS 4",
+      "map_id": "420070355",
       "seats": [
         {
           "seat": "Committeeman",
@@ -334,6 +357,7 @@
     },
     {
       "name": "BEAVER FALLS 5",
+      "map_id": "420070365",
       "seats": [
         {
           "seat": "Committeeman",
@@ -347,6 +371,7 @@
     },
     {
       "name": "BEAVER FALLS 6",
+      "map_id": "420070375",
       "seats": [
         {
           "seat": "Committeeman",
@@ -360,6 +385,7 @@
     },
     {
       "name": "BIG BEAVER BORO",
+      "map_id": "420070405",
       "seats": [
         {
           "seat": "Committeeman",
@@ -373,6 +399,7 @@
     },
     {
       "name": "VANPORT TWP",
+      "map_id": "420071535",
       "seats": [
         {
           "seat": "Committeeman",
@@ -386,6 +413,7 @@
     },
     {
       "name": "BRIDGEWATER BORO",
+      "map_id": "420070420",
       "seats": [
         {
           "seat": "Committeeman",
@@ -399,6 +427,7 @@
     },
     {
       "name": "BRIGHTON TWP 1",
+      "map_id": "420070435",
       "seats": [
         {
           "seat": "Committeeman",
@@ -412,6 +441,7 @@
     },
     {
       "name": "BRIGHTON TWP 2",
+      "map_id": "420070440",
       "seats": [
         {
           "seat": "Committeeman",
@@ -425,6 +455,7 @@
     },
     {
       "name": "BRIGHTON TWP 3",
+      "map_id": "420070450",
       "seats": [
         {
           "seat": "Committeeman",
@@ -438,6 +469,7 @@
     },
     {
       "name": "BRIGHTON TWP 4",
+      "map_id": "420070460",
       "seats": [
         {
           "seat": "Committeeman",
@@ -451,6 +483,7 @@
     },
     {
       "name": "BRIGHTON TWP 5",
+      "map_id": "420070465",
       "seats": [
         {
           "seat": "Committeeman",
@@ -464,6 +497,7 @@
     },
     {
       "name": "CENTER TWP 1",
+      "map_id": "420070490",
       "seats": [
         {
           "seat": "Committeeman",
@@ -477,6 +511,7 @@
     },
     {
       "name": "CENTER TWP 2",
+      "map_id": "420070500",
       "seats": [
         {
           "seat": "Committeeman",
@@ -490,6 +525,7 @@
     },
     {
       "name": "CENTER TWP 3",
+      "map_id": "420070510",
       "seats": [
         {
           "seat": "Committeeman",
@@ -503,6 +539,7 @@
     },
     {
       "name": "CENTER TWP 4",
+      "map_id": "420070520",
       "seats": [
         {
           "seat": "Committeeman",
@@ -516,6 +553,7 @@
     },
     {
       "name": "CENTER TWP 5",
+      "map_id": "420070530",
       "seats": [
         {
           "seat": "Committeeman",
@@ -529,6 +567,7 @@
     },
     {
       "name": "CENTER TWP 6",
+      "map_id": "420070540",
       "seats": [
         {
           "seat": "Committeeman",
@@ -542,6 +581,7 @@
     },
     {
       "name": "CENTER TWP 7",
+      "map_id": "420070550",
       "seats": [
         {
           "seat": "Committeeman",
@@ -555,6 +595,7 @@
     },
     {
       "name": "CENTER TWP 8",
+      "map_id": "420070560",
       "seats": [
         {
           "seat": "Committeeman",
@@ -568,6 +609,7 @@
     },
     {
       "name": "CHIPPEWA TWP 1",
+      "map_id": "420070570",
       "seats": [
         {
           "seat": "Committeeman",
@@ -581,6 +623,7 @@
     },
     {
       "name": "CHIPPEWA TWP 2",
+      "map_id": "420070580",
       "seats": [
         {
           "seat": "Committeeman",
@@ -594,6 +637,7 @@
     },
     {
       "name": "CHIPPEWA TWP 3",
+      "map_id": "420070590",
       "seats": [
         {
           "seat": "Committeeman",
@@ -607,6 +651,7 @@
     },
     {
       "name": "CHIPPEWA TWP 4",
+      "map_id": "420070600",
       "seats": [
         {
           "seat": "Committeeman",
@@ -620,6 +665,7 @@
     },
     {
       "name": "CONWAY BORO 1",
+      "map_id": "420070610",
       "seats": [
         {
           "seat": "Committeeman",
@@ -633,6 +679,7 @@
     },
     {
       "name": "CONWAY BORO 2",
+      "map_id": "420070620",
       "seats": [
         {
           "seat": "Committeeman",
@@ -646,6 +693,7 @@
     },
     {
       "name": "DARLINGTON BORO",
+      "map_id": "420070640",
       "seats": [
         {
           "seat": "Committeeman",
@@ -659,6 +707,7 @@
     },
     {
       "name": "DARLINGTON TWP",
+      "map_id": "420070630",
       "seats": [
         {
           "seat": "Committeeman",
@@ -672,6 +721,7 @@
     },
     {
       "name": "DAUGHERTY TWP 1",
+      "map_id": "420070650",
       "seats": [
         {
           "seat": "Committeeman",
@@ -685,6 +735,7 @@
     },
     {
       "name": "DAUGHERTY TWP 2",
+      "map_id": "420070660",
       "seats": [
         {
           "seat": "Committeeman",
@@ -698,6 +749,7 @@
     },
     {
       "name": "EAST ROCHESTER BORO",
+      "map_id": "420070670",
       "seats": [
         {
           "seat": "Committeeman",
@@ -711,6 +763,7 @@
     },
     {
       "name": "EASTVALE BORO",
+      "map_id": "420070680",
       "seats": [
         {
           "seat": "Committeeman",
@@ -724,6 +777,7 @@
     },
     {
       "name": "ECONOMY BORO 1",
+      "map_id": "420070695",
       "seats": [
         {
           "seat": "Committeeman",
@@ -737,6 +791,7 @@
     },
     {
       "name": "ECONOMY BORO 2",
+      "map_id": "420070705",
       "seats": [
         {
           "seat": "Committeeman",
@@ -750,6 +805,7 @@
     },
     {
       "name": "ECONOMY BORO 3",
+      "map_id": "420070710",
       "seats": [
         {
           "seat": "Committeeman",
@@ -763,6 +819,7 @@
     },
     {
       "name": "ECONOMY BORO 4",
+      "map_id": "420070720",
       "seats": [
         {
           "seat": "Committeeman",
@@ -776,6 +833,7 @@
     },
     {
       "name": "ECONOMY BORO 5",
+      "map_id": "420070735",
       "seats": [
         {
           "seat": "Committeeman",
@@ -789,6 +847,7 @@
     },
     {
       "name": "FALLSTON BORO",
+      "map_id": "420070750",
       "seats": [
         {
           "seat": "Committeeman",
@@ -802,6 +861,7 @@
     },
     {
       "name": "FRANKFORT SPRINGS BORO",
+      "map_id": "420070760",
       "seats": [
         {
           "seat": "Committeeman",
@@ -841,6 +901,7 @@
     },
     {
       "name": "FREEDOM BORO",
+      "map_id": "420070808",
       "seats": [
         {
           "seat": "Committeeman",
@@ -854,6 +915,7 @@
     },
     {
       "name": "GEORGETOWN BORO",
+      "map_id": "420070820",
       "seats": [
         {
           "seat": "Committeeman",
@@ -867,6 +929,7 @@
     },
     {
       "name": "GLASGOW BORO",
+      "map_id": "420070830",
       "seats": [
         {
           "seat": "Committeeman",
@@ -880,6 +943,7 @@
     },
     {
       "name": "GREENE TWP",
+      "map_id": "420070840",
       "seats": [
         {
           "seat": "Committeeman",
@@ -919,6 +983,7 @@
     },
     {
       "name": "HARMONY TWP 1",
+      "map_id": "420070875",
       "seats": [
         {
           "seat": "Committeeman",
@@ -932,6 +997,7 @@
     },
     {
       "name": "HARMONY TWP 2",
+      "map_id": "420070885",
       "seats": [
         {
           "seat": "Committeeman",
@@ -945,6 +1011,7 @@
     },
     {
       "name": "HARMONY TWP 3",
+      "map_id": "420070905",
       "seats": [
         {
           "seat": "Committeeman",
@@ -958,6 +1025,7 @@
     },
     {
       "name": "HOMEWOOD BORO",
+      "map_id": "420070920",
       "seats": [
         {
           "seat": "Committeeman",
@@ -971,6 +1039,7 @@
     },
     {
       "name": "HOOKSTOWN BORO",
+      "map_id": "420070930",
       "seats": [
         {
           "seat": "Committeeman",
@@ -984,6 +1053,7 @@
     },
     {
       "name": "HOPEWELL TWP 1",
+      "map_id": "420070940",
       "seats": [
         {
           "seat": "Committeeman",
@@ -997,6 +1067,7 @@
     },
     {
       "name": "HOPEWELL TWP 2",
+      "map_id": "420070950",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1010,6 +1081,7 @@
     },
     {
       "name": "HOPEWELL TWP 3",
+      "map_id": "420070960",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1023,6 +1095,7 @@
     },
     {
       "name": "HOPEWELL TWP 4",
+      "map_id": "420070975",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1036,6 +1109,7 @@
     },
     {
       "name": "HOPEWELL TWP 5",
+      "map_id": "420070985",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1049,6 +1123,7 @@
     },
     {
       "name": "HOPEWELL TWP 6",
+      "map_id": "420070995",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1062,6 +1137,7 @@
     },
     {
       "name": "HOPEWELL TWP 7",
+      "map_id": "420071005",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1075,6 +1151,7 @@
     },
     {
       "name": "HOPEWELL TWP 8",
+      "map_id": "420071015",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1088,6 +1165,7 @@
     },
     {
       "name": "HOPEWELL TWP 9",
+      "map_id": "420071025",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1101,6 +1179,7 @@
     },
     {
       "name": "INDEPENDENCE TWP",
+      "map_id": "420071040",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1114,6 +1193,7 @@
     },
     {
       "name": "INDUSTRY BORO",
+      "map_id": "420071055",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1127,6 +1207,7 @@
     },
     {
       "name": "KOPPEL BORO",
+      "map_id": "420071070",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1140,6 +1221,7 @@
     },
     {
       "name": "MARION TWP",
+      "map_id": "420071080",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1153,6 +1235,7 @@
     },
     {
       "name": "MIDLAND BORO 1",
+      "map_id": "420071095",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1166,6 +1249,7 @@
     },
     {
       "name": "MIDLAND BORO 2",
+      "map_id": "420071115",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1179,6 +1263,7 @@
     },
     {
       "name": "MIDLAND BORO 3",
+      "map_id": "420071125",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1192,6 +1277,7 @@
     },
     {
       "name": "MONACA BORO 1",
+      "map_id": "420071148",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1205,6 +1291,7 @@
     },
     {
       "name": "MONACA BORO 2",
+      "map_id": "420071165",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1218,6 +1305,7 @@
     },
     {
       "name": "MONACA BORO 3",
+      "map_id": "420071175",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1231,6 +1319,7 @@
     },
     {
       "name": "MONACA BORO 4",
+      "map_id": "420071185",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1244,6 +1333,7 @@
     },
     {
       "name": "MONACA BORO 5",
+      "map_id": "420071195",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1257,6 +1347,7 @@
     },
     {
       "name": "NEW BRIGHTON BORO 1",
+      "map_id": "420071200",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1270,6 +1361,7 @@
     },
     {
       "name": "NEW BRIGHTON BORO 2",
+      "map_id": "420071210",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1283,6 +1375,7 @@
     },
     {
       "name": "NEW BRIGHTON BORO 3",
+      "map_id": "420071220",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1296,6 +1389,7 @@
     },
     {
       "name": "NEW BRIGHTON BORO 4",
+      "map_id": "420071230",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1309,6 +1403,7 @@
     },
     {
       "name": "NEW BRIGHTON BORO 5",
+      "map_id": "420071240",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1322,6 +1417,7 @@
     },
     {
       "name": "NEW GALILEE BORO",
+      "map_id": "420071250",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1374,6 +1470,7 @@
     },
     {
       "name": "NORTH SEWICKLEY TWP 1",
+      "map_id": "420071290",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1387,6 +1484,7 @@
     },
     {
       "name": "NORTH SEWICKLEY TWP 2",
+      "map_id": "420071300",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1400,6 +1498,7 @@
     },
     {
       "name": "NORTH SEWICKLEY TWP 3",
+      "map_id": "420071310",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1426,6 +1525,7 @@
     },
     {
       "name": "NORTH SEWICKLEY TWP 5",
+      "map_id": "420071330",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1439,6 +1539,7 @@
     },
     {
       "name": "OHIOVILLE BORO 1",
+      "map_id": "420071340",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1452,6 +1553,7 @@
     },
     {
       "name": "OHIOVILLE BORO 2",
+      "map_id": "420071350",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1465,6 +1567,7 @@
     },
     {
       "name": "PATTERSON HEIGHTS BORO",
+      "map_id": "420071380",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1478,6 +1581,7 @@
     },
     {
       "name": "PATTERSON TWP 1",
+      "map_id": "420071360",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1491,6 +1595,7 @@
     },
     {
       "name": "PATTERSON TWP 2",
+      "map_id": "420071370",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1504,6 +1609,7 @@
     },
     {
       "name": "POTTER TWP",
+      "map_id": "420071390",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1517,6 +1623,7 @@
     },
     {
       "name": "PULASKI TWP",
+      "map_id": "420071400",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1530,6 +1637,7 @@
     },
     {
       "name": "RACCOON TWP 1",
+      "map_id": "420071410",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1543,6 +1651,7 @@
     },
     {
       "name": "RACCOON TWP 2",
+      "map_id": "420071420",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1556,6 +1665,7 @@
     },
     {
       "name": "ROCHESTER BORO 1",
+      "map_id": "420071460",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1569,6 +1679,7 @@
     },
     {
       "name": "ROCHESTER BORO 2",
+      "map_id": "420071470",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1582,6 +1693,7 @@
     },
     {
       "name": "ROCHESTER BORO 3",
+      "map_id": "420071480",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1595,6 +1707,7 @@
     },
     {
       "name": "ROCHESTER BORO 4",
+      "map_id": "420071490",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1608,6 +1721,7 @@
     },
     {
       "name": "ROCHESTER TWP 1",
+      "map_id": "420071430",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1621,6 +1735,7 @@
     },
     {
       "name": "ROCHESTER TWP 2",
+      "map_id": "420071445",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1634,6 +1749,7 @@
     },
     {
       "name": "SHIPPINGPORT BORO",
+      "map_id": "420071500",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1647,6 +1763,7 @@
     },
     {
       "name": "SOUTH BEAVER TWP",
+      "map_id": "420071510",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1660,6 +1777,7 @@
     },
     {
       "name": "SOUTH HEIGHTS BORO",
+      "map_id": "420071520",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1673,6 +1791,7 @@
     },
     {
       "name": "WEST MAYFIELD BORO",
+      "map_id": "420071550",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1686,6 +1805,7 @@
     },
     {
       "name": "WHITE TWP",
+      "map_id": "420071560",
       "seats": [
         {
           "seat": "Committeeman",

@@ -22,6 +22,7 @@
  "precincts": [
   {
    "name": "005 Atglen",
+   "map_id": "42029-ATGLEN",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -35,6 +36,7 @@
   },
   {
    "name": "010 Avondale",
+   "map_id": "42029-AVONDALE",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -48,6 +50,7 @@
   },
   {
    "name": "014 Birmingham 1",
+   "map_id": "42029-BIRMINGHAM 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -61,6 +64,7 @@
   },
   {
    "name": "015 Birmingham 2",
+   "map_id": "42029-BIRMINGHAM 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -126,6 +130,7 @@
   },
   {
    "name": "025 W Bradford 1",
+   "map_id": "42029-WEST BRADFORD 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -139,6 +144,7 @@
   },
   {
    "name": "030 W Bradford 2",
+   "map_id": "42029-WEST BRADFORD 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -152,6 +158,7 @@
   },
   {
    "name": "031 W Bradford 3",
+   "map_id": "42029-WEST BRADFORD 3",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -165,6 +172,7 @@
   },
   {
    "name": "032 W Bradford 4",
+   "map_id": "42029-WEST BRADFORD 4",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -178,6 +186,7 @@
   },
   {
    "name": "033 W Bradford 5",
+   "map_id": "42029-WEST BRADFORD 5",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -217,6 +226,7 @@
   },
   {
    "name": "038 E Brandywine S",
+   "map_id": "42029-EAST BRANDYWINE SOUTH",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -256,6 +266,7 @@
   },
   {
    "name": "043 W Brandywine W",
+   "map_id": "42029-WEST BRANDYWINE WEST",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -269,6 +280,7 @@
   },
   {
    "name": "045 Caln 1",
+   "map_id": "42029-CALN 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -282,6 +294,7 @@
   },
   {
    "name": "050 Caln 2",
+   "map_id": "42029-CALN 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -295,6 +308,7 @@
   },
   {
    "name": "053 Caln 3",
+   "map_id": "42029-CALN 3",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -308,6 +322,7 @@
   },
   {
    "name": "054 Caln 4",
+   "map_id": "42029-CALN 4",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -321,6 +336,7 @@
   },
   {
    "name": "055 East Caln 1",
+   "map_id": "42029-EAST CALN 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -334,6 +350,7 @@
   },
   {
    "name": "056 East Caln 2",
+   "map_id": "42029-EAST CALN 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -347,6 +364,7 @@
   },
   {
    "name": "060 West Caln 1",
+   "map_id": "42029-WEST CALN 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -360,6 +378,7 @@
   },
   {
    "name": "061 West Caln 2",
+   "map_id": "42029-WEST CALN 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -373,6 +392,7 @@
   },
   {
    "name": "065 Charlestown",
+   "map_id": "42029-CHARLESTOWN",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -386,6 +406,7 @@
   },
   {
    "name": "070 Coatesville 1",
+   "map_id": "42029-COATESVILLE 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -399,6 +420,7 @@
   },
   {
    "name": "080 Coatesville 2",
+   "map_id": "42029-COATESVILLE 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -412,6 +434,7 @@
   },
   {
    "name": "090 Coatesville 3",
+   "map_id": "42029-COATESVILLE 3",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -425,6 +448,7 @@
   },
   {
    "name": "100 Coatesville 4-1",
+   "map_id": "42029-COATESVILLE 4-1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -438,6 +462,7 @@
   },
   {
    "name": "110 Coatesville 4-2",
+   "map_id": "42029-COATESVILLE 4-2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -451,6 +476,7 @@
   },
   {
    "name": "120 Coatesville 5",
+   "map_id": "42029-COATESVILLE 5",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -464,6 +490,7 @@
   },
   {
    "name": "140 S Coatesville",
+   "map_id": "42029-SOUTH COATESVILLE",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -477,6 +504,7 @@
   },
   {
    "name": "145 N Coventry E",
+   "map_id": "42029-NORTH COVENTRY EAST",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -490,6 +518,7 @@
   },
   {
    "name": "150 N Coventry M",
+   "map_id": "42029-NORTH COVENTRY MIDDLE",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -529,6 +558,7 @@
   },
   {
    "name": "160 E Coventry 1",
+   "map_id": "42029-EAST COVENTRY 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -542,6 +572,7 @@
   },
   {
    "name": "165 E Coventry 2",
+   "map_id": "42029-EAST COVENTRY 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -555,6 +586,7 @@
   },
   {
    "name": "170 S Coventry",
+   "map_id": "42029-SOUTH COVENTRY",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -568,6 +600,7 @@
   },
   {
    "name": "175 E Downingtown E",
+   "map_id": "42029-EAST DOWNINGTOWN EAST",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -581,6 +614,7 @@
   },
   {
    "name": "180 E Downingtown W",
+   "map_id": "42029-EAST DOWNINGTOWN WEST",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -594,6 +628,7 @@
   },
   {
    "name": "185 W Downingtown N",
+   "map_id": "42029-WEST DOWNINGTOWN NORTH",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -607,6 +642,7 @@
   },
   {
    "name": "190 W Downingtown S",
+   "map_id": "42029-WEST DOWNINGTOWN SOUTH",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -620,6 +656,7 @@
   },
   {
    "name": "195 Easttown 1",
+   "map_id": "42029-EASTTOWN 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -633,6 +670,7 @@
   },
   {
    "name": "198 Easttown 2",
+   "map_id": "42029-EASTTOWN 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -646,6 +684,7 @@
   },
   {
    "name": "201 Easttown 3",
+   "map_id": "42029-EASTTOWN 3",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -659,6 +698,7 @@
   },
   {
    "name": "204 Easttown 4",
+   "map_id": "42029-EASTTOWN 4",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -672,6 +712,7 @@
   },
   {
    "name": "207 Easttown 5",
+   "map_id": "42029-EASTTOWN 5",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -685,6 +726,7 @@
   },
   {
    "name": "210 Easttown 6",
+   "map_id": "42029-EASTTOWN 6",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -698,6 +740,7 @@
   },
   {
    "name": "213 Easttown 7",
+   "map_id": "42029-EASTTOWN 7",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -711,6 +754,7 @@
   },
   {
    "name": "215 Elk",
+   "map_id": "42029-ELK",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -724,6 +768,7 @@
   },
   {
    "name": "220 Elverson",
+   "map_id": "42029-ELVERSON",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -737,6 +782,7 @@
   },
   {
    "name": "225 E Fallowfield E",
+   "map_id": "42029-EAST FALLOWFIELD EAST",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -750,6 +796,7 @@
   },
   {
    "name": "230 E Fallowfield W",
+   "map_id": "42029-EAST FALLOWFIELD WEST",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -763,6 +810,7 @@
   },
   {
    "name": "235 W Fallowfield",
+   "map_id": "42029-WEST FALLOWFIELD",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -776,6 +824,7 @@
   },
   {
    "name": "240 Franklin",
+   "map_id": "42029-FRANKLIN",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -789,6 +838,7 @@
   },
   {
    "name": "243 E Goshen 1",
+   "map_id": "42029-EAST GOSHEN 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -802,6 +852,7 @@
   },
   {
    "name": "244 E Goshen 2",
+   "map_id": "42029-EAST GOSHEN 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -815,6 +866,7 @@
   },
   {
    "name": "245 E Goshen 3",
+   "map_id": "42029-EAST GOSHEN 3",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -828,6 +880,7 @@
   },
   {
    "name": "246 E Goshen 4",
+   "map_id": "42029-EAST GOSHEN 4",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -841,6 +894,7 @@
   },
   {
    "name": "247 E Goshen 5",
+   "map_id": "42029-EAST GOSHEN 5",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -854,6 +908,7 @@
   },
   {
    "name": "248 E Goshen 6",
+   "map_id": "42029-EAST GOSHEN 6",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -867,6 +922,7 @@
   },
   {
    "name": "249 E Goshen 7",
+   "map_id": "42029-EAST GOSHEN 7",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -880,6 +936,7 @@
   },
   {
    "name": "250 E Goshen 8",
+   "map_id": "42029-EAST GOSHEN 8",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -893,6 +950,7 @@
   },
   {
    "name": "251 E Goshen 9",
+   "map_id": "42029-EAST GOSHEN 9",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1036,6 +1094,7 @@
   },
   {
    "name": "290 Highland",
+   "map_id": "42029-HIGHLAND",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1049,6 +1108,7 @@
   },
   {
    "name": "295 Honey Brook Borough",
+   "map_id": "42029-HONEY BROOK BOROUGH",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1062,6 +1122,7 @@
   },
   {
    "name": "300 Honey Brook Township 1",
+   "map_id": "42029-HONEY BROOK TOWNSHIP 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1075,6 +1136,7 @@
   },
   {
    "name": "301 Honey Brook Township 2",
+   "map_id": "42029-HONEY BROOK TOWNSHIP 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1088,6 +1150,7 @@
   },
   {
    "name": "305 Kennett Square N",
+   "map_id": "42029-KENNETT SQUARE NORTH",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1127,6 +1190,7 @@
   },
   {
    "name": "320 Kennett Township 1",
+   "map_id": "42029-KENNETT TOWNSHIP 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1140,6 +1204,7 @@
   },
   {
    "name": "325 Kennett Township 2",
+   "map_id": "42029-KENNETT TOWNSHIP 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1153,6 +1218,7 @@
   },
   {
    "name": "328 Kennett Township 3",
+   "map_id": "42029-KENNETT TOWNSHIP 3",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1166,6 +1232,7 @@
   },
   {
    "name": "329 Kennett Township 4",
+   "map_id": "42029-KENNETT TOWNSHIP 4",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1179,6 +1246,7 @@
   },
   {
    "name": "330 London Britain",
+   "map_id": "42029-LONDON BRITAIN",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1192,6 +1260,7 @@
   },
   {
    "name": "335 Londonderry",
+   "map_id": "42029-LONDONDERRY",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1205,6 +1274,7 @@
   },
   {
    "name": "340 London Grove Ch",
+   "map_id": "42029-LONDON GROVE CHATHAM",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1218,6 +1288,7 @@
   },
   {
    "name": "345 London Grove S",
+   "map_id": "42029-LONDON GROVE SOUTH",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1231,6 +1302,7 @@
   },
   {
    "name": "350 Malvern",
+   "map_id": "42029-MALVERN",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1244,6 +1316,7 @@
   },
   {
    "name": "355 E Marlborough E",
+   "map_id": "42029-EAST MARLBOROUGH EAST",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1257,6 +1330,7 @@
   },
   {
    "name": "356 E Marlborough S",
+   "map_id": "42029-EAST MARLBOROUGH SOUTH",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1270,6 +1344,7 @@
   },
   {
    "name": "360 E Marlborough W",
+   "map_id": "42029-EAST MARLBOROUGH WEST",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1283,6 +1358,7 @@
   },
   {
    "name": "365 W Marlborough",
+   "map_id": "42029-WEST MARLBOROUGH",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1296,6 +1372,7 @@
   },
   {
    "name": "370 Modena",
+   "map_id": "42029-MODENA",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1309,6 +1386,7 @@
   },
   {
    "name": "375 E Nantmeal",
+   "map_id": "42029-EAST NANTMEAL",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1322,6 +1400,7 @@
   },
   {
    "name": "380 W Nantmeal",
+   "map_id": "42029-WEST NANTMEAL",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1335,6 +1414,7 @@
   },
   {
    "name": "385 New Garden N",
+   "map_id": "42029-NEW GARDEN NORTH",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1374,6 +1454,7 @@
   },
   {
    "name": "395 New London",
+   "map_id": "42029-NEW LONDON",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1387,6 +1468,7 @@
   },
   {
    "name": "400 Newlin",
+   "map_id": "42029-NEWLIN",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1400,6 +1482,7 @@
   },
   {
    "name": "405 E Nottingham E",
+   "map_id": "42029-EAST NOTTINGHAM EAST",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1413,6 +1496,7 @@
   },
   {
    "name": "406 E Nottingham W",
+   "map_id": "42029-EAST NOTTINGHAM WEST",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1426,6 +1510,7 @@
   },
   {
    "name": "410 W Nottingham",
+   "map_id": "42029-WEST NOTTINGHAM",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1439,6 +1524,7 @@
   },
   {
    "name": "415 Oxford E",
+   "map_id": "42029-OXFORD EAST",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1452,6 +1538,7 @@
   },
   {
    "name": "420 Oxford W",
+   "map_id": "42029-OXFORD WEST",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1465,6 +1552,7 @@
   },
   {
    "name": "425 Lower Oxford E",
+   "map_id": "42029-LOWER OXFORD EAST",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1478,6 +1566,7 @@
   },
   {
    "name": "430 Lower Oxford W",
+   "map_id": "42029-LOWER OXFORD WEST",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1491,6 +1580,7 @@
   },
   {
    "name": "435 Upper Oxford",
+   "map_id": "42029-UPPER OXFORD",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1504,6 +1594,7 @@
   },
   {
    "name": "440 Parkesburg N",
+   "map_id": "42029-PARKESBURG NORTH",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1517,6 +1608,7 @@
   },
   {
    "name": "445 Parkesburg S",
+   "map_id": "42029-PARKESBURG SOUTH",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1530,6 +1622,7 @@
   },
   {
    "name": "450 Penn",
+   "map_id": "42029-PENN",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1751,6 +1844,7 @@
   },
   {
    "name": "515 E Pikeland 1",
+   "map_id": "42029-EAST PIKELAND 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1764,6 +1858,7 @@
   },
   {
    "name": "520 E Pikeland 2",
+   "map_id": "42029-EAST PIKELAND 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1777,6 +1872,7 @@
   },
   {
    "name": "521 E Pikeland 3",
+   "map_id": "42029-EAST PIKELAND 3",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1790,6 +1886,7 @@
   },
   {
    "name": "525 W Pikeland",
+   "map_id": "42029-WEST PIKELAND",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1803,6 +1900,7 @@
   },
   {
    "name": "530 Pocopson",
+   "map_id": "42029-POCOPSON",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1816,6 +1914,7 @@
   },
   {
    "name": "535 Sadsbury N",
+   "map_id": "42029-SADSBURY NORTH",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1829,6 +1928,7 @@
   },
   {
    "name": "540 Sadsbury S",
+   "map_id": "42029-SADSBURY SOUTH",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1842,6 +1942,7 @@
   },
   {
    "name": "545 W Sadsbury",
+   "map_id": "42029-WEST SADSBURY",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1855,6 +1956,7 @@
   },
   {
    "name": "550 Schuylkill 1",
+   "map_id": "42029-SCHUYLKILL 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1868,6 +1970,7 @@
   },
   {
    "name": "555 Schuylkill 2",
+   "map_id": "42029-SCHUYLKILL 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1881,6 +1984,7 @@
   },
   {
    "name": "556 Schuylkill 3",
+   "map_id": "42029-SCHUYLKILL 3",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1894,6 +1998,7 @@
   },
   {
    "name": "558 Schuylkill 4",
+   "map_id": "42029-SCHUYLKILL 4",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1907,6 +2012,7 @@
   },
   {
    "name": "560 Spring City 1",
+   "map_id": "42029-SPRING CITY 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1920,6 +2026,7 @@
   },
   {
    "name": "565 Spring City 2",
+   "map_id": "42029-SPRING CITY 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1933,6 +2040,7 @@
   },
   {
    "name": "570 Spring City 3",
+   "map_id": "42029-SPRING CITY 3",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1946,6 +2054,7 @@
   },
   {
    "name": "575 Spring City 4",
+   "map_id": "42029-SPRING CITY 4",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1959,6 +2068,7 @@
   },
   {
    "name": "580 Thornbury 1",
+   "map_id": "42029-THORNBURY 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -1972,6 +2082,7 @@
   },
   {
    "name": "581 Thornbury 2",
+   "map_id": "42029-THORNBURY 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2206,6 +2317,7 @@
   },
   {
    "name": "653 Uwchlan 1",
+   "map_id": "42029-UWCHLAN 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2219,6 +2331,7 @@
   },
   {
    "name": "654 Uwchlan 2",
+   "map_id": "42029-UWCHLAN 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2232,6 +2345,7 @@
   },
   {
    "name": "655 Uwchlan 3",
+   "map_id": "42029-UWCHLAN 3",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2245,6 +2359,7 @@
   },
   {
    "name": "656 Uwchlan 4",
+   "map_id": "42029-UWCHLAN 4",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2258,6 +2373,7 @@
   },
   {
    "name": "657 Uwchlan 5",
+   "map_id": "42029-UWCHLAN 5",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2271,6 +2387,7 @@
   },
   {
    "name": "658 Uwchlan 6",
+   "map_id": "42029-UWCHLAN 6",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2284,6 +2401,7 @@
   },
   {
    "name": "659 Uwchlan 7",
+   "map_id": "42029-UWCHLAN 7",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2297,6 +2415,7 @@
   },
   {
    "name": "660 Uwchlan 8",
+   "map_id": "42029-UWCHLAN 8",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2310,6 +2429,7 @@
   },
   {
    "name": "661 Uwchlan 9",
+   "map_id": "42029-UWCHLAN 9",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2323,6 +2443,7 @@
   },
   {
    "name": "665 Upper Uwchlan 1",
+   "map_id": "42029-UPPER UWCHLAN 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2336,6 +2457,7 @@
   },
   {
    "name": "666 Upper Uwchlan 2",
+   "map_id": "42029-UPPER UWCHLAN 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2349,6 +2471,7 @@
   },
   {
    "name": "667 Upper Uwchlan 3",
+   "map_id": "42029-UPPER UWCHLAN 3",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2401,6 +2524,7 @@
   },
   {
    "name": "675 Valley S",
+   "map_id": "42029-VALLEY SOUTH",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2414,6 +2538,7 @@
   },
   {
    "name": "680 E Vincent 1",
+   "map_id": "42029-EAST VINCENT 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2427,6 +2552,7 @@
   },
   {
    "name": "681 E Vincent 2",
+   "map_id": "42029-EAST VINCENT 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2440,6 +2566,7 @@
   },
   {
    "name": "682 E Vincent 3",
+   "map_id": "42029-EAST VINCENT 3",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2453,6 +2580,7 @@
   },
   {
    "name": "683 E Vincent 4",
+   "map_id": "42029-EAST VINCENT 4",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2466,6 +2594,7 @@
   },
   {
    "name": "690 W Vincent 1",
+   "map_id": "42029-WEST VINCENT 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2479,6 +2608,7 @@
   },
   {
    "name": "693 W Vincent 2",
+   "map_id": "42029-WEST VINCENT 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2492,6 +2622,7 @@
   },
   {
    "name": "695 Wallace",
+   "map_id": "42029-WALLACE",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2505,6 +2636,7 @@
   },
   {
    "name": "700 Warwick E",
+   "map_id": "42029-WARWICK EAST",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2518,6 +2650,7 @@
   },
   {
    "name": "705 Warwick W",
+   "map_id": "42029-WARWICK WEST",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2531,6 +2664,7 @@
   },
   {
    "name": "710 West Grove 1",
+   "map_id": "42029-WEST GROVE 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2544,6 +2678,7 @@
   },
   {
    "name": "715 West Grove 2",
+   "map_id": "42029-WEST GROVE 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2557,6 +2692,7 @@
   },
   {
    "name": "720 Westtown 1",
+   "map_id": "42029-WESTTOWN 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2570,6 +2706,7 @@
   },
   {
    "name": "725 Westtown 2",
+   "map_id": "42029-WESTTOWN 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2583,6 +2720,7 @@
   },
   {
    "name": "730 Westtown 3",
+   "map_id": "42029-WESTTOWN 3",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2596,6 +2734,7 @@
   },
   {
    "name": "733 Westtown 4",
+   "map_id": "42029-WESTTOWN 4",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2609,6 +2748,7 @@
   },
   {
    "name": "734 Westtown 5",
+   "map_id": "42029-WESTTOWN 5",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2622,6 +2762,7 @@
   },
   {
    "name": "735 E Whiteland 1",
+   "map_id": "42029-EAST WHITELAND 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2635,6 +2776,7 @@
   },
   {
    "name": "740 E Whiteland 2",
+   "map_id": "42029-EAST WHITELAND 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2648,6 +2790,7 @@
   },
   {
    "name": "745 E Whiteland 3",
+   "map_id": "42029-EAST WHITELAND 3",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2661,6 +2804,7 @@
   },
   {
    "name": "750 E Whiteland 4",
+   "map_id": "42029-EAST WHITELAND 4",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2674,6 +2818,7 @@
   },
   {
    "name": "752 E Whiteland 5",
+   "map_id": "42029-EAST WHITELAND 5",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2687,6 +2832,7 @@
   },
   {
    "name": "754 E Whiteland 6",
+   "map_id": "42029-EAST WHITELAND 6",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2700,6 +2846,7 @@
   },
   {
    "name": "759 W Whiteland 1",
+   "map_id": "42029-WEST WHITELAND 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2713,6 +2860,7 @@
   },
   {
    "name": "760 W Whiteland 2",
+   "map_id": "42029-WEST WHITELAND 2",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2726,6 +2874,7 @@
   },
   {
    "name": "761 W Whiteland 3",
+   "map_id": "42029-WEST WHITELAND 3",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2739,6 +2888,7 @@
   },
   {
    "name": "762 W Whiteland 4",
+   "map_id": "42029-WEST WHITELAND 4",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2752,6 +2902,7 @@
   },
   {
    "name": "763 W Whiteland 5",
+   "map_id": "42029-WEST WHITELAND 5",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2765,6 +2916,7 @@
   },
   {
    "name": "764 W Whiteland 6",
+   "map_id": "42029-WEST WHITELAND 6",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2778,6 +2930,7 @@
   },
   {
    "name": "765 W Whiteland 7",
+   "map_id": "42029-WEST WHITELAND 7",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2908,6 +3061,7 @@
   },
   {
    "name": "810 West Chester 1",
+   "map_id": "42029-WEST CHESTER 1",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2947,6 +3101,7 @@
   },
   {
    "name": "835 West Chester 3",
+   "map_id": "42029-WEST CHESTER 3",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2960,6 +3115,7 @@
   },
   {
    "name": "842 West Chester 4",
+   "map_id": "42029-WEST CHESTER 4",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2973,6 +3129,7 @@
   },
   {
    "name": "846 West Chester 5",
+   "map_id": "42029-WEST CHESTER 5",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2986,6 +3143,7 @@
   },
   {
    "name": "850 West Chester 6",
+   "map_id": "42029-WEST CHESTER 6",
    "seats": [
     {
      "seat": "County Committee Member",
@@ -2999,6 +3157,7 @@
   },
   {
    "name": "860 West Chester 7",
+   "map_id": "42029-WEST CHESTER 7",
    "seats": [
     {
      "seat": "County Committee Member",

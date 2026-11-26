@@ -16,6 +16,7 @@
   "precincts": [
     {
       "name": "BERRYSBURG",
+      "map_id": "420430010",
       "seats": [
         {
           "seat": "Committeeman",
@@ -29,6 +30,7 @@
     },
     {
       "name": "CONEWAGO 1",
+      "map_id": "420430021",
       "seats": [
         {
           "seat": "Committeeman",
@@ -42,6 +44,7 @@
     },
     {
       "name": "CONEWAGO 2",
+      "map_id": "420430023",
       "seats": [
         {
           "seat": "Committeeman",
@@ -55,6 +58,7 @@
     },
     {
       "name": "DAUPHIN",
+      "map_id": "420430030",
       "seats": [
         {
           "seat": "Committeeman",
@@ -68,6 +72,7 @@
     },
     {
       "name": "DERRY 1",
+      "map_id": "420430039",
       "seats": [
         {
           "seat": "Committeeman",
@@ -81,6 +86,7 @@
     },
     {
       "name": "DERRY 2",
+      "map_id": "420430047",
       "seats": [
         {
           "seat": "Committeeman",
@@ -94,6 +100,7 @@
     },
     {
       "name": "DERRY 3",
+      "map_id": "420430055",
       "seats": [
         {
           "seat": "Committeeman",
@@ -107,6 +114,7 @@
     },
     {
       "name": "DERRY 4",
+      "map_id": "420430063",
       "seats": [
         {
           "seat": "Committeeman",
@@ -120,6 +128,7 @@
     },
     {
       "name": "DERRY 5",
+      "map_id": "420430071",
       "seats": [
         {
           "seat": "Committeeman",
@@ -133,6 +142,7 @@
     },
     {
       "name": "DERRY 6",
+      "map_id": "420430079",
       "seats": [
         {
           "seat": "Committeeman",
@@ -146,6 +156,7 @@
     },
     {
       "name": "DERRY 7",
+      "map_id": "420430087",
       "seats": [
         {
           "seat": "Committeeman",
@@ -159,6 +170,7 @@
     },
     {
       "name": "DERRY 8",
+      "map_id": "420430095",
       "seats": [
         {
           "seat": "Committeeman",
@@ -172,6 +184,7 @@
     },
     {
       "name": "DERRY 9",
+      "map_id": "420430103",
       "seats": [
         {
           "seat": "Committeeman",
@@ -185,6 +198,7 @@
     },
     {
       "name": "DERRY 10",
+      "map_id": "420430112",
       "seats": [
         {
           "seat": "Committeeman",
@@ -198,6 +212,7 @@
     },
     {
       "name": "DERRY 11",
+      "map_id": "420430119",
       "seats": [
         {
           "seat": "Committeeman",
@@ -211,6 +226,7 @@
     },
     {
       "name": "DERRY 12",
+      "map_id": "420430127",
       "seats": [
         {
           "seat": "Committeeman",
@@ -224,6 +240,7 @@
     },
     {
       "name": "DERRY 13",
+      "map_id": "420430135",
       "seats": [
         {
           "seat": "Committeeman",
@@ -237,6 +254,7 @@
     },
     {
       "name": "DERRY 14",
+      "map_id": "420430144",
       "seats": [
         {
           "seat": "Committeeman",
@@ -250,6 +268,7 @@
     },
     {
       "name": "DERRY 15",
+      "map_id": "420430147",
       "seats": [
         {
           "seat": "Committeeman",
@@ -263,6 +282,7 @@
     },
     {
       "name": "EAST HANOVER 1",
+      "map_id": "420430150",
       "seats": [
         {
           "seat": "Committeeman",
@@ -276,6 +296,7 @@
     },
     {
       "name": "EAST HANOVER 2",
+      "map_id": "420430160",
       "seats": [
         {
           "seat": "Committeeman",
@@ -289,6 +310,7 @@
     },
     {
       "name": "ELIZABETHVILLE",
+      "map_id": "420430170",
       "seats": [
         {
           "seat": "Committeeman",
@@ -302,6 +324,7 @@
     },
     {
       "name": "GRATZ",
+      "map_id": "420430180",
       "seats": [
         {
           "seat": "Committeeman",
@@ -315,6 +338,7 @@
     },
     {
       "name": "HALIFAX BORO",
+      "map_id": "420430200",
       "seats": [
         {
           "seat": "Committeeman",
@@ -328,6 +352,7 @@
     },
     {
       "name": "HALIFAX 1",
+      "map_id": "420430191",
       "seats": [
         {
           "seat": "Committeeman",
@@ -341,6 +366,7 @@
     },
     {
       "name": "HALIFAX 2",
+      "map_id": "420430194",
       "seats": [
         {
           "seat": "Committeeman",
@@ -354,6 +380,7 @@
     },
     {
       "name": "HARRISBURG 1-1",
+      "map_id": "420430210",
       "seats": [
         {
           "seat": "Committeeman",
@@ -367,6 +394,7 @@
     },
     {
       "name": "HARRISBURG 1-2",
+      "map_id": "420430220",
       "seats": [
         {
           "seat": "Committeeman",
@@ -380,6 +408,7 @@
     },
     {
       "name": "HARRISBURG 1-3",
+      "map_id": "420430230",
       "seats": [
         {
           "seat": "Committeeman",
@@ -393,6 +422,7 @@
     },
     {
       "name": "HARRISBURG 2-1",
+      "map_id": "420430240",
       "seats": [
         {
           "seat": "Committeeman",
@@ -406,6 +436,7 @@
     },
     {
       "name": "HARRISBURG 2-2",
+      "map_id": "420430250",
       "seats": [
         {
           "seat": "Committeeman",
@@ -419,6 +450,7 @@
     },
     {
       "name": "HARRISBURG 3",
+      "map_id": "420430260",
       "seats": [
         {
           "seat": "Committeeman",
@@ -432,6 +464,7 @@
     },
     {
       "name": "HARRISBURG 4",
+      "map_id": "420430270",
       "seats": [
         {
           "seat": "Committeeman",
@@ -445,6 +478,7 @@
     },
     {
       "name": "HARRISBURG 5",
+      "map_id": "420430280",
       "seats": [
         {
           "seat": "Committeeman",
@@ -458,6 +492,7 @@
     },
     {
       "name": "HARRISBURG 6",
+      "map_id": "420430290",
       "seats": [
         {
           "seat": "Committeeman",
@@ -471,6 +506,7 @@
     },
     {
       "name": "HARRISBURG 7-1",
+      "map_id": "420430300",
       "seats": [
         {
           "seat": "Committeeman",
@@ -484,6 +520,7 @@
     },
     {
       "name": "HARRISBURG 7-2",
+      "map_id": "420430310",
       "seats": [
         {
           "seat": "Committeeman",
@@ -497,6 +534,7 @@
     },
     {
       "name": "HARRISBURG 8",
+      "map_id": "420430320",
       "seats": [
         {
           "seat": "Committeeman",
@@ -510,6 +548,7 @@
     },
     {
       "name": "HARRISBURG 9-1",
+      "map_id": "420430330",
       "seats": [
         {
           "seat": "Committeeman",
@@ -523,6 +562,7 @@
     },
     {
       "name": "HARRISBURG 9-2",
+      "map_id": "420430340",
       "seats": [
         {
           "seat": "Committeeman",
@@ -536,6 +576,7 @@
     },
     {
       "name": "HARRISBURG 9-3",
+      "map_id": "420430350",
       "seats": [
         {
           "seat": "Committeeman",
@@ -549,6 +590,7 @@
     },
     {
       "name": "HARRISBURG 9-4",
+      "map_id": "420430360",
       "seats": [
         {
           "seat": "Committeeman",
@@ -562,6 +604,7 @@
     },
     {
       "name": "HARRISBURG 9-5",
+      "map_id": "420430370",
       "seats": [
         {
           "seat": "Committeeman",
@@ -575,6 +618,7 @@
     },
     {
       "name": "HARRISBURG 10-1",
+      "map_id": "420430380",
       "seats": [
         {
           "seat": "Committeeman",
@@ -588,6 +632,7 @@
     },
     {
       "name": "HARRISBURG 10-2",
+      "map_id": "420430390",
       "seats": [
         {
           "seat": "Committeeman",
@@ -601,6 +646,7 @@
     },
     {
       "name": "HARRISBURG 10-3",
+      "map_id": "420430400",
       "seats": [
         {
           "seat": "Committeeman",
@@ -614,6 +660,7 @@
     },
     {
       "name": "HARRISBURG 10-4",
+      "map_id": "420430410",
       "seats": [
         {
           "seat": "Committeeman",
@@ -627,6 +674,7 @@
     },
     {
       "name": "HARRISBURG 11",
+      "map_id": "420430420",
       "seats": [
         {
           "seat": "Committeeman",
@@ -640,6 +688,7 @@
     },
     {
       "name": "HARRISBURG 12",
+      "map_id": "420430430",
       "seats": [
         {
           "seat": "Committeeman",
@@ -653,6 +702,7 @@
     },
     {
       "name": "HARRISBURG 13-1",
+      "map_id": "420430440",
       "seats": [
         {
           "seat": "Committeeman",
@@ -666,6 +716,7 @@
     },
     {
       "name": "HARRISBURG 13-2",
+      "map_id": "420430450",
       "seats": [
         {
           "seat": "Committeeman",
@@ -679,6 +730,7 @@
     },
     {
       "name": "HARRISBURG 13-3",
+      "map_id": "420430460",
       "seats": [
         {
           "seat": "Committeeman",
@@ -692,6 +744,7 @@
     },
     {
       "name": "HARRISBURG 14",
+      "map_id": "420430470",
       "seats": [
         {
           "seat": "Committeeman",
@@ -705,6 +758,7 @@
     },
     {
       "name": "HARRISBURG 15",
+      "map_id": "420430480",
       "seats": [
         {
           "seat": "Committeeman",
@@ -718,6 +772,7 @@
     },
     {
       "name": "HIGHSPIRE",
+      "map_id": "420430502",
       "seats": [
         {
           "seat": "Committeeman",
@@ -731,6 +786,7 @@
     },
     {
       "name": "HUMMELSTOWN 1",
+      "map_id": "420430510",
       "seats": [
         {
           "seat": "Committeeman",
@@ -744,6 +800,7 @@
     },
     {
       "name": "HUMMELSTOWN 2",
+      "map_id": "420430520",
       "seats": [
         {
           "seat": "Committeeman",
@@ -757,6 +814,7 @@
     },
     {
       "name": "JACKSON",
+      "map_id": "420430530",
       "seats": [
         {
           "seat": "Committeeman",
@@ -770,6 +828,7 @@
     },
     {
       "name": "JEFFERSON",
+      "map_id": "420430540",
       "seats": [
         {
           "seat": "Committeeman",
@@ -783,6 +842,7 @@
     },
     {
       "name": "LONDONDERRY 1",
+      "map_id": "420430551",
       "seats": [
         {
           "seat": "Committeeman",
@@ -796,6 +856,7 @@
     },
     {
       "name": "LONDONDERRY 2",
+      "map_id": "420430560",
       "seats": [
         {
           "seat": "Committeeman",
@@ -809,6 +870,7 @@
     },
     {
       "name": "LONDONDERRY 3",
+      "map_id": "420430565",
       "seats": [
         {
           "seat": "Committeeman",
@@ -822,6 +884,7 @@
     },
     {
       "name": "LOWER PAXTON 1",
+      "map_id": "420430570",
       "seats": [
         {
           "seat": "Committeeman",
@@ -835,6 +898,7 @@
     },
     {
       "name": "LOWER PAXTON 2",
+      "map_id": "420430580",
       "seats": [
         {
           "seat": "Committeeman",
@@ -848,6 +912,7 @@
     },
     {
       "name": "LOWER PAXTON 3",
+      "map_id": "420430590",
       "seats": [
         {
           "seat": "Committeeman",
@@ -861,6 +926,7 @@
     },
     {
       "name": "LOWER PAXTON 4",
+      "map_id": "420430600",
       "seats": [
         {
           "seat": "Committeeman",
@@ -874,6 +940,7 @@
     },
     {
       "name": "LOWER PAXTON 5",
+      "map_id": "420430610",
       "seats": [
         {
           "seat": "Committeeman",
@@ -887,6 +954,7 @@
     },
     {
       "name": "LOWER PAXTON 6",
+      "map_id": "420430620",
       "seats": [
         {
           "seat": "Committeeman",
@@ -900,6 +968,7 @@
     },
     {
       "name": "LOWER PAXTON 7",
+      "map_id": "420430630",
       "seats": [
         {
           "seat": "Committeeman",
@@ -913,6 +982,7 @@
     },
     {
       "name": "LOWER PAXTON 8",
+      "map_id": "420430640",
       "seats": [
         {
           "seat": "Committeeman",
@@ -926,6 +996,7 @@
     },
     {
       "name": "LOWER PAXTON 9",
+      "map_id": "420430651",
       "seats": [
         {
           "seat": "Committeeman",
@@ -939,6 +1010,7 @@
     },
     {
       "name": "LOWER PAXTON 10",
+      "map_id": "420430660",
       "seats": [
         {
           "seat": "Committeeman",
@@ -952,6 +1024,7 @@
     },
     {
       "name": "LOWER PAXTON 11",
+      "map_id": "420430670",
       "seats": [
         {
           "seat": "Committeeman",
@@ -965,6 +1038,7 @@
     },
     {
       "name": "LOWER PAXTON 12",
+      "map_id": "420430681",
       "seats": [
         {
           "seat": "Committeeman",
@@ -978,6 +1052,7 @@
     },
     {
       "name": "LOWER PAXTON 13",
+      "map_id": "420430690",
       "seats": [
         {
           "seat": "Committeeman",
@@ -991,6 +1066,7 @@
     },
     {
       "name": "LOWER PAXTON 14",
+      "map_id": "420430700",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1004,6 +1080,7 @@
     },
     {
       "name": "LOWER PAXTON 15",
+      "map_id": "420430711",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1017,6 +1094,7 @@
     },
     {
       "name": "LOWER PAXTON 16",
+      "map_id": "420430720",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1030,6 +1108,7 @@
     },
     {
       "name": "LOWER PAXTON 17",
+      "map_id": "420430731",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1043,6 +1122,7 @@
     },
     {
       "name": "LOWER PAXTON 18",
+      "map_id": "420430740",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1056,6 +1136,7 @@
     },
     {
       "name": "LOWER PAXTON 19",
+      "map_id": "420430751",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1069,6 +1150,7 @@
     },
     {
       "name": "LOWER PAXTON 20",
+      "map_id": "420430760",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1082,6 +1164,7 @@
     },
     {
       "name": "LOWER PAXTON 21",
+      "map_id": "420430761",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1095,6 +1178,7 @@
     },
     {
       "name": "LOWER PAXTON 22",
+      "map_id": "420430762",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1108,6 +1192,7 @@
     },
     {
       "name": "LOWER PAXTON 23",
+      "map_id": "420430763",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1121,6 +1206,7 @@
     },
     {
       "name": "LOWER PAXTON 24",
+      "map_id": "420430764",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1134,6 +1220,7 @@
     },
     {
       "name": "LOWER PAXTON 25",
+      "map_id": "420430766",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1147,6 +1234,7 @@
     },
     {
       "name": "LOWER PAXTON 26",
+      "map_id": "420430767",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1160,6 +1248,7 @@
     },
     {
       "name": "LOWER PAXTON 27",
+      "map_id": "420430768",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1173,6 +1262,7 @@
     },
     {
       "name": "LOWER SWATARA 1",
+      "map_id": "420430765",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1186,6 +1276,7 @@
     },
     {
       "name": "LOWER SWATARA 2",
+      "map_id": "420430775",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1199,6 +1290,7 @@
     },
     {
       "name": "LOWER SWATARA 3",
+      "map_id": "420430785",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1212,6 +1304,7 @@
     },
     {
       "name": "LOWER SWATARA 4",
+      "map_id": "420430795",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1225,6 +1318,7 @@
     },
     {
       "name": "LYKENS TWP",
+      "map_id": "420430800",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1238,6 +1332,7 @@
     },
     {
       "name": "LYKENS 1",
+      "map_id": "420430810",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1251,6 +1346,7 @@
     },
     {
       "name": "LYKENS 2",
+      "map_id": "420430820",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1264,6 +1360,7 @@
     },
     {
       "name": "MIDDLE PAXTON 1",
+      "map_id": "420430835",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1277,6 +1374,7 @@
     },
     {
       "name": "MIDDLE PAXTON 2",
+      "map_id": "420430840",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1290,6 +1388,7 @@
     },
     {
       "name": "MIDDLE PAXTON 3",
+      "map_id": "420430845",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1303,6 +1402,7 @@
     },
     {
       "name": "MIDDLETOWN 1-1",
+      "map_id": "420430850",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1316,6 +1416,7 @@
     },
     {
       "name": "MIDDLETOWN 1-2",
+      "map_id": "420430860",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1329,6 +1430,7 @@
     },
     {
       "name": "MIDDLETOWN 2",
+      "map_id": "420430870",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1342,6 +1444,7 @@
     },
     {
       "name": "MIDDLETOWN 3-1",
+      "map_id": "420430890",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1355,6 +1458,7 @@
     },
     {
       "name": "MIDDLETOWN 3-2",
+      "map_id": "420430900",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1368,6 +1472,7 @@
     },
     {
       "name": "MIFFLIN",
+      "map_id": "420430910",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1381,6 +1486,7 @@
     },
     {
       "name": "MILLERSBURG",
+      "map_id": "420430932",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1394,6 +1500,7 @@
     },
     {
       "name": "PAXTANG",
+      "map_id": "420430940",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1407,6 +1514,7 @@
     },
     {
       "name": "PENBROOK 1",
+      "map_id": "420430950",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1420,6 +1528,7 @@
     },
     {
       "name": "PENBROOK 2",
+      "map_id": "420430960",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1433,6 +1542,7 @@
     },
     {
       "name": "PENBROOK 3",
+      "map_id": "420430970",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1446,6 +1556,7 @@
     },
     {
       "name": "PENBROOK 4",
+      "map_id": "420430980",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1459,6 +1570,7 @@
     },
     {
       "name": "PILLOW",
+      "map_id": "420430990",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1472,6 +1584,7 @@
     },
     {
       "name": "REED",
+      "map_id": "420431000",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1485,6 +1598,7 @@
     },
     {
       "name": "ROYALTON 1",
+      "map_id": "420431010",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1498,6 +1612,7 @@
     },
     {
       "name": "ROYALTON 2",
+      "map_id": "420431020",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1511,6 +1626,7 @@
     },
     {
       "name": "RUSH",
+      "map_id": "420431030",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1524,6 +1640,7 @@
     },
     {
       "name": "SOUTH HANOVER 1",
+      "map_id": "420431040",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1537,6 +1654,7 @@
     },
     {
       "name": "SOUTH HANOVER 2",
+      "map_id": "420431050",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1550,6 +1668,7 @@
     },
     {
       "name": "SOUTH HANOVER 3",
+      "map_id": "420431060",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1563,6 +1682,7 @@
     },
     {
       "name": "STEELTON 1",
+      "map_id": "420431070",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1576,6 +1696,7 @@
     },
     {
       "name": "STEELTON 2",
+      "map_id": "420431082",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1589,6 +1710,7 @@
     },
     {
       "name": "STEELTON 3",
+      "map_id": "420431092",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1602,6 +1724,7 @@
     },
     {
       "name": "STEELTON 4",
+      "map_id": "420431120",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1615,6 +1738,7 @@
     },
     {
       "name": "SUSQUEHANNA 1",
+      "map_id": "420431135",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1628,6 +1752,7 @@
     },
     {
       "name": "SUSQUEHANNA 2",
+      "map_id": "420431145",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1641,6 +1766,7 @@
     },
     {
       "name": "SUSQUEHANNA 3",
+      "map_id": "420431155",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1654,6 +1780,7 @@
     },
     {
       "name": "SUSQUEHANNA 4",
+      "map_id": "420431165",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1667,6 +1794,7 @@
     },
     {
       "name": "SUSQUEHANNA 5",
+      "map_id": "420431175",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1680,6 +1808,7 @@
     },
     {
       "name": "SUSQUEHANNA 6",
+      "map_id": "420431185",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1693,6 +1822,7 @@
     },
     {
       "name": "SUSQUEHANNA 7",
+      "map_id": "420431195",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1706,6 +1836,7 @@
     },
     {
       "name": "SUSQUEHANNA 8",
+      "map_id": "420431205",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1719,6 +1850,7 @@
     },
     {
       "name": "SUSQUEHANNA 9",
+      "map_id": "420431215",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1732,6 +1864,7 @@
     },
     {
       "name": "SWATARA 1",
+      "map_id": "420431220",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1745,6 +1878,7 @@
     },
     {
       "name": "SWATARA 2",
+      "map_id": "420431230",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1758,6 +1892,7 @@
     },
     {
       "name": "SWATARA 3",
+      "map_id": "420431240",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1771,6 +1906,7 @@
     },
     {
       "name": "SWATARA 4",
+      "map_id": "420431250",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1784,6 +1920,7 @@
     },
     {
       "name": "SWATARA 5",
+      "map_id": "420431262",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1797,6 +1934,7 @@
     },
     {
       "name": "SWATARA 6",
+      "map_id": "420431272",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1810,6 +1948,7 @@
     },
     {
       "name": "SWATARA 7",
+      "map_id": "420431280",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1823,6 +1962,7 @@
     },
     {
       "name": "SWATARA 8",
+      "map_id": "420431292",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1836,6 +1976,7 @@
     },
     {
       "name": "SWATARA 9",
+      "map_id": "420431302",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1849,6 +1990,7 @@
     },
     {
       "name": "SWATARA 10",
+      "map_id": "420431304",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1862,6 +2004,7 @@
     },
     {
       "name": "UPPER PAXTON 1",
+      "map_id": "420431311",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1875,6 +2018,7 @@
     },
     {
       "name": "UPPER PAXTON 2",
+      "map_id": "420431313",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1888,6 +2032,7 @@
     },
     {
       "name": "WASHINGTON",
+      "map_id": "420431320",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1901,6 +2046,7 @@
     },
     {
       "name": "WAYNE",
+      "map_id": "420431330",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1914,6 +2060,7 @@
     },
     {
       "name": "WEST HANOVER 1",
+      "map_id": "420431340",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1927,6 +2074,7 @@
     },
     {
       "name": "WEST HANOVER 2",
+      "map_id": "420431352",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1940,6 +2088,7 @@
     },
     {
       "name": "WEST HANOVER 3",
+      "map_id": "420431362",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1953,6 +2102,7 @@
     },
     {
       "name": "WEST HANOVER 4",
+      "map_id": "420431368",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1966,6 +2116,7 @@
     },
     {
       "name": "WEST HANOVER 5",
+      "map_id": "420431372",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1979,6 +2130,7 @@
     },
     {
       "name": "WEST HANOVER 6",
+      "map_id": "420431374",
       "seats": [
         {
           "seat": "Committeeman",
@@ -1992,6 +2144,7 @@
     },
     {
       "name": "WEST HANOVER 7",
+      "map_id": "420431376",
       "seats": [
         {
           "seat": "Committeeman",
@@ -2005,6 +2158,7 @@
     },
     {
       "name": "WICONISCO 1",
+      "map_id": "420431380",
       "seats": [
         {
           "seat": "Committeeman",
@@ -2018,6 +2172,7 @@
     },
     {
       "name": "WICONISCO 2",
+      "map_id": "420431390",
       "seats": [
         {
           "seat": "Committeeman",
@@ -2044,6 +2199,7 @@
     },
     {
       "name": "WILLIAMSTOWN 1",
+      "map_id": "420431410",
       "seats": [
         {
           "seat": "Committeeman",
@@ -2057,6 +2213,7 @@
     },
     {
       "name": "WILLIAMSTOWN 2",
+      "map_id": "420431420",
       "seats": [
         {
           "seat": "Committeeman",

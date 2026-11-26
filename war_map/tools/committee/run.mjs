@@ -4,14 +4,15 @@
 //   node war_map/tools/committee/run.mjs <county> --file <export> [--as-of YYYY-MM-DD] [--dry-run]
 //
 // The export is copied into war_map/tools/committee/.cache/ (git-ignored: it
-// holds candidate names, which committee files must not). The county file
+// holds losing candidates' names, which committee files must not). The county file
 // records the export's URL, date and SHA-256 so the numbers can be traced.
 // Then war_map/committee/summary.json is rebuilt.
 import {readFileSync, writeFileSync, mkdirSync, copyFileSync, existsSync} from 'node:fs';
 import {createHash} from 'node:crypto';
 import {execFileSync} from 'node:child_process';
-import {basename, join} from 'node:path';
-import {seatStatuses} from './lib/rules.mjs';
+import {basename, join, resolve} from 'node:path';
+import {seats} from './lib/rules.mjs';
+import {matchPrecincts} from './lib/match.mjs';
 import {validate, countTotals} from './lib/validate.mjs';
 import * as clarity from './lib/clarity.mjs';
 
@@ -48,8 +49,9 @@ const raw = readFileSync(a.file);
 const sha256 = createHash('sha256').update(raw).digest('hex');
 const cacheDir = join(here, '.cache', entry.slug);
 mkdirSync(cacheDir, {recursive: true});
-const cached = join(cacheDir, `${cfg.election_id || 'export'}-${cfg.version || 'x'}-${basename(a.file)}`);
-copyFileSync(a.file, cached);
+const prefix = `${cfg.election_id || 'export'}-${cfg.version || 'x'}-`;
+const cached = join(cacheDir, basename(a.file).startsWith(prefix) ? basename(a.file) : prefix + basename(a.file));
+if (resolve(a.file) !== cached) copyFileSync(a.file, cached);
 
 // 2. Read contests and turn them into seat statuses.
 const {generated, contests} = reader.read(cached, cfg);
@@ -57,11 +59,15 @@ if (!contests.length) fail('no Republican committee contests found in the export
 const precincts = new Map();
 for (const c of contests) {
   if (!precincts.has(c.precinct)) precincts.set(c.precinct, []);
-  const statuses = seatStatuses(c);
-  statuses.forEach((status, i) => precincts.get(c.precinct).push({seat: statuses.length > 1 ? `${c.seat} ${i + 1}` : c.seat, status}));
+  const won = seats(c);
+  won.forEach((s, i) => precincts.get(c.precinct).push({seat: won.length > 1 ? `${c.seat} ${i + 1}` : c.seat, ...s}));
 }
 const seatOrder = s => /woman/i.test(s.seat) ? 1 : 0;
-const precinctList = [...precincts].map(([name, seats]) => ({name, seats: seats.sort((x, y) => seatOrder(x) - seatOrder(y))}));
+const mapFile = join(mapDir, 'data', entry.slug + '.json');
+const mapPrecincts = existsSync(mapFile) ? JSON.parse(readFileSync(mapFile)).precincts.map(({id, name, municipality}) => ({id, name, municipality})) : null;
+const {ids: mapIds} = mapPrecincts ? matchPrecincts([...precincts.keys()], mapPrecincts) : {ids: new Map()};
+const precinctList = [...precincts].map(([name, list]) => ({name, ...(mapIds.has(name) ? {map_id: mapIds.get(name)} : {}),
+  seats: list.sort((x, y) => seatOrder(x) - seatOrder(y))}));
 const seatCounts = new Set(precinctList.map(p => p.seats.length));
 
 // 3. Assemble the county file.
@@ -82,15 +88,13 @@ const doc = {
   totals,
   notes: [
     `Built by war_map/tools/committee/run.mjs from the official ${entry.election} results for every Republican county committee contest (${contests.length} contests).`,
-    'A seat is filled when a named candidate had the most votes; empty when no candidate was on the ballot and no write-in votes were cast; unknown when only write-in votes were cast (public results don\'t name write-in winners, who may also have declined) or when the result was tied or a named candidate had zero votes.',
+    'A seat is filled when a named candidate had the most votes, and holder is that winner\'s name as printed in the results; empty when no candidate was on the ballot and no write-in votes were cast; unknown when only write-in votes were cast (public results don\'t name write-in winners, who may also have declined) or when the result was tied or a named candidate had zero votes.',
     'Appointments made since the election are not counted.',
     entry.notes || ''
   ].filter(Boolean).join(' ')
 };
 
 // 4. Check it.
-const mapFile = join(mapDir, 'data', entry.slug + '.json');
-const mapPrecincts = existsSync(mapFile) ? JSON.parse(readFileSync(mapFile)).precincts.map(p => p.name) : null;
 const {errors, warnings} = validate(doc, {mapPrecincts});
 
 // 5. Report, compared with the file it replaces.

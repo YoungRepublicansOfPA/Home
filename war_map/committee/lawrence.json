@@ -22,6 +22,7 @@
   "precincts": [
     {
       "name": "NEW CASTLE 1ST WARD 1ST DIST.",
+      "map_id": "420730285",
       "seats": [
         {
           "seat": "Member",
@@ -35,6 +36,7 @@
     },
     {
       "name": "NEW CASTLE 1ST WARD 2ND DIST.",
+      "map_id": "420730295",
       "seats": [
         {
           "seat": "Member",
@@ -48,6 +50,7 @@
     },
     {
       "name": "NEW CASTLE 2ND WARD 1ST DIST.",
+      "map_id": "420730315",
       "seats": [
         {
           "seat": "Member",
@@ -61,6 +64,7 @@
     },
     {
       "name": "NEW CASTLE 2ND WARD 2ND DIST",
+      "map_id": "420730325",
       "seats": [
         {
           "seat": "Member",
@@ -74,6 +78,7 @@
     },
     {
       "name": "NEW CASTLE 2ND WARD 3RD DIST.",
+      "map_id": "420730335",
       "seats": [
         {
           "seat": "Member",
@@ -87,6 +92,7 @@
     },
     {
       "name": "NEW CASTLE 2ND WARD 4TH DIST.",
+      "map_id": "420730345",
       "seats": [
         {
           "seat": "Member",
@@ -100,6 +106,7 @@
     },
     {
       "name": "NEW CASTLE 2ND WARD 5TH DIST.",
+      "map_id": "420730355",
       "seats": [
         {
           "seat": "Member",
@@ -113,6 +120,7 @@
     },
     {
       "name": "NEW CASTLE 3RD WARD 1ST DIST.",
+      "map_id": "420730415",
       "seats": [
         {
           "seat": "Member",
@@ -126,6 +134,7 @@
     },
     {
       "name": "NEW CASTLE 3RD WARD 2ND DIST.",
+      "map_id": "420730425",
       "seats": [
         {
           "seat": "Member",
@@ -139,6 +148,7 @@
     },
     {
       "name": "NEW CASTLE 4TH WARD 1ST DIST.",
+      "map_id": "420730475",
       "seats": [
         {
           "seat": "Member",
@@ -152,6 +162,7 @@
     },
     {
       "name": "NEW CASTLE 4TH WARD 2ND DIST.",
+      "map_id": "420730485",
       "seats": [
         {
           "seat": "Member",
@@ -165,6 +176,7 @@
     },
     {
       "name": "NEW CASTLE 4TH WARD 3RD DIST.",
+      "map_id": "420730495",
       "seats": [
         {
           "seat": "Member",
@@ -178,6 +190,7 @@
     },
     {
       "name": "NEW CASTLE 5TH WARD 1ST DIST.",
+      "map_id": "420730555",
       "seats": [
         {
           "seat": "Member",
@@ -191,6 +204,7 @@
     },
     {
       "name": "NEW CASTLE 5TH WARD 2ND DIST.",
+      "map_id": "420730565",
       "seats": [
         {
           "seat": "Member",
@@ -217,6 +231,7 @@
     },
     {
       "name": "NEW CASTLE 7TH WARD 1ST DIST.",
+      "map_id": "420730625",
       "seats": [
         {
           "seat": "Member",
@@ -230,6 +245,7 @@
     },
     {
       "name": "NEW CASTLE 8TH WARD 1ST DIST",
+      "map_id": "420730665",
       "seats": [
         {
           "seat": "Member",
@@ -243,6 +259,7 @@
     },
     {
       "name": "BESSEMER BORO",
+      "map_id": "420730010",
       "seats": [
         {
           "seat": "Member",
@@ -256,6 +273,7 @@
     },
     {
       "name": "ELLPORT BORO",
+      "map_id": "420730020",
       "seats": [
         {
           "seat": "Member",
@@ -269,6 +287,7 @@
     },
     {
       "name": "ELLWOOD CITY 1ST WARD 1ST DIST.",
+      "map_id": "420730035",
       "seats": [
         {
           "seat": "Member",
@@ -282,6 +301,7 @@
     },
     {
       "name": "ELLWOOD CITY 2ND WARD 1ST DIST.",
+      "map_id": "420730050",
       "seats": [
         {
           "seat": "Member",
@@ -295,6 +315,7 @@
     },
     {
       "name": "ELLWOOD CITY 3RD WARD 1ST DIST.",
+      "map_id": "420730075",
       "seats": [
         {
           "seat": "Member",
@@ -308,6 +329,7 @@
     },
     {
       "name": "ELLWOOD CITY 4TH WARD 1ST DIST.",
+      "map_id": "420730080",
       "seats": [
         {
           "seat": "Member",
@@ -321,6 +343,7 @@
     },
     {
       "name": "ELLWOOD CITY 4TH WARD 2ND DIST.",
+      "map_id": "420730090",
       "seats": [
         {
           "seat": "Member",
@@ -334,6 +357,7 @@
     },
     {
       "name": "ELLWOOD CITY 5TH WARD 1ST. DIST.",
+      "map_id": "420730100",
       "seats": [
         {
           "seat": "Member",
@@ -347,6 +371,7 @@
     },
     {
       "name": "ELLWOOD CITY 5TH WARD 2ND DIST.",
+      "map_id": "420730110",
       "seats": [
         {
           "seat": "Member",
@@ -360,6 +385,7 @@
     },
     {
       "name": "ENON VALLEY",
+      "map_id": "420730120",
       "seats": [
         {
           "seat": "Member",
@@ -386,6 +412,7 @@
     },
     {
       "name": "NEW WILMINGTON BORO",
+      "map_id": "420730690",
       "seats": [
         {
           "seat": "Member",
@@ -412,6 +439,7 @@
     },
     {
       "name": "VOLANT BORO",
+      "map_id": "420730970",
       "seats": [
         {
           "seat": "Member",
@@ -425,6 +453,7 @@
     },
     {
       "name": "WAMPUM BORO",
+      "map_id": "420730980",
       "seats": [
         {
           "seat": "Member",
@@ -438,6 +467,7 @@
     },
     {
       "name": "HICKORY TWP. 1ST DISTRICT",
+      "map_id": "420730130",
       "seats": [
         {
           "seat": "Member",
@@ -451,6 +481,7 @@
     },
     {
       "name": "HICKORY TWP. 2ND DISTRICT",
+      "map_id": "420730140",
       "seats": [
         {
           "seat": "Member",
@@ -464,6 +495,7 @@
     },
     {
       "name": "LITTLE BEAVER TWP.",
+      "map_id": "420730150",
       "seats": [
         {
           "seat": "Member",
@@ -477,6 +509,7 @@
     },
     {
       "name": "MAHONING TOWNSHIP 1ST DISTRICT",
+      "map_id": "420730160",
       "seats": [
         {
           "seat": "Member",
@@ -490,6 +523,7 @@
     },
     {
       "name": "MAHONING TOWNSHIP 2ND DISTRICT",
+      "map_id": "420730170",
       "seats": [
         {
           "seat": "Member",
@@ -503,6 +537,7 @@
     },
     {
       "name": "NESHANNOCK TOWNSHIP 1ST DISTRICT",
+      "map_id": "420730190",
       "seats": [
         {
           "seat": "Member",
@@ -516,6 +551,7 @@
     },
     {
       "name": "NESHANNOCK TOWNSHIP 2ND DISTRICT",
+      "map_id": "420730200",
       "seats": [
         {
           "seat": "Member",
@@ -529,6 +565,7 @@
     },
     {
       "name": "NESHANNOCK TOWNSHIP 3RD DISTRICT",
+      "map_id": "420730215",
       "seats": [
         {
           "seat": "Member",
@@ -542,6 +579,7 @@
     },
     {
       "name": "NESHANNOCK TOWNSHIP 4TH DISTRICT",
+      "map_id": "420730220",
       "seats": [
         {
           "seat": "Member",
@@ -555,6 +593,7 @@
     },
     {
       "name": "NESHANNOCK TOWNSHIP 5TH DISTRICT",
+      "map_id": "420730230",
       "seats": [
         {
           "seat": "Member",
@@ -568,6 +607,7 @@
     },
     {
       "name": "NESHANNOCK TOWNSHIP 6TH DISTRICT",
+      "map_id": "420730240",
       "seats": [
         {
           "seat": "Member",
@@ -581,6 +621,7 @@
     },
     {
       "name": "NESHANNOCK TOWNSHIP 7TH DISTRICT",
+      "map_id": "420730244",
       "seats": [
         {
           "seat": "Member",
@@ -594,6 +635,7 @@
     },
     {
       "name": "NESHANNOCK TOWNSHIP 8TH DISTRICT",
+      "map_id": "420730246",
       "seats": [
         {
           "seat": "Member",
@@ -607,6 +649,7 @@
     },
     {
       "name": "NORTH BEAVER TOWNSHIP 1ST DISTRICT",
+      "map_id": "420730700",
       "seats": [
         {
           "seat": "Member",
@@ -620,6 +663,7 @@
     },
     {
       "name": "NORTH BEAVER TOWNSHIP 2ND DISTRICT",
+      "map_id": "420730710",
       "seats": [
         {
           "seat": "Member",
@@ -633,6 +677,7 @@
     },
     {
       "name": "NORTH BEAVER TOWNSHIP 3RD DISTRICT",
+      "map_id": "420730720",
       "seats": [
         {
           "seat": "Member",
@@ -646,6 +691,7 @@
     },
     {
       "name": "PERRY TOWNSHIP 1ST DISTRICT",
+      "map_id": "420730750",
       "seats": [
         {
           "seat": "Member",
@@ -659,6 +705,7 @@
     },
     {
       "name": "PERRY TOWNSHIP 2ND DISTRICT",
+      "map_id": "420730760",
       "seats": [
         {
           "seat": "Member",
@@ -672,6 +719,7 @@
     },
     {
       "name": "PLAIN GROVE TOWNSHIP",
+      "map_id": "420730770",
       "seats": [
         {
           "seat": "Member",
@@ -685,6 +733,7 @@
     },
     {
       "name": "PULASKI TOWNSHIP 1ST DISTRICT",
+      "map_id": "420730780",
       "seats": [
         {
           "seat": "Member",
@@ -698,6 +747,7 @@
     },
     {
       "name": "PULASKI TOWNSHIP 2ND DISTRICT",
+      "map_id": "420730790",
       "seats": [
         {
           "seat": "Member",
@@ -711,6 +761,7 @@
     },
     {
       "name": "PULASKI TOWNSHIP 3RD DISTRICT",
+      "map_id": "420730800",
       "seats": [
         {
           "seat": "Member",
@@ -724,6 +775,7 @@
     },
     {
       "name": "SCOTT TOWNSHIP 1ST DISTRICT",
+      "map_id": "420730812",
       "seats": [
         {
           "seat": "Member",
@@ -737,6 +789,7 @@
     },
     {
       "name": "SCOTT TOWNSHIP 2ND DISTRICT",
+      "map_id": "420730814",
       "seats": [
         {
           "seat": "Member",
@@ -750,6 +803,7 @@
     },
     {
       "name": "SHENANGO TOWNSHIP 1ST DISTRICT",
+      "map_id": "420730820",
       "seats": [
         {
           "seat": "Member",
@@ -763,6 +817,7 @@
     },
     {
       "name": "SHENANGO TOWNSHIP 2ND DISTRICT",
+      "map_id": "420730830",
       "seats": [
         {
           "seat": "Member",
@@ -776,6 +831,7 @@
     },
     {
       "name": "SHENANGO TOWNSHIP 3RD DISTRICT",
+      "map_id": "420730840",
       "seats": [
         {
           "seat": "Member",
@@ -789,6 +845,7 @@
     },
     {
       "name": "SHENANGO TOWNSHIP 4TH DISTRICT",
+      "map_id": "420730850",
       "seats": [
         {
           "seat": "Member",
@@ -802,6 +859,7 @@
     },
     {
       "name": "SHENANGO TOWNSHIP 5TH DISTRICT",
+      "map_id": "420730862",
       "seats": [
         {
           "seat": "Member",
@@ -815,6 +873,7 @@
     },
     {
       "name": "SHENANGO TOWNSHIP 6TH DISTRICT",
+      "map_id": "420730864",
       "seats": [
         {
           "seat": "Member",
@@ -828,6 +887,7 @@
     },
     {
       "name": "SLIPPERY ROCK TOWNSHIP 1ST DISTRICT",
+      "map_id": "420730870",
       "seats": [
         {
           "seat": "Member",
@@ -841,6 +901,7 @@
     },
     {
       "name": "SLIPPERY ROCK TOWNSHIP 2ND DISTRICT",
+      "map_id": "420730880",
       "seats": [
         {
           "seat": "Member",
@@ -854,6 +915,7 @@
     },
     {
       "name": "TAYLOR TOWNSHIP",
+      "map_id": "420730920",
       "seats": [
         {
           "seat": "Member",
@@ -867,6 +929,7 @@
     },
     {
       "name": "UNION TOWNSHIP 1ST DISTRICT",
+      "map_id": "420730930",
       "seats": [
         {
           "seat": "Member",
@@ -880,6 +943,7 @@
     },
     {
       "name": "UNION TOWNSHIP 2ND DISTRICT",
+      "map_id": "420730940",
       "seats": [
         {
           "seat": "Member",
@@ -893,6 +957,7 @@
     },
     {
       "name": "UNION TOWNSHIP 3RD DISTRICT",
+      "map_id": "420730950",
       "seats": [
         {
           "seat": "Member",
@@ -906,6 +971,7 @@
     },
     {
       "name": "UNION TOWNSHIP 4TH DISTRICT",
+      "map_id": "420730960",
       "seats": [
         {
           "seat": "Member",
@@ -919,6 +985,7 @@
     },
     {
       "name": "WASHINGTON TOWNSHIP",
+      "map_id": "420730990",
       "seats": [
         {
           "seat": "Member",
@@ -932,6 +999,7 @@
     },
     {
       "name": "WAYNE TOWNSHIP 1ST DISTRICT",
+      "map_id": "420731000",
       "seats": [
         {
           "seat": "Member",
@@ -945,6 +1013,7 @@
     },
     {
       "name": "WAYNE TOWNSHIP 2ND DISTRICT",
+      "map_id": "420731010",
       "seats": [
         {
           "seat": "Member",
@@ -958,6 +1027,7 @@
     },
     {
       "name": "WILMINGTON TOWNSHIP 1ST DISTRICT",
+      "map_id": "420731040",
       "seats": [
         {
           "seat": "Member",
@@ -971,6 +1041,7 @@
     },
     {
       "name": "WILMINGTON TOWNSHIP 2ND DISTRICT",
+      "map_id": "420731050",
       "seats": [
         {
           "seat": "Member",

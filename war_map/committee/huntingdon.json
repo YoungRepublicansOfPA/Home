@@ -22,6 +22,7 @@
   "precincts": [
     {
       "name": "ALEXANDRIA",
+      "map_id": "420610010",
       "seats": [
         {
           "seat": "Member 1",
@@ -35,6 +36,7 @@
     },
     {
       "name": "BARREE",
+      "map_id": "420610020",
       "seats": [
         {
           "seat": "Member 1",
@@ -48,6 +50,7 @@
     },
     {
       "name": "BIRMINGHAM",
+      "map_id": "420610030",
       "seats": [
         {
           "seat": "Member 1",
@@ -61,6 +64,7 @@
     },
     {
       "name": "BRADY",
+      "map_id": "420610040",
       "seats": [
         {
           "seat": "Member 1",
@@ -74,6 +78,7 @@
     },
     {
       "name": "BROAD TOP",
+      "map_id": "420610050",
       "seats": [
         {
           "seat": "Member 1",
@@ -87,6 +92,7 @@
     },
     {
       "name": "CARBON",
+      "map_id": "420610060",
       "seats": [
         {
           "seat": "Member 1",
@@ -100,6 +106,7 @@
     },
     {
       "name": "CASS",
+      "map_id": "420610070",
       "seats": [
         {
           "seat": "Member 1",
@@ -113,6 +120,7 @@
     },
     {
       "name": "CASSVILLE",
+      "map_id": "420610080",
       "seats": [
         {
           "seat": "Member 1",
@@ -126,6 +134,7 @@
     },
     {
       "name": "CLAY",
+      "map_id": "420610090",
       "seats": [
         {
           "seat": "Member 1",
@@ -139,6 +148,7 @@
     },
     {
       "name": "COALMONT",
+      "map_id": "420610100",
       "seats": [
         {
           "seat": "Member 1",
@@ -152,6 +162,7 @@
     },
     {
       "name": "CROMWELL",
+      "map_id": "420610110",
       "seats": [
         {
           "seat": "Member 1",
@@ -165,6 +176,7 @@
     },
     {
       "name": "DUBLIN",
+      "map_id": "420610120",
       "seats": [
         {
           "seat": "Member 1",
@@ -178,6 +190,7 @@
     },
     {
       "name": "DUDLEY",
+      "map_id": "420610130",
       "seats": [
         {
           "seat": "Member 1",
@@ -191,6 +204,7 @@
     },
     {
       "name": "FRANKLIN",
+      "map_id": "420610140",
       "seats": [
         {
           "seat": "Member 1",
@@ -204,6 +218,7 @@
     },
     {
       "name": "HENDERSON",
+      "map_id": "420610150",
       "seats": [
         {
           "seat": "Member 1",
@@ -243,6 +258,7 @@
     },
     {
       "name": "HUNTINGDON 1",
+      "map_id": "420610180",
       "seats": [
         {
           "seat": "Member 1",
@@ -256,6 +272,7 @@
     },
     {
       "name": "HUNTINGDON 2",
+      "map_id": "420610190",
       "seats": [
         {
           "seat": "Member 1",
@@ -269,6 +286,7 @@
     },
     {
       "name": "HUNTINGDON 3",
+      "map_id": "420610200",
       "seats": [
         {
           "seat": "Member 1",
@@ -282,6 +300,7 @@
     },
     {
       "name": "HUNTINGDON 4",
+      "map_id": "420610210",
       "seats": [
         {
           "seat": "Member 1",
@@ -295,6 +314,7 @@
     },
     {
       "name": "HUNTINGDON 5",
+      "map_id": "420610220",
       "seats": [
         {
           "seat": "Member 1",
@@ -308,6 +328,7 @@
     },
     {
       "name": "HUNTINGDON 6",
+      "map_id": "420610230",
       "seats": [
         {
           "seat": "Member 1",
@@ -321,6 +342,7 @@
     },
     {
       "name": "JACKSON",
+      "map_id": "420610240",
       "seats": [
         {
           "seat": "Member 1",
@@ -334,6 +356,7 @@
     },
     {
       "name": "JUNIATA",
+      "map_id": "420610250",
       "seats": [
         {
           "seat": "Member 1",
@@ -347,6 +370,7 @@
     },
     {
       "name": "LINCOLN",
+      "map_id": "420610260",
       "seats": [
         {
           "seat": "Member 1",
@@ -360,6 +384,7 @@
     },
     {
       "name": "LOGAN",
+      "map_id": "420610270",
       "seats": [
         {
           "seat": "Member 1",
@@ -373,6 +398,7 @@
     },
     {
       "name": "MAPLETON",
+      "map_id": "420610280",
       "seats": [
         {
           "seat": "Member 1",
@@ -386,6 +412,7 @@
     },
     {
       "name": "MARKLESBURG",
+      "map_id": "420610290",
       "seats": [
         {
           "seat": "Member 1",
@@ -399,6 +426,7 @@
     },
     {
       "name": "MILL CREEK",
+      "map_id": "420610300",
       "seats": [
         {
           "seat": "Member 1",
@@ -412,6 +440,7 @@
     },
     {
       "name": "MILLER",
+      "map_id": "420610310",
       "seats": [
         {
           "seat": "Member 1",
@@ -425,6 +454,7 @@
     },
     {
       "name": "MORRIS",
+      "map_id": "420610320",
       "seats": [
         {
           "seat": "Member 1",
@@ -438,6 +468,7 @@
     },
     {
       "name": "MOUNT UNION 1",
+      "map_id": "420610330",
       "seats": [
         {
           "seat": "Member 1",
@@ -451,6 +482,7 @@
     },
     {
       "name": "MOUNT UNION 2",
+      "map_id": "420610340",
       "seats": [
         {
           "seat": "Member 1",
@@ -464,6 +496,7 @@
     },
     {
       "name": "MOUNT UNION 3",
+      "map_id": "420610350",
       "seats": [
         {
           "seat": "Member 1",
@@ -477,6 +510,7 @@
     },
     {
       "name": "ONEIDA",
+      "map_id": "420610360",
       "seats": [
         {
           "seat": "Member 1",
@@ -490,6 +524,7 @@
     },
     {
       "name": "ORBISONIA",
+      "map_id": "420610370",
       "seats": [
         {
           "seat": "Member 1",
@@ -503,6 +538,7 @@
     },
     {
       "name": "PENN",
+      "map_id": "420610380",
       "seats": [
         {
           "seat": "Member 1",
@@ -516,6 +552,7 @@
     },
     {
       "name": "PETERSBURG",
+      "map_id": "420610390",
       "seats": [
         {
           "seat": "Member 1",
@@ -529,6 +566,7 @@
     },
     {
       "name": "PORTER",
+      "map_id": "420610400",
       "seats": [
         {
           "seat": "Member 1",
@@ -542,6 +580,7 @@
     },
     {
       "name": "ROCKHILL",
+      "map_id": "420610410",
       "seats": [
         {
           "seat": "Member 1",
@@ -555,6 +594,7 @@
     },
     {
       "name": "SALTILLO",
+      "map_id": "420610420",
       "seats": [
         {
           "seat": "Member 1",
@@ -568,6 +608,7 @@
     },
     {
       "name": "SHADE GAP",
+      "map_id": "420610430",
       "seats": [
         {
           "seat": "Member 1",
@@ -620,6 +661,7 @@
     },
     {
       "name": "SHIRLEYSBURG",
+      "map_id": "420610470",
       "seats": [
         {
           "seat": "Member 1",
@@ -633,6 +675,7 @@
     },
     {
       "name": "SMITHFIELD",
+      "map_id": "420610480",
       "seats": [
         {
           "seat": "Member 1",
@@ -646,6 +689,7 @@
     },
     {
       "name": "SPRINGFIELD",
+      "map_id": "420610490",
       "seats": [
         {
           "seat": "Member 1",
@@ -659,6 +703,7 @@
     },
     {
       "name": "SPRUCE CREEK",
+      "map_id": "420610500",
       "seats": [
         {
           "seat": "Member 1",
@@ -672,6 +717,7 @@
     },
     {
       "name": "TELL",
+      "map_id": "420610510",
       "seats": [
         {
           "seat": "Member 1",
@@ -685,6 +731,7 @@
     },
     {
       "name": "THREE SPRINGS",
+      "map_id": "420610520",
       "seats": [
         {
           "seat": "Member 1",
@@ -698,6 +745,7 @@
     },
     {
       "name": "TODD",
+      "map_id": "420610530",
       "seats": [
         {
           "seat": "Member 1",
@@ -711,6 +759,7 @@
     },
     {
       "name": "UNION",
+      "map_id": "420610540",
       "seats": [
         {
           "seat": "Member 1",
@@ -724,6 +773,7 @@
     },
     {
       "name": "WALKER",
+      "map_id": "420610550",
       "seats": [
         {
           "seat": "Member 1",
@@ -737,6 +787,7 @@
     },
     {
       "name": "WARRIORS MARK",
+      "map_id": "420610560",
       "seats": [
         {
           "seat": "Member 1",
@@ -750,6 +801,7 @@
     },
     {
       "name": "WEST",
+      "map_id": "420610570",
       "seats": [
         {
           "seat": "Member 1",
@@ -763,6 +815,7 @@
     },
     {
       "name": "WOOD",
+      "map_id": "420610580",
       "seats": [
         {
           "seat": "Member 1",

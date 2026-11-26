@@ -28,6 +28,7 @@
   "precincts": [
     {
       "name": "ALEPPO TOWNSHIP",
+      "map_id": "420590010",
       "seats": [
         {
           "seat": "Member",
@@ -41,6 +42,7 @@
     },
     {
       "name": "CARMICHAELS BORO",
+      "map_id": "420590020",
       "seats": [
         {
           "seat": "Member",
@@ -54,6 +56,7 @@
     },
     {
       "name": "CENTER TOWNSHIP",
+      "map_id": "420590030",
       "seats": [
         {
           "seat": "Member",
@@ -67,6 +70,7 @@
     },
     {
       "name": "CLARKSVILLE BORO",
+      "map_id": "420590040",
       "seats": [
         {
           "seat": "Member",
@@ -80,6 +84,7 @@
     },
     {
       "name": "CUMBERLAND TOWNSHIP #1",
+      "map_id": "420590060",
       "seats": [
         {
           "seat": "Member",
@@ -93,6 +98,7 @@
     },
     {
       "name": "CUMBERLAND TOWNSHIP #2",
+      "map_id": "420590070",
       "seats": [
         {
           "seat": "Member",
@@ -119,6 +125,7 @@
     },
     {
       "name": "CUMBERLAND TOWNSHIP #4",
+      "map_id": "420590080",
       "seats": [
         {
           "seat": "Member",
@@ -132,6 +139,7 @@
     },
     {
       "name": "DUNKARD #1",
+      "map_id": "420590102",
       "seats": [
         {
           "seat": "Member",
@@ -145,6 +153,7 @@
     },
     {
       "name": "DUNKARD #2",
+      "map_id": "420590104",
       "seats": [
         {
           "seat": "Member",
@@ -210,6 +219,7 @@
     },
     {
       "name": "FREEPORT TOWNSHIP",
+      "map_id": "420590170",
       "seats": [
         {
           "seat": "Member",
@@ -223,6 +233,7 @@
     },
     {
       "name": "GILMORE TOWNSHIP",
+      "map_id": "420590180",
       "seats": [
         {
           "seat": "Member",
@@ -236,6 +247,7 @@
     },
     {
       "name": "GRAY TOWNSHIP",
+      "map_id": "420590190",
       "seats": [
         {
           "seat": "Member",
@@ -249,6 +261,7 @@
     },
     {
       "name": "GREENE TOWNSHIP",
+      "map_id": "420590200",
       "seats": [
         {
           "seat": "Member",
@@ -262,6 +275,7 @@
     },
     {
       "name": "GREENSBORO BORO",
+      "map_id": "420590210",
       "seats": [
         {
           "seat": "Member",
@@ -275,6 +289,7 @@
     },
     {
       "name": "JACKSON TOWNSHIP",
+      "map_id": "420590220",
       "seats": [
         {
           "seat": "Member",
@@ -288,6 +303,7 @@
     },
     {
       "name": "JEFFERSON BORO",
+      "map_id": "420590270",
       "seats": [
         {
           "seat": "Member",
@@ -301,6 +317,7 @@
     },
     {
       "name": "JEFFERSON TOWNSHIP #1",
+      "map_id": "420590230",
       "seats": [
         {
           "seat": "Member",
@@ -314,6 +331,7 @@
     },
     {
       "name": "JEFFERSON TOWNSHIP #2",
+      "map_id": "420590240",
       "seats": [
         {
           "seat": "Member",
@@ -327,6 +345,7 @@
     },
     {
       "name": "JEFFERSON TOWNSHIP #3",
+      "map_id": "420590250",
       "seats": [
         {
           "seat": "Member",
@@ -340,6 +359,7 @@
     },
     {
       "name": "JEFFERSON TOWNSHIP #4",
+      "map_id": "420590260",
       "seats": [
         {
           "seat": "Member",
@@ -353,6 +373,7 @@
     },
     {
       "name": "MONONGAHELA TOWNSHIP #1",
+      "map_id": "420590280",
       "seats": [
         {
           "seat": "Member",
@@ -366,6 +387,7 @@
     },
     {
       "name": "MONONGAHELA TOWNSHIP #2",
+      "map_id": "420590295",
       "seats": [
         {
           "seat": "Member",
@@ -418,6 +440,7 @@
     },
     {
       "name": "MORRIS TOWNSHIP",
+      "map_id": "420590340",
       "seats": [
         {
           "seat": "Member",
@@ -431,6 +454,7 @@
     },
     {
       "name": "PERRY TOWNSHIP",
+      "map_id": "420590350",
       "seats": [
         {
           "seat": "Member",
@@ -444,6 +468,7 @@
     },
     {
       "name": "RICES LANDING BORO",
+      "map_id": "420590360",
       "seats": [
         {
           "seat": "Member",
@@ -457,6 +482,7 @@
     },
     {
       "name": "RICHHILL TOWNSHIP",
+      "map_id": "420590370",
       "seats": [
         {
           "seat": "Member",
@@ -470,6 +496,7 @@
     },
     {
       "name": "SPRINGHILL TOWNSHIP",
+      "map_id": "420590380",
       "seats": [
         {
           "seat": "Member",
@@ -483,6 +510,7 @@
     },
     {
       "name": "WASHINGTON TOWNSHIP",
+      "map_id": "420590395",
       "seats": [
         {
           "seat": "Member",
@@ -522,6 +550,7 @@
     },
     {
       "name": "WAYNESBURG BORO #1",
+      "map_id": "420590435",
       "seats": [
         {
           "seat": "Member",
@@ -535,6 +564,7 @@
     },
     {
       "name": "WAYNESBURG BORO #2",
+      "map_id": "420590455",
       "seats": [
         {
           "seat": "Member",
@@ -548,6 +578,7 @@
     },
     {
       "name": "WAYNESBURG BORO #3",
+      "map_id": "420590470",
       "seats": [
         {
           "seat": "Member",
@@ -561,6 +592,7 @@
     },
     {
       "name": "WHITELEY TOWNSHIP",
+      "map_id": "420590480",
       "seats": [
         {
           "seat": "Member",

@@ -22,6 +22,7 @@
   "precincts": [
     {
       "name": "01-1 Barrett One",
+      "map_id": "420890005",
       "seats": [
         {
           "seat": "Member",
@@ -35,6 +36,7 @@
     },
     {
       "name": "01-2 Barrett Two",
+      "map_id": "420890015",
       "seats": [
         {
           "seat": "Member",
@@ -48,6 +50,7 @@
     },
     {
       "name": "02-1 Chestnuthill One",
+      "map_id": "420890023",
       "seats": [
         {
           "seat": "Member",
@@ -69,6 +72,7 @@
     },
     {
       "name": "02-2 Chestnuthill Two",
+      "map_id": "420890026",
       "seats": [
         {
           "seat": "Member",
@@ -86,6 +90,7 @@
     },
     {
       "name": "02-3 Chestnuthill Three",
+      "map_id": "420890033",
       "seats": [
         {
           "seat": "Member",
@@ -99,6 +104,7 @@
     },
     {
       "name": "02-4 Chestnuthill Four",
+      "map_id": "420890036",
       "seats": [
         {
           "seat": "Member",
@@ -116,6 +122,7 @@
     },
     {
       "name": "03-1 Coolbaugh One",
+      "map_id": "420890043",
       "seats": [
         {
           "seat": "Member",
@@ -129,6 +136,7 @@
     },
     {
       "name": "03-2 Coolbaugh Two",
+      "map_id": "420890046",
       "seats": [
         {
           "seat": "Member",
@@ -142,6 +150,7 @@
     },
     {
       "name": "03-3 Coolbaugh Three",
+      "map_id": "420890053",
       "seats": [
         {
           "seat": "Member",
@@ -159,6 +168,7 @@
     },
     {
       "name": "03-4 Coolbaugh Four",
+      "map_id": "420890056",
       "seats": [
         {
           "seat": "Member",
@@ -172,6 +182,7 @@
     },
     {
       "name": "04 Delaware Water Gap",
+      "map_id": "420890060",
       "seats": [
         {
           "seat": "Member",
@@ -190,6 +201,7 @@
     },
     {
       "name": "05-2 East Stroudsburg Second Ward",
+      "map_id": "420890080",
       "seats": [
         {
           "seat": "Member",
@@ -226,6 +238,7 @@
     },
     {
       "name": "05-6 East Stroudsburg Sixth Ward",
+      "map_id": "420890120",
       "seats": [
         {
           "seat": "Member",
@@ -235,6 +248,7 @@
     },
     {
       "name": "06 Eldred",
+      "map_id": "420890130",
       "seats": [
         {
           "seat": "Member",
@@ -324,6 +338,7 @@
     },
     {
       "name": "09-1 Middle Smithfield One",
+      "map_id": "420890176",
       "seats": [
         {
           "seat": "Member",
@@ -337,6 +352,7 @@
     },
     {
       "name": "09-2 Middle Smithfield Two",
+      "map_id": "420890177",
       "seats": [
         {
           "seat": "Member",
@@ -350,6 +366,7 @@
     },
     {
       "name": "09-3 Middle Smithfield Three",
+      "map_id": "420890173",
       "seats": [
         {
           "seat": "Member",
@@ -363,6 +380,7 @@
     },
     {
       "name": "09-4 Middle Smithfield Four",
+      "map_id": "420890174",
       "seats": [
         {
           "seat": "Member",
@@ -376,6 +394,7 @@
     },
     {
       "name": "10 Mount Pocono",
+      "map_id": "420890180",
       "seats": [
         {
           "seat": "Member",
@@ -389,6 +408,7 @@
     },
     {
       "name": "11 Paradise",
+      "map_id": "420890190",
       "seats": [
         {
           "seat": "Member",
@@ -402,6 +422,7 @@
     },
     {
       "name": "12-1 Pocono One",
+      "map_id": "420890197",
       "seats": [
         {
           "seat": "Member",
@@ -415,6 +436,7 @@
     },
     {
       "name": "12-2 Pocono Two",
+      "map_id": "420890204",
       "seats": [
         {
           "seat": "Member",
@@ -428,6 +450,7 @@
     },
     {
       "name": "12-3 Pocono Three",
+      "map_id": "420890211",
       "seats": [
         {
           "seat": "Member",
@@ -441,6 +464,7 @@
     },
     {
       "name": "12-4 Pocono Four",
+      "map_id": "420890218",
       "seats": [
         {
           "seat": "Member",
@@ -454,6 +478,7 @@
     },
     {
       "name": "13 Polk",
+      "map_id": "420890220",
       "seats": [
         {
           "seat": "Member",
@@ -483,6 +508,7 @@
     },
     {
       "name": "14 Price",
+      "map_id": "420890230",
       "seats": [
         {
           "seat": "Member",
@@ -530,6 +556,7 @@
     },
     {
       "name": "16-1 Smithfield One",
+      "map_id": "420890251",
       "seats": [
         {
           "seat": "Member",
@@ -543,6 +570,7 @@
     },
     {
       "name": "16-2 Smithfield Two",
+      "map_id": "420890254",
       "seats": [
         {
           "seat": "Member",
@@ -556,6 +584,7 @@
     },
     {
       "name": "16-3 Smithfield Three",
+      "map_id": "420890256",
       "seats": [
         {
           "seat": "Member",
@@ -565,6 +594,7 @@
     },
     {
       "name": "17-1 Stroud One",
+      "map_id": "420890261",
       "seats": [
         {
           "seat": "Member",
@@ -578,6 +608,7 @@
     },
     {
       "name": "17-2 Stroud Two",
+      "map_id": "420890267",
       "seats": [
         {
           "seat": "Member",
@@ -591,6 +622,7 @@
     },
     {
       "name": "17-3 Stroud Three",
+      "map_id": "420890273",
       "seats": [
         {
           "seat": "Member",
@@ -604,6 +636,7 @@
     },
     {
       "name": "17-4 Stroud Four",
+      "map_id": "420890279",
       "seats": [
         {
           "seat": "Member",
@@ -617,6 +650,7 @@
     },
     {
       "name": "17-5 Stroud Five",
+      "map_id": "420890285",
       "seats": [
         {
           "seat": "Member",
@@ -626,6 +660,7 @@
     },
     {
       "name": "17-6 Stroud Six",
+      "map_id": "420890291",
       "seats": [
         {
           "seat": "Member",
@@ -639,6 +674,7 @@
     },
     {
       "name": "17-7 Stroud Seven",
+      "map_id": "420890297",
       "seats": [
         {
           "seat": "Member",
@@ -648,6 +684,7 @@
     },
     {
       "name": "18-1 Stroudsburg First Ward",
+      "map_id": "420890300",
       "seats": [
         {
           "seat": "Member",
@@ -657,6 +694,7 @@
     },
     {
       "name": "18-2 Stroudsburg Second Ward",
+      "map_id": "420890310",
       "seats": [
         {
           "seat": "Member",
@@ -666,6 +704,7 @@
     },
     {
       "name": "18-3 Stroudsburg Third Ward",
+      "map_id": "420890320",
       "seats": [
         {
           "seat": "Member",
@@ -675,6 +714,7 @@
     },
     {
       "name": "18-4 Stroudsburg Fourth Ward",
+      "map_id": "420890330",
       "seats": [
         {
           "seat": "Member",
@@ -684,6 +724,7 @@
     },
     {
       "name": "18-5 Stroudsburg Fifth Ward",
+      "map_id": "420890340",
       "seats": [
         {
           "seat": "Member",

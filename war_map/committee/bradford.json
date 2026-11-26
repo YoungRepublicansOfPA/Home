@@ -28,6 +28,7 @@
   "precincts": [
     {
       "name": "ALBA BOROUGH",
+      "map_id": "420150010",
       "seats": [
         {
           "seat": "Member",
@@ -37,6 +38,7 @@
     },
     {
       "name": "ALBANY TOWNSHIP",
+      "map_id": "420150020",
       "seats": [
         {
           "seat": "Member",
@@ -54,6 +56,7 @@
     },
     {
       "name": "ARMENIA TOWNSHIP",
+      "map_id": "420150030",
       "seats": [
         {
           "seat": "Member",
@@ -63,6 +66,7 @@
     },
     {
       "name": "ASYLUM TOWNSHIP",
+      "map_id": "420150040",
       "seats": [
         {
           "seat": "Member",
@@ -80,6 +84,7 @@
     },
     {
       "name": "ATHENS BOROUGH 1ST WARD",
+      "map_id": "420150070",
       "seats": [
         {
           "seat": "Member",
@@ -93,6 +98,7 @@
     },
     {
       "name": "ATHENS BOROUGH 2ND WARD",
+      "map_id": "420150080",
       "seats": [
         {
           "seat": "Member",
@@ -106,6 +112,7 @@
     },
     {
       "name": "ATHENS BOROUGH 3RD WARD",
+      "map_id": "420150090",
       "seats": [
         {
           "seat": "Member",
@@ -119,6 +126,7 @@
     },
     {
       "name": "ATHENS BOROUGH 4TH WARD",
+      "map_id": "420150100",
       "seats": [
         {
           "seat": "Member",
@@ -136,6 +144,7 @@
     },
     {
       "name": "ATHENS TOWNSHIP 1ST DISTRICT",
+      "map_id": "420150050",
       "seats": [
         {
           "seat": "Member",
@@ -161,6 +170,7 @@
     },
     {
       "name": "ATHENS TOWNSHIP 2ND DISTRICT",
+      "map_id": "420150060",
       "seats": [
         {
           "seat": "Member",
@@ -190,6 +200,7 @@
     },
     {
       "name": "BURLINGTON BOROUGH",
+      "map_id": "420150120",
       "seats": [
         {
           "seat": "Member",
@@ -199,6 +210,7 @@
     },
     {
       "name": "BURLINGTON TOWNSHIP",
+      "map_id": "420150110",
       "seats": [
         {
           "seat": "Member",
@@ -216,6 +228,7 @@
     },
     {
       "name": "WEST BURLINGTON TOWNSHIP",
+      "map_id": "420150560",
       "seats": [
         {
           "seat": "Member",
@@ -229,6 +242,7 @@
     },
     {
       "name": "CANTON BOROUGH",
+      "map_id": "420150140",
       "seats": [
         {
           "seat": "Member",
@@ -250,6 +264,7 @@
     },
     {
       "name": "CANTON TOWNSHIP",
+      "map_id": "420150130",
       "seats": [
         {
           "seat": "Member",
@@ -275,6 +290,7 @@
     },
     {
       "name": "COLUMBIA TOWNSHIP",
+      "map_id": "420150150",
       "seats": [
         {
           "seat": "Member",
@@ -292,6 +308,7 @@
     },
     {
       "name": "FRANKLIN TOWNSHIP",
+      "map_id": "420150160",
       "seats": [
         {
           "seat": "Member",
@@ -305,6 +322,7 @@
     },
     {
       "name": "GRANVILLE TOWNSHIP",
+      "map_id": "420150170",
       "seats": [
         {
           "seat": "Member",
@@ -322,6 +340,7 @@
     },
     {
       "name": "HERRICK TOWNSHIP",
+      "map_id": "420150180",
       "seats": [
         {
           "seat": "Member",
@@ -339,6 +358,7 @@
     },
     {
       "name": "LERAYSVILLE BOROUGH",
+      "map_id": "420150190",
       "seats": [
         {
           "seat": "Member",
@@ -352,6 +372,7 @@
     },
     {
       "name": "LEROY TOWNSHIP",
+      "map_id": "420150200",
       "seats": [
         {
           "seat": "Member",
@@ -369,6 +390,7 @@
     },
     {
       "name": "LITCHFIELD TOWNSHIP",
+      "map_id": "420150210",
       "seats": [
         {
           "seat": "Member",
@@ -390,6 +412,7 @@
     },
     {
       "name": "MONROE BOROUGH",
+      "map_id": "420150230",
       "seats": [
         {
           "seat": "Member",
@@ -403,6 +426,7 @@
     },
     {
       "name": "MONROE TOWNSHIP",
+      "map_id": "420150220",
       "seats": [
         {
           "seat": "Member",
@@ -420,6 +444,7 @@
     },
     {
       "name": "NEW ALBANY BOROUGH",
+      "map_id": "420150240",
       "seats": [
         {
           "seat": "Member",
@@ -429,6 +454,7 @@
     },
     {
       "name": "ORWELL TOWNSHIP",
+      "map_id": "420150260",
       "seats": [
         {
           "seat": "Member",
@@ -450,6 +476,7 @@
     },
     {
       "name": "OVERTON TOWNSHIP",
+      "map_id": "420150270",
       "seats": [
         {
           "seat": "Member",
@@ -463,6 +490,7 @@
     },
     {
       "name": "PIKE TOWNSHIP",
+      "map_id": "420150280",
       "seats": [
         {
           "seat": "Member",
@@ -476,6 +504,7 @@
     },
     {
       "name": "RIDGEBURY TOWNSHIP",
+      "map_id": "420150290",
       "seats": [
         {
           "seat": "Member",
@@ -501,6 +530,7 @@
     },
     {
       "name": "ROME BOROUGH",
+      "map_id": "420150310",
       "seats": [
         {
           "seat": "Member",
@@ -514,6 +544,7 @@
     },
     {
       "name": "ROME TOWNSHIP",
+      "map_id": "420150300",
       "seats": [
         {
           "seat": "Member",
@@ -535,6 +566,7 @@
     },
     {
       "name": "SAYRE BOROUGH 1ST WARD",
+      "map_id": "420150320",
       "seats": [
         {
           "seat": "Member",
@@ -548,6 +580,7 @@
     },
     {
       "name": "SAYRE BOROUGH 2ND WARD",
+      "map_id": "420150330",
       "seats": [
         {
           "seat": "Member",
@@ -569,6 +602,7 @@
     },
     {
       "name": "SAYRE BOROUGH 3RD WARD",
+      "map_id": "420150340",
       "seats": [
         {
           "seat": "Member",
@@ -582,6 +616,7 @@
     },
     {
       "name": "SAYRE BOROUGH 4TH WARD",
+      "map_id": "420150350",
       "seats": [
         {
           "seat": "Member",
@@ -599,6 +634,7 @@
     },
     {
       "name": "SAYRE BOROUGH 5TH WARD",
+      "map_id": "420150360",
       "seats": [
         {
           "seat": "Member",
@@ -608,6 +644,7 @@
     },
     {
       "name": "SHESHEQUIN TOWNSHIP",
+      "map_id": "420150370",
       "seats": [
         {
           "seat": "Member",
@@ -629,6 +666,7 @@
     },
     {
       "name": "SMITHFIELD TOWNSHIP",
+      "map_id": "420150380",
       "seats": [
         {
           "seat": "Member",
@@ -654,6 +692,7 @@
     },
     {
       "name": "SOUTH CREEK TOWNSHIP",
+      "map_id": "420150390",
       "seats": [
         {
           "seat": "Member",
@@ -675,6 +714,7 @@
     },
     {
       "name": "SOUTH WAVERLY BOROUGH",
+      "map_id": "420150400",
       "seats": [
         {
           "seat": "Member",
@@ -692,6 +732,7 @@
     },
     {
       "name": "SPRINGFIELD TOWNSHIP",
+      "map_id": "420150410",
       "seats": [
         {
           "seat": "Member",
@@ -713,6 +754,7 @@
     },
     {
       "name": "STANDING STONE TOWNSHIP",
+      "map_id": "420150420",
       "seats": [
         {
           "seat": "Member",
@@ -726,6 +768,7 @@
     },
     {
       "name": "STEVENS TOWNSHIP",
+      "map_id": "420150430",
       "seats": [
         {
           "seat": "Member",
@@ -739,6 +782,7 @@
     },
     {
       "name": "SYLVANIA BOROUGH",
+      "map_id": "420150440",
       "seats": [
         {
           "seat": "Member",
@@ -748,6 +792,7 @@
     },
     {
       "name": "TERRY TOWNSHIP",
+      "map_id": "420150450",
       "seats": [
         {
           "seat": "Member",
@@ -765,6 +810,7 @@
     },
     {
       "name": "TOWANDA BOROUGH 1ST WARD",
+      "map_id": "420150470",
       "seats": [
         {
           "seat": "Member",
@@ -778,6 +824,7 @@
     },
     {
       "name": "TOWANDA BOROUGH 2ND WARD",
+      "map_id": "420150480",
       "seats": [
         {
           "seat": "Member",
@@ -791,6 +838,7 @@
     },
     {
       "name": "TOWANDA BOROUGH 3RD WARD",
+      "map_id": "420150490",
       "seats": [
         {
           "seat": "Member",
@@ -808,6 +856,7 @@
     },
     {
       "name": "TOWANDA TOWNSHIP",
+      "map_id": "420150460",
       "seats": [
         {
           "seat": "Member",
@@ -825,6 +874,7 @@
     },
     {
       "name": "NORTH TOWANDA TOWNSHIP",
+      "map_id": "420150250",
       "seats": [
         {
           "seat": "Member",
@@ -842,6 +892,7 @@
     },
     {
       "name": "TROY BOROUGH",
+      "map_id": "420150510",
       "seats": [
         {
           "seat": "Member",
@@ -859,6 +910,7 @@
     },
     {
       "name": "TROY TOWNSHIP",
+      "map_id": "420150500",
       "seats": [
         {
           "seat": "Member",
@@ -884,6 +936,7 @@
     },
     {
       "name": "TUSCARORA TOWNSHIP",
+      "map_id": "420150520",
       "seats": [
         {
           "seat": "Member",
@@ -901,6 +954,7 @@
     },
     {
       "name": "ULSTER TOWNSHIP",
+      "map_id": "420150530",
       "seats": [
         {
           "seat": "Member",
@@ -922,6 +976,7 @@
     },
     {
       "name": "WARREN TOWNSHIP",
+      "map_id": "420150540",
       "seats": [
         {
           "seat": "Member",
@@ -943,6 +998,7 @@
     },
     {
       "name": "WELLS TOWNSHIP",
+      "map_id": "420150550",
       "seats": [
         {
           "seat": "Member",
@@ -964,6 +1020,7 @@
     },
     {
       "name": "WILMOT TOWNSHIP",
+      "map_id": "420150570",
       "seats": [
         {
           "seat": "Member",
@@ -985,6 +1042,7 @@
     },
     {
       "name": "WINDHAM TOWNSHIP",
+      "map_id": "420150580",
       "seats": [
         {
           "seat": "Member",
@@ -1002,6 +1060,7 @@
     },
     {
       "name": "WYALUSING BOROUGH",
+      "map_id": "420150600",
       "seats": [
         {
           "seat": "Member",
@@ -1015,6 +1074,7 @@
     },
     {
       "name": "WYALUSING TOWNSHIP",
+      "map_id": "420150590",
       "seats": [
         {
           "seat": "Member",
@@ -1036,6 +1096,7 @@
     },
     {
       "name": "WYSOX TOWNSHIP",
+      "map_id": "420150610",
       "seats": [
         {
           "seat": "Member",

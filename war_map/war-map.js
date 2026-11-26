@@ -22,7 +22,27 @@ const COUNTY_LAYERS = ['results', 'chairs', 'population', 'government'];
 const CHAIR_SHADES = ['#4a3440', '#7a3040', '#a8333f', '#d9434c'];
 const CHAIR_STEPS = [.10, .25, .50];
 const METHOD_LABEL = {roster: 'Committee roster', election_results: 'Official committee results', candidate_listing: 'Candidate listing', none_found: 'No public record found'};
-let committee = {total: {}, counties: {}};
+let committee = {total: {}, counties: {}, schedule: null};
+const PRECINCT_LAYERS = ['results', 'chairs'];
+const onPrecinctLayer = () => PRECINCT_LAYERS.includes(state.layer);
+// Precinct colors on the Empty chairs layer, by what is known about its seats.
+const SEAT_STATE = {
+  full: {color: '#4f9a66', label: 'All seats filled'},
+  partial: {color: '#e3a33b', label: 'Some seats open'},
+  open: {color: '#d9434c', label: 'All seats open'},
+  unknown: {color: '#6b7891', label: 'Not known'},
+  none: {color: '#2a3446', label: 'No record matched'}
+};
+const SEAT_COLOR = {filled: '#4f9a66', empty: '#d9434c', empty_no_filer: '#a8333f', unknown: '#6b7891'};
+const SEAT_TEXT = {filled: 'Filled', empty: 'Open: no one elected', empty_no_filer: 'Open: no Republican filed', unknown: 'Not known'};
+function seatState(rec) {
+  if (!rec) return 'none';
+  const n = rec.seats.length, open = rec.seats.filter(s => s.status === 'empty' || s.status === 'empty_no_filer').length;
+  const filled = rec.seats.filter(s => s.status === 'filled').length;
+  return filled === n ? 'full' : open === n ? 'open' : open ? 'partial' : 'unknown';
+}
+const longDate = iso => iso ? new Date(iso + 'T12:00:00Z').toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC'}) : '—';
+const shortDate = iso => new Date(iso + 'T12:00:00Z').toLocaleDateString('en-US', {month: 'short', day: 'numeric', timeZone: 'UTC'});
 const emptyOf = c => (c?.empty || 0) + (c?.empty_no_filer || 0);
 const knownOf = c => (c?.filled || 0) + emptyOf(c);
 
@@ -175,13 +195,23 @@ function loadDistricts(kind) {
 const loadMunis = name => json('municipalities/' + slug(name) + '.geojson');
 const loadPlaces = once(() => json('place-index.json'));
 
+const committeeFiles = new Map();
+// The county's committee file, with precincts indexed by map precinct id. Null if none loads.
+function loadCommittee(name) {
+  if (!committeeFiles.has(name)) committeeFiles.set(name, json('committee/' + (committee.counties[name]?.file || slug(name) + '.json')).then(d => {
+    d.byMapId = new Map(d.precincts.filter(p => p.map_id).map(p => [p.map_id, p]));
+    return d;
+  }).catch(() => null));
+  return committeeFiles.get(name);
+}
 function loadCounty(name) {
-  if (!precinctCache.has(name)) precinctCache.set(name, json('data/' + slug(name) + '.json').then(d => {
+  if (!precinctCache.has(name)) precinctCache.set(name, Promise.all([json('data/' + slug(name) + '.json'), loadCommittee(name)]).then(([d, com]) => {
     const features = d.precincts.map(p => {
-      const m = marginOf(p);
+      const m = marginOf(p), seats = seatState(com?.byMapId.get(p.id));
       return {type: 'Feature', properties: {
         id: p.id, name: p.name, municipality: p.municipality, county: name,
-        trump: p.trump, harris: p.harris, other: p.other, total: p.total, margin: m, fill: colorFor(m)
+        trump: p.trump, harris: p.harris, other: p.other, total: p.total, margin: m, fill: colorFor(m),
+        seats, fill_chairs: SEAT_STATE[seats].color
       }, geometry: pathToGeometry(p.path)};
     });
     loadedPrecincts.set(name, features);
@@ -258,8 +288,9 @@ function addLayers() {
 
 function setVisible(id, on) { map.setLayoutProperty(id, 'visibility', on ? 'visible' : 'none'); }
 function applyLayerStyle() {
-  const l = state.layer, district = !!CHAMBERS[l], results = l === 'results';
+  const l = state.layer, district = !!CHAMBERS[l], results = PRECINCT_LAYERS.includes(l);
   ['precincts-fill', 'precincts-line', 'precincts-hover', 'precincts-selected', 'munis-line'].forEach(id => setVisible(id, results));
+  map.setPaintProperty('precincts-fill', 'fill-color', ['get', l === 'chairs' ? 'fill_chairs' : 'fill']);
   ['districts-fill', 'districts-line', 'districts-selected', 'district-labels'].forEach(id => setVisible(id, district));
   setVisible('counties-fill', !district);
   setVisible('county-labels', !district);
@@ -279,11 +310,12 @@ function applySelection() {
   const isSel = ['==', ['get', 'county'], sel];
   map.setPaintProperty('precincts-fill', 'fill-opacity', ['interpolate', ['linear'], ['zoom'], PRECINCT_ZOOM - .4, ['case', isSel, .78, 0], PRECINCT_ZOOM + .2, .66, 12, .55]);
   map.setPaintProperty('precincts-line', 'line-opacity', ['interpolate', ['linear'], ['zoom'], PRECINCT_ZOOM - .4, ['case', isSel, 1, 0], PRECINCT_ZOOM + .2, 1]);
+  if (state.layer === 'chairs') legend();
 }
-const precinctsVisible = county => state.layer === 'results' && (map.getZoom() >= PRECINCT_ZOOM - .2 || county === state.county);
+const precinctsVisible = county => onPrecinctLayer() && (map.getZoom() >= PRECINCT_ZOOM - .2 || county === state.county);
 
 function loadVisibleCounties() {
-  if (state.layer !== 'results' || map.getZoom() < PRECINCT_ZOOM - .3) return;
+  if (!onPrecinctLayer() || map.getZoom() < PRECINCT_ZOOM - .3) return;
   const b = map.getBounds(), view = [b.getWest(), b.getSouth(), b.getEast(), b.getNorth()];
   for (const f of counties) {
     const c = f.bbox;
@@ -292,7 +324,7 @@ function loadVisibleCounties() {
 }
 
 function pick(point) {
-  const layers = CHAMBERS[state.layer] ? ['districts-fill'] : state.layer === 'results' ? ['precincts-fill', 'counties-fill'] : ['counties-fill'];
+  const layers = CHAMBERS[state.layer] ? ['districts-fill'] : onPrecinctLayer() ? ['precincts-fill', 'counties-fill'] : ['counties-fill'];
   for (const f of map.queryRenderedFeatures(point, {layers})) {
     if (f.layer.id === 'precincts-fill' && !precinctsVisible(f.properties.county)) continue;
     return f;
@@ -307,6 +339,7 @@ function setHover(f) {
 }
 function tooltip(f) {
   const p = f.properties;
+  if (f.source === 'precincts' && state.layer === 'chairs') return [p.name, p.municipality + ' · ' + SEAT_STATE[p.seats].label];
   if (f.source === 'precincts') {
     return [p.name, p.municipality + ' · ' + (p.margin === 'null' || p.margin == null ? 'Counts unavailable' :
       marginText(+p.margin) + ' · Trump ' + fmt(+p.trump) + ', Harris ' + fmt(+p.harris))];
@@ -315,7 +348,7 @@ function tooltip(f) {
   const c = countyByName.get(p.county).properties;
   if (state.layer === 'chairs') {
     const ch = committee.counties[p.county];
-    return [p.county + ' County', !ch || !knownOf(ch) ? 'No public record found' : fmt(emptyOf(ch)) + ' empty of ' + fmt(ch.seats) + ' seats · ' + fmt(ch.unknown) + ' unknown'];
+    return [p.county + ' County', !ch || !knownOf(ch) ? 'No public record found' : fmt(ch.filled) + ' filled · ' + fmt(emptyOf(ch)) + ' open · ' + fmt(ch.unknown) + ' not known'];
   }
   if (state.layer === 'population') return [p.county + ' County', fmt(c.population) + ' residents'];
   if (state.layer === 'government') return [p.county + ' County', 'Governing majority: ' + (c.party_control || 'unverified')];
@@ -374,7 +407,7 @@ async function setLayer(layer, {keep = false} = {}) {
     }
   }
   applySelection();
-  if (state.county && COUNTY_LAYERS.includes(layer)) { renderCounty(); if (layer === 'results') openCountyPrecincts(state.county); }
+  if (state.county && COUNTY_LAYERS.includes(layer)) { renderCounty(); if (PRECINCT_LAYERS.includes(layer)) openCountyPrecincts(state.county); }
   else if (!keep) renderHome();
   updateURL();
 }
@@ -410,10 +443,10 @@ function selectCounty(name, {fly = true} = {}) {
   if (fly) fit(countyByName.get(name).bbox, 11);
   renderCounty();
   updateURL();
-  if (state.layer === 'results') return openCountyPrecincts(name);
+  if (onPrecinctLayer()) return openCountyPrecincts(name);
 }
 async function selectPrecinct(county, id, {fly = true, address = null} = {}) {
-  if (state.layer !== 'results') { state.layer = 'results'; setTabs(); applyLayerStyle(); legend(); }
+  if (!onPrecinctLayer()) { state.layer = 'results'; setTabs(); applyLayerStyle(); legend(); }
   if (state.county !== county) {
     state.county = county; state.muni = ''; muniFeatures = [];
     map.getSource('munis').setData({type: 'FeatureCollection', features: []});
@@ -439,7 +472,8 @@ async function selectPrecinct(county, id, {fly = true, address = null} = {}) {
     return;
   }
   if (fly) fit(bboxOf(f.geometry), 13.5);
-  renderPrecinct(f, address, token);
+  if (state.layer === 'chairs') renderChairsPrecinct(f, address, token);
+  else renderPrecinct(f, address, token);
 }
 function selectDistrict(kind, d) {
   state.district = Number(d);
@@ -495,13 +529,16 @@ function renderHome() {
       : [fmt(c.harris_led), 'd', 'of ' + fmt(c.precincts) + ' precincts Harris-led · ' + marginText(c.margin)];
   } else if (l === 'chairs') {
     const t = committee.total;
-    headBlock = head({eyebrow: 'Republican committee seats', title: 'At least ' + fmt(emptyOf(t)) + ' Republican committee seats are empty',
-      lede: fmt(t.empty) + ' had no winner and ' + fmt(t.empty_no_filer) + ' had no Republican filer, out of ' + fmt(t.seats) + ' seats on record. Another ' + fmt(t.unknown) + ' are unknown: write-in wins, filed candidates with no posted result, and counties with no public record. Pick a county for its sources.'});
+    headBlock = [...head({eyebrow: 'Republican committee seats', title: fmt(emptyOf(t)) + ' of ' + fmt(t.seats) + ' Republican committee seats are open',
+      lede: 'Each precinct elects a committeeman and a committeewoman. Pick a county, or search your address, to see your precinct\'s seats and who holds them.'}),
+      seatBar(t), seatTable(t),
+      h('p', {class: 'note', text: 'Not known: write-in winners (public results don\'t name them), filed candidates with no posted result, and counties with no public record. Open seats can be filled before the next election by appointment under county party rules.'}),
+      nextElectionBlock(statewideNext(), true)].filter(Boolean);
     sortOptions = null;
     metric = c => {
       const ch = committee.counties[c.county];
       if (!ch || !knownOf(ch)) return ['—', '', 'No public record found'];
-      return [fmt(emptyOf(ch)), 'r', 'empty of ' + fmt(ch.seats) + ' seats · ' + fmt(ch.unknown) + ' unknown · ' + (METHOD_LABEL[ch.method] || ch.method)];
+      return [fmt(emptyOf(ch)), 'r', 'open of ' + fmt(ch.seats) + ' · ' + fmt(ch.filled) + ' filled · ' + fmt(ch.unknown) + ' not known'];
     };
   } else if (l === 'population') {
     const total = all.reduce((n, c) => n + c.population, 0);
@@ -543,21 +580,22 @@ function renderCounty() {
   const back = {label: 'Back to Pennsylvania', go: goHome};
   if (state.layer === 'chairs') {
     const ch = committee.counties[c.county];
-    const seg = (n, color) => h('span', {style: 'background:' + color + ';width:' + (100 * n / (ch?.seats || 1)) + '%'});
-    $('panel').replaceChildren(
+    const known = ch && knownOf(ch);
+    $('panel').replaceChildren(...[
       ...head({eyebrow: 'Republican committee seats', title: c.county + ' County', back,
-        lede: !ch || !knownOf(ch) ? 'No public roster, results or candidate listing was found for this county. Every seat is unknown.'
-          : fmt(emptyOf(ch)) + ' of ' + fmt(ch.seats) + ' seats are empty across ' + fmt(ch.precincts) + ' precincts.'}),
-      ch && ch.seats ? h('div', {class: 'bar', role: 'img', 'aria-label': fmt(ch.filled) + ' filled, ' + fmt(emptyOf(ch)) + ' empty, ' + fmt(ch.unknown) + ' unknown'},
-        seg(ch.filled, '#5f9e6e'), seg(ch.empty, CHAIR_SHADES[3]), seg(ch.empty_no_filer, CHAIR_SHADES[1]), seg(ch.unknown, '#4b5568')) : null,
-      ch ? h('table', {class: 'votes'}, h('tbody', {},
-        [['Filled', ch.filled, '#5f9e6e'], ['Empty: no winner', ch.empty, CHAIR_SHADES[3]], ['Empty: no Republican filed', ch.empty_no_filer, CHAIR_SHADES[1]], ['Unknown', ch.unknown, '#4b5568']]
-          .map(([k, v, col]) => h('tr', {}, h('td', {}, h('span', {class: 'dot', style: 'background:' + col}), k), h('td', {text: fmt(v)}), h('td', {text: pct(v, ch.seats)}))))) : null,
-      ch ? h('p', {class: 'note', text: (METHOD_LABEL[ch.method] || ch.method) + (ch.election ? ' · ' + ch.election : '') + (ch.as_of ? ' · as of ' + ch.as_of : '') + ' · checked ' + ch.checked_at + '. Appointments made since then are not counted.'}) : null,
-      ch && ch.sources.length ? h('ul', {class: 'reps'}, ch.sources.map(s => h('li', {}, h('a', {href: s.url, text: s.title || s.url})))) : null,
+        lede: !known ? 'No public roster, results or candidate listing was found for this county. Every seat is unknown.'
+          : fmt(emptyOf(ch)) + ' open, ' + fmt(ch.filled) + ' filled and ' + fmt(ch.unknown) + ' not known, of ' + fmt(ch.seats) + ' seats in ' + fmt(ch.precincts) + ' precincts.'}),
+      known ? seatBar(ch) : null,
+      known ? seatTable(ch) : null,
+      ch ? h('p', {class: 'note', text: (METHOD_LABEL[ch.method] || ch.method) + (ch.election ? ' · ' + ch.election : '') + (ch.as_of ? ' · as of ' + ch.as_of : '') + ' · checked ' + ch.checked_at + '. Appointments made since then are not counted.' +
+        (ch.named ? ' Holders are named as printed in the official results.' : ch.filled ? ' This county\'s record doesn\'t include holders\' names yet.' : '')}) : null,
+      nextElectionBlock(ch?.next_election),
+      precinctSection(ch && ch.mapped < ch.precincts && ch.mapped ? fmt(ch.precincts - ch.mapped) + ' precincts in the record couldn\'t be matched to a map precinct, so they aren\'t listed here.' : ch && !ch.mapped ? 'No precinct in this county\'s record is matched to the map yet.' : null),
+      ch && ch.sources.length ? h('section', {class: 'section'}, h('h3', {text: 'Sources'}), h('ul', {class: 'reps'}, ch.sources.map(s => h('li', {}, h('a', {href: s.url, text: s.title || s.url}))))) : null,
       h('div', {class: 'actions'}, h('a', {class: 'btn ghost', href: 'committee/' + (ch?.file || slug(c.county) + '.json'), text: 'Precinct data (JSON)'}),
-        h('button', {type: 'button', class: 'btn', onclick: () => setLayer('results', {keep: true}), text: 'See precinct results'})),
-      profile);
+        h('button', {type: 'button', class: 'btn ghost', onclick: () => setLayer('results', {keep: true}), text: 'See 2024 results'})),
+      profile].filter(Boolean));
+    if (precinctCache.has(c.county) && loadedPrecincts.has(c.county) && muniFeatures.length) renderCountyPrecincts();
     return;
   }
   if (state.layer !== 'results') {
@@ -574,12 +612,7 @@ function renderCounty() {
     ...voteBar(c.trump, c.harris, c.total),
     h('div', {class: 'bar-key'}, h('span', {text: fmt(c.trump) + ' votes'}), h('span', {text: fmt(c.harris) + ' votes'})),
     h('div', {class: 'actions'}, profile),
-    h('section', {class: 'section'},
-      h('h3', {}, 'Precincts', h('small', {id: 'chip-count', text: fmt(c.precincts)})),
-      h('div', {class: 'controls'},
-        h('input', {type: 'search', id: 'chip-filter', placeholder: 'Filter precincts', 'aria-label': 'Filter precincts', oninput: renderChips}),
-        h('select', {id: 'muni-select', 'aria-label': 'Municipality', onchange: e => chooseMuni(e.target.value)}, h('option', {value: '', text: 'All municipalities'}))),
-      h('div', {class: 'chips', id: 'chips'}, h('p', {class: 'note', text: 'Loading precincts…'}))));
+    precinctSection());
   if (precinctCache.has(c.county) && loadedPrecincts.has(c.county) && muniFeatures.length) renderCountyPrecincts();
 }
 function renderCountyPrecincts() {
@@ -601,12 +634,16 @@ function renderChips() {
   const box = $('chips');
   if (!box || !loadedPrecincts.has(state.county)) return;
   const q = ($('chip-filter')?.value || '').trim().toLowerCase();
+  const chairs = state.layer === 'chairs', want = $('seat-filter')?.value || '';
   const rows = loadedPrecincts.get(state.county).filter(f => (!state.muni || f.properties.municipality === state.muni) &&
-    (!q || (f.properties.name + ' ' + f.properties.municipality).toLowerCase().includes(q)))
+    (!q || (f.properties.name + ' ' + f.properties.municipality).toLowerCase().includes(q)) &&
+    (!chairs || (want ? (want === 'any-open' ? ['open', 'partial'].includes(f.properties.seats) : f.properties.seats === want) : f.properties.seats !== 'none')))
     .sort((a, b) => a.properties.name.localeCompare(b.properties.name, 'en', {numeric: true}));
   $('chip-count').textContent = fmt(rows.length);
   box.replaceChildren(...rows.map(f => {
     const p = f.properties;
+    if (chairs) return h('button', {type: 'button', class: 'seat-' + p.seats, title: p.name + ' · ' + p.municipality + ' · ' + SEAT_STATE[p.seats].label,
+      onclick: () => selectPrecinct(state.county, p.id)}, h('i', {style: 'background:' + SEAT_STATE[p.seats].color}), p.name);
     return h('button', {type: 'button', class: leadClass(p.margin), title: p.name + ' · ' + p.municipality + ' · ' + marginText(p.margin),
       onclick: () => selectPrecinct(state.county, p.id), text: p.name});
   }));
@@ -658,6 +695,82 @@ function renderPrecinct(f, address, token) {
         h('a', {href: 'https://www.palegis.us/find-my-legislator', text: 'General Assembly district finder'}), '.'));
   }).catch(() => { if (token === renderToken) reps.replaceChildren(h('p', {class: 'note', text: 'District records could not load.'})); });
 }
+// The next election date most counties share, for the statewide panel.
+function statewideNext() {
+  const tally = new Map();
+  for (const c of Object.values(committee.counties)) if (c.next_election) tally.set(c.next_election.date, [...(tally.get(c.next_election.date) || []), c.next_election]);
+  return [...tally.values()].sort((a, b) => b.length - a.length)[0]?.[0] || null;
+}
+function precinctSection(note) {
+  const chairs = state.layer === 'chairs';
+  return h('section', {class: 'section'},
+    h('h3', {}, 'Precincts', h('small', {id: 'chip-count', text: ''})),
+    note ? h('p', {class: 'note', text: note}) : null,
+    h('div', {class: 'controls'},
+      h('input', {type: 'search', id: 'chip-filter', placeholder: 'Filter precincts', 'aria-label': 'Filter precincts', oninput: renderChips}),
+      h('select', {id: 'muni-select', 'aria-label': 'Municipality', onchange: e => chooseMuni(e.target.value)}, h('option', {value: '', text: 'All municipalities'}))),
+    chairs ? h('div', {class: 'controls'}, h('select', {id: 'seat-filter', 'aria-label': 'Seat status', onchange: renderChips},
+      [['', 'All matched precincts'], ['any-open', 'Any seat open'], ['open', 'All seats open'], ['partial', 'Some seats open'], ['full', 'All seats filled'], ['unknown', 'Not known']]
+        .map(([v, t]) => h('option', {value: v, text: t})))) : null,
+    h('div', {class: 'chips', id: 'chips'}, h('p', {class: 'note', text: 'Loading precincts…'})));
+}
+function seatBar(t) {
+  const seg = (n, color) => h('span', {style: 'background:' + color + ';width:' + (100 * n / (t.seats || 1)) + '%'});
+  return h('div', {class: 'bar', role: 'img', 'aria-label': fmt(t.filled) + ' filled, ' + fmt(emptyOf(t)) + ' open, ' + fmt(t.unknown) + ' not known'},
+    seg(t.filled, SEAT_COLOR.filled), seg(t.empty, SEAT_COLOR.empty), seg(t.empty_no_filer, SEAT_COLOR.empty_no_filer), seg(t.unknown, SEAT_COLOR.unknown));
+}
+function seatTable(t) {
+  return h('table', {class: 'votes'}, h('tbody', {},
+    [['Filled', t.filled, SEAT_COLOR.filled], ['Open: no one elected', t.empty, SEAT_COLOR.empty], ['Open: no Republican filed', t.empty_no_filer, SEAT_COLOR.empty_no_filer], ['Not known', t.unknown, SEAT_COLOR.unknown]]
+      .filter(([k, v]) => v || k === 'Filled' || k === 'Not known')
+      .map(([k, v, col]) => h('tr', {}, h('td', {}, h('span', {class: 'dot', style: 'background:' + col}), k), h('td', {text: fmt(v)}), h('td', {text: pct(v, t.seats)})))));
+}
+function nextElectionBlock(n, statewide = false) {
+  const sch = committee.schedule;
+  if (!n) return null;
+  return h('section', {class: 'section next-election'},
+    h('h3', {text: 'Next committee election'}),
+    h('p', {class: 'big-date', text: longDate(n.date)}),
+    h('p', {class: 'note', text: 'Pennsylvania primary · petitions circulate ' + shortDate(n.petitions_from) + ' – ' + longDate(n.petitions_to) + '.'}),
+    h('p', {class: 'note', text: statewide
+      ? 'Most counties elect committee seats every ' + (sch?.default_cycle_years || 4) + ' years, in the governor\'s election year. Each county party\'s rules set its cycle; dates are computed from state law and confirmed when the Department of State publishes that year\'s calendar.'
+      : (n.cycle_confirmed ? 'Seats here are elected every ' + n.cycle_years + ' years under county party rules.'
+        : 'Assumes a ' + n.cycle_years + '-year cycle' + (n.last_election_year ? ' after the ' + n.last_election_year + ' election' : '') + '; not yet confirmed from this county party\'s rules.') +
+        ' Open seats can be filled sooner by appointment; ask the county Republican committee.'}),
+    sch ? h('p', {class: 'note'}, 'Schedule checked ' + sch.checked_at + ': ', ...sch.sources.flatMap((s, i) => [i ? ' · ' : '', h('a', {href: s.url, text: s.title.split(' (')[0]})])) : null);
+}
+async function renderChairsPrecinct(f, address, token) {
+  const p = f.properties, county = p.county, ch = committee.counties[county];
+  const share = new URL(location.pathname, location.origin);
+  share.searchParams.set('layer', 'chairs');
+  share.searchParams.set('county', county);
+  share.searchParams.set('precinct', p.id);
+  const copy = h('button', {type: 'button', class: 'btn ghost', text: 'Copy link', onclick: async () => {
+    try { await navigator.clipboard.writeText(share.href); copy.textContent = 'Link copied'; }
+    catch { copy.textContent = 'Copy from address bar'; }
+  }});
+  const com = await loadCommittee(county);
+  if (token !== renderToken) return;
+  const rec = com?.byMapId.get(p.id);
+  const evidence = com ? (METHOD_LABEL[com.method] || com.method) + (com.election ? ' · ' + com.election : '') + (com.as_of ? ' · as of ' + com.as_of : '') : '';
+  const seatsList = rec ? h('ul', {class: 'seats'}, rec.seats.map(s => h('li', {class: 'seat ' + s.status},
+    h('span', {class: 'seat-label'}, h('i', {style: 'background:' + SEAT_COLOR[s.status]}), s.seat),
+    h('span', {class: 'seat-status', text: SEAT_TEXT[s.status]}),
+    h('strong', {class: 'seat-holder', text: s.holder || (s.status === 'filled' ? 'Name not on record' : s.status === 'unknown' ? (com.method === 'election_results' ? 'Write-in winner, or no clear winner; not named in results' : 'No result on record') : 'Vacant')}))))
+    : h('p', {class: 'lede', text: !com || !com.precincts.length ? 'No public committee record was found for ' + county + ' County.'
+      : 'This map precinct couldn\'t be matched to a precinct in ' + county + ' County\'s committee record, usually because the two sources name it differently. The county record (JSON) lists every precinct.'});
+  $('panel').replaceChildren(...[
+    ...head({eyebrow: county + ' County · ' + p.municipality, title: p.name,
+      back: {label: 'Back to ' + county + ' County', go: () => selectCounty(county)},
+      lede: address ? 'Your address: ' + address.label : 'Republican committee seats' + (rec && rec.name !== p.name ? ' · listed as "' + rec.name + '"' : '')}),
+    seatsList,
+    rec ? h('p', {class: 'note', text: evidence + '. Names are shown only as printed in official results or a published roster. Appointments since then are not counted.'}) : null,
+    nextElectionBlock(ch?.next_election),
+    h('div', {class: 'actions'}, copy,
+      h('a', {class: 'btn ghost', href: 'committee/' + (ch?.file || slug(county) + '.json'), text: 'County record (JSON)'}),
+      h('button', {type: 'button', class: 'btn ghost', onclick: () => { state.layer = 'results'; setTabs(); applyLayerStyle(); legend(); renderPrecinct(f, address, renderToken); updateURL(); }, text: '2024 results here'})),
+    ch && ch.sources.length ? h('section', {class: 'section'}, h('h3', {text: 'Sources'}), h('ul', {class: 'reps'}, ch.sources.map(s => h('li', {}, h('a', {href: s.url, text: s.title || s.url}))))) : null].filter(Boolean));
+}
 async function renderDistrictHome(kind) {
   const token = renderToken;
   const geo = await loadDistricts(kind);
@@ -700,7 +813,10 @@ function legend() {
     el.replaceChildren(ramp(COLORS.r, 'Trump lead'), ramp(COLORS.d, 'Harris lead'), h('span', {class: 'hint', text: 'Darker: 10+ and 30+ pt margins'}),
       ...(zoomHint ? [h('span', {class: 'hint', text: 'Zoom in to see precincts'})] : []));
   } else if (l === 'chairs') {
-    el.replaceChildren(ramp(CHAIR_SHADES, 'Share of seats empty: under 10% → 50%+'), sw('#455467', 'No public record'), h('span', {class: 'hint', text: 'Unknown seats not counted as empty'}));
+    const near = state.county || map.getZoom() >= PRECINCT_ZOOM - .2;
+    el.replaceChildren(...(near
+      ? ['full', 'partial', 'open', 'unknown', 'none'].map(k => sw(SEAT_STATE[k].color, SEAT_STATE[k].label))
+      : [ramp(CHAIR_SHADES, 'Share of seats open: under 10% → 50%+'), sw('#455467', 'No public record'), h('span', {class: 'hint', text: 'Zoom in or pick a county for precincts'})]));
   } else if (l === 'population') {
     el.replaceChildren(ramp(POP_SHADES, 'Population: under 50k → 500k+'), h('span', {class: 'hint', text: 'July 1, 2025 estimates'}));
   } else if (l === 'government') {
@@ -755,7 +871,7 @@ async function choose(r) {
   status('');
   if (r.type === 'County') return selectCounty(r.county);
   if (r.type === 'Precinct') return selectPrecinct(r.county, r.id);
-  if (!COUNTY_LAYERS.includes(state.layer) || state.layer !== 'results') { state.layer = 'results'; setTabs(); applyLayerStyle(); legend(); }
+  if (!onPrecinctLayer()) { state.layer = 'results'; setTabs(); applyLayerStyle(); legend(); }
   await selectCounty(r.county, {fly: false});
   state.muni = r.name;
   renderChips();
@@ -785,7 +901,7 @@ async function geocode(text) {
       clearMarker();
       marker = new maplibregl.Marker({element: h('div', {class: 'marker'})}).setLngLat(point).addTo(map);
       map.flyTo({center: point, zoom: Math.max(map.getZoom(), 11.5), padding: padding()});
-      if (state.layer !== 'results') await setLayer('results');
+      if (!onPrecinctLayer()) await setLayer('results');
       status('Showing ' + best.address + '. Enter a street address to find your precinct and representatives.');
       return;
     }
@@ -836,7 +952,7 @@ function wireSearch() {
 /* ---------- Start ---------- */
 async function start() {
   const [geo, meta, chairs] = await Promise.all([json('counties.geojson'), loadMeta(), json('committee/summary.json').catch(() => null)]);
-  if (chairs) committee = chairs;
+  if (chairs) committee = {schedule: null, ...chairs};
   countyInfo = meta;
   counties = geo.features;
   for (const f of counties) {
@@ -869,7 +985,7 @@ async function start() {
   map.on('mousemove', onMove);
   map.on('mouseout', () => { setHover(null); popup.remove(); });
   map.on('click', onClick);
-  map.on('moveend', () => { loadVisibleCounties(); if (state.layer === 'results') legend(); });
+  map.on('moveend', () => { loadVisibleCounties(); if (onPrecinctLayer()) legend(); });
   document.querySelectorAll('[data-layer]').forEach(b => b.onclick = () => { state.filter = ''; setLayer(b.dataset.layer); });
   wireSearch();
 
@@ -880,7 +996,7 @@ async function start() {
   else if (q.has('county')) {
     const county = q.get('county');
     if (!countyByName.has(county)) status('Unknown county in this link. Pick a county to continue.');
-    else if (q.has('precinct') && state.layer === 'results') selectPrecinct(county, q.get('precinct'));
+    else if (q.has('precinct') && onPrecinctLayer()) selectPrecinct(county, q.get('precinct'));
     else selectCounty(county);
   }
 }

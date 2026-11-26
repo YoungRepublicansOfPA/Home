@@ -34,6 +34,7 @@
   "precincts": [
     {
       "name": "Abbottstown",
+      "map_id": "420010010",
       "seats": [
         {
           "seat": "Member 1",
@@ -51,6 +52,7 @@
     },
     {
       "name": "Arendtsville",
+      "map_id": "420010020",
       "seats": [
         {
           "seat": "Member 1",
@@ -64,6 +66,7 @@
     },
     {
       "name": "Bendersville",
+      "map_id": "420010030",
       "seats": [
         {
           "seat": "Member 1",
@@ -77,6 +80,7 @@
     },
     {
       "name": "Berwick",
+      "map_id": "420010040",
       "seats": [
         {
           "seat": "Member 1",
@@ -118,6 +122,7 @@
     },
     {
       "name": "Biglerville",
+      "map_id": "420010050",
       "seats": [
         {
           "seat": "Member 1",
@@ -135,6 +140,7 @@
     },
     {
       "name": "Bonneauville",
+      "map_id": "420010060",
       "seats": [
         {
           "seat": "Member 1",
@@ -160,6 +166,7 @@
     },
     {
       "name": "Butler",
+      "map_id": "420010070",
       "seats": [
         {
           "seat": "Member 1",
@@ -201,6 +208,7 @@
     },
     {
       "name": "Carroll Valley 1",
+      "map_id": "420010078",
       "seats": [
         {
           "seat": "Member 1",
@@ -238,6 +246,7 @@
     },
     {
       "name": "Carroll Valley 2",
+      "map_id": "420010082",
       "seats": [
         {
           "seat": "Member 1",
@@ -267,6 +276,7 @@
     },
     {
       "name": "Conewago 1",
+      "map_id": "420010090",
       "seats": [
         {
           "seat": "Member 1",
@@ -304,6 +314,7 @@
     },
     {
       "name": "Conewago 2",
+      "map_id": "420010100",
       "seats": [
         {
           "seat": "Member 1",
@@ -341,6 +352,7 @@
     },
     {
       "name": "Conewago 3",
+      "map_id": "420010101",
       "seats": [
         {
           "seat": "Member 1",
@@ -378,6 +390,7 @@
     },
     {
       "name": "Cumberland 1",
+      "map_id": "420010110",
       "seats": [
         {
           "seat": "Member 1",
@@ -407,6 +420,7 @@
     },
     {
       "name": "Cumberland 2",
+      "map_id": "420010120",
       "seats": [
         {
           "seat": "Member 1",
@@ -432,6 +446,7 @@
     },
     {
       "name": "Cumberland 3",
+      "map_id": "420010130",
       "seats": [
         {
           "seat": "Member 1",
@@ -457,6 +472,7 @@
     },
     {
       "name": "Cumberland 4",
+      "map_id": "420010140",
       "seats": [
         {
           "seat": "Member 1",
@@ -486,6 +502,7 @@
     },
     {
       "name": "East Berlin",
+      "map_id": "420010150",
       "seats": [
         {
           "seat": "Member 1",
@@ -511,6 +528,7 @@
     },
     {
       "name": "Fairfield",
+      "map_id": "420010160",
       "seats": [
         {
           "seat": "Member 1",
@@ -524,6 +542,7 @@
     },
     {
       "name": "Franklin 1",
+      "map_id": "420010170",
       "seats": [
         {
           "seat": "Member 1",
@@ -561,6 +580,7 @@
     },
     {
       "name": "Franklin 2",
+      "map_id": "420010180",
       "seats": [
         {
           "seat": "Member 1",
@@ -598,6 +618,7 @@
     },
     {
       "name": "Freedom",
+      "map_id": "420010190",
       "seats": [
         {
           "seat": "Member 1",
@@ -615,6 +636,7 @@
     },
     {
       "name": "Germany",
+      "map_id": "420010200",
       "seats": [
         {
           "seat": "Member 1",
@@ -664,6 +686,7 @@
     },
     {
       "name": "Gettysburg 1",
+      "map_id": "420010210",
       "seats": [
         {
           "seat": "Member 1",
@@ -685,6 +708,7 @@
     },
     {
       "name": "Gettysburg 2",
+      "map_id": "420010230",
       "seats": [
         {
           "seat": "Member 1",
@@ -706,6 +730,7 @@
     },
     {
       "name": "Gettysburg 3",
+      "map_id": "420010240",
       "seats": [
         {
           "seat": "Member 1",
@@ -723,6 +748,7 @@
     },
     {
       "name": "Hamilton",
+      "map_id": "420010260",
       "seats": [
         {
           "seat": "Member 1",
@@ -768,6 +794,7 @@
     },
     {
       "name": "Hamiltonban",
+      "map_id": "420010270",
       "seats": [
         {
           "seat": "Member 1",
@@ -805,6 +832,7 @@
     },
     {
       "name": "Highland",
+      "map_id": "420010280",
       "seats": [
         {
           "seat": "Member 1",
@@ -826,6 +854,7 @@
     },
     {
       "name": "Huntington",
+      "map_id": "420010290",
       "seats": [
         {
           "seat": "Member 1",
@@ -867,6 +896,7 @@
     },
     {
       "name": "Latimore",
+      "map_id": "420010310",
       "seats": [
         {
           "seat": "Member 1",
@@ -912,6 +942,7 @@
     },
     {
       "name": "Liberty",
+      "map_id": "420010320",
       "seats": [
         {
           "seat": "Member 1",
@@ -937,6 +968,7 @@
     },
     {
       "name": "Littlestown 1",
+      "map_id": "420010330",
       "seats": [
         {
           "seat": "Member 1",
@@ -970,6 +1002,7 @@
     },
     {
       "name": "Littlestown 2",
+      "map_id": "420010340",
       "seats": [
         {
           "seat": "Member 1",
@@ -1045,6 +1078,7 @@
     },
     {
       "name": "Menallen",
+      "map_id": "420010370",
       "seats": [
         {
           "seat": "Member 1",
@@ -1098,6 +1132,7 @@
     },
     {
       "name": "Mt Joy 1",
+      "map_id": "420010380",
       "seats": [
         {
           "seat": "Member 1",
@@ -1127,6 +1162,7 @@
     },
     {
       "name": "Mt Joy 2",
+      "map_id": "420010385",
       "seats": [
         {
           "seat": "Member 1",
@@ -1164,6 +1200,7 @@
     },
     {
       "name": "Mt Pleasant 1",
+      "map_id": "420010390",
       "seats": [
         {
           "seat": "Member 1",
@@ -1205,6 +1242,7 @@
     },
     {
       "name": "Mt Pleasant 2",
+      "map_id": "420010400",
       "seats": [
         {
           "seat": "Member 1",
@@ -1234,6 +1272,7 @@
     },
     {
       "name": "New Oxford",
+      "map_id": "420010410",
       "seats": [
         {
           "seat": "Member 1",
@@ -1255,6 +1294,7 @@
     },
     {
       "name": "Oxford 1",
+      "map_id": "420010425",
       "seats": [
         {
           "seat": "Member 1",
@@ -1300,6 +1340,7 @@
     },
     {
       "name": "Oxford 2",
+      "map_id": "420010427",
       "seats": [
         {
           "seat": "Member 1",
@@ -1341,6 +1382,7 @@
     },
     {
       "name": "Reading 1",
+      "map_id": "420010432",
       "seats": [
         {
           "seat": "Member 1",
@@ -1374,6 +1416,7 @@
     },
     {
       "name": "Reading 2",
+      "map_id": "420010434",
       "seats": [
         {
           "seat": "Member 1",
@@ -1407,6 +1450,7 @@
     },
     {
       "name": "Reading 3",
+      "map_id": "420010436",
       "seats": [
         {
           "seat": "Member 1",
@@ -1440,6 +1484,7 @@
     },
     {
       "name": "Straban 1",
+      "map_id": "420010440",
       "seats": [
         {
           "seat": "Member 1",
@@ -1473,6 +1518,7 @@
     },
     {
       "name": "Straban 2",
+      "map_id": "420010450",
       "seats": [
         {
           "seat": "Member 1",
@@ -1518,6 +1564,7 @@
     },
     {
       "name": "Tyrone",
+      "map_id": "420010460",
       "seats": [
         {
           "seat": "Member 1",
@@ -1551,6 +1598,7 @@
     },
     {
       "name": "Union",
+      "map_id": "420010480",
       "seats": [
         {
           "seat": "Member 1",
@@ -1604,6 +1652,7 @@
     },
     {
       "name": "York Springs",
+      "map_id": "420010490",
       "seats": [
         {
           "seat": "Member",

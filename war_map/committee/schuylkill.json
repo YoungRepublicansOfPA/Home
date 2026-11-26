@@ -22,6 +22,7 @@
   "precincts": [
     {
       "name": "002 Ashland Borough 1st",
+      "map_id": "421070015",
       "seats": [
         {
           "seat": "Member",
@@ -31,6 +32,7 @@
     },
     {
       "name": "005 Ashland Borough 2nd",
+      "map_id": "421070025",
       "seats": [
         {
           "seat": "Member",
@@ -40,6 +42,7 @@
     },
     {
       "name": "006 Blythe Township",
+      "map_id": "421070085",
       "seats": [
         {
           "seat": "Member",
@@ -49,6 +52,7 @@
     },
     {
       "name": "008 Branch Township",
+      "map_id": "421070105",
       "seats": [
         {
           "seat": "Member",
@@ -112,6 +116,7 @@
     },
     {
       "name": "018 Delano Township",
+      "map_id": "421070260",
       "seats": [
         {
           "seat": "Member",
@@ -121,6 +126,7 @@
     },
     {
       "name": "019 East Norwegian Township",
+      "map_id": "421070285",
       "seats": [
         {
           "seat": "Member",
@@ -157,6 +163,7 @@
     },
     {
       "name": "027 Gilberton Borough",
+      "map_id": "421070415",
       "seats": [
         {
           "seat": "Member",
@@ -166,6 +173,7 @@
     },
     {
       "name": "028 Girardville Borough",
+      "map_id": "421070435",
       "seats": [
         {
           "seat": "Member",
@@ -175,6 +183,7 @@
     },
     {
       "name": "031 Gordon Borough",
+      "map_id": "421070460",
       "seats": [
         {
           "seat": "Member",
@@ -184,6 +193,7 @@
     },
     {
       "name": "032 Mahanoy City Borough 1st",
+      "map_id": "421070550",
       "seats": [
         {
           "seat": "Member",
@@ -193,6 +203,7 @@
     },
     {
       "name": "033 Mahanoy City Borough 2nd",
+      "map_id": "421070565",
       "seats": [
         {
           "seat": "Member",
@@ -202,6 +213,7 @@
     },
     {
       "name": "036 Mahanoy City Borough 3rd",
+      "map_id": "421070575",
       "seats": [
         {
           "seat": "Member",
@@ -211,6 +223,7 @@
     },
     {
       "name": "037 Mahanoy City Borough 4th",
+      "map_id": "421070585",
       "seats": [
         {
           "seat": "Member",
@@ -220,6 +233,7 @@
     },
     {
       "name": "039 Mahanoy Township",
+      "map_id": "421070535",
       "seats": [
         {
           "seat": "Member",
@@ -229,6 +243,7 @@
     },
     {
       "name": "041 Middleport Borough",
+      "map_id": "421070670",
       "seats": [
         {
           "seat": "Member",
@@ -238,6 +253,7 @@
     },
     {
       "name": "042 Minersville Borough 1st",
+      "map_id": "421070695",
       "seats": [
         {
           "seat": "Member",
@@ -247,6 +263,7 @@
     },
     {
       "name": "043 Minersville Borough 2nd",
+      "map_id": "421070705",
       "seats": [
         {
           "seat": "Member",
@@ -256,6 +273,7 @@
     },
     {
       "name": "044 Minersville Borough 3rd",
+      "map_id": "421070715",
       "seats": [
         {
           "seat": "Member",
@@ -265,6 +283,7 @@
     },
     {
       "name": "045 Minersville Borough 4th",
+      "map_id": "421070725",
       "seats": [
         {
           "seat": "Member",
@@ -274,6 +293,7 @@
     },
     {
       "name": "048 New Castle Township",
+      "map_id": "421070750",
       "seats": [
         {
           "seat": "Member",
@@ -283,6 +303,7 @@
     },
     {
       "name": "049 New Philadelphia Borough",
+      "map_id": "421070765",
       "seats": [
         {
           "seat": "Member",
@@ -310,6 +331,7 @@
     },
     {
       "name": "053 Palo Alto Borough 1st Ward",
+      "map_id": "421070870",
       "seats": [
         {
           "seat": "Member",
@@ -319,6 +341,7 @@
     },
     {
       "name": "054 Palo Alto Borough 2nd Ward",
+      "map_id": "421070880",
       "seats": [
         {
           "seat": "Member",
@@ -328,6 +351,7 @@
     },
     {
       "name": "055 Port Carbon Borough 1st",
+      "map_id": "421070940",
       "seats": [
         {
           "seat": "Member",
@@ -337,6 +361,7 @@
     },
     {
       "name": "056 Port Carbon Borough 2nd",
+      "map_id": "421070950",
       "seats": [
         {
           "seat": "Member",
@@ -346,6 +371,7 @@
     },
     {
       "name": "057 Reilly Township",
+      "map_id": "421071200",
       "seats": [
         {
           "seat": "Member",
@@ -355,6 +381,7 @@
     },
     {
       "name": "058 Ryan Township",
+      "map_id": "421071260",
       "seats": [
         {
           "seat": "Member",
@@ -391,6 +418,7 @@
     },
     {
       "name": "064 Shenandoah Borough 1st",
+      "map_id": "421071335",
       "seats": [
         {
           "seat": "Member",
@@ -400,6 +428,7 @@
     },
     {
       "name": "065 Shenandoah Borough 2nd",
+      "map_id": "421071345",
       "seats": [
         {
           "seat": "Member",
@@ -409,6 +438,7 @@
     },
     {
       "name": "069 Shenandoah Borough 3rd",
+      "map_id": "421071355",
       "seats": [
         {
           "seat": "Member",
@@ -418,6 +448,7 @@
     },
     {
       "name": "070 Shenandoah Borough 4th",
+      "map_id": "421071365",
       "seats": [
         {
           "seat": "Member",
@@ -427,6 +458,7 @@
     },
     {
       "name": "072 Shenandoah Borough 5th",
+      "map_id": "421071375",
       "seats": [
         {
           "seat": "Member",
@@ -436,6 +468,7 @@
     },
     {
       "name": "074 Shenandoah Borough 6th",
+      "map_id": "421071385",
       "seats": [
         {
           "seat": "Member",
@@ -454,6 +487,7 @@
     },
     {
       "name": "076 West Mahanoy Township 2nd",
+      "map_id": "421071735",
       "seats": [
         {
           "seat": "Member",
@@ -463,6 +497,7 @@
     },
     {
       "name": "079 West Mahanoy Township 1st",
+      "map_id": "421071725",
       "seats": [
         {
           "seat": "Member",
@@ -472,6 +507,7 @@
     },
     {
       "name": "080 Auburn Borough",
+      "map_id": "421070060",
       "seats": [
         {
           "seat": "Member",
@@ -499,6 +535,7 @@
     },
     {
       "name": "084 Deer Lake Borough",
+      "map_id": "421070250",
       "seats": [
         {
           "seat": "Member",
@@ -508,6 +545,7 @@
     },
     {
       "name": "085 East Brunswick Township",
+      "map_id": "421070270",
       "seats": [
         {
           "seat": "Member",
@@ -517,6 +555,7 @@
     },
     {
       "name": "088 East Union Township",
+      "map_id": "421070305",
       "seats": [
         {
           "seat": "Member",
@@ -526,6 +565,7 @@
     },
     {
       "name": "089 Kline Township",
+      "map_id": "421070505",
       "seats": [
         {
           "seat": "Member",
@@ -535,6 +575,7 @@
     },
     {
       "name": "091 Landingville Borough",
+      "map_id": "421070520",
       "seats": [
         {
           "seat": "Member",
@@ -544,6 +585,7 @@
     },
     {
       "name": "092 McAdoo Borough 1st",
+      "map_id": "421070625",
       "seats": [
         {
           "seat": "Member",
@@ -553,6 +595,7 @@
     },
     {
       "name": "093 McAdoo Borough 2nd",
+      "map_id": "421070645",
       "seats": [
         {
           "seat": "Member",
@@ -562,6 +605,7 @@
     },
     {
       "name": "096 New Ringgold Borough",
+      "map_id": "421070780",
       "seats": [
         {
           "seat": "Member",
@@ -571,6 +615,7 @@
     },
     {
       "name": "097 North Union Township",
+      "map_id": "421070815",
       "seats": [
         {
           "seat": "Member",
@@ -580,6 +625,7 @@
     },
     {
       "name": "099 Port Clinton Borough",
+      "map_id": "421070960",
       "seats": [
         {
           "seat": "Member",
@@ -589,6 +635,7 @@
     },
     {
       "name": "100 Ringtown Borough",
+      "map_id": "421071210",
       "seats": [
         {
           "seat": "Member",
@@ -625,6 +672,7 @@
     },
     {
       "name": "105 Schuylkill Township",
+      "map_id": "421071275",
       "seats": [
         {
           "seat": "Member",
@@ -634,6 +682,7 @@
     },
     {
       "name": "107 Tamaqua Borough 1st",
+      "map_id": "421071505",
       "seats": [
         {
           "seat": "Member",
@@ -643,6 +692,7 @@
     },
     {
       "name": "109 Tamaqua Borough 2nd",
+      "map_id": "421071515",
       "seats": [
         {
           "seat": "Member",
@@ -652,6 +702,7 @@
     },
     {
       "name": "111 Tamaqua Borough 3rd",
+      "map_id": "421071525",
       "seats": [
         {
           "seat": "Member",
@@ -661,6 +712,7 @@
     },
     {
       "name": "112 Tamaqua Borough 4th",
+      "map_id": "421071535",
       "seats": [
         {
           "seat": "Member",
@@ -670,6 +722,7 @@
     },
     {
       "name": "113 Union Township",
+      "map_id": "421071610",
       "seats": [
         {
           "seat": "Member",
@@ -679,6 +732,7 @@
     },
     {
       "name": "114 Walker Township",
+      "map_id": "421071640",
       "seats": [
         {
           "seat": "Member",
@@ -706,6 +760,7 @@
     },
     {
       "name": "117 West Penn Township 2nd",
+      "map_id": "421071766",
       "seats": [
         {
           "seat": "Member",
@@ -715,6 +770,7 @@
     },
     {
       "name": "118 West Penn Township 1st",
+      "map_id": "421071762",
       "seats": [
         {
           "seat": "Member",
@@ -724,6 +780,7 @@
     },
     {
       "name": "119 Barry Township",
+      "map_id": "421070070",
       "seats": [
         {
           "seat": "Member",
@@ -733,6 +790,7 @@
     },
     {
       "name": "120 Cressona Borough",
+      "map_id": "421070235",
       "seats": [
         {
           "seat": "Member",
@@ -742,6 +800,7 @@
     },
     {
       "name": "122 Eldred Township",
+      "map_id": "421070330",
       "seats": [
         {
           "seat": "Member",
@@ -751,6 +810,7 @@
     },
     {
       "name": "123 Foster Township",
+      "map_id": "421070340",
       "seats": [
         {
           "seat": "Member",
@@ -760,6 +820,7 @@
     },
     {
       "name": "124 Frailey Township",
+      "map_id": "421070400",
       "seats": [
         {
           "seat": "Member",
@@ -787,6 +848,7 @@
     },
     {
       "name": "127 Hubley Township",
+      "map_id": "421070490",
       "seats": [
         {
           "seat": "Member",
@@ -796,6 +858,7 @@
     },
     {
       "name": "128 Mechanicsville Borough",
+      "map_id": "421070660",
       "seats": [
         {
           "seat": "Member",
@@ -805,6 +868,7 @@
     },
     {
       "name": "129 Mount Carbon Borough",
+      "map_id": "421070740",
       "seats": [
         {
           "seat": "Member",
@@ -814,6 +878,7 @@
     },
     {
       "name": "130 North Manheim Township 3rd",
+      "map_id": "421070802",
       "seats": [
         {
           "seat": "Member",
@@ -823,6 +888,7 @@
     },
     {
       "name": "131 North Manheim Township 2nd",
+      "map_id": "421070796",
       "seats": [
         {
           "seat": "Member",
@@ -832,6 +898,7 @@
     },
     {
       "name": "132 Orwigsburg Borough 1st",
+      "map_id": "421070850",
       "seats": [
         {
           "seat": "Member",
@@ -841,6 +908,7 @@
     },
     {
       "name": "133 Orwigsburg Borough 2nd",
+      "map_id": "421070860",
       "seats": [
         {
           "seat": "Member",
@@ -868,6 +936,7 @@
     },
     {
       "name": "137 Pine Grove Township 1st",
+      "map_id": "421070890",
       "seats": [
         {
           "seat": "Member",
@@ -877,6 +946,7 @@
     },
     {
       "name": "138 Pine Grove Township 2nd",
+      "map_id": "421070900",
       "seats": [
         {
           "seat": "Member",
@@ -904,6 +974,7 @@
     },
     {
       "name": "141 City of Pottsville 1st",
+      "map_id": "421070995",
       "seats": [
         {
           "seat": "Member",
@@ -913,6 +984,7 @@
     },
     {
       "name": "144 City of Pottsville 2nd",
+      "map_id": "421071015",
       "seats": [
         {
           "seat": "Member",
@@ -922,6 +994,7 @@
     },
     {
       "name": "146 City of Pottsville 3-2",
+      "map_id": "421071055",
       "seats": [
         {
           "seat": "Member",
@@ -931,6 +1004,7 @@
     },
     {
       "name": "147 City of Pottsville 3-1",
+      "map_id": "421071035",
       "seats": [
         {
           "seat": "Member",
@@ -940,6 +1014,7 @@
     },
     {
       "name": "148 City of Pottsville 3-3",
+      "map_id": "421071040",
       "seats": [
         {
           "seat": "Member",
@@ -949,6 +1024,7 @@
     },
     {
       "name": "150 City of Pottsville 4th",
+      "map_id": "421071075",
       "seats": [
         {
           "seat": "Member",
@@ -958,6 +1034,7 @@
     },
     {
       "name": "153 City of Pottsville 5-1",
+      "map_id": "421071105",
       "seats": [
         {
           "seat": "Member",
@@ -967,6 +1044,7 @@
     },
     {
       "name": "155 City of Pottsville 5-2",
+      "map_id": "421071115",
       "seats": [
         {
           "seat": "Member",
@@ -976,6 +1054,7 @@
     },
     {
       "name": "157 City of Pottsville 6th",
+      "map_id": "421071145",
       "seats": [
         {
           "seat": "Member",
@@ -985,6 +1064,7 @@
     },
     {
       "name": "159 City of Pottsville 7-1",
+      "map_id": "421071165",
       "seats": [
         {
           "seat": "Member",
@@ -994,6 +1074,7 @@
     },
     {
       "name": "161 City of Pottsville 7-2",
+      "map_id": "421071175",
       "seats": [
         {
           "seat": "Member",
@@ -1039,6 +1120,7 @@
     },
     {
       "name": "166 South Manheim Township",
+      "map_id": "421071440",
       "seats": [
         {
           "seat": "Member",
@@ -1048,6 +1130,7 @@
     },
     {
       "name": "167 Tower City Borough",
+      "map_id": "421071565",
       "seats": [
         {
           "seat": "Member",
@@ -1057,6 +1140,7 @@
     },
     {
       "name": "169 Tremont Borough",
+      "map_id": "421071595",
       "seats": [
         {
           "seat": "Member",
@@ -1066,6 +1150,7 @@
     },
     {
       "name": "171 Tremont Township",
+      "map_id": "421071580",
       "seats": [
         {
           "seat": "Member",
@@ -1075,6 +1160,7 @@
     },
     {
       "name": "172 Upper Mahantongo Township",
+      "map_id": "421071625",
       "seats": [
         {
           "seat": "Member",
@@ -1102,6 +1188,7 @@
     },
     {
       "name": "176 Wayne Township 1st",
+      "map_id": "421071672",
       "seats": [
         {
           "seat": "Member",
@@ -1111,6 +1198,7 @@
     },
     {
       "name": "177 Wayne Township 2nd",
+      "map_id": "421071678",
       "seats": [
         {
           "seat": "Member",
@@ -1120,6 +1208,7 @@
     },
     {
       "name": "178 North Manheim Township 1st",
+      "map_id": "421070792",
       "seats": [
         {
           "seat": "Member",
@@ -1129,6 +1218,7 @@
     },
     {
       "name": "179 West Penn Township 3rd",
+      "map_id": "421071772",
       "seats": [
         {
           "seat": "Member",
@@ -1138,6 +1228,7 @@
     },
     {
       "name": "180 Wayne Township 3rd",
+      "map_id": "421071682",
       "seats": [
         {
           "seat": "Member",

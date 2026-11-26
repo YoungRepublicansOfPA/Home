@@ -28,6 +28,7 @@
   "precincts": [
     {
       "name": "Ashland Twp",
+      "map_id": "420310010",
       "seats": [
         {
           "seat": "Member",
@@ -41,6 +42,7 @@
     },
     {
       "name": "Beaver Twp",
+      "map_id": "420310020",
       "seats": [
         {
           "seat": "Member",
@@ -54,6 +56,7 @@
     },
     {
       "name": "Brady Twp",
+      "map_id": "420310030",
       "seats": [
         {
           "seat": "Member",
@@ -67,6 +70,7 @@
     },
     {
       "name": "Callensburg Boro",
+      "map_id": "420310040",
       "seats": [
         {
           "seat": "Member",
@@ -80,6 +84,7 @@
     },
     {
       "name": "Clarion Boro First",
+      "map_id": "420310070",
       "seats": [
         {
           "seat": "Member",
@@ -93,6 +98,7 @@
     },
     {
       "name": "Clarion Boro Second",
+      "map_id": "420310080",
       "seats": [
         {
           "seat": "Member",
@@ -106,6 +112,7 @@
     },
     {
       "name": "Clarion Boro Third",
+      "map_id": "420310090",
       "seats": [
         {
           "seat": "Member",
@@ -119,6 +126,7 @@
     },
     {
       "name": "Clarion Twp First",
+      "map_id": "420310050",
       "seats": [
         {
           "seat": "Member",
@@ -132,6 +140,7 @@
     },
     {
       "name": "Clarion Twp Second",
+      "map_id": "420310060",
       "seats": [
         {
           "seat": "Member",
@@ -145,6 +154,7 @@
     },
     {
       "name": "East Brady Boro",
+      "map_id": "420310110",
       "seats": [
         {
           "seat": "Member",
@@ -158,6 +168,7 @@
     },
     {
       "name": "Elk Twp",
+      "map_id": "420310130",
       "seats": [
         {
           "seat": "Member",
@@ -171,6 +182,7 @@
     },
     {
       "name": "Foxburg Boro",
+      "map_id": "420310170",
       "seats": [
         {
           "seat": "Member",
@@ -210,6 +222,7 @@
     },
     {
       "name": "Hawthorn Boro",
+      "map_id": "420310180",
       "seats": [
         {
           "seat": "Member",
@@ -223,6 +236,7 @@
     },
     {
       "name": "Highland Twp",
+      "map_id": "420310190",
       "seats": [
         {
           "seat": "Member",
@@ -236,6 +250,7 @@
     },
     {
       "name": "Knox Boro",
+      "map_id": "420310210",
       "seats": [
         {
           "seat": "Member",
@@ -249,6 +264,7 @@
     },
     {
       "name": "Knox Twp",
+      "map_id": "420310200",
       "seats": [
         {
           "seat": "Member",
@@ -262,6 +278,7 @@
     },
     {
       "name": "Licking Twp",
+      "map_id": "420310220",
       "seats": [
         {
           "seat": "Member",
@@ -275,6 +292,7 @@
     },
     {
       "name": "Limestone Twp",
+      "map_id": "420310230",
       "seats": [
         {
           "seat": "Member",
@@ -288,6 +306,7 @@
     },
     {
       "name": "Madison Twp",
+      "map_id": "420310250",
       "seats": [
         {
           "seat": "Member",
@@ -301,6 +320,7 @@
     },
     {
       "name": "Millcreek Twp",
+      "map_id": "420310270",
       "seats": [
         {
           "seat": "Member",
@@ -327,6 +347,7 @@
     },
     {
       "name": "New Bethlehem Boro",
+      "map_id": "420310290",
       "seats": [
         {
           "seat": "Member",
@@ -340,6 +361,7 @@
     },
     {
       "name": "Paint Twp",
+      "map_id": "420310310",
       "seats": [
         {
           "seat": "Member",
@@ -353,6 +375,7 @@
     },
     {
       "name": "Perry Twp",
+      "map_id": "420310320",
       "seats": [
         {
           "seat": "Member",
@@ -366,6 +389,7 @@
     },
     {
       "name": "Piney Twp",
+      "map_id": "420310340",
       "seats": [
         {
           "seat": "Member",
@@ -431,6 +455,7 @@
     },
     {
       "name": "Richland Twp",
+      "map_id": "420310400",
       "seats": [
         {
           "seat": "Member",
@@ -444,6 +469,7 @@
     },
     {
       "name": "Rimersburg Boro",
+      "map_id": "420310410",
       "seats": [
         {
           "seat": "Member",
@@ -457,6 +483,7 @@
     },
     {
       "name": "Salem Twp",
+      "map_id": "420310430",
       "seats": [
         {
           "seat": "Member",
@@ -470,6 +497,7 @@
     },
     {
       "name": "Shippenville Boro",
+      "map_id": "420310440",
       "seats": [
         {
           "seat": "Member",
@@ -483,6 +511,7 @@
     },
     {
       "name": "Sligo Boro",
+      "map_id": "420310450",
       "seats": [
         {
           "seat": "Member",
@@ -496,6 +525,7 @@
     },
     {
       "name": "St. Petersburg Boro",
+      "map_id": "420310460",
       "seats": [
         {
           "seat": "Member",
@@ -509,6 +539,7 @@
     },
     {
       "name": "Strattanville Boro",
+      "map_id": "420310470",
       "seats": [
         {
           "seat": "Member",
@@ -522,6 +553,7 @@
     },
     {
       "name": "Toby Twp",
+      "map_id": "420310480",
       "seats": [
         {
           "seat": "Member",
@@ -535,6 +567,7 @@
     },
     {
       "name": "Washington Twp",
+      "map_id": "420310500",
       "seats": [
         {
           "seat": "Member",

@@ -11,11 +11,7 @@ export function countTotals(precincts) {
   return t;
 }
 
-// Loose key for comparing precinct names across sources:
-// "Castle Shannon District 1" and "Castle Shannon Dist 1" compare equal.
-export const nameKey = n => n.toLowerCase().replace(/\bdistrict\b/g, 'dist').replace(/\bborough\b/g, 'br')
-  .replace(/\bupper\b/g, 'up').replace(/\bmount\b/g, 'mt').replace(/\bsaint\b/g, 'st').replace(/[^a-z0-9]+/g, ' ').trim();
-
+// mapPrecincts: [{id, name}] from ../data/<county>.json, or null.
 export function validate(doc, {mapPrecincts = null} = {}) {
   const errors = [], warnings = [];
   for (const k of Object.keys(doc)) if (!TOP_KEYS.has(k)) errors.push(`unexpected field "${k}"`);
@@ -23,29 +19,40 @@ export function validate(doc, {mapPrecincts = null} = {}) {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(doc.checked_at || '')) errors.push('checked_at must be YYYY-MM-DD');
   if (!doc.sources?.length) errors.push('no sources');
   for (const s of doc.sources || []) {
-    if (!/^https:\/\//.test(s.url)) errors.push(`source without https URL: ${s.title}`);
+    if (!/^https?:\/\//.test(s.url)) errors.push(`source without a web URL: ${s.title}`);
     for (const k of Object.keys(s)) if (!SOURCE_KEYS.has(k)) errors.push(`unexpected source field "${k}"`);
   }
   const seen = new Set();
   for (const p of doc.precincts) {
-    // Privacy: precincts hold {name, seats}, seats hold {seat, status}. Nothing else, so no names can leak in.
-    for (const k of Object.keys(p)) if (k !== 'name' && k !== 'seats') errors.push(`precinct ${p.name}: unexpected field "${k}"`);
+    // Privacy: precincts hold {name, map_id?, seats}; seats hold {seat, status, holder?}.
+    // Nothing else is allowed, and a name only on a filled seat (README, "Names").
+    for (const k of Object.keys(p)) if (!['name', 'map_id', 'seats'].includes(k)) errors.push(`precinct ${p.name}: unexpected field "${k}"`);
+    if (p.map_id != null && typeof p.map_id !== 'string') errors.push(`precinct ${p.name}: map_id must be a string`);
     for (const s of p.seats) {
-      for (const k of Object.keys(s)) if (k !== 'seat' && k !== 'status') errors.push(`precinct ${p.name}: unexpected seat field "${k}"`);
+      for (const k of Object.keys(s)) if (!['seat', 'status', 'holder'].includes(k)) errors.push(`precinct ${p.name}: unexpected seat field "${k}"`);
       if (!STATUSES.includes(s.status)) errors.push(`precinct ${p.name}: bad status ${s.status}`);
+      if (s.holder != null && (s.status !== 'filled' || typeof s.holder !== 'string' || !s.holder.trim() || /write[\s-]?in/i.test(s.holder)))
+        errors.push(`precinct ${p.name}: holder is allowed only as a named winner on a filled seat`);
     }
     if (seen.has(p.name)) errors.push(`duplicate precinct ${p.name}`);
     seen.add(p.name);
     if (doc.seats_per_precinct && p.seats.length !== doc.seats_per_precinct) warnings.push(`precinct ${p.name} has ${p.seats.length} seats, expected ${doc.seats_per_precinct}`);
   }
+  // A county with no public record may list no precincts; its totals then give the precinct count, every seat unknown.
+  const noRecord = doc.method === 'none_found' && !doc.precincts.length;
   const t = countTotals(doc.precincts);
-  for (const k of Object.keys(t)) if (doc.totals[k] !== t[k]) errors.push(`totals.${k} is ${doc.totals[k]}, precincts add up to ${t[k]}`);
-  let unmatched = null;
+  if (noRecord) { if (doc.totals.seats !== doc.totals.unknown) errors.push('none_found totals must count every seat as unknown'); }
+  else for (const k of Object.keys(t)) if (doc.totals[k] !== t[k]) errors.push(`totals.${k} is ${doc.totals[k]}, precincts add up to ${t[k]}`);
   if (mapPrecincts) {
-    if (mapPrecincts.length !== doc.precincts.length) warnings.push(`${doc.precincts.length} precincts here, ${mapPrecincts.length} on the map`);
-    const keys = new Set(mapPrecincts.map(nameKey));
-    unmatched = doc.precincts.filter(p => !keys.has(nameKey(p.name))).map(p => p.name);
-    if (unmatched.length) warnings.push(`${unmatched.length} precinct names don't match the map's (e.g. ${unmatched.slice(0, 3).join('; ')})`);
+    if (!noRecord && mapPrecincts.length !== doc.precincts.length) warnings.push(`${doc.precincts.length} precincts here, ${mapPrecincts.length} on the map`);
+    const ids = new Set(mapPrecincts.map(p => p.id)), seenIds = new Set();
+    for (const p of doc.precincts) if (p.map_id) {
+      if (!ids.has(p.map_id)) errors.push(`precinct ${p.name}: map_id ${p.map_id} is not on the map`);
+      if (seenIds.has(p.map_id)) errors.push(`map_id ${p.map_id} is used twice`);
+      seenIds.add(p.map_id);
+    }
+    const unmatched = doc.precincts.filter(p => !p.map_id).map(p => p.name);
+    if (unmatched.length) warnings.push(`${unmatched.length} precincts have no map match (e.g. ${unmatched.slice(0, 3).join('; ')})`);
   }
-  return {errors, warnings, unmatched};
+  return {errors, warnings};
 }

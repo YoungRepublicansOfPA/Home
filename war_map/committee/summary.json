@@ -1,11 +1,33 @@
 {
  "built_from": "war_map/committee/*.json",
+ "schedule": {
+  "checked_at": "2026-11-25",
+  "rule": "Committee seats are elected at the general primary: the third Tuesday of May in even-numbered years, or the fourth Tuesday of April in presidential years. Nomination petitions circulate from the 13th Tuesday through the 10th Tuesday before the primary. Vacancies between elections are filled under county party rules, usually by appointment.",
+  "default_cycle_years": 4,
+  "sources": [
+   {
+    "url": "https://www.pa.gov/agencies/vote/elections/types-of-elections",
+    "title": "Pennsylvania Department of State: Types of Elections (primary dates)"
+   },
+   {
+    "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dos/programs/voting-and-elections/running-for-office/2026/2026-general-election-calendar.pdf",
+    "title": "Department of State 2026 election calendar (petition period ended March 10, 2026, the 10th Tuesday before the May 19 primary)"
+   },
+   {
+    "url": "https://www.palegis.us/statutes/unconsolidated/law-information/view-statute?txtType=PDF&SessYr=2019&ActNum=0077.&SessInd=0",
+    "title": "Pennsylvania Election Code as amended by Act 77 of 2019 (petition circulation period)"
+   }
+  ]
+ },
  "total": {
   "seats": 17945,
   "filled": 4796,
   "empty": 4952,
   "empty_no_filer": 399,
-  "unknown": 7798
+  "unknown": 7798,
+  "named": 426,
+  "precincts": 9117,
+  "mapped": 7837
  },
  "counties": {
   "Adams": {
@@ -19,6 +41,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 225,
+   "named": 0,
+   "mapped": 49,
+   "next_election": {
+    "year": 2029,
+    "date": "2029-05-15",
+    "petitions_from": "2029-02-13",
+    "petitions_to": "2029-03-06",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2025
+   },
    "sources": [
     {
      "url": "https://www.adamscountypa.gov/getmedia/26d20d82-6443-4d28-8390-deca1715b958/b-Precinct-Summary-Results.pdf",
@@ -54,6 +87,17 @@
    "empty": 731,
    "empty_no_filer": 0,
    "unknown": 1497,
+   "named": 426,
+   "mapped": 1327,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://results.enr.clarityelections.com/PA/Allegheny/126196/",
@@ -62,7 +106,7 @@
     },
     {
      "url": "https://results.enr.clarityelections.com/PA/Allegheny/126196/374579/reports/summary.zip",
-     "title": "Summary CSV export of those results (summary.zip, generated 2026-06-08)",
+     "title": "Summary CSV export of those results (126196-374579-summary.zip, generated 2026-06-08)",
      "type": "results"
     }
    ],
@@ -79,6 +123,17 @@
    "empty": 0,
    "empty_no_filer": 87,
    "unknown": 37,
+   "named": 0,
+   "mapped": 43,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.co.armstrong.pa.us/images/departments/votersregistration/officestobeelected/candidatestobeelected.pdf",
@@ -109,6 +164,17 @@
    "empty": 27,
    "empty_no_filer": 0,
    "unknown": 214,
+   "named": 0,
+   "mapped": 120,
+   "next_election": {
+    "year": 2028,
+    "date": "2028-04-25",
+    "petitions_from": "2028-01-25",
+    "petitions_to": "2028-02-15",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2024
+   },
    "sources": [
     {
      "url": "https://www.beavercountypa.gov/getmedia/2145b2e1-e2ae-4e76-a59e-7d5ceb30769d/April-2024-Summary-Report.pdf",
@@ -134,6 +200,17 @@
    "empty": 10,
    "empty_no_filer": 0,
    "unknown": 58,
+   "named": 0,
+   "mapped": 37,
+   "next_election": {
+    "year": 2028,
+    "date": "2028-04-25",
+    "petitions_from": "2028-01-25",
+    "petitions_to": "2028-02-15",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2024
+   },
    "sources": [
     {
      "url": "https://www.bedfordcountypa.org/OfficialElectionSummaryDistrictReportRPT.pdf",
@@ -164,6 +241,17 @@
    "empty": 89,
    "empty_no_filer": 0,
    "unknown": 366,
+   "named": 0,
+   "mapped": 160,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.berkspa.gov/getmedia/3b6ee6f8-7498-47d9-bf3c-ab7203d0517e/Summary-Report-5-19-2026.pdf",
@@ -189,6 +277,17 @@
    "empty": 3,
    "empty_no_filer": 0,
    "unknown": 107,
+   "named": 0,
+   "mapped": 93,
+   "next_election": {
+    "year": 2029,
+    "date": "2029-05-15",
+    "petitions_from": "2029-02-13",
+    "petitions_to": "2029-03-06",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2025
+   },
    "sources": [
     {
      "url": "https://www.blaircountypa.gov/getmedia/d0d60212-69ad-4f36-af9d-7c26e2319bc4/Official-Summary-Results-Report.pdf",
@@ -219,6 +318,17 @@
    "empty": 15,
    "empty_no_filer": 0,
    "unknown": 123,
+   "named": 0,
+   "mapped": 61,
+   "next_election": {
+    "year": 2028,
+    "date": "2028-04-25",
+    "petitions_from": "2028-01-25",
+    "petitions_to": "2028-02-15",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2024
+   },
    "sources": [
     {
      "url": "https://www.bradfordcountypa.gov/DocumentCenter/View/358/2024-Primary-Results-PDF",
@@ -249,6 +359,17 @@
    "empty": 6,
    "empty_no_filer": 0,
    "unknown": 136,
+   "named": 0,
+   "mapped": 304,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.buckscounty.gov/DocumentCenter/View/27504",
@@ -274,6 +395,17 @@
    "empty": 11,
    "empty_no_filer": 0,
    "unknown": 122,
+   "named": 0,
+   "mapped": 67,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://butlercountypa.gov/DocumentCenter/View/13313/SUMMARY-REPORT-PDF",
@@ -299,6 +431,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 250,
+   "named": 0,
+   "mapped": 83,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.cambriacountypa.gov/download/515/2026-general-primary/14981/cambria_pa_dos_official_summary_text_groups_6-8-26.pdf",
@@ -334,6 +477,17 @@
    "empty": 5,
    "empty_no_filer": 0,
    "unknown": 5,
+   "named": 0,
+   "mapped": 5,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.cameroncountypa.com/2026%20Primary%20Unofficial%20Results%20Precinct%20Summary.pdf",
@@ -369,6 +523,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 109,
+   "named": 0,
+   "mapped": 8,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://cms5.revize.com/revize/carboncounty/Document%20Center/Service/Elections%20Voter%20Registration/2026%20General%20Primary%205-19-2026/ElectionSummaryReportRPT%20Final%20Official%20060226.pdf",
@@ -399,6 +564,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 174,
+   "named": 0,
+   "mapped": 20,
+   "next_election": {
+    "year": 2028,
+    "date": "2028-04-25",
+    "petitions_from": "2028-01-25",
+    "petitions_to": "2028-02-15",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2024
+   },
    "sources": [
     {
      "url": "https://www.centrecountypa.gov/DocumentCenter/View/43879/Precinct-Summary",
@@ -434,6 +610,17 @@
    "empty": 5,
    "empty_no_filer": 0,
    "unknown": 193,
+   "named": 0,
+   "mapped": 159,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.chesco.org/DocumentCenter/View/85012",
@@ -459,6 +646,17 @@
    "empty": 5,
    "empty_no_filer": 0,
    "unknown": 54,
+   "named": 0,
+   "mapped": 33,
+   "next_election": {
+    "year": 2028,
+    "date": "2028-04-25",
+    "petitions_from": "2028-01-25",
+    "petitions_to": "2028-02-15",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2024
+   },
    "sources": [
     {
      "url": "https://cms9files.revize.com/clarioncountypa/calendar_app/Document%20Center/Department/Election/Archived%20Election%20Results/2024%20Primary%20County%20Wide%20Election%20Results.pdf",
@@ -489,6 +687,17 @@
    "empty": 10,
    "empty_no_filer": 0,
    "unknown": 116,
+   "named": 0,
+   "mapped": 59,
+   "next_election": {
+    "year": 2028,
+    "date": "2028-04-25",
+    "petitions_from": "2028-01-25",
+    "petitions_to": "2028-02-15",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2024
+   },
    "sources": [
     {
      "url": "https://clearfieldcountypa.gov/DocumentCenter/View/129/Precinct-Report-PDF",
@@ -519,6 +728,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 66,
+   "named": 0,
+   "mapped": 31,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.clintoncountypa.gov/home/showpublisheddocument/9297/639159090738270000",
@@ -549,6 +769,17 @@
    "empty": 9,
    "empty_no_filer": 0,
    "unknown": 49,
+   "named": 0,
+   "mapped": 30,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://columbiapa.org/voter/2026/2026GeneralPrimaryCertifiedResults.pdf",
@@ -574,6 +805,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 110,
+   "named": 0,
+   "mapped": 61,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://results.enr.clarityelections.com/PA/Crawford/126362/web.345435/#/summary",
@@ -604,6 +846,17 @@
    "empty": 7,
    "empty_no_filer": 0,
    "unknown": 106,
+   "named": 0,
+   "mapped": 94,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://records.ccpa.net/Weblink_Public/ElectronicFile.aspx?docid=1897331&dbid=7&repo=County-of-Cumberland-8",
@@ -634,6 +887,17 @@
    "empty": 21,
    "empty_no_filer": 0,
    "unknown": 181,
+   "named": 0,
+   "mapped": 157,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://elections.dauphincounty.gov/?key=41",
@@ -654,6 +918,17 @@
    "empty": 91,
    "empty_no_filer": 0,
    "unknown": 409,
+   "named": 0,
+   "mapped": 421,
+   "next_election": {
+    "year": 2028,
+    "date": "2028-04-25",
+    "petitions_from": "2028-01-25",
+    "petitions_to": "2028-02-15",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2024
+   },
    "sources": [
     {
      "url": "https://results.enr.clarityelections.com/PA/Delaware/120839/web.317647/#/summary",
@@ -689,6 +964,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 58,
+   "named": 0,
+   "mapped": 21,
+   "next_election": {
+    "year": 2026,
+    "date": "2026-05-19",
+    "petitions_from": "2026-02-17",
+    "petitions_to": "2026-03-10",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2022
+   },
    "sources": [
     {
      "url": "https://countyofelkpa.gov/wp-content/uploads/2026_PPrecinct.pdf",
@@ -724,6 +1010,17 @@
    "empty": 21,
    "empty_no_filer": 0,
    "unknown": 230,
+   "named": 0,
+   "mapped": 143,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.eriecountycouncilpa.gov/uploads/modules/resources/031365_2026_general_primary_official_results.pdf",
@@ -749,6 +1046,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 0,
+   "named": 0,
+   "mapped": 0,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.fayettecountypa.org/235/Election-Results",
@@ -784,6 +1092,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 18,
+   "named": 0,
+   "mapped": 9,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.co.forest.pa.us/departments/election_results.php",
@@ -814,6 +1133,17 @@
    "empty": 4,
    "empty_no_filer": 0,
    "unknown": 103,
+   "named": 0,
+   "mapped": 66,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.livevoterturnout.com/ENR/franklinpaenr/14/en/Index_14.html",
@@ -844,6 +1174,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 0,
+   "named": 0,
+   "mapped": 0,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": null
+   },
    "sources": [
     {
      "url": "https://www.co.fulton.pa.us/elections.php",
@@ -864,6 +1205,17 @@
    "empty": 0,
    "empty_no_filer": 41,
    "unknown": 18,
+   "named": 0,
+   "mapped": 32,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://greenecountypa.gov/Elections/Default.aspx?PageLayout=SUMMARY&Election=30067",
@@ -894,6 +1246,17 @@
    "empty": 13,
    "empty_no_filer": 0,
    "unknown": 59,
+   "named": 0,
+   "mapped": 53,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.huntingdoncountypa.gov/getmedia/d4f9a9cb-a099-4ce3-ae35-811271050617/Final-Precinct-Summary.pdf",
@@ -919,6 +1282,17 @@
    "empty": 11,
    "empty_no_filer": 0,
    "unknown": 81,
+   "named": 0,
+   "mapped": 63,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.indianacountypa.gov/wp-content/uploads/May-19-2026-Summary-Report-Second-Signing.pdf",
@@ -944,6 +1318,17 @@
    "empty": 2,
    "empty_no_filer": 0,
    "unknown": 55,
+   "named": 0,
+   "mapped": 35,
+   "next_election": {
+    "year": 2028,
+    "date": "2028-04-25",
+    "petitions_from": "2028-01-25",
+    "petitions_to": "2028-02-15",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2024
+   },
    "sources": [
     {
      "url": "https://www.jeffersoncountypa.gov/wp-content/uploads/2024/05/ElectionSummaryReportRPTOfficial.pdf",
@@ -969,6 +1354,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 32,
+   "named": 0,
+   "mapped": 16,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.juniatacountypa.gov/DocumentCenter/View/417/2026-Primary-Precinct-Report-PDF",
@@ -994,6 +1390,17 @@
    "empty": 33,
    "empty_no_filer": 0,
    "unknown": 228,
+   "named": 0,
+   "mapped": 86,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.lackawannacounty.org/Document_center/Department/Elections/P26.SUM.Certified.pdf",
@@ -1019,6 +1426,17 @@
    "empty": 37,
    "empty_no_filer": 0,
    "unknown": 128,
+   "named": 0,
+   "mapped": 165,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://electionresults.lancastercountypa.gov/cdn/results/01000000-0c90-bed5-2b89-08dc580b8c0e/Detailed%20Results_2b17c9e4-4bdc-46c9-8fac-fd472d371665.PDF",
@@ -1049,6 +1467,17 @@
    "empty": 46,
    "empty_no_filer": 0,
    "unknown": 2,
+   "named": 0,
+   "mapped": 71,
+   "next_election": {
+    "year": 2029,
+    "date": "2029-05-15",
+    "petitions_from": "2029-02-13",
+    "petitions_to": "2029-03-06",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2025
+   },
    "sources": [
     {
      "url": "https://lawrencecountypa.gov/getmedia/22a187c1-6e6d-4ea9-88a4-d7db094171e9/REPUBLICAN-COUNTY-COMMITTEE-2026-updated-NOV-19-2026.pdf",
@@ -1074,6 +1503,17 @@
    "empty": 6,
    "empty_no_filer": 0,
    "unknown": 31,
+   "named": 0,
+   "mapped": 17,
+   "next_election": {
+    "year": 2028,
+    "date": "2028-04-25",
+    "petitions_from": "2028-01-25",
+    "petitions_to": "2028-02-15",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2024
+   },
    "sources": [
     {
      "url": "https://www.lebanoncountypa.gov/getmedia/e9cee5d6-e6e1-4548-87fe-3d4c532e06ac/Official-Primary-Precicint-Summary-Report-v-5.pdf",
@@ -1104,6 +1544,17 @@
    "empty": 9,
    "empty_no_filer": 0,
    "unknown": 225,
+   "named": 0,
+   "mapped": 158,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.livevoterturnout.com/ENR/lehighpaenr/12/en/Index_12.html",
@@ -1134,6 +1585,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 186,
+   "named": 0,
+   "mapped": 179,
+   "next_election": {
+    "year": 2028,
+    "date": "2028-04-25",
+    "petitions_from": "2028-01-25",
+    "petitions_to": "2028-02-15",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2024
+   },
    "sources": [
     {
      "url": "https://www.luzernecounty.org/DocumentCenter/View/43924/2024-Primary-Election-Results",
@@ -1164,6 +1626,17 @@
    "empty": 4,
    "empty_no_filer": 0,
    "unknown": 53,
+   "named": 0,
+   "mapped": 75,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.lycomingcountypa.gov/Documents/Government/Departments/Voter%20Services/PreviousResults/2026GPOfficial.pdf",
@@ -1189,6 +1662,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 0,
+   "named": 0,
+   "mapped": 0,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": null
+   },
    "sources": [
     {
      "url": "https://www.mckeancountypa.gov/departments/voter_registration___elections/index.php",
@@ -1214,6 +1698,17 @@
    "empty": 26,
    "empty_no_filer": 0,
    "unknown": 92,
+   "named": 0,
+   "mapped": 71,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.mercercountypa.gov/election/Election.Results/2026/PRIMARY/PRECINCT.pdf",
@@ -1234,6 +1729,17 @@
    "empty": 3,
    "empty_no_filer": 0,
    "unknown": 70,
+   "named": 0,
+   "mapped": 25,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.mifflincountypa.gov/getmedia/1c448b72-97ad-43ff-8e51-973cc96ef3bf/2026-Primary-Election-Official-Results",
@@ -1259,6 +1765,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 36,
+   "named": 0,
+   "mapped": 41,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://agencies2.monroecountypa.gov/ElectionResults/Committee?party=Republican&id=9",
@@ -1284,6 +1801,17 @@
    "empty": 455,
    "empty_no_filer": 0,
    "unknown": 72,
+   "named": 0,
+   "mapped": 426,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://webapp07.montcopa.org/election/2026UnofficialPrimaryElectionSummaryReport.pdf",
@@ -1304,6 +1832,17 @@
    "empty": 5,
    "empty_no_filer": 0,
    "unknown": 19,
+   "named": 0,
+   "mapped": 13,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://montourcounty.gov/getmedia/95249aa6-64cd-4f46-b216-4e94692e4604/19-May-2026-Official-Election-Summary.pdf",
@@ -1324,6 +1863,17 @@
    "empty": 22,
    "empty_no_filer": 0,
    "unknown": 180,
+   "named": 0,
+   "mapped": 79,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.norcopa.gov/corecode/uploads/document6/uploaded_pdfs/corecode/PE26%20Precinct%20Level%20Summary%20Results_2715.pdf",
@@ -1349,6 +1899,17 @@
    "empty": 20,
    "empty_no_filer": 0,
    "unknown": 95,
+   "named": 0,
+   "mapped": 57,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.northumberlandcountypa.gov/htdocs/wp-content/uploads/documents/elections/2026_0519_official/overall.pdf",
@@ -1374,6 +1935,17 @@
    "empty": 5,
    "empty_no_filer": 0,
    "unknown": 73,
+   "named": 0,
+   "mapped": 28,
+   "next_election": {
+    "year": 2028,
+    "date": "2028-04-25",
+    "petitions_from": "2028-01-25",
+    "petitions_to": "2028-02-15",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2024
+   },
    "sources": [
     {
      "url": "https://perryco.org/wp-content/uploads/2025/04/Statement-of-Votes-Cast-by-Precincts-for-PA_Perry_2024P_Official-198.pdf",
@@ -1399,6 +1971,17 @@
    "empty": 3101,
    "empty_no_filer": 0,
    "unknown": 1,
+   "named": 0,
+   "mapped": 1703,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://vote.phila.gov/media/2026_PRI_COMMITTEEPEOPLE_WINNERS_REPUBLICAN.xlsx",
@@ -1434,6 +2017,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 7,
+   "named": 0,
+   "mapped": 9,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.pikepa.org/Document%20Center/Government/Election%20Office/2026/MAY%2019%202026%20OFFICIAL%20RESULTS.pdf",
@@ -1459,6 +2053,17 @@
    "empty": 11,
    "empty_no_filer": 0,
    "unknown": 49,
+   "named": 0,
+   "mapped": 32,
+   "next_election": {
+    "year": 2028,
+    "date": "2028-04-25",
+    "petitions_from": "2028-01-25",
+    "petitions_to": "2028-02-15",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2024
+   },
    "sources": [
     {
      "url": "https://pottercountypa.gov/Documents/Departments/Voter%20Registration%20and%20Elections/2024%20Primary%20Election%20-%20Summary.pdf",
@@ -1484,6 +2089,17 @@
    "empty": 5,
    "empty_no_filer": 0,
    "unknown": 83,
+   "named": 0,
+   "mapped": 91,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://www.schuylkillcountypa.gov/Document_Center/Departments/Election%20Bureau/2026/Primary/Election%20Results/2026%20Primary%20Unofficial%20Results%20Schuylkill%20County%20v2.pdf",
@@ -1509,6 +2125,17 @@
    "empty": 14,
    "empty_no_filer": 0,
    "unknown": 0,
+   "named": 0,
+   "mapped": 24,
+   "next_election": {
+    "year": 2028,
+    "date": "2028-04-25",
+    "petitions_from": "2028-01-25",
+    "petitions_to": "2028-02-15",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2024
+   },
    "sources": [
     {
      "url": "https://www.snydercounty.org/wp-content/uploads/2024/08/Republican-Committee.Snyder.County.8.16.2024.pdf",
@@ -1544,6 +2171,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 134,
+   "named": 0,
+   "mapped": 62,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": null
+   },
    "sources": [
     {
      "url": "http://www.co.somerset.pa.us/pages/voters/electionresults.asp",
@@ -1569,6 +2207,17 @@
    "empty": 4,
    "empty_no_filer": 0,
    "unknown": 10,
+   "named": 0,
+   "mapped": 13,
+   "next_election": {
+    "year": 2028,
+    "date": "2028-04-25",
+    "petitions_from": "2028-01-25",
+    "petitions_to": "2028-02-15",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2024
+   },
    "sources": [
     {
      "url": "https://www.sullivancountypa.gov/s/SOVC2-OFFICIAL_PA_Sullivan_2024_Primary_bdfx.pdf",
@@ -1604,6 +2253,17 @@
    "empty": 3,
    "empty_no_filer": 0,
    "unknown": 59,
+   "named": 0,
+   "mapped": 38,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://susqco.com/getmedia/d5a1316c-a32e-496d-bd3c-9a0cac859a2c/2026-Primary-Official-Summary-Report.pdf",
@@ -1624,6 +2284,17 @@
    "empty": 18,
    "empty_no_filer": 0,
    "unknown": 49,
+   "named": 0,
+   "mapped": 39,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://tiogacountypa.us/getmedia/323fceeb-bb07-486c-9912-75a93b4bae7b/Official-Primary-Election-Results-2026.pdf",
@@ -1644,6 +2315,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 52,
+   "named": 0,
+   "mapped": 24,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://sites.google.com/unionco.org/unioncoelections/election-information/election-results-archive",
@@ -1674,6 +2356,17 @@
    "empty": 6,
    "empty_no_filer": 0,
    "unknown": 67,
+   "named": 0,
+   "mapped": 40,
+   "next_election": {
+    "year": 2028,
+    "date": "2028-04-25",
+    "petitions_from": "2028-01-25",
+    "petitions_to": "2028-02-15",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2024
+   },
    "sources": [
     {
      "url": "https://www.venangocountypa.gov/Documents/Government/Voters%20and%20Elections/Election%20Results%20Archive/2024%20Generl%20Primary%20Summary%20Report%20with%20write-ins.pdf",
@@ -1704,6 +2397,17 @@
    "empty": 7,
    "empty_no_filer": 0,
    "unknown": 39,
+   "named": 0,
+   "mapped": 27,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://warrencountypa.gov/DocumentCenter/View/3832/Official-Results-2026-General-Primary",
@@ -1729,6 +2433,17 @@
    "empty": 0,
    "empty_no_filer": 271,
    "unknown": 89,
+   "named": 0,
+   "mapped": 163,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://cms.washingtoncopa.gov/uploads/2026_Precinct_Committee_People_Republican_5b50b16b59.pdf",
@@ -1759,6 +2474,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 70,
+   "named": 0,
+   "mapped": 34,
+   "next_election": {
+    "year": 2024,
+    "date": "2024-04-23",
+    "petitions_from": "2024-01-23",
+    "petitions_to": "2024-02-13",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2020
+   },
    "sources": [
     {
      "url": "https://www.waynecountypa.gov/1089/2026-General-Primary-Election-Official-R",
@@ -1794,6 +2520,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 0,
+   "named": 0,
+   "mapped": 0,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": null
+   },
    "sources": [
     {
      "url": "https://www.westmorelandcountypa.gov/350/Election-Bureau",
@@ -1814,6 +2551,17 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 33,
+   "named": 0,
+   "mapped": 27,
+   "next_election": {
+    "year": 2028,
+    "date": "2028-04-25",
+    "petitions_from": "2028-01-25",
+    "petitions_to": "2028-02-15",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2024
+   },
    "sources": [
     {
      "url": "https://wyomingcountypa.gov/wp-content/uploads/2024-OFFICIAL-Presidential-primary.pdf",
@@ -1844,6 +2592,17 @@
    "empty": 16,
    "empty_no_filer": 0,
    "unknown": 205,
+   "named": 0,
+   "mapped": 160,
+   "next_election": {
+    "year": 2030,
+    "date": "2030-05-21",
+    "petitions_from": "2030-02-19",
+    "petitions_to": "2030-03-12",
+    "cycle_years": 4,
+    "cycle_confirmed": false,
+    "last_election_year": 2026
+   },
    "sources": [
     {
      "url": "https://results.enr.clarityelections.com/PA/York/126283/",

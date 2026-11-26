@@ -15,7 +15,7 @@ If none of these is public, set `method` to `none_found` and every seat to `unkn
 
 Appointments made after an election aren't captured unless a newer roster shows them. Record the date of the evidence in `as_of`.
 
-**Privacy:** store seat status only, never the names of committee members or candidates.
+**Names:** a seat-holder's name may be stored, as `holder`, only when the seat is `filled` and the name is printed in the county's official results (as the winning named candidate) or in a published committee roster. Store the name exactly as the source prints it. Never store anything else about a person: no address, phone, email, photo, social-media profile, or information gathered from any other source. Write-in winners aren't named in public results, so those seats stay `unknown` without a name; never guess one. Losing candidates' names are never stored.
 
 ## File format
 
@@ -41,5 +41,7 @@ Appointments made after an election aren't captured unless a newer roster shows 
 
 - `status`: `filled`, `empty`, `empty_no_filer` or `unknown`.
 - `seat`: the label the source uses, such as "Committeeman", "Committeewoman" or "Member".
-- `precincts[].name`: the precinct name as the source prints it. The map matches names to its own precinct records separately.
+- `holder` (optional): the name of the person holding a `filled` seat, as described under **Names**.
+- `precincts[].name`: the precinct name as the source prints it.
+- `precincts[].map_id` (optional): the matching precinct `id` in `../data/<county>.json`, set by `tools/committee/link-map.mjs` only when the match is unambiguous. Precincts without one aren't drawn on the map.
 - `totals` must equal the counts in `precincts`.

@@ -176,3 +176,7 @@ table.votes { width: 100%; border-collapse: collapse; margin-top: 12px; font-siz
 .seat-holder { grid-column: 1 / -1; font: 1.15rem var(--serif); overflow-wrap: anywhere; }
 .seat.unknown .seat-holder, .seat.empty .seat-holder, .seat.empty_no_filer .seat-holder { font: 600 .84rem var(--sans); color: var(--muted); }
 .next-election .big-date { font: 1.5rem var(--serif); margin: 6px 0 2px; }
+.legend i.dot-sw { border-radius: 50%; box-shadow: 0 0 0 1.5px #fff; width: 9px; height: 9px; margin: 0 2px; }
+.vacancy-callout { display: flex; gap: 10px; align-items: flex-start; margin: 14px 0 0; padding: 10px 12px; border-radius: 10px; background: #ff3b4714; border: 1px solid #ff3b4755; font-size: .84rem; }
+.vacancy-callout i { flex: none; width: 10px; height: 10px; margin-top: 4px; border-radius: 50%; background: #ff3b47; box-shadow: 0 0 0 1.5px #fff; }
+.linkish { border: 0; background: none; padding: 0; color: var(--text); font: inherit; font-weight: 700; text-decoration: underline; cursor: pointer; }

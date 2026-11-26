@@ -16,7 +16,7 @@ const mapDir = join(here, '../..');
 const args = process.argv.slice(2);
 const dryRun = args.includes('--dry-run');
 const want = new Set(args.filter(a => !a.startsWith('--')).map(a => a.toLowerCase()));
-const files = readdirSync(join(mapDir, 'committee')).filter(f => f.endsWith('.json') && f !== 'summary.json')
+const files = readdirSync(join(mapDir, 'committee')).filter(f => f.endsWith('.json') && !['summary.json', 'vacancies.json'].includes(f))
   .filter(f => !want.size || want.has(f.slice(0, -5)));
 
 let total = 0, linked = 0, failed = false;

@@ -23,6 +23,7 @@ const CHAIR_SHADES = ['#4a3440', '#7a3040', '#a8333f', '#d9434c'];
 const CHAIR_STEPS = [.10, .25, .50];
 const METHOD_LABEL = {roster: 'Committee roster', election_results: 'Official committee results', candidate_listing: 'Candidate listing', none_found: 'No public record found'};
 let committee = {total: {}, counties: {}, schedule: null};
+let vacancies = {rows: [], unplaced: 0}, vacancyCount = new Map();
 const PRECINCT_LAYERS = ['results', 'chairs'];
 const onPrecinctLayer = () => PRECINCT_LAYERS.includes(state.layer);
 // Precinct colors on the Empty chairs layer, by what is known about its seats.
@@ -33,6 +34,7 @@ const SEAT_STATE = {
   unknown: {color: '#6b7891', label: 'Not known'},
   none: {color: '#2a3446', label: 'No record matched'}
 };
+const VACANCY_RED = '#ff3b47';
 const SEAT_COLOR = {filled: '#4f9a66', empty: '#d9434c', empty_no_filer: '#a8333f', unknown: '#6b7891'};
 const SEAT_TEXT = {filled: 'Filled', empty: 'Open: no one elected', empty_no_filer: 'Open: no Republican filed', unknown: 'Not known'};
 function seatState(rec) {
@@ -255,6 +257,8 @@ function addLayers() {
   map.addSource('munis', {type: 'geojson', data: empty});
   map.addSource('districts', {type: 'geojson', data: empty, promoteId: 'district'});
   map.addSource('district-labels', {type: 'geojson', data: empty});
+  map.addSource('vacancies', {type: 'geojson', data: {type: 'FeatureCollection', features: vacancies.rows.map(([county, id, name, municipality, open, seats, lon, lat]) =>
+    ({type: 'Feature', properties: {county, id, name, municipality, open, seats}, geometry: {type: 'Point', coordinates: [lon, lat]}}))}});
 
   const hover = (on, off) => ['case', ['boolean', ['feature-state', 'hover'], false], on, off];
   const nearOrSelected = (sel, far) => ['interpolate', ['linear'], ['zoom'], PRECINCT_ZOOM - .4, ['case', sel, 1, far], PRECINCT_ZOOM + .2, 1];
@@ -280,6 +284,12 @@ function addLayers() {
   map.addLayer({id: 'districts-selected', type: 'line', source: 'districts', filter: ['==', ['get', 'district'], -1], paint: {'line-color': '#ffffff', 'line-width': 3}}, before);
   map.addLayer({id: 'counties-selected', type: 'line', source: 'counties', filter: ['==', ['get', 'county'], ''], paint: {'line-color': '#f07a80', 'line-width': 2.6}}, before);
   map.addLayer({id: 'precincts-selected', type: 'line', source: 'precincts', filter: ['==', ['get', 'id'], ''], paint: {'line-color': '#fff484', 'line-width': 3}}, before);
+  // Red dots: every precinct with an open Republican committee seat (Empty chairs layer only).
+  map.addLayer({id: 'vacancies-dot', type: 'circle', source: 'vacancies', layout: {visibility: 'none'}, paint: {
+    'circle-color': VACANCY_RED,
+    'circle-radius': ['interpolate', ['linear'], ['zoom'], 6, ['case', ['>=', ['get', 'open'], 2], 2.6, 2], 10, ['case', ['>=', ['get', 'open'], 2], 5, 4], 14, ['case', ['>=', ['get', 'open'], 2], 8, 6.5]],
+    'circle-stroke-color': '#ffffff', 'circle-stroke-width': ['interpolate', ['linear'], ['zoom'], 6, .4, 11, 1.2], 'circle-opacity': .95
+  }}, before);
   const label = {'text-font': ['Noto Sans Regular'], 'text-size': 11, 'text-letter-spacing': .04};
   const labelPaint = {'text-color': '#e9eef7', 'text-halo-color': '#0a1424', 'text-halo-width': 1.6};
   map.addLayer({id: 'county-labels', type: 'symbol', source: 'county-labels', minzoom: 6.4, maxzoom: PRECINCT_ZOOM + .5, layout: {...label, 'text-field': ['get', 'county']}, paint: labelPaint});
@@ -291,6 +301,7 @@ function applyLayerStyle() {
   const l = state.layer, district = !!CHAMBERS[l], results = PRECINCT_LAYERS.includes(l);
   ['precincts-fill', 'precincts-line', 'precincts-hover', 'precincts-selected', 'munis-line'].forEach(id => setVisible(id, results));
   map.setPaintProperty('precincts-fill', 'fill-color', ['get', l === 'chairs' ? 'fill_chairs' : 'fill']);
+  setVisible('vacancies-dot', l === 'chairs');
   ['districts-fill', 'districts-line', 'districts-selected', 'district-labels'].forEach(id => setVisible(id, district));
   setVisible('counties-fill', !district);
   setVisible('county-labels', !district);
@@ -324,7 +335,8 @@ function loadVisibleCounties() {
 }
 
 function pick(point) {
-  const layers = CHAMBERS[state.layer] ? ['districts-fill'] : onPrecinctLayer() ? ['precincts-fill', 'counties-fill'] : ['counties-fill'];
+  const layers = CHAMBERS[state.layer] ? ['districts-fill'] : state.layer === 'chairs' ? ['vacancies-dot', 'precincts-fill', 'counties-fill']
+    : onPrecinctLayer() ? ['precincts-fill', 'counties-fill'] : ['counties-fill'];
   for (const f of map.queryRenderedFeatures(point, {layers})) {
     if (f.layer.id === 'precincts-fill' && !precinctsVisible(f.properties.county)) continue;
     return f;
@@ -339,6 +351,7 @@ function setHover(f) {
 }
 function tooltip(f) {
   const p = f.properties;
+  if (f.source === 'vacancies') return [p.name, p.municipality + ', ' + p.county + ' County · ' + (p.open === p.seats ? 'all ' + p.seats + ' seats open' : p.open + ' of ' + p.seats + ' seats open')];
   if (f.source === 'precincts' && state.layer === 'chairs') return [p.name, p.municipality + ' · ' + SEAT_STATE[p.seats].label];
   if (f.source === 'precincts') {
     return [p.name, p.municipality + ' · ' + (p.margin === 'null' || p.margin == null ? 'Counts unavailable' :
@@ -367,7 +380,8 @@ function onClick(e) {
   if (!f) return;
   popup.remove();
   const p = f.properties;
-  if (f.source === 'precincts') selectPrecinct(p.county, p.id, {fly: false});
+  if (f.source === 'vacancies') selectPrecinct(p.county, p.id);
+  else if (f.source === 'precincts') selectPrecinct(p.county, p.id, {fly: false});
   else if (f.source === 'districts') selectDistrict(state.layer, p.district);
   else selectCounty(p.county);
 }
@@ -530,7 +544,7 @@ function renderHome() {
   } else if (l === 'chairs') {
     const t = committee.total;
     headBlock = [...head({eyebrow: 'Republican committee seats', title: fmt(emptyOf(t)) + ' of ' + fmt(t.seats) + ' Republican committee seats are open',
-      lede: 'Each precinct elects a committeeman and a committeewoman. Pick a county, or search your address, to see your precinct\'s seats and who holds them.'}),
+      lede: 'Each precinct elects a committeeman and a committeewoman. Red dots on the map mark the ' + fmt(vacancies.rows.length) + ' precincts with an open seat; click one to see where it is and which seats are open, or search your address.'}),
       seatBar(t), seatTable(t),
       h('p', {class: 'note', text: 'Not known: write-in winners (public results don\'t name them), filed candidates with no posted result, and counties with no public record. Open seats can be filled before the next election by appointment under county party rules.'}),
       nextElectionBlock(statewideNext(), true)].filter(Boolean);
@@ -587,6 +601,9 @@ function renderCounty() {
           : fmt(emptyOf(ch)) + ' open, ' + fmt(ch.filled) + ' filled and ' + fmt(ch.unknown) + ' not known, of ' + fmt(ch.seats) + ' seats in ' + fmt(ch.precincts) + ' precincts.'}),
       known ? seatBar(ch) : null,
       known ? seatTable(ch) : null,
+      vacancyCount.get(c.county) ? h('p', {class: 'vacancy-callout'}, h('i', {}), h('span', {},
+        h('b', {text: fmt(vacancyCount.get(c.county)) + ' precincts'}), ' here have an open seat, marked with red dots. ',
+        h('button', {type: 'button', class: 'linkish', text: 'List them', onclick: () => { const sf = $('seat-filter'); if (sf) { sf.value = 'any-open'; renderChips(); $('chips').scrollIntoView({behavior: 'smooth', block: 'start'}); } }}))) : null,
       ch ? h('p', {class: 'note', text: (METHOD_LABEL[ch.method] || ch.method) + (ch.election ? ' · ' + ch.election : '') + (ch.as_of ? ' · as of ' + ch.as_of : '') + ' · checked ' + ch.checked_at + '. Appointments made since then are not counted.' +
         (ch.named ? ' Holders are named as printed in the official results.' : ch.filled ? ' This county\'s record doesn\'t include holders\' names yet.' : '')}) : null,
       nextElectionBlock(ch?.next_election),
@@ -814,9 +831,10 @@ function legend() {
       ...(zoomHint ? [h('span', {class: 'hint', text: 'Zoom in to see precincts'})] : []));
   } else if (l === 'chairs') {
     const near = state.county || map.getZoom() >= PRECINCT_ZOOM - .2;
-    el.replaceChildren(...(near
+    const dot = h('span', {class: 'sw'}, h('i', {class: 'dot-sw', style: 'background:' + VACANCY_RED}), 'Precinct with an open seat');
+    el.replaceChildren(dot, ...(near
       ? ['full', 'partial', 'open', 'unknown', 'none'].map(k => sw(SEAT_STATE[k].color, SEAT_STATE[k].label))
-      : [ramp(CHAIR_SHADES, 'Share of seats open: under 10% → 50%+'), sw('#455467', 'No public record'), h('span', {class: 'hint', text: 'Zoom in or pick a county for precincts'})]));
+      : [ramp(CHAIR_SHADES, 'County share of seats open'), sw('#455467', 'No public record'), h('span', {class: 'hint', text: 'Click a dot for the precinct'})]));
   } else if (l === 'population') {
     el.replaceChildren(ramp(POP_SHADES, 'Population: under 50k → 500k+'), h('span', {class: 'hint', text: 'July 1, 2025 estimates'}));
   } else if (l === 'government') {
@@ -951,8 +969,10 @@ function wireSearch() {
 
 /* ---------- Start ---------- */
 async function start() {
-  const [geo, meta, chairs] = await Promise.all([json('counties.geojson'), loadMeta(), json('committee/summary.json').catch(() => null)]);
+  const [geo, meta, chairs, vac] = await Promise.all([json('counties.geojson'), loadMeta(), json('committee/summary.json').catch(() => null),
+    json('committee/vacancies.json').catch(() => null)]);
   if (chairs) committee = {schedule: null, ...chairs};
+  if (vac) { vacancies = vac; for (const r of vac.rows) vacancyCount.set(r[0], (vacancyCount.get(r[0]) || 0) + 1); }
   countyInfo = meta;
   counties = geo.features;
   for (const f of counties) {

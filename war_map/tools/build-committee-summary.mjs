@@ -20,6 +20,7 @@ const SCHEDULE = {
   ]
 };
 const iso = d => d.toISOString().slice(0, 10);
+const TODAY = new Date().toLocaleDateString('en-CA', {timeZone: 'America/New_York'});
 function nthTuesday(year, month, n) { // month 0-based
   const d = new Date(Date.UTC(year, month, 1));
   d.setUTCDate(1 + (2 - d.getUTCDay() + 7) % 7 + 7 * (n - 1));
@@ -30,9 +31,13 @@ const weeksBefore = (d, w) => new Date(d.getTime() - w * 7 * 864e5);
 function nextElection(d) {
   const confirmed = cycleOf[d.county] != null;
   const cycle = cycleOf[d.county] || SCHEDULE.default_cycle_years;
-  const last = Number((d.election || '').match(/\b(20\d\d)\b/)?.[1]) || null;
-  // Without a dated election on record, assume the county's seats were last elected in 2026 (gubernatorial year).
-  const year = (last || 2026) + cycle;
+  // Only an election string that starts with a date ("May 19, 2026 General Primary") names the last
+  // committee election; text like "Not determined (... 2020 ...)" doesn't.
+  const last = /^[A-Z][a-z]+ \d{1,2}, (20\d\d)\b/.test(d.election || '') ? Number(d.election.match(/(20\d\d)/)[1]) : null;
+  // Without a dated election on record, assume the seats were last elected in 2026 (gubernatorial year).
+  let year = (last || 2026) + cycle;
+  // Never show a date that has passed: step forward a cycle at a time.
+  while (iso(primaryDate(year)) <= TODAY) year += cycle;
   const p = primaryDate(year);
   return {year, date: iso(p), petitions_from: iso(weeksBefore(p, 13)), petitions_to: iso(weeksBefore(p, 10)),
     cycle_years: cycle, cycle_confirmed: confirmed, last_election_year: last};
@@ -42,7 +47,7 @@ if (iso(primaryDate(2026)) !== '2026-05-19' || iso(weeksBefore(primaryDate(2026)
 
 const counties = {};
 const total = {seats: 0, filled: 0, empty: 0, empty_no_filer: 0, unknown: 0, named: 0, precincts: 0, mapped: 0};
-for (const file of readdirSync(dir).filter(f => f.endsWith('.json') && f !== 'summary.json').sort()) {
+for (const file of readdirSync(dir).filter(f => f.endsWith('.json') && !['summary.json', 'vacancies.json'].includes(f)).sort()) {
   const d = JSON.parse(readFileSync(join(dir, file)));
   const t = d.totals;
   const named = d.precincts.reduce((n, p) => n + p.seats.filter(s => s.holder).length, 0);
@@ -59,3 +64,53 @@ for (const file of readdirSync(dir).filter(f => f.endsWith('.json') && f !== 'su
 }
 writeFileSync(join(dir, 'summary.json'), JSON.stringify({built_from: 'war_map/committee/*.json', schedule: SCHEDULE, total, counties}, null, 1) + '\n');
 console.log(Object.keys(counties).length + ' counties', total);
+
+// committee/vacancies.json: every mapped precinct with at least one open seat, with a point
+// inside it, so the map can mark vacancies statewide without loading every county.
+const dataDir = new URL('../data/', import.meta.url).pathname;
+function rings(path) { // the map's SVG path -> [[lon, lat], ...] rings (inverse of the projection in data/README.md)
+  return path.split(/[MZ]/).map(part => {
+    const n = part.match(/-?\d*\.?\d+/g) || [];
+    const r = [];
+    for (let i = 0; i + 1 < n.length; i += 2) r.push([n[i] / 760 - 80, 42 - n[i + 1] / 1000]);
+    return r;
+  }).filter(r => r.length >= 3);
+}
+const area = r => r.reduce((a, [x, y], i) => { const [u, v] = r[(i + 1) % r.length]; return a + x * v - u * y; }, 0) / 2;
+// A point inside the precinct: on a horizontal line across its largest ring, the middle of the widest
+// stretch that is inside under the even-odd rule over all rings (so holes are avoided).
+function interior(all, r) {
+  const ys = r.map(p => p[1]), lo = Math.min(...ys), hi = Math.max(...ys);
+  for (const f of [.5, .4, .6, .3, .7, .2, .8]) {
+    const y = lo + (hi - lo) * f, xs = [];
+    for (const ring of all) ring.forEach(([x1, y1], i) => { const [x2, y2] = ring[(i + 1) % ring.length]; if ((y1 > y) !== (y2 > y)) xs.push(x1 + (y - y1) * (x2 - x1) / (y2 - y1)); });
+    xs.sort((a, b) => a - b);
+    let best = null;
+    for (let i = 0; i + 1 < xs.length; i += 2) if (!best || xs[i + 1] - xs[i] > best[1] - best[0]) best = [xs[i], xs[i + 1]];
+    if (best) return [(best[0] + best[1]) / 2, y];
+  }
+  return r[0];
+}
+const vacancies = [];
+let unplaced = 0;
+for (const file of readdirSync(dir).filter(f => f.endsWith('.json') && !['summary.json', 'vacancies.json'].includes(f)).sort()) {
+  const d = JSON.parse(readFileSync(join(dir, file)));
+  const open = d.precincts.filter(p => p.seats.some(s => s.status === 'empty' || s.status === 'empty_no_filer'));
+  if (!open.length) continue;
+  const map = new Map(JSON.parse(readFileSync(join(dataDir, file))).precincts.map(p => [p.id, p]));
+  for (const p of open) {
+    const m = p.map_id && map.get(p.map_id);
+    if (!m) { unplaced++; continue; }
+    const all = rings(m.path), largest = [...all].sort((a, b) => Math.abs(area(b)) - Math.abs(area(a)))[0];
+    const [lon, lat] = interior(all, largest);
+    const n = p.seats.filter(s => s.status === 'empty' || s.status === 'empty_no_filer').length;
+    vacancies.push([d.county, m.id, m.name, m.municipality, n, p.seats.length, +lon.toFixed(5), +lat.toFixed(5)]);
+  }
+}
+writeFileSync(join(dir, 'vacancies.json'), JSON.stringify({
+  built_from: 'war_map/committee/*.json and war_map/data/*.json',
+  about: 'Precincts with at least one open Republican committee seat (empty or no Republican filed), placed at a point inside the precinct. Precincts not matched to the map are counted in unplaced.',
+  fields: ['county', 'map_id', 'precinct', 'municipality', 'open_seats', 'seats', 'lon', 'lat'],
+  unplaced, rows: vacancies
+}) + '\n');
+console.log(vacancies.length + ' precincts with open seats placed on the map, ' + unplaced + ' not matched to the map');

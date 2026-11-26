@@ -1,0 +1,576 @@
+{
+ "about": "One entry per county: where its Republican committee results come from. platform picks the reader in lib/. clarity.verified is true once the election ID has been checked against the 2026 primary. cycle_years is how often the county elects committee seats (null until confirmed from party rules).",
+ "updated": "2026-11-25",
+ "counties": [
+  {
+   "county": "Adams",
+   "slug": "adams",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 20, 2025 Municipal Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Allegheny",
+   "slug": "allegheny",
+   "current_method": "candidate_listing",
+   "platform": "clarity",
+   "clarity": {
+    "site": "PA/Allegheny",
+    "election_id": "126196",
+    "verified": true,
+    "version": "374579"
+   },
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null,
+   "notes": "Clarity blocks scripted and headless access (HTTP 403), so the Summary CSV export is downloaded by a person from the results page Downloads menu."
+  },
+  {
+   "county": "Armstrong",
+   "slug": "armstrong",
+   "current_method": "candidate_listing",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Beaver",
+   "slug": "beaver",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "April 23, 2024 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Bedford",
+   "slug": "bedford",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "April 23, 2024 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Berks",
+   "slug": "berks",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Blair",
+   "slug": "blair",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 20, 2025 Municipal Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Bradford",
+   "slug": "bradford",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "April 23, 2024 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Bucks",
+   "slug": "bucks",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Butler",
+   "slug": "butler",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Cambria",
+   "slug": "cambria",
+   "current_method": "none_found",
+   "platform": "clarity",
+   "clarity": {
+    "site": "PA/Cambria",
+    "election_id": "127572",
+    "verified": false
+   },
+   "election": "May 19, 2026 General Primary (results not retrievable)",
+   "cycle_years": null
+  },
+  {
+   "county": "Cameron",
+   "slug": "cameron",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary (unofficial results)",
+   "cycle_years": null
+  },
+  {
+   "county": "Carbon",
+   "slug": "carbon",
+   "current_method": "none_found",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary (results not retrievable)",
+   "cycle_years": null
+  },
+  {
+   "county": "Centre",
+   "slug": "centre",
+   "current_method": "none_found",
+   "platform": "manual",
+   "election": "None identified (no Republican precinct committee contests on the 2024, 2025 or 2026 primary ballots)",
+   "cycle_years": null
+  },
+  {
+   "county": "Chester",
+   "slug": "chester",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Clarion",
+   "slug": "clarion",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "April 23, 2024 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Clearfield",
+   "slug": "clearfield",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "April 23, 2024 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Clinton",
+   "slug": "clinton",
+   "current_method": "none_found",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary (results not retrievable)",
+   "cycle_years": null
+  },
+  {
+   "county": "Columbia",
+   "slug": "columbia",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Crawford",
+   "slug": "crawford",
+   "current_method": "election_results",
+   "platform": "clarity",
+   "clarity": {
+    "site": "PA/Crawford",
+    "election_id": "126362",
+    "verified": false
+   },
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Cumberland",
+   "slug": "cumberland",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Dauphin",
+   "slug": "dauphin",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Delaware",
+   "slug": "delaware",
+   "current_method": "election_results",
+   "platform": "clarity",
+   "clarity": {
+    "site": "PA/Delaware",
+    "election_id": "120839",
+    "verified": false
+   },
+   "election": "April 23, 2024 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Elk",
+   "slug": "elk",
+   "current_method": "none_found",
+   "platform": "manual",
+   "election": "None found: no Republican county committee contests in the 2022, 2024 or 2026 primaries",
+   "cycle_years": null
+  },
+  {
+   "county": "Erie",
+   "slug": "erie",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Fayette",
+   "slug": "fayette",
+   "current_method": "none_found",
+   "platform": "manual",
+   "election": "Unverified (likely May 19, 2026 General Primary)",
+   "cycle_years": null
+  },
+  {
+   "county": "Forest",
+   "slug": "forest",
+   "current_method": "none_found",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary (results not found)",
+   "cycle_years": null
+  },
+  {
+   "county": "Franklin",
+   "slug": "franklin",
+   "current_method": "election_results",
+   "platform": "livevoterturnout",
+   "results_url": "https://www.livevoterturnout.com/ENR/franklinpaenr/14/en/Index_14.html",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Fulton",
+   "slug": "fulton",
+   "current_method": "none_found",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Greene",
+   "slug": "greene",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Huntingdon",
+   "slug": "huntingdon",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Indiana",
+   "slug": "indiana",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Jefferson",
+   "slug": "jefferson",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "April 23, 2024 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Juniata",
+   "slug": "juniata",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Lackawanna",
+   "slug": "lackawanna",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Lancaster",
+   "slug": "lancaster",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Lawrence",
+   "slug": "lawrence",
+   "current_method": "roster",
+   "platform": "manual",
+   "election": "May 20, 2025 Municipal Primary (committee term 2025-2029)",
+   "cycle_years": null
+  },
+  {
+   "county": "Lebanon",
+   "slug": "lebanon",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "April 23, 2024 Presidential Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Lehigh",
+   "slug": "lehigh",
+   "current_method": "election_results",
+   "platform": "livevoterturnout",
+   "results_url": "https://www.livevoterturnout.com/ENR/lehighpaenr/12/en/Index_12.html",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Luzerne",
+   "slug": "luzerne",
+   "current_method": "election_results",
+   "platform": "clarity",
+   "clarity": {
+    "site": "PA/Luzerne",
+    "election_id": "126281",
+    "verified": false
+   },
+   "election": "April 23, 2024 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Lycoming",
+   "slug": "lycoming",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "McKean",
+   "slug": "mckean",
+   "current_method": "none_found",
+   "platform": "manual",
+   "election": "None found",
+   "cycle_years": null
+  },
+  {
+   "county": "Mercer",
+   "slug": "mercer",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Mifflin",
+   "slug": "mifflin",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Monroe",
+   "slug": "monroe",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Montgomery",
+   "slug": "montgomery",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Montour",
+   "slug": "montour",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Northampton",
+   "slug": "northampton",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Northumberland",
+   "slug": "northumberland",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Perry",
+   "slug": "perry",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "April 23, 2024 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Philadelphia",
+   "slug": "philadelphia",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Pike",
+   "slug": "pike",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Potter",
+   "slug": "potter",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "April 23, 2024 Primary Election",
+   "cycle_years": null
+  },
+  {
+   "county": "Schuylkill",
+   "slug": "schuylkill",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Snyder",
+   "slug": "snyder",
+   "current_method": "roster",
+   "platform": "manual",
+   "election": "April 23, 2024 General Primary (term 2024-2027)",
+   "cycle_years": null
+  },
+  {
+   "county": "Somerset",
+   "slug": "somerset",
+   "current_method": "none_found",
+   "platform": "manual",
+   "election": "Not determined (no committee results posted)",
+   "cycle_years": null
+  },
+  {
+   "county": "Sullivan",
+   "slug": "sullivan",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "April 23, 2024 Presidential Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Susquehanna",
+   "slug": "susquehanna",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Tioga",
+   "slug": "tioga",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Union",
+   "slug": "union",
+   "current_method": "none_found",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary (results not posted)",
+   "cycle_years": null
+  },
+  {
+   "county": "Venango",
+   "slug": "venango",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "April 23, 2024 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Warren",
+   "slug": "warren",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Washington",
+   "slug": "washington",
+   "current_method": "candidate_listing",
+   "platform": "manual",
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "Wayne",
+   "slug": "wayne",
+   "current_method": "none_found",
+   "platform": "manual",
+   "election": "Not determined (latest Republican county committee results located: June 2, 2020 General Primary)",
+   "cycle_years": null
+  },
+  {
+   "county": "Westmoreland",
+   "slug": "westmoreland",
+   "current_method": "none_found",
+   "platform": "manual",
+   "election": "Unverified (county site inaccessible)",
+   "cycle_years": null
+  },
+  {
+   "county": "Wyoming",
+   "slug": "wyoming",
+   "current_method": "election_results",
+   "platform": "manual",
+   "election": "April 23, 2024 General Primary",
+   "cycle_years": null
+  },
+  {
+   "county": "York",
+   "slug": "york",
+   "current_method": "election_results",
+   "platform": "clarity",
+   "clarity": {
+    "site": "PA/York",
+    "election_id": "126283",
+    "verified": false
+   },
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null
+  }
+ ]
+}

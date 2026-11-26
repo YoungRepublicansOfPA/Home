@@ -2,10 +2,10 @@
  "built_from": "war_map/committee/*.json",
  "total": {
   "seats": 17945,
-  "filled": 4370,
-  "empty": 4221,
-  "empty_no_filer": 2627,
-  "unknown": 6727
+  "filled": 4796,
+  "empty": 4952,
+  "empty_no_filer": 399,
+  "unknown": 7798
  },
  "counties": {
   "Adams": {
@@ -44,25 +44,25 @@
    "file": "adams.json"
   },
   "Allegheny": {
-   "method": "candidate_listing",
+   "method": "election_results",
    "election": "May 19, 2026 General Primary",
-   "as_of": "2026-05-19",
-   "checked_at": "2026-11-24",
+   "as_of": "2026-06-08",
+   "checked_at": "2026-11-25",
    "precincts": 1327,
    "seats": 2654,
-   "filled": 0,
-   "empty": 0,
-   "empty_no_filer": 2228,
-   "unknown": 426,
+   "filled": 426,
+   "empty": 731,
+   "empty_no_filer": 0,
+   "unknown": 1497,
    "sources": [
     {
-     "url": "https://apps.alleghenycounty.us/website/PDF_REP/2026Pri-Rep%20Sample%20(1).pdf",
-     "title": "Official Republican General Primary Ballot, May 19, 2026, sample ballot for precinct 1 (Aleppo); one such PDF per precinct, numbered (1) through (1327) at the same path",
-     "type": "candidate_listing"
+     "url": "https://results.enr.clarityelections.com/PA/Allegheny/126196/",
+     "title": "Allegheny County official results, May 19, 2026 General Primary (election 126196, version 374579)",
+     "type": "results"
     },
     {
-     "url": "https://www.alleghenycounty.us/Government/Elections/Election-Updates",
-     "title": "Allegheny County Elections, Election Updates (links 2026 primary results on Clarity/Scytl)",
+     "url": "https://results.enr.clarityelections.com/PA/Allegheny/126196/374579/reports/summary.zip",
+     "title": "Summary CSV export of those results (summary.zip, generated 2026-06-08)",
      "type": "results"
     }
    ],

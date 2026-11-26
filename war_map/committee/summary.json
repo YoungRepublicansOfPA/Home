@@ -25,7 +25,7 @@
   "empty": 4975,
   "empty_no_filer": 399,
   "unknown": 7742,
-  "named": 2600,
+  "named": 3446,
   "precincts": 9117,
   "mapped": 8083
  },
@@ -41,7 +41,7 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 225,
-   "named": 0,
+   "named": 106,
    "mapped": 49,
    "next_election": {
     "year": 2029,
@@ -72,6 +72,11 @@
      "url": "https://www.adamscountypa.gov/getmedia/8b4685ab-9f35-420a-81dc-0e6dab0caa4f/Official-Republican-General-Primary-Ballot.pdf",
      "title": "Adams County Official Republican General Primary Ballot, May 19, 2026 (no county committee contest, confirming committee is not elected in 2026)",
      "type": "rules"
+    },
+    {
+     "url": "https://www.adamscountypa.gov/getmedia/26d20d82-6443-4d28-8390-deca1715b958/b-Precinct-Summary-Results.pdf",
+     "title": "Official results export, used for holder names (results.pdf)",
+     "type": "results"
     }
    ],
    "file": "adams.json"
@@ -241,7 +246,7 @@
    "empty": 89,
    "empty_no_filer": 0,
    "unknown": 366,
-   "named": 0,
+   "named": 93,
    "mapped": 160,
    "next_election": {
     "year": 2030,
@@ -261,6 +266,11 @@
     {
      "url": "https://www.berkspa.gov/departments/election-services/election-results",
      "title": "Berks County Election Services: Election Results index",
+     "type": "results"
+    },
+    {
+     "url": "https://www.berkspa.gov/getmedia/3b6ee6f8-7498-47d9-bf3c-ab7203d0517e/Summary-Report-5-19-2026.pdf",
+     "title": "Official results export, used for holder names (results.pdf, generated 2026-06-05)",
      "type": "results"
     }
    ],
@@ -851,7 +861,7 @@
    "empty": 7,
    "empty_no_filer": 0,
    "unknown": 106,
-   "named": 0,
+   "named": 123,
    "mapped": 96,
    "next_election": {
     "year": 2030,
@@ -876,6 +886,11 @@
     {
      "url": "https://www.cumberlandcountypa.gov/3135/Election-Results",
      "title": "Cumberland County Election Results page (links to the Election Results Archive)",
+     "type": "results"
+    },
+    {
+     "url": "https://records.ccpa.net/Weblink_Public/ElectronicFile.aspx?docid=1897331&dbid=7&repo=County-of-Cumberland-8",
+     "title": "Official results export, used for holder names (results.pdf)",
      "type": "results"
     }
    ],
@@ -1482,7 +1497,7 @@
    "empty": 46,
    "empty_no_filer": 0,
    "unknown": 2,
-   "named": 0,
+   "named": 96,
    "mapped": 71,
    "next_election": {
     "year": 2029,
@@ -1503,6 +1518,11 @@
      "url": "https://lawrencecountypa.gov/departments/voter-elections/elected-officials",
      "title": "Lawrence County Elected Officials page (links the current roster)",
      "type": "roster"
+    },
+    {
+     "url": "https://lawrencecountypa.gov/getmedia/22a187c1-6e6d-4ea9-88a4-d7db094171e9/REPUBLICAN-COUNTY-COMMITTEE-2026-updated-NOV-19-2026.pdf",
+     "title": "Official results export, used for holder names (results.pdf)",
+     "type": "results"
     }
    ],
    "file": "lawrence.json"
@@ -1518,7 +1538,7 @@
    "empty": 6,
    "empty_no_filer": 0,
    "unknown": 31,
-   "named": 0,
+   "named": 140,
    "mapped": 60,
    "next_election": {
     "year": 2028,
@@ -1543,6 +1563,11 @@
     {
      "url": "https://www.lebanoncountypa.gov/getmedia/84cb982f-c59b-4257-a300-2198a95628f2/Precinct_Summary_Report_4.pdf",
      "title": "Lebanon County 2026 Primary Precinct Summary Report (no Republican county committee contest; only Democratic county committee was elected in 2026)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.lebanoncountypa.gov/getmedia/e9cee5d6-e6e1-4548-87fe-3d4c532e06ac/Official-Primary-Precicint-Summary-Report-v-5.pdf",
+     "title": "Official results export, used for holder names (results.pdf)",
      "type": "results"
     }
    ],
@@ -1600,7 +1625,7 @@
    "empty": 0,
    "empty_no_filer": 0,
    "unknown": 186,
-   "named": 0,
+   "named": 180,
    "mapped": 179,
    "next_election": {
     "year": 2028,
@@ -1625,6 +1650,11 @@
     {
      "url": "https://results.enr.clarityelections.com/PA/Luzerne/126281/",
      "title": "Luzerne County 2026 Primary Election results (Clarity, detail XML timestamp 5/26/2026): contains Democratic county committee contests and no Republican county committee contests",
+     "type": "results"
+    },
+    {
+     "url": "https://www.luzernecounty.org/DocumentCenter/View/43924/2024-Primary-Election-Results",
+     "title": "Official results export, used for holder names (results.pdf)",
      "type": "results"
     }
    ],
@@ -1883,7 +1913,7 @@
    "empty": 22,
    "empty_no_filer": 0,
    "unknown": 180,
-   "named": 0,
+   "named": 108,
    "mapped": 105,
    "next_election": {
     "year": 2030,
@@ -1903,6 +1933,11 @@
     {
      "url": "https://www.norcopa.gov/election-result",
      "title": "Northampton County Election Results page",
+     "type": "results"
+    },
+    {
+     "url": "https://www.norcopa.gov/corecode/uploads/document6/uploaded_pdfs/corecode/PE26%20Precinct%20Level%20Summary%20Results_2715.pdf",
+     "title": "Official results export, used for holder names (results.pdf)",
      "type": "results"
     }
    ],

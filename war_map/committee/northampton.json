@@ -17,6 +17,13 @@
       "title": "Northampton County Election Results page",
       "type": "results",
       "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://www.norcopa.gov/corecode/uploads/document6/uploaded_pdfs/corecode/PE26%20Precinct%20Level%20Summary%20Results_2715.pdf",
+      "title": "Official results export, used for holder names (results.pdf)",
+      "type": "results",
+      "as_of": "2026-06-09",
+      "sha256": "94f8744ca1fecae36abfeaac9410a385737f59626b28d3894d78cda72bd6718d"
     }
   ],
   "precincts": [
@@ -80,11 +87,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "VINCENT QUARTARARO"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JENNETTE QUARTARARO"
         }
       ]
     },
@@ -189,7 +198,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LUCAS HELMS"
         },
         {
           "seat": "Committee Person",
@@ -203,11 +213,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KIMBERLEY STANLEY"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RICHARD EUGENE LUTACK II"
         }
       ]
     },
@@ -229,7 +241,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DEBRA O'TOOLE"
         },
         {
           "seat": "Committee Person",
@@ -285,11 +298,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "EMILY MARI"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "GLADYS MARI"
         }
       ]
     },
@@ -299,11 +314,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOSEPH POPLAWSKI"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOSEPH P RIVA"
         }
       ]
     },
@@ -369,11 +386,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "HEATHER L CHRISTEIN"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JEFFREY OPP"
         }
       ]
     },
@@ -383,7 +402,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DANIEL CAMPO"
         },
         {
           "seat": "Committee Person",
@@ -439,11 +459,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CATHERINE EDGAR"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHN EDGAR"
         }
       ]
     },
@@ -452,11 +474,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ANTHONY CAPOBIANCO"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ANDREW AZAN III"
         }
       ]
     },
@@ -479,11 +503,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SANDRA LIBBY"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "FRANKLIN COPE"
         }
       ]
     },
@@ -492,7 +518,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "STEVEN GRECO"
         },
         {
           "seat": "Committee Person",
@@ -559,7 +586,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CINDY A O'BRIEN"
         },
         {
           "seat": "Committee Person",
@@ -585,11 +613,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MARK NAPIERKOWSKI"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DANIEL ROSSI"
         }
       ]
     },
@@ -599,11 +629,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "VALORIE SPANOGLE"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "WILLIAM SPANOGLE III"
         }
       ]
     },
@@ -613,11 +645,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MICHELLE MERHOTTEIN"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHN MERHOTTEIN"
         }
       ]
     },
@@ -639,11 +673,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BARRY ROTH"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ROY ROTH"
         }
       ]
     },
@@ -652,11 +688,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "THOMAS RIGER"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "AMY RIGER"
         }
       ]
     },
@@ -666,11 +704,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOSEPH M SKUTCHES JR"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOAN M SKUTCHES"
         }
       ]
     },
@@ -680,7 +720,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KORRY M FRANKE"
         },
         {
           "seat": "Committee Person",
@@ -694,11 +735,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHN J DEFASSIO"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "STEVEN MOYER"
         }
       ]
     },
@@ -708,11 +751,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ARTHUR HEMMING"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOY HEMMING"
         }
       ]
     },
@@ -722,11 +767,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PAUL WOZNIAK"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MARY E WOZNIAK"
         }
       ]
     },
@@ -861,7 +908,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOSEPH B OLLIFF III"
         },
         {
           "seat": "Committee Person",
@@ -915,7 +963,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DOUGLAS METZ"
         },
         {
           "seat": "Committee Person",
@@ -1035,11 +1084,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ANNA MARIA STOERRLE"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "WILLIAM STOERRLE"
         }
       ]
     },
@@ -1049,11 +1100,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ANNETTE KUYAN"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "FRANK KUYAN"
         }
       ]
     },
@@ -1063,7 +1116,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ROBERT DANDI"
         },
         {
           "seat": "Committee Person",
@@ -1119,11 +1173,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RONALD MULES"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JEFFREY FRANKENFIELD"
         }
       ]
     },
@@ -1133,11 +1189,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SHAWN WELCH"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PAUL MONDSCHEIN"
         }
       ]
     },
@@ -1147,11 +1205,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BRYAN EICHFELD"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ROCCO DANUBIO"
         }
       ]
     },
@@ -1160,11 +1220,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PATRICK J CUBBAGE"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "EVE M CUBBAGE"
         }
       ]
     },
@@ -1173,11 +1235,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JANET SHEATS"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LEWIS D GOGEL"
         }
       ]
     },
@@ -1186,11 +1250,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MATTHEW L BIGELOW"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ADAM C ASH"
         }
       ]
     },
@@ -1199,11 +1265,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JEFFREY P ASTER"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "WENDY A ASTER"
         }
       ]
     },
@@ -1212,11 +1280,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JONATHAN BATEMAN"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOANNE PANDICH"
         }
       ]
     },
@@ -1238,11 +1308,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "WILLIAM J RUSH"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "BARBARA G RUSH"
         }
       ]
     },
@@ -1264,7 +1336,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SHERYL GERKOVICH"
         },
         {
           "seat": "Committee Person",
@@ -1304,11 +1377,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SUSAN BAXTER"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "J BARRETT GEYER"
         }
       ]
     },
@@ -1318,11 +1393,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "WILLIAM M POTTENGER"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHN A CONTE"
         }
       ]
     },
@@ -1332,11 +1409,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "PAULA MILLER"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "LORI MERTUS"
         }
       ]
     },
@@ -1360,7 +1439,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHN B CARBER JR"
         },
         {
           "seat": "Committee Person",
@@ -1374,11 +1454,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ANN MARIE SLAVICK"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVID M BOULIN"
         }
       ]
     },
@@ -1388,11 +1470,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JENNIFER L WEIDNER"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DARIN R WEIDNER"
         }
       ]
     },
@@ -1402,11 +1486,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DANIEL PIORKOWSKI"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JAMES B MARTYN"
         }
       ]
     },
@@ -1416,11 +1502,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ANTHONY J MANISCALCO"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MELANIE J MANISCALCO"
         }
       ]
     },
@@ -1430,11 +1518,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MARGARET ANNE MANDELL"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MATTHEW L FLOWER"
         }
       ]
     },
@@ -1472,11 +1562,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ROBERT F DELNERO"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ALBERT SMITH"
         }
       ]
     },
@@ -1486,11 +1578,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TINA HOFSCHILD"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RALSTON COLEMAN"
         }
       ]
     },
@@ -1569,7 +1663,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JUAN REYNOSO"
         },
         {
           "seat": "Committee Person",
@@ -1635,7 +1730,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MADELIN REYNOSO"
         },
         {
           "seat": "Committee Person",
@@ -1674,7 +1770,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TARA DELEON"
         },
         {
           "seat": "Committee Person",
@@ -1716,7 +1813,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ETHAN HABRIAL"
         },
         {
           "seat": "Committee Person",
@@ -1744,11 +1842,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DAVID B JOHNSON"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RICHARD A JOHNSON"
         }
       ]
     },
@@ -1758,11 +1858,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "GLENN GEISSINGER"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JULIA GEISSINGER"
         }
       ]
     },
@@ -1842,7 +1944,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOHN UHLER"
         },
         {
           "seat": "Committee Person",
@@ -1884,11 +1987,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "JOSEPH R DOTTA"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "KIRSTEN ESPOSITO"
         }
       ]
     },
@@ -1898,7 +2003,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "CHARLES VAUGHN BALTIC"
         },
         {
           "seat": "Committee Person",
@@ -1951,11 +2057,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "MICHAEL BJELOBRK"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "DARLENE BJELOBRK"
         }
       ]
     },
@@ -1964,7 +2072,8 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ALYSON WARNER"
         },
         {
           "seat": "Committee Person",
@@ -2006,11 +2115,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "ANNAMARIE T ROBERTONE"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "RANDY FINELLI"
         }
       ]
     },
@@ -2076,11 +2187,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "REBECCA PRICE JANNEY"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "SCOTT JANNEY"
         }
       ]
     },
@@ -2132,11 +2245,13 @@
       "seats": [
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "IRENE MATLOCK"
         },
         {
           "seat": "Committee Person",
-          "status": "filled"
+          "status": "filled",
+          "holder": "GREGORY RISSMILLER"
         }
       ]
     }
@@ -2149,5 +2264,5 @@
     "empty_no_filer": 0,
     "unknown": 180
   },
-  "notes": "Each precinct has one 'REPUBLICAN COMMITTEE PERSONS' contest with Vote For 2; precinct names keep the county's numeric codes. The official report lists 155 precincts (counties.geojson lists 154). Status rules: filed candidate inside the top two with votes = filled (unknown on a boundary tie or if write-ins exceeded a lone candidate); open seats are unknown when any write-in votes were cast and empty when none were. The report names write-in recipients in many contests (68 contests with no filed candidate have named write-ins); these remain unknown because acceptance of write-in winners was not verified. Appointments after the primary are not reflected."
+  "notes": "Each precinct has one 'REPUBLICAN COMMITTEE PERSONS' contest with Vote For 2; precinct names keep the county's numeric codes. The official report lists 155 precincts (counties.geojson lists 154). Status rules: filed candidate inside the top two with votes = filled (unknown on a boundary tie or if write-ins exceeded a lone candidate); open seats are unknown when any write-in votes were cast and empty when none were. The report names write-in recipients in many contests (68 contests with no filed candidate have named write-ins); these remain unknown because acceptance of write-in winners was not verified. Appointments after the primary are not reflected. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

@@ -23,6 +23,13 @@
       "title": "Luzerne County 2026 Primary Election results (Clarity, detail XML timestamp 5/26/2026): contains Democratic county committee contests and no Republican county committee contests",
       "type": "results",
       "as_of": "2026-05-26"
+    },
+    {
+      "url": "https://www.luzernecounty.org/DocumentCenter/View/43924/2024-Primary-Election-Results",
+      "title": "Official results export, used for holder names (results.pdf)",
+      "type": "results",
+      "as_of": "2025-04-09",
+      "sha256": "9a5bc9b78dedb187b84e92cf709cf5d6fb4e5f0f66b05dadadd94b262369f1b9"
     }
   ],
   "precincts": [
@@ -74,7 +81,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Charles L Sciandra"
         },
         {
           "seat": "Member",
@@ -116,11 +124,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Gayle Lentini"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Emanuel Tom Poslaszny"
         }
       ]
     },
@@ -144,7 +154,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Michael Harostock"
         },
         {
           "seat": "Member",
@@ -158,11 +169,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Rick Davis"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Denise Davis"
         }
       ]
     },
@@ -172,7 +185,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Louise F Hoekstra"
         },
         {
           "seat": "Member",
@@ -214,11 +228,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kayla Canaan"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Joseph J Callen"
         }
       ]
     },
@@ -227,7 +243,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Michael J Reich"
         },
         {
           "seat": "Member",
@@ -240,11 +257,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Frank Polidora"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Frances L Petrovich"
         }
       ]
     },
@@ -254,11 +273,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Richard Tihansky"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Tony Ryba"
         }
       ]
     },
@@ -268,11 +289,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jeffrey S Moorhead"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Robin Moorhead"
         }
       ]
     },
@@ -295,11 +318,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Terrance W Casey"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Alexandra Treslar"
         }
       ]
     },
@@ -308,7 +333,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jessica Morgan"
         },
         {
           "seat": "Member",
@@ -322,11 +348,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mary Barral"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Harry Haas"
         }
       ]
     },
@@ -336,11 +364,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Melissa Callahan"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Gerald Harteis"
         }
       ]
     },
@@ -350,11 +380,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "John F Dodson"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Walter Kochan"
         }
       ]
     },
@@ -364,11 +396,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "John R Bestwick Jr"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jenny L Centrella"
         }
       ]
     },
@@ -378,7 +412,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Anthony Randazzo"
         },
         {
           "seat": "Member",
@@ -392,7 +427,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Michael Kappre"
         },
         {
           "seat": "Member",
@@ -406,11 +442,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Edward R Button Jr"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Chris Huntzinger"
         }
       ]
     },
@@ -434,7 +472,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Elaine Starinski"
         },
         {
           "seat": "Member",
@@ -462,11 +501,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Eugene Marriggi"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Charles Sciandra"
         }
       ]
     },
@@ -490,7 +531,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "John K Rundle"
         },
         {
           "seat": "Member",
@@ -546,11 +588,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Lisa Pribula"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Patrick Pribula"
         }
       ]
     },
@@ -560,11 +604,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jeff Thomas"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jordan Thomas"
         }
       ]
     },
@@ -602,7 +648,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "John Lee"
         },
         {
           "seat": "Member",
@@ -616,7 +663,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Robert Griffin"
         },
         {
           "seat": "Member",
@@ -630,11 +678,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Amy S Carrozza"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kevin Carrozza"
         }
       ]
     },
@@ -644,7 +694,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "James J Angley"
         },
         {
           "seat": "Member",
@@ -658,7 +709,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Nicholas A Eroh"
         },
         {
           "seat": "Member",
@@ -672,11 +724,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Gerald S Flynn"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Alexander S Flynn"
         }
       ]
     },
@@ -686,7 +740,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Joel Avila"
         },
         {
           "seat": "Member",
@@ -714,7 +769,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Carl Bienias III"
         },
         {
           "seat": "Member",
@@ -728,7 +784,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ronald F Krushnowski"
         },
         {
           "seat": "Member",
@@ -756,11 +813,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "David A Shipula"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Greg Wolovich Jr"
         }
       ]
     },
@@ -770,7 +829,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Eric J Haines"
         },
         {
           "seat": "Member",
@@ -784,11 +844,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Travis O'Boyle"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jaylyn Fulkersin"
         }
       ]
     },
@@ -798,11 +860,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Eugene Ziemba"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Sandra Serhan"
         }
       ]
     },
@@ -812,11 +876,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "William Ebert"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mike Larocca"
         }
       ]
     },
@@ -826,11 +892,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Angelo M LaRocca"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Angelo A LaRocca"
         }
       ]
     },
@@ -840,11 +908,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "James G Bognet"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Tom Heinzel"
         }
       ]
     },
@@ -854,11 +924,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Sandra Debias"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Darlene Trovitch"
         }
       ]
     },
@@ -910,11 +982,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Carmene Barletta"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Beth Barletta"
         }
       ]
     },
@@ -924,11 +998,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Phil Bonafair"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Don Johnson"
         }
       ]
     },
@@ -952,11 +1028,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Lauren Sacco"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Gloria Clement"
         }
       ]
     },
@@ -966,11 +1044,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Peter J Andrasko"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Joseph C Zeller III"
         }
       ]
     },
@@ -980,11 +1060,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Tommy Bruno"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "John R Nilles"
         }
       ]
     },
@@ -994,11 +1076,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Trinity Cusat"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Edward J Kulish"
         }
       ]
     },
@@ -1022,11 +1106,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ann Marie Kaschak"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mary Ann Quinn"
         }
       ]
     },
@@ -1036,11 +1122,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Marla Conklin"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Clint J Lanning"
         }
       ]
     },
@@ -1092,11 +1180,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mark Giovanelli"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Arthur Price"
         }
       ]
     },
@@ -1120,11 +1210,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "James A Nardone"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Anthony M Rostock"
         }
       ]
     },
@@ -1134,11 +1226,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "James Lombardo"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jenna Lombardo"
         }
       ]
     },
@@ -1162,11 +1256,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kristin Haas"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Harry Haas"
         }
       ]
     },
@@ -1176,11 +1272,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Stephen J Urban"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Moshe Ringler"
         }
       ]
     },
@@ -1190,11 +1288,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Nancy Cooper"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Charles Cooper"
         }
       ]
     },
@@ -1204,11 +1304,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Samantha Ann Bovolick"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "John Rooney"
         }
       ]
     },
@@ -1218,11 +1320,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Roberta Rowlands"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kathy Thompson"
         }
       ]
     },
@@ -1232,11 +1336,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Al Littzi"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jason Thompson"
         }
       ]
     },
@@ -1246,11 +1352,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ryan Joseph McGlynn"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kristen Diana McGlynn"
         }
       ]
     },
@@ -1260,11 +1368,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Rachel Spivack"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Gavi Shapiro"
         }
       ]
     },
@@ -1274,11 +1384,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Shirley A Moyer"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Joshua Morgan"
         }
       ]
     },
@@ -1288,7 +1400,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Sam Barbose"
         },
         {
           "seat": "Member",
@@ -1302,11 +1415,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Walter L Griffith Jr"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Brian Langan"
         }
       ]
     },
@@ -1316,7 +1431,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Christopher Hetro"
         },
         {
           "seat": "Member",
@@ -1344,7 +1460,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Joseph George"
         },
         {
           "seat": "Member",
@@ -1428,7 +1545,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mike Stash"
         },
         {
           "seat": "Member",
@@ -1484,11 +1602,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jennifer Ziemba"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ronald D Knapp"
         }
       ]
     },
@@ -1567,11 +1687,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Vivian Kreidler-Licina"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Robert J Licina Jr"
         }
       ]
     },
@@ -1609,7 +1731,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "TJ Fitzgerald"
         },
         {
           "seat": "Member",
@@ -1637,7 +1760,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Paul P Day"
         },
         {
           "seat": "Member",
@@ -1651,7 +1775,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Steven Smith"
         },
         {
           "seat": "Member",
@@ -1665,11 +1790,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "John Lombardo"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Art Bobbouine"
         }
       ]
     },
@@ -1679,7 +1806,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Joseph R Corcoran"
         },
         {
           "seat": "Member",
@@ -1707,11 +1835,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "James J Marotto"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Melanie Yozwiak"
         }
       ]
     },
@@ -1721,7 +1851,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Tommy Hennigan"
         },
         {
           "seat": "Member",
@@ -1735,7 +1866,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Matt Mitchell"
         },
         {
           "seat": "Member",
@@ -1749,7 +1881,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Joseph D Granteed"
         },
         {
           "seat": "Member",
@@ -1763,7 +1896,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Donna M Walling"
         },
         {
           "seat": "Member",
@@ -1791,11 +1925,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Natalia R Smith"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Damian Jeffrey Michael Smith"
         }
       ]
     },
@@ -1847,11 +1983,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Frank Handley"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kathleen Handley"
         }
       ]
     },
@@ -1875,11 +2013,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Michele Kollar"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "David J Kollar"
         }
       ]
     },
@@ -1903,11 +2043,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mark Stransky"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Diane P Racemus"
         }
       ]
     },
@@ -1917,11 +2059,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Maureen T Kishbaugh"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Stanley E Edwards Jr"
         }
       ]
     },
@@ -1959,11 +2103,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Norbert Dotzel Jr"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Charles R Herring"
         }
       ]
     },
@@ -1987,11 +2133,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Kimberly Platek"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Joseph A Disabella Sr"
         }
       ]
     },
@@ -2001,11 +2149,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Robert Schnee"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Timothy McCormack"
         }
       ]
     },
@@ -2015,11 +2165,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Gary J Busch"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Leann K Busch"
         }
       ]
     },
@@ -2029,7 +2181,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Gregory Griffin"
         },
         {
           "seat": "Member",
@@ -2043,11 +2196,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Mary Sapack"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "David Palovchak"
         }
       ]
     },
@@ -2057,7 +2212,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Desiree C Edwards"
         },
         {
           "seat": "Member",
@@ -2127,7 +2283,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Joseph C Valenti"
         },
         {
           "seat": "Member",
@@ -2141,11 +2298,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ellen A Riddle"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Toni Valenti"
         }
       ]
     },
@@ -2155,11 +2314,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "T Lynette Villano"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Leonard Pribula"
         }
       ]
     },
@@ -2169,7 +2330,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Darlene Gubino"
         },
         {
           "seat": "Member",
@@ -2183,7 +2345,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Richard Holzmann"
         },
         {
           "seat": "Member",
@@ -2210,7 +2373,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Marie V Katsock"
         },
         {
           "seat": "Member",
@@ -2223,11 +2387,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Linda J Urban"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Sandra Miller"
         }
       ]
     },
@@ -2237,11 +2403,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Christopher Macking"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Racheal Macking"
         }
       ]
     },
@@ -2251,7 +2419,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Jerry Ryan"
         },
         {
           "seat": "Member",
@@ -2265,7 +2434,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Alex S Partika"
         },
         {
           "seat": "Member",
@@ -2293,7 +2463,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Martin L Dartoe"
         },
         {
           "seat": "Member",
@@ -2321,7 +2492,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Gregory S Wolovich Sr"
         },
         {
           "seat": "Member",
@@ -2349,7 +2521,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Peter Troyan"
         },
         {
           "seat": "Member",
@@ -2377,11 +2550,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Tony Brooks"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ian Cedric Kennedy"
         }
       ]
     },
@@ -2405,11 +2580,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Joseph M Jacobs"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Paul DeFabo"
         }
       ]
     },
@@ -2447,11 +2624,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "David Garrity"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Susan G Bartholomew Palmer"
         }
       ]
     },
@@ -2461,7 +2640,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Linda Joseph"
         },
         {
           "seat": "Member",
@@ -2475,11 +2655,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Harry L Cropp III"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Ryan F Cropp"
         }
       ]
     },
@@ -2517,7 +2699,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "John A Monfiletto"
         },
         {
           "seat": "Member",
@@ -2531,11 +2714,13 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "John Kowalski II"
         },
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Anna M Bibla"
         }
       ]
     },
@@ -2545,7 +2730,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Richard Soto"
         },
         {
           "seat": "Member",
@@ -2601,7 +2787,8 @@
       "seats": [
         {
           "seat": "Member",
-          "status": "filled"
+          "status": "filled",
+          "holder": "Tamara Holena"
         },
         {
           "seat": "Member",
@@ -2632,5 +2819,5 @@
     "empty_no_filer": 0,
     "unknown": 186
   },
-  "notes": "Luzerne County Republicans elect county committee in presidential-year primaries: the 2026 primary results contain Democratic committeeman and committeewoman contests but no Republican county committee contests, so the latest evidence is the April 23, 2024 primary, more than two years old. Each of 186 precincts has one 'Member of the Republican County Committee' contest with Vote For 2 (counties.geojson lists 183 precincts). Status rules: filed candidate ranked inside the top two among filed candidates and named write-ins, with votes = filled (unknown on a cutoff tie or if unresolved write-ins exceeded that candidate); seats won by named write-ins are unknown because acceptance was not verified; open seats are unknown when write-in votes were cast and empty when none were. Vacancies filled or opened since 2024 are not reflected. The county results document does not say 'official' in its text; it was posted in the county's archive after certification."
+  "notes": "Luzerne County Republicans elect county committee in presidential-year primaries: the 2026 primary results contain Democratic committeeman and committeewoman contests but no Republican county committee contests, so the latest evidence is the April 23, 2024 primary, more than two years old. Each of 186 precincts has one 'Member of the Republican County Committee' contest with Vote For 2 (counties.geojson lists 183 precincts). Status rules: filed candidate ranked inside the top two among filed candidates and named write-ins, with votes = filled (unknown on a cutoff tie or if unresolved write-ins exceeded that candidate); seats won by named write-ins are unknown because acceptance was not verified; open seats are unknown when write-in votes were cast and empty when none were. Vacancies filled or opened since 2024 are not reflected. The county results document does not say 'official' in its text; it was posted in the county's archive after certification. Holder names come from the official results export: on each seat already counted as filled, the winning ballot candidate as printed (named write-ins are never used)."
 }

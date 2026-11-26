@@ -16,9 +16,9 @@
 // never silently dropped. Write-in tallies are kept as unnamed write-ins; their names are not kept.
 import {execFileSync} from 'node:child_process';
 
-const SKIP = /^(Statement of Votes Cast|All Precincts|Total Ballots Cast|Choice\s{2,}|Times Cast|Precincts Reported|Registered Voters|Ballots Cast|Voter Turnout|Unresolved Write-In|Write-In Totals|Overvotes|Undervotes|Election Summary - |Page \d+ of \d+|.*\sPage \d+$|\d{4} (General|Primary|Municipal)|Last Updated)/i;
+const SKIP = /^(Report generated with|Precinct Summary|Summary Results|Result Book|OFFICIAL RESULTS|UNOFFICIAL RESULTS|Statement of Votes Cast|All Precincts|Total Ballots Cast|Choice\s{2,}|Times Cast|Precincts Reported|Registered Voters|Ballots Cast|Voter Turnout|Unresolved Write-In|Write-In Totals|Overvotes|Undervotes|Election Summary - |Page \d+ of \d+|.*\sPage \d+$|\d{4} (General|Primary|Municipal)|Last Updated)/i;
 // Page furniture: any line with a written-out date ("May 19, 2026") or a run header.
-const FURNITURE = /\b(January|February|March|April|May|June|July|August|September|October|November|December) \d{1,2}, \d{4}\b|^Jurisdiction Wide\b/;
+const FURNITURE = /\s\d+ of \d+$|\b(January|February|March|April|May|June|July|August|September|October|November|December) \d{1,2}, \d{4}\b|^Jurisdiction Wide\b/;
 const WRITE_IN = /^(write[\s-]?ins?\b|write-in:|scattered\b|not assigned\b|uncertified\b)/i;
 const DEFAULT_END = '^(Total|Total Votes|Total Votes Cast|Contest Totals)\\s+[\\d,]';
 
@@ -61,13 +61,23 @@ export function read(path, cfg = {}) {
     }
     if (any && any.test(t)) { cur = null; continue; }
     if (!cur) continue;
-    const vf = t.match(/^Vote For (\d+)$/i);
+    // Luzerne wraps long titles: "(REP) (Vote for 2)" or "for 2)" on the next line.
+    const vf = t.match(/^(?:\((?:REP|DEM)\)\s*)?\(?(?:Vote )?For (\d+)\)?$/i);
     if (vf) { cur.voteFor = +vf[1]; continue; }
     if (end.test(t)) { cur = null; continue; }
     if (SKIP.test(t) || FURNITURE.test(t) || !/\d/.test(t)) continue; // column headers, wrapped titles, page furniture
     const m = t.match(/^(.*?\S)\s{2,}((?:[\d,]+\s+)*[\d,]+)$/);
-    if (!m) throw Error(`text report: can't read line in "${cur.precinct}" ${cur.seat}: ${t.slice(0, 70)}`);
-    let label = m[1].replace(/\s+(REP|DEM)$/, '').trim();
+    if (!m) {
+      // Only a line shaped like a vote line (a wide gap, then numbers) must be readable;
+      // anything else here is a section heading or page text.
+      if (/\S\s{2,}[\d,]+(\s|$)/.test(t)) throw Error(`text report: can't read line in "${cur.precinct}" ${cur.seat}: ${t.slice(0, 70)}`);
+      continue;
+    }
+    // A party column after the name: "NAME    REP" is a ballot candidate; any other code
+    // ("WRITE-IN" in Luzerne, "DEM") marks a write-in or another party's line.
+    const cols = m[1].split(/\s{2,}/);
+    let party = cols.length > 1 && /^[A-Z][A-Z-]{1,9}$/.test(cols.at(-1)) ? cols.pop() : null;
+    let label = cols.join(' ').replace(/\s+(REP|DEM)$/, '').trim();
     // A long name can wrap around its vote line: "CATHERINE ZHOU" / "REP  111 ... 133" / "MATTHEWS".
     // When the vote line carries only a party code, rebuild the name from the adjacent text lines.
     if (/^(REP|DEM)$/.test(label)) {
@@ -77,7 +87,7 @@ export function read(path, cfg = {}) {
       rebuilt.push(`${cur.precinct}: ${label}`);
     }
     const votes = total(m[2].split(/\s+/).map(x => Number(x.replace(/,/g, ''))), t);
-    if (WRITE_IN.test(label)) cur.choices.push({name: 'Write-in', votes, ballot: false});
+    if (WRITE_IN.test(label) || (party && party !== (cfg.party || 'REP'))) cur.choices.push({name: 'Write-in', votes, ballot: false});
     else cur.choices.push({name: label, votes, ballot: true});
   }
   const date = text.match(/(?:Election Summary - |Last Updated: )(\d{2})\/(\d{2})\/(\d{4})/);

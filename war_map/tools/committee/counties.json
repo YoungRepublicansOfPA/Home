@@ -6,9 +6,18 @@
    "county": "Adams",
    "slug": "adams",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 20, 2025 Municipal Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2025-primary",
+    "version": "official",
+    "url": "https://www.adamscountypa.gov/getmedia/26d20d82-6443-4d28-8390-deca1715b958/b-Precinct-Summary-Results.pdf",
+    "contest_pattern": "^REP Republican (?<seat>Committee Member) (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND)\\s+\\S",
+    "title": "precinct summary results",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b"
+   }
   },
   {
    "county": "Allegheny",
@@ -53,9 +62,18 @@
    "county": "Berks",
    "slug": "berks",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://www.berkspa.gov/getmedia/3b6ee6f8-7498-47d9-bf3c-ab7203d0517e/Summary-Report-5-19-2026.pdf",
+    "contest_pattern": "^REP County (?<seat>Committeeman|Committeewoman|Committeeperson) (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND)\\s+\\S",
+    "title": "summary report",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b"
+   }
   },
   {
    "county": "Blair",
@@ -157,7 +175,8 @@
     "page": "https://www.chesco.org/3979/Archived-Election-Results",
     "title": "Electionware election summary",
     "contest_pattern": "^REP Republican County (?<seat>Committee Member) (?<precinct>.+)$",
-    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND)\\s+\\S"
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND)\\s+\\S",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b"
    }
   },
   {
@@ -213,9 +232,18 @@
    "county": "Cumberland",
    "slug": "cumberland",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://records.ccpa.net/Weblink_Public/ElectronicFile.aspx?docid=1897331&dbid=7&repo=County-of-Cumberland-8",
+    "contest_pattern": "^REP (?<seat>COMMITTEEMAN|COMMITTEEWOMAN) - 4 YEAR TERM (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND)\\s+\\S",
+    "title": "result book summary, Republican",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b"
+   }
   },
   {
    "county": "Dauphin",
@@ -360,17 +388,33 @@
    "county": "Lawrence",
    "slug": "lawrence",
    "current_method": "roster",
-   "platform": "manual",
+   "platform": "roster",
    "election": "May 20, 2025 Municipal Primary (committee term 2025-2029)",
-   "cycle_years": null
+   "cycle_years": null,
+   "roster": {
+    "election_id": "2025-roster",
+    "version": "official",
+    "url": "https://lawrencecountypa.gov/getmedia/22a187c1-6e6d-4ea9-88a4-d7db094171e9/REPUBLICAN-COUNTY-COMMITTEE-2026-updated-NOV-19-2026.pdf",
+    "seats": 2,
+    "title": "roster revised November 19, 2026"
+   }
   },
   {
    "county": "Lebanon",
    "slug": "lebanon",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "April 23, 2024 Presidential Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2024-primary",
+    "version": "official",
+    "url": "https://www.lebanoncountypa.gov/getmedia/e9cee5d6-e6e1-4548-87fe-3d4c532e06ac/Official-Primary-Precicint-Summary-Report-v-5.pdf",
+    "contest_pattern": "^REP (?<seat>MEMBER) OF REPUBLICAN COUNTY COMMITTEE (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND)\\s+\\S",
+    "title": "precinct summary results",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b"
+   }
   },
   {
    "county": "Lehigh",
@@ -385,10 +429,19 @@
    "county": "Luzerne",
    "slug": "luzerne",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "April 23, 2024 General Primary",
    "cycle_years": null,
-   "notes": "Republican committee is elected in presidential-year primaries. The April 23, 2024 primary results were published only as a PDF (luzernecounty.org DocumentCenter 43924), not on Clarity; Clarity 126281 is the 2026 primary, which has no Republican committee contests."
+   "notes": "Republican committee is elected in presidential-year primaries. The April 23, 2024 primary results were published only as a PDF (luzernecounty.org DocumentCenter 43924), not on Clarity; Clarity 126281 is the 2026 primary, which has no Republican committee contests.",
+   "textreport": {
+    "election_id": "2024-primary",
+    "version": "official",
+    "url": "https://www.luzernecounty.org/DocumentCenter/View/43924/2024-Primary-Election-Results",
+    "contest_pattern": "^(?<seat>Member) of the Republican County Committee for (?<precinct>.+?)(?: \\(REP\\))?(?: \\(Vote(?: for \\d+\\))?)?$",
+    "any_contest": "\\((REP|DEM)\\)$",
+    "end": "^Total Votes\\s+[\\d,]",
+    "title": "2024 primary results"
+   }
   },
   {
    "county": "Lycoming",
@@ -459,9 +512,18 @@
    "county": "Northampton",
    "slug": "northampton",
    "current_method": "election_results",
-   "platform": "manual",
+   "platform": "textreport",
    "election": "May 19, 2026 General Primary",
-   "cycle_years": null
+   "cycle_years": null,
+   "textreport": {
+    "election_id": "2026-primary",
+    "version": "official",
+    "url": "https://www.norcopa.gov/corecode/uploads/document6/uploaded_pdfs/corecode/PE26%20Precinct%20Level%20Summary%20Results_2715.pdf",
+    "contest_pattern": "^REP REPUBLICAN (?<seat>COMMITTEE PERSONS?) (?<precinct>.+)$",
+    "any_contest": "^(REP|DEM|LIB|GRN|NON|IND)\\s+\\S",
+    "title": "precinct level summary",
+    "end": "^(Not Assigned|Total Votes Cast|Contest Totals)\\b"
+   }
   },
   {
    "county": "Northumberland",

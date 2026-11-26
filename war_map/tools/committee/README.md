@@ -13,6 +13,7 @@ lib/clarity.mjs      reader for Clarity/Scytl sites (results.enr.clarityelection
 lib/electionware.mjs reader for Electionware "Election Summary" PDFs (checks each contest against its own total)
 lib/textreport.mjs   configurable reader for other text-layout results PDFs (Bucks, Montgomery, Lancaster, Chester)
 lib/winners.mjs      reader for an official winners-list spreadsheet (Philadelphia); reads only race and name
+lib/roster.mjs       reader for a committee roster table PDF (Lawrence); reads only precinct and member name
 lib/rules.mjs        vote totals -> filled / empty / unknown, with the winner's name on filled seats
 lib/match.mjs        precinct-name matching against the map (strict -> loose -> abbreviations, one-to-one only)
 lib/validate.mjs     totals, allowed fields (holder only on filled seats), map ids against the map
@@ -53,10 +54,11 @@ node war_map/tools/committee/link-map.mjs
 |---|---|---|
 | `clarity` | Allegheny (run.mjs); York, Crawford, Delaware (add-holders.mjs) | `lib/clarity.mjs` |
 | `electionware` | Cambria | `lib/electionware.mjs` |
-| `textreport` | Bucks, Montgomery, Lancaster, Chester (add-holders.mjs) | `lib/textreport.mjs` |
+| `textreport` | Bucks, Montgomery, Lancaster, Chester, Luzerne, Lebanon, Cumberland, Northampton, Adams, Berks (add-holders.mjs) | `lib/textreport.mjs` |
 | `winners` | Philadelphia (add-holders.mjs) | `lib/winners.mjs` |
+| `roster` | Lawrence (add-holders.mjs) | `lib/roster.mjs` |
 | `livevoterturnout` | Franklin, Lehigh | not yet |
-| `manual` | the other 60, including Luzerne (its 2024 results are a PDF in another layout) | not yet |
+| `manual` | the rest; Dauphin, Lehigh and Monroe point to results web pages, and Lycoming's site refuses scripted downloads | not yet |
 
 Electionware reports are PDFs that start "Summary Results" and end each page "Report generated with
 Electionware". Set `electionware.url` (the PDF), `electionware.page` (where the county posts it) and, if the

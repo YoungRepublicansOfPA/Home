@@ -1,0 +1,775 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Tinos:wght@400;700&display=swap');
+
+/* ==========================================================================
+   Shared site theme
+   Navy, gold, cream and serif headings, adapted from the Young Patriots
+   template style. Loaded last on every page so it wins over page-level
+   styles without rewriting page markup or scripts.
+   ========================================================================== */
+
+:root {
+  --navy: #012150;
+  --navy-deep: #011537;
+  --flag: #9d0617;
+  --flag-dark: #7d0412;
+  --gold: #c9963f;
+  --gold-bright: #f0d7a0;
+  --gold-ink: #7a5a1e;
+  --parchment: #f6f1e6;
+  --cream: #fbf8f2;
+  --ink: #1c2430;
+  --body-ink: #3e4a59;
+  --line: #ebe5d6;
+  --rule: rgba(201, 150, 63, 0.45);
+  --font-heading: "Tinos", "Liberation Serif", Georgia, "Times New Roman", serif;
+  --font-body: "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --wrap: 72rem;
+  --radius: 0.6rem;
+  color: var(--body-ink);
+  background: var(--cream);
+}
+
+html {
+  background: var(--cream);
+  -webkit-text-size-adjust: 100%;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  max-width: none;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: var(--cream);
+  color: var(--body-ink);
+  font-family: var(--font-body);
+  font-size: 1.0625rem;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body > main {
+  flex: 1 0 auto;
+  min-width: 0;
+}
+
+body > aside {
+  min-width: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+  color: var(--navy);
+  line-height: 1.18;
+  letter-spacing: normal;
+  font-weight: 700;
+  margin: 0 0 0.6em;
+}
+
+h1 {
+  font-size: clamp(2.3rem, 5vw, 3.4rem);
+  line-height: 1.1;
+  margin-top: 0.2em;
+}
+
+h2 {
+  font-size: clamp(1.6rem, 3vw, 2.15rem);
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+p {
+  margin: 0 0 1.1em;
+}
+
+a {
+  color: var(--navy);
+  text-decoration-color: rgba(201, 150, 63, 0.75);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  color: var(--flag);
+  text-decoration-color: currentColor;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+summary:focus-visible {
+  outline: 3px solid rgba(201, 150, 63, 0.7);
+  outline-offset: 2px;
+}
+
+strong,
+b {
+  color: var(--ink);
+  font-weight: 700;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--line);
+  margin: 2rem 0;
+}
+
+/* ---------- Site bars: navy with a gold rule ---------- */
+
+body > header,
+body > nav {
+  background: var(--navy);
+  color: #fff;
+  border-bottom: 4px solid var(--gold);
+}
+
+body > header > nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 1.4rem;
+  max-width: var(--wrap);
+  margin: 0 auto;
+  padding: 0.85rem clamp(1rem, 4vw, 2rem);
+  font-family: var(--font-body);
+}
+
+/* A nav that is itself the site bar runs full bleed. */
+body > nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 1.4rem;
+  max-width: none;
+  margin: 0;
+  padding: 0.85rem max(1rem, calc((100% - var(--wrap)) / 2 + 1rem));
+  font-family: var(--font-body);
+}
+
+body > header > nav::before,
+body > nav::before {
+  content: "Young Republicans of Pennsylvania";
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 1.1rem;
+  letter-spacing: 0.01em;
+  color: #fff;
+  margin-right: auto;
+  padding-right: 1rem;
+}
+
+body > header > nav a,
+body > nav a {
+  color: rgba(255, 255, 255, 0.88);
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.4rem 0.1rem;
+  border-bottom: 2px solid transparent;
+}
+
+body > header > nav a:hover,
+body > nav a:hover {
+  color: #fff;
+  border-bottom-color: var(--gold);
+}
+
+body > header > nav a:focus-visible,
+body > nav a:focus-visible {
+  outline-color: var(--gold);
+}
+
+body > header > h1,
+body > header > p {
+  max-width: var(--wrap);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  color: #fff;
+}
+
+/* ---------- Page column ---------- */
+
+main:not(#top) {
+  max-width: var(--wrap);
+  margin: 0 auto;
+  padding: 2.5rem clamp(1rem, 4vw, 2rem) 3.5rem;
+}
+
+main > section {
+  margin: 2.75rem 0 0;
+  padding-top: 1.6rem;
+  border-top: 2px solid var(--gold);
+}
+
+main > section:first-of-type {
+  margin-top: 1.5rem;
+}
+
+main > section > h2:first-child {
+  margin-top: 0;
+}
+
+/* Section headings that are plain children of main get a light rule. */
+main > h2 {
+  margin-top: 2.25rem;
+  padding-top: 1.4rem;
+  border-top: 2px solid var(--gold);
+}
+
+[class*="kicker"],
+.eyebrow {
+  font-family: var(--font-body);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--gold-ink);
+}
+
+.lead {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: var(--body-ink);
+}
+
+/* ---------- Cards and panels ---------- */
+
+article,
+.card,
+.panel,
+.source-card,
+.mapbox,
+.sidebar {
+  background: #fff;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  box-shadow: 0 1px 2px rgba(1, 33, 80, 0.05);
+}
+
+main article {
+  padding: 1.35rem 1.5rem;
+  border-top: 2px solid var(--gold);
+  margin: 1rem 0;
+}
+
+main article h2,
+main article h3 {
+  margin-top: 0;
+}
+
+.panel {
+  padding: 1.6rem;
+}
+
+.card {
+  padding: 1.4rem;
+}
+
+.source-card {
+  background: var(--cream);
+  border-radius: 0.5rem;
+}
+
+.note {
+  background: #fdf6e6;
+  border-left: 4px solid var(--gold);
+  color: var(--body-ink);
+  padding: 0.9rem 1.1rem;
+  border-radius: 0 0.4rem 0.4rem 0;
+}
+
+.note strong {
+  color: var(--gold-ink);
+}
+
+.pill {
+  background: #f7ecd4;
+  color: var(--gold-ink);
+  border-radius: 100px;
+  font-weight: 700;
+  font-size: 0.76rem;
+  letter-spacing: 0.04em;
+  padding: 0.25rem 0.65rem;
+}
+
+/* ---------- Tables ---------- */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  font-size: 0.98rem;
+  border: 1px solid var(--line);
+}
+
+th,
+td {
+  padding: 0.55rem 0.7rem;
+  border-bottom: 1px solid var(--line);
+  text-align: right;
+  vertical-align: top;
+}
+
+th {
+  background: var(--parchment);
+  color: var(--navy);
+  font-family: var(--font-body);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  border-bottom: 2px solid var(--gold);
+}
+
+tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+tbody tr:hover {
+  background: #fdfaf2;
+}
+
+/* Row headers read as data, not as column headings. */
+tbody th {
+  background: transparent;
+  color: var(--navy);
+  font-family: var(--font-body);
+  font-size: 0.98rem;
+  font-weight: 700;
+  letter-spacing: normal;
+  text-transform: none;
+  border-bottom: 1px solid var(--line);
+}
+
+summary {
+  color: var(--navy);
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0.2rem 0;
+}
+
+summary:hover {
+  color: var(--flag);
+}
+
+details[open] > summary {
+  margin-bottom: 0.5rem;
+}
+
+caption {
+  caption-side: top;
+  text-align: left;
+  padding: 0 0 0.6rem;
+  color: var(--gold-ink);
+  font-family: var(--font-body);
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+/* ---------- Forms and buttons ---------- */
+
+input,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 1rem;
+  color: var(--ink);
+  background: #fff;
+  border: 1px solid #cfc6b1;
+  border-radius: 0.45rem;
+  padding: 0.5rem 0.65rem;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: #8a8579;
+}
+
+button,
+.btn,
+input[type="submit"],
+input[type="button"] {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 600;
+  border-radius: 0.45rem;
+  border: 1px solid var(--navy);
+  background: var(--navy);
+  color: #fff;
+  padding: 0.55rem 1rem;
+  cursor: pointer;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+
+button:hover,
+.btn:hover,
+input[type="submit"]:hover {
+  background: #02306f;
+  border-color: #02306f;
+}
+
+/* ---------- Home page and shared hero ---------- */
+
+.top {
+  background: var(--navy);
+  border-bottom: 4px solid var(--gold);
+  color: #fff;
+}
+
+.top .wrap {
+  min-height: 0;
+  padding-top: 0.85rem;
+  padding-bottom: 0.85rem;
+}
+
+.brand {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 1.12rem;
+  line-height: 1.15;
+  letter-spacing: 0.01em;
+  color: #fff;
+}
+
+.brand-badge {
+  border: 2px solid var(--gold);
+  background: #fff;
+}
+
+.top nav a {
+  color: rgba(255, 255, 255, 0.88);
+  text-decoration: none;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.top nav a:hover {
+  color: #fff;
+}
+
+.site-nav > a,
+.site-nav summary {
+  color: rgba(255, 255, 255, 0.88);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border-bottom: 2px solid transparent;
+}
+
+.site-nav > a:hover,
+.site-nav summary:hover {
+  color: #fff;
+  border-bottom-color: var(--gold);
+}
+
+.site-nav details > div {
+  background: var(--navy);
+  border: 1px solid var(--gold);
+  border-radius: 0.4rem;
+}
+
+.site-nav details a {
+  text-transform: none;
+  letter-spacing: 0.01em;
+  font-size: 0.92rem;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.site-nav details a:hover {
+  color: var(--gold-bright);
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.hero {
+  background: linear-gradient(100deg, rgba(1, 33, 80, 0.97) 0%, rgba(1, 33, 80, 0.88) 46%, rgba(1, 33, 80, 0.55) 100%), url('assets/pa-autumn-banner.jpg') center/cover no-repeat;
+  color: #fff;
+  border-bottom: 4px solid var(--gold);
+  padding: clamp(3rem, 6vw, 5rem) 0;
+}
+
+.hero h1 {
+  font-family: var(--font-heading);
+  letter-spacing: normal;
+  color: #fff;
+  line-height: 1.05;
+  max-width: 46rem;
+}
+
+.hero p {
+  color: rgba(255, 255, 255, 0.84);
+}
+
+.hero .eyebrow {
+  color: var(--gold-bright);
+}
+
+.atlas-banner {
+  background: linear-gradient(90deg, rgba(1, 33, 80, 0.95), rgba(1, 33, 80, 0.62)), url('assets/pa-autumn-banner.jpg') center 48%/cover;
+  border-radius: var(--radius);
+  border-bottom: 4px solid var(--gold);
+}
+
+.atlas-banner h1 {
+  font-family: var(--font-heading);
+  color: #fff;
+}
+
+.stats {
+  margin-top: -1.5rem;
+}
+
+.stat {
+  background: #fff;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  box-shadow: 0 6px 20px rgba(1, 33, 80, 0.08);
+}
+
+.stat strong {
+  font-family: var(--font-heading);
+  color: var(--navy);
+}
+
+.band {
+  background: var(--parchment);
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+}
+
+.section-head h2 {
+  font-family: var(--font-heading);
+  color: var(--navy);
+}
+
+.link-list a {
+  background: #fff;
+  border: 1px solid var(--rule);
+  border-radius: 0.5rem;
+  text-decoration: none;
+}
+
+.link-list a:hover {
+  border-color: var(--gold);
+  background: #fdfaf2;
+}
+
+.link-list strong {
+  color: var(--navy);
+}
+
+.btn.gold {
+  background: var(--gold);
+  border-color: var(--gold);
+  color: var(--navy);
+}
+
+.btn.ghost {
+  background: transparent;
+  border-color: var(--gold);
+  color: var(--gold-bright);
+}
+
+.btn.gold:hover,
+.btn.ghost:hover {
+  filter: brightness(0.95);
+}
+
+.drilldown,
+.mapmodes button[aria-pressed="true"] {
+  background: var(--navy);
+}
+
+.county-list button[aria-current="true"] {
+  background: var(--navy);
+}
+
+.tabs button[aria-selected="true"] {
+  border-color: var(--gold);
+  color: var(--navy);
+}
+
+.mapcanvas path:hover,
+.mapcanvas path:focus {
+  fill: var(--gold) !important;
+}
+
+/* ---------- Related pages block ---------- */
+
+.atlas-explore {
+  max-width: var(--wrap);
+  margin: 3rem auto 0;
+  padding: 1.5rem clamp(1rem, 4vw, 2rem);
+  background: var(--parchment);
+  border-top: 2px solid var(--gold);
+  color: var(--body-ink);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.atlas-explore h2 {
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  color: var(--navy);
+  margin: 0 0 0.7rem;
+}
+
+.atlas-explore ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 1.6rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.atlas-explore a {
+  color: var(--navy);
+  font-weight: 600;
+  text-decoration-color: var(--gold);
+  padding: 0.3rem 0;
+}
+
+.atlas-explore a:hover {
+  color: var(--flag);
+}
+
+/* ---------- Footer ---------- */
+
+.footer {
+  background: var(--navy);
+  color: #fff;
+  border-top: 4px solid var(--gold);
+  margin-top: 4rem;
+}
+
+.footer strong {
+  font-family: var(--font-heading);
+  font-size: 1.2rem;
+  color: #fff;
+}
+
+.footer p {
+  color: rgba(255, 255, 255, 0.78);
+}
+
+.footer a {
+  color: var(--gold-bright);
+  text-decoration-color: rgba(240, 215, 160, 0.5);
+}
+
+.footer a:hover {
+  color: #fff;
+}
+
+body > footer:not(.footer) {
+  border-top: 4px solid var(--gold);
+  background: var(--navy);
+  color: #fff;
+  padding: 2rem clamp(1rem, 4vw, 2rem);
+}
+
+body > footer:not(.footer) a {
+  color: var(--gold-bright);
+}
+
+/* Pages without a footer get a simple navy band. */
+body:not(:has(footer))::after {
+  content: "Young Republicans of Pennsylvania · An independent, open source civic records project";
+  display: block;
+  margin-top: 4rem;
+  padding: 1.9rem clamp(1rem, 4vw, 2rem);
+  background: var(--navy);
+  border-top: 4px solid var(--gold);
+  color: var(--gold-bright);
+  text-align: center;
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* ---------- Skip link ---------- */
+
+.skip-link {
+  position: absolute;
+  left: 1rem;
+  top: -8rem;
+  z-index: 20;
+  background: var(--cream);
+  color: var(--navy);
+  padding: 0.65rem 0.9rem;
+  border-radius: 0.4rem;
+  font-family: var(--font-body);
+  font-weight: 600;
+}
+
+.skip-link:focus {
+  top: 0.5rem;
+}
+
+/* ---------- Small screens ---------- */
+
+@media (max-width: 800px) {
+  body > header > nav::before,
+  body > nav::before {
+    font-size: 1rem;
+    width: 100%;
+    padding-right: 0;
+  }
+
+  body > header > nav,
+  body > nav {
+    gap: 0.1rem 1rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+  }
+
+  body > header > nav a,
+  body > nav a {
+    font-size: 0.78rem;
+    padding: 0.25rem 0;
+  }
+
+  main:not(#top) {
+    padding-top: 1.5rem;
+  }
+
+}
+
+@media print {
+  body:not(:has(footer))::after,
+  body > header,
+  body > nav {
+    display: none;
+  }
+
+  body {
+    background: #fff;
+  }
+}

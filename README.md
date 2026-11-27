@@ -6,6 +6,8 @@ This independent project indexes all 67 Pennsylvania counties and links to offic
 
 Run `python3 -m http.server 8000` in this directory, then open `http://localhost:8000/`. The page requires no build; the local server lets it load the map and JSON files. GitHub Pages publishes the repository root from the `main` branch.
 
+Page-level styles still live in each file, but `theme.css` is loaded last and carries the shared look: navy, gold and cream surfaces, serif headings in Tinos, and Source Sans 3 body text. Change the theme there unless a style is genuinely one page only.
+
 The county shapes come from [PA DCNR GIS](https://www.gis.dcnr.state.pa.us/agsprod/rest/services/base_mapping/counties/MapServer/0). Population figures are the [Census Vintage 2025 county estimates](https://www.census.gov/data/datasets/time-series/demo/popest/2020s-counties-total.html). Governing-body party control is displayed only where a current majority has been checked against the linked sources; other counties are marked unverified. `seed-records.json` holds direct county source links and their verification labels.
 
 ## Contributing records

@@ -19,4 +19,4 @@ Use and redistribution are subject to the [NYT Computational Use of Data Agreeme
 
 ## Committee seats
 
-No committee-seat data has been collected for these states yet. Until a state's seats are counted from official rosters or results, its map shows every unit as not known, and the national [Anatomy of an Opportunity](../anatomy/) page shows no percentages for it.
+`committee.json` in each folder describes how the state's Republican committees are structured, with an official source and the date it was checked. Delaware's structure could not be verified from published rules and is marked so. No seat-by-seat data has been collected for these states yet. Until a state's seats are counted from official rosters or results, its map shows every unit as not known, and the national [Anatomy of an Opportunity](../anatomy/) page shows no percentages for it.

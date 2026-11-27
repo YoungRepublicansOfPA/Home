@@ -1,0 +1,655 @@
+{
+ "county": "Queens County",
+ "checked_at": "2026-11-27",
+ "method": "election_results",
+ "election": "June 24, 2025 Primary Election",
+ "as_of": "2025-07-29",
+ "seats_per_precinct": null,
+ "sources": [
+  {
+   "url": "https://www.vote.nyc/page/election-results-summary-2025",
+   "title": "NYC Board of Elections, 2025 election results summary (June 24, 2025 Primary: Republican County Committee contests)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://vote.nyc/sites/default/files/news/2025-05/6_3_2025%203_04_37%20PM_Contest%20List.pdf",
+   "title": "NYC Board of Elections, The Contest List, Primary Election 2025 - 06/24/2025 (printed 6/3/2025; lists only contested positions, with '# to be elected' per ED)",
+   "type": "candidate_listing",
+   "as_of": "2025-06-03"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/candidates/2026/5_12_2026%203_22_25%20PM_Primary%20Contest%20List%20Web%20Version.pdf",
+   "title": "NYC Board of Elections, Primary Contest List, Primary Election 2026 - 06/23/2026 (printed 5/12/2026; no Republican County Committee contest in any borough)",
+   "type": "candidate_listing",
+   "as_of": "2026-05-12"
+  },
+  {
+   "url": "https://www.nysenate.gov/legislation/laws/ELN/2-104",
+   "title": "N.Y. Election Law \u00a72-104 (at least two county committee members per election district; county rules may add members, including in proportion to the party's gubernatorial vote)",
+   "type": "rules",
+   "as_of": "2026-11-27"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed1%20AD23_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 001 / AD 23, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed2%20AD23_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 002 / AD 23, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed4%20AD23_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 004 / AD 23, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/02408323006Queens%20Republican%20County%20Committee%20006%2023%20Recap.csv",
+   "title": "Queens Republican County Committee ED 006 / AD 23, June 24, 2025 Primary, Statement and Return Report for Certification (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-22"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed7%20AD23_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 007 / AD 23, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed8%20AD23_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 008 / AD 23, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed9%20AD23_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 009 / AD 23, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed10%20AD23_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 010 / AD 23, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed11%20AD23_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 011 / AD 23, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed12%20AD23_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 012 / AD 23, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed13%20AD23_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 013 / AD 23, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed14%20AD23_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 014 / AD 23, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed15%20AD23_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 015 / AD 23, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed16%20AD23_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 016 / AD 23, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed18%20AD23_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 018 / AD 23, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed26%20AD23_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 026 / AD 23, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed22%20AD24_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 022 / AD 24, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed62%20AD24_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 062 / AD 24, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed63%20AD24_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 063 / AD 24, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed12%20AD26_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 012 / AD 26, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed13%20AD26_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 013 / AD 26, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed29%20AD27_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 029 / AD 27, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed5%20AD31_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 005 / AD 31, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed1%20AD33_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 001 / AD 33, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed2%20AD33_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 002 / AD 33, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed3%20AD33_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 003 / AD 33, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed7%20AD33_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 007 / AD 33, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed10%20AD33_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 010 / AD 33, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed11%20AD33_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 011 / AD 33, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed23%20AD33_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 023 / AD 33, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed50%20AD33_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 050 / AD 33, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Queens_Rep_County%20Committee%20ed51%20AD33_ManualCanvassRecap.xls",
+   "title": "Queens Republican County Committee ED 051 / AD 33, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "AD 23 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 23 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 23 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 23 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 23 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 23 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 23 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 23 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 23 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 23 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 23 ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 23 ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 23 ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 23 ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 23 ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 23 ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 24 ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 24 ED 62",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 24 ED 63",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 26 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 26 ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 27 ED 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 31 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 33 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 33 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 33 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 33 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 33 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 33 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 33 ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 33 ED 50",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 33 ED 51",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  }
+ ],
+ "notes": "The Board's results pages list Republican County Committee contests in the June primaries of 2019, 2022 (Kings and Queens), 2023 and 2025, and none in 2021 or 2024; the June 23, 2026 contest list has none in any borough. The June 24, 2025 primary is therefore the most recent Republican county committee election found; that an uncontested 2026 election took place in some borough cannot be ruled out from public records. Uncontested county committee seats are not on the ballot or in the results: a candidate with a valid petition and no opponent is deemed elected. The Board does not publish a full list of county committee petition filers; its contest list names only contested EDs and its prima facie reports name only defective petitions. So uncontested EDs, and EDs with no filer, cannot be identified from public records and are not listed here; the totals cover contested EDs only and are not a borough-wide count. Seats per ED vary under county party rules (Election Law \u00a72-104 allows additional members) and the rules are not published, so seats_per_precinct is null and seats are labelled Member 1..N using the Board's 'Vote for N'. Seat status: in each contested ED with N seats, a seat is filled when a ballot candidate's certified vote is above both the (N+1)th candidate's vote and the ED's total write-in votes (so no tie or write-in could change it); any other seat is unknown (ties at the cut-off, all-zero results, or write-ins that could have won). Write-in winners are not named in public results. No names are stored. Queens: all 32 contested EDs elect 2 members ('Vote for 2'); 16 are in AD 23 and 9 in AD 33. AD 23 ED 6 results are from the Board's certified Statement and Return CSV; the other 31 are from manual recount recaps. Totals cover 32 of Queens's EDs only.",
+ "totals": {
+  "precincts": 32,
+  "seats": 64,
+  "filled": 55,
+  "empty": 0,
+  "empty_no_filer": 0,
+  "unknown": 9
+ },
+ "coverage": "partial",
+ "coverage_note": "Contested election districts only. The NYC Board of Elections does not publish who filed for uncontested county committee seats, so the rest of the county is not listed."
+}

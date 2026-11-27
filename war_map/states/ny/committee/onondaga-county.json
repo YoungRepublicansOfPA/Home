@@ -1,0 +1,5895 @@
+{
+ "county": "Onondaga County",
+ "checked_at": "2026-11-27",
+ "method": "none_found",
+ "election": "June 23, 2026 Primary (full Republican county committee filing list not found)",
+ "as_of": "2026-05-18",
+ "seats_per_precinct": 2,
+ "sources": [
+  {
+   "url": "https://onondaga.gov/elections/wp-content/uploads/sites/191/2026/05/2026-PRIMARY-ELECTION-SAMPLE-BALLOT-GUIDE-REPUBLICAN.pdf",
+   "title": "Onondaga County BOE, 2026 Primary Election Republican Sample Ballot Guide (ED list)",
+   "type": "candidate_listing",
+   "as_of": "2026-05-18"
+  },
+  {
+   "url": "https://onondaga.gov/elections/wp-content/uploads/sites/191/2026/05/2026-Primary-Election-Candidate-List-no-addresses.pdf",
+   "title": "Onondaga County BOE, Official Primary Candidates List, June 23, 2026 (contested races only)",
+   "type": "candidate_listing",
+   "as_of": "2026-05-18"
+  },
+  {
+   "url": "https://onondaga.gov/elections/wp-content/uploads/sites/191/2026/05/052626-Filing.pdf",
+   "title": "Onondaga County BOE, Petition Standard Report 5/26/2026 (non-committee offices only)",
+   "type": "candidate_listing",
+   "as_of": "2026-05-26"
+  },
+  {
+   "url": "https://onondaga.gov/elections/filings/",
+   "title": "Onondaga County BOE, Filings page",
+   "type": "candidate_listing",
+   "as_of": "2026-11-27"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "Town of Camillus ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Camillus ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cicero ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 32",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 33",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 34",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 35",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 36",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 37",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 38",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 39",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 40",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 41",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 42",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 43",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 44",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 45",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clay ED 46",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of DeWitt ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Elbridge ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Elbridge ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Elbridge ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Elbridge ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Elbridge ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Fabius ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Fabius ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Geddes ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of LaFayette ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of LaFayette ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of LaFayette ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of LaFayette ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of LaFayette ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lysander ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 32",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Manlius ED 33",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Marcellus ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Marcellus ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Marcellus ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Marcellus ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Marcellus ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Marcellus ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Onondaga ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Otisco ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Otisco ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pompey ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pompey ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pompey ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pompey ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pompey ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pompey ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Salina ED 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Skaneateles ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Skaneateles ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Skaneateles ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Skaneateles ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Skaneateles ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Skaneateles ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Skaneateles ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Skaneateles ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Spafford ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Spafford ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 1 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 1 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 1 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 1 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 1 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 1 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 1 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 2 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 2 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 2 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 3 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 3 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 3 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 3 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 3 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 3 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 4 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 4 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 4 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 4 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 4 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 4 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 4 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 4 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 4 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 4 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 4 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 4 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 5 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 5 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 5 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 5 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 5 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 5 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 5 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 5 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 5 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 5 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 5 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 5 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 6 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 6 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 6 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 6 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 6 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 6 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 6 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 6 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 6 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 6 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 7 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 7 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 8 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 8 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 8 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 8 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 8 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 9 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 9 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 9 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 9 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 9 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 9 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 9 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 9 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 9 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 9 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 10 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 10 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 10 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 10 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 10 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 10 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 10 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 10 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 10 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 10 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 11 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 11 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 11 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 11 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 11 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 11 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 11 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 11 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 12 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 12 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 12 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 12 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 12 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 12 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 13 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 13 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 13 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 13 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 13 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 13 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 13 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 13 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 13 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 14 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 14 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 14 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 14 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 14 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 14 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 14 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 14 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 14 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 14 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 14 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 14 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 14 ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 15 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 15 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 15 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 15 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 15 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 15 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 15 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 15 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 16 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 16 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 16 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 16 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 16 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 16 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 17 ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 18 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 18 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 19 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 19 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 19 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 19 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 19 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 19 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 19 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Syracuse Ward 19 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tully ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tully ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tully ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Van Buren ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Van Buren ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Van Buren ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Van Buren ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Van Buren ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Van Buren ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Van Buren ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Van Buren ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Van Buren ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Van Buren ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Van Buren ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "precincts": 450,
+  "seats": 900,
+  "filled": 0,
+  "empty": 0,
+  "empty_no_filer": 0,
+  "unknown": 900
+ },
+ "notes": "Onondaga elects county committee at the even-year primary: the BOE 2026 offices-to-be-filled list includes members of county committee, and the official June 23, 2026 primary candidates list shows one contested Republican committee race (Town of Pompey District 6, vote for 2). The BOE posts petition reports filtered to \"Only Non-Committee Offices\" and the primary candidates list covers contested races only, so no public list of all Republican county committee filers was found; empty/filled status cannot be determined for any ED. All 450 EDs are taken from the BOE 2026 Republican sample ballot guide, which lists every town/ward/district. Seats use 2 per ED (statutory minimum, consistent with the Pompey ED 6 \"vote for 2\"); Onondaga Republican committee rules were not found. Pompey ED 6 results were not checked because the other EDs could not be documented either; that ED is left unknown."
+}

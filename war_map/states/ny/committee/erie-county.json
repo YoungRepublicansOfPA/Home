@@ -1,0 +1,8527 @@
+{
+ "county": "Erie County",
+ "checked_at": "2026-11-27",
+ "method": "candidate_listing",
+ "election": "June 23, 2026 Primary",
+ "as_of": "2026-07-28",
+ "seats_per_precinct": 2,
+ "sources": [
+  {
+   "url": "https://www.elections.erie.gov/pdfs/07.28.26%20Petitions%20Log.pdf",
+   "title": "Erie County BOE Petitions Log (designating petitions filed, incl. County Committee Member), as of 7/28/2026 12pm",
+   "type": "candidate_listing",
+   "as_of": "2026-07-28"
+  },
+  {
+   "url": "https://www.elections.erie.gov/pdfs/2026%20Primary%20Candidates%20List%20For%20Web4pm.pdf",
+   "title": "Erie County BOE 2026 Primary Candidates List (contested primary ballot)",
+   "type": "candidate_listing",
+   "as_of": "2026-06-23"
+  },
+  {
+   "url": "https://elections.erie.gov/Files/Election%20Results/2026/2026%20Republican%20Primary%20Canvass%20Book.pdf",
+   "title": "Erie County BOE 2026 Republican Primary Canvass Book (official; contains only Collins Town Justice)",
+   "type": "results",
+   "as_of": "2026-07-08"
+  },
+  {
+   "url": "https://www.elections.erie.gov/PDFs/2026%20ApportionmentBook%203-3-26.pdf",
+   "title": "Erie County BOE 2026 Apportionment and Enrollment (652 election districts)",
+   "type": "rules",
+   "as_of": "2026-02-20"
+  },
+  {
+   "url": "https://www.elections.erie.gov/pdfs/07.10.26%20Offices%20to%20be%20Elected.pdf",
+   "title": "Erie County BOE Offices to be Elected 7/10/2026 (Member of County Committee: Republican, primary only)",
+   "type": "rules",
+   "as_of": "2026-07-10"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "City of Buffalo Delaware Ward ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Delaware Ward ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Ellicott Ward ED 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Fillmore Ward ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Lovejoy Ward ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Masten Ward ED 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo Niagara Ward ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo North Ward ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo South Ward ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Buffalo University Ward ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 1 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 1 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 1 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 1 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 1 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 2 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 2 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 2 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 2 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 2 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 3 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 3 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 3 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 3 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 3 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 4 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 4 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 4 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 4 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Lackawanna Ward 4 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Tonawanda Ward 1 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Tonawanda Ward 1 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Tonawanda Ward 1 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Tonawanda Ward 2 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Tonawanda Ward 2 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Tonawanda Ward 2 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Tonawanda Ward 3 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Tonawanda Ward 3 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Tonawanda Ward 3 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Tonawanda Ward 4 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Tonawanda Ward 4 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Tonawanda Ward 4 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Alden ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Alden ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Alden ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Alden ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Alden ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Alden ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 32",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 33",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 34",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 35",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 36",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 37",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 38",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 39",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 40",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 41",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 42",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 43",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 44",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 45",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 46",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 47",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 48",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 49",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 50",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 51",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 52",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 53",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 54",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 55",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 56",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 57",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 58",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 59",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 60",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 61",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 62",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Amherst ED 63",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Aurora ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Aurora ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Aurora ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Aurora ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Aurora ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Aurora ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Aurora ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Aurora ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Aurora ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Boston ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Boston ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Boston ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Boston ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Boston ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Boston ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Brant ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Brant ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Brant ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 32",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 33",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 34",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 35",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 36",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 37",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 38",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 39",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 40",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 41",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 42",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 43",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 44",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 45",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 46",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 47",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 48",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 49",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 50",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 51",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 52",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 53",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 54",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 55",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 56",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 57",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 58",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 59",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 60",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 61",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 62",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 63",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 64",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cheektowaga ED 65",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clarence ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clarence ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clarence ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clarence ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clarence ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clarence ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clarence ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clarence ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clarence ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clarence ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clarence ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clarence ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clarence ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clarence ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clarence ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clarence ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Clarence ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Colden ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Colden ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Collins ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Collins ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Collins ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Collins ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Concord ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Concord ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Concord ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Concord ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Concord ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Concord ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eden ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eden ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eden ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eden ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eden ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eden ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Elma ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Elma ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Elma ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Elma ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Elma ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Elma ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Elma ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Evans ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Evans ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Evans ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Evans ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Evans ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Evans ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Evans ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Evans ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Evans ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Evans ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Evans ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Evans ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Evans ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Evans ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Grand Island ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Grand Island ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Grand Island ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Grand Island ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Grand Island ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Grand Island ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Grand Island ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Grand Island ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Grand Island ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Grand Island ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Grand Island ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Grand Island ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Grand Island ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 32",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 33",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 34",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 35",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 36",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Hamburg ED 37",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Holland ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Holland ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lancaster ED 32",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Marilla ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Marilla ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Marilla ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Newstead ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Newstead ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Newstead ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Newstead ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Newstead ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Newstead ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Collins ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Collins ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Collins ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Orchard Park ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Sardinia ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 32",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 33",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 34",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 35",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 36",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 37",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 38",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 39",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 40",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 41",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 42",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 43",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 44",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 45",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 46",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 47",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 48",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 49",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 50",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 51",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 52",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 53",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 54",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 55",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tonawanda ED 56",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Wales ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of West Seneca ED 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "precincts": 652,
+  "seats": 1304,
+  "filled": 562,
+  "empty": 0,
+  "empty_no_filer": 740,
+  "unknown": 2
+ },
+ "notes": "Erie County Republican county committee members are elected at the June 23, 2026 primary (BOE 'Offices to be Elected' lists Member of County Committee for Republicans). ED list: 652 EDs from the BOE 2026 Apportionment Book (Buffalo 208, Lackawanna 20, City of Tonawanda 12, towns 412); codes cross-checked against the 2026 general poll-site list (which omits Town of Tonawanda ED 8). Filers: 'COUNTY COMMITTEE MEMBER' rows with party R in the BOE Petitions Log dated 7/28/2026 (567 Republican filers in 316 EDs). This is a log of petitions filed; it does not show withdrawals, declinations or invalidations, so a few 'filled' seats may belong to filers who were later removed. Seats: 2 per ED, from 'Vote for Any Two' on the BOE primary candidate list; no other ED had more than 2 Republican filers. Town of Amherst ED 57 was the only contested Republican county committee race (5 petitions filed, 4 on the ballot); its results were not found (the official Republican canvass book contains only the Collins Town Justice race), so both seats are unknown. Uncontested filers are deemed elected; seats without a Republican filer are empty_no_filer (vacancies may since have been filled by appointment)."
+}

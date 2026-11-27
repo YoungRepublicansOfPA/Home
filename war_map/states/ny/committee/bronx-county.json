@@ -1,0 +1,85 @@
+{
+ "county": "Bronx County",
+ "checked_at": "2026-11-27",
+ "method": "election_results",
+ "election": "June 24, 2025 Primary Election",
+ "as_of": "2025-07-22",
+ "seats_per_precinct": null,
+ "sources": [
+  {
+   "url": "https://www.vote.nyc/page/election-results-summary-2025",
+   "title": "NYC Board of Elections, 2025 election results summary (June 24, 2025 Primary: Republican County Committee contests)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://vote.nyc/sites/default/files/news/2025-05/6_3_2025%203_04_37%20PM_Contest%20List.pdf",
+   "title": "NYC Board of Elections, The Contest List, Primary Election 2025 - 06/24/2025 (printed 6/3/2025; lists only contested positions, with '# to be elected' per ED)",
+   "type": "candidate_listing",
+   "as_of": "2025-06-03"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/candidates/2026/5_12_2026%203_22_25%20PM_Primary%20Contest%20List%20Web%20Version.pdf",
+   "title": "NYC Board of Elections, Primary Contest List, Primary Election 2026 - 06/23/2026 (printed 5/12/2026; no Republican County Committee contest in any borough)",
+   "type": "candidate_listing",
+   "as_of": "2026-05-12"
+  },
+  {
+   "url": "https://www.nysenate.gov/legislation/laws/ELN/2-104",
+   "title": "N.Y. Election Law \u00a72-104 (at least two county committee members per election district; county rules may add members, including in proportion to the party's gubernatorial vote)",
+   "type": "rules",
+   "as_of": "2026-11-27"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Bronx%20Rep%20%20Co%20Comm%20Manual%20Recount_01977.xls",
+   "title": "Bronx Republican County Committee ED 019 / AD 77, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-22"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Bronx%20Rep%20%20Co%20Comm%20Manual%20Recount_02081.xls",
+   "title": "Bronx Republican County Committee ED 020 / AD 81, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-22"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "AD 77 ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 81 ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  }
+ ],
+ "notes": "The Board's results pages list Republican County Committee contests in the June primaries of 2019, 2022 (Kings and Queens), 2023 and 2025, and none in 2021 or 2024; the June 23, 2026 contest list has none in any borough. The June 24, 2025 primary is therefore the most recent Republican county committee election found; that an uncontested 2026 election took place in some borough cannot be ruled out from public records. Uncontested county committee seats are not on the ballot or in the results: a candidate with a valid petition and no opponent is deemed elected. The Board does not publish a full list of county committee petition filers; its contest list names only contested EDs and its prima facie reports name only defective petitions. So uncontested EDs, and EDs with no filer, cannot be identified from public records and are not listed here; the totals cover contested EDs only and are not a borough-wide count. Seats per ED vary under county party rules (Election Law \u00a72-104 allows additional members) and the rules are not published, so seats_per_precinct is null and seats are labelled Member 1..N using the Board's 'Vote for N'. Seat status: in each contested ED with N seats, a seat is filled when a ballot candidate's certified vote is above both the (N+1)th candidate's vote and the ED's total write-in votes (so no tie or write-in could change it); any other seat is unknown (ties at the cut-off, all-zero results, or write-ins that could have won). Write-in winners are not named in public results. No names are stored. Bronx: only 2 EDs were contested (AD 77 ED 19 and AD 81 ED 20, each 'Vote for 2'). The AD 77 ED 19 recount recap's title line reads 'New York County' although the Board lists it under Bronx and names the file 'Bronx Rep Co Comm Manual Recount_01977'; the Board's listing is followed here. Its write-in column is misaligned, so write-ins were taken as total votes minus candidate, over-, under- and void votes. Totals cover 2 of the Bronx's EDs only.",
+ "totals": {
+  "precincts": 2,
+  "seats": 4,
+  "filled": 3,
+  "empty": 0,
+  "empty_no_filer": 0,
+  "unknown": 1
+ },
+ "coverage": "partial",
+ "coverage_note": "Contested election districts only. The NYC Board of Elections does not publish who filed for uncontested county committee seats, so the rest of the county is not listed."
+}

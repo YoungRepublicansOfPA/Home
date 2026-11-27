@@ -1,0 +1,7370 @@
+{
+  "county": "Bergen",
+  "checked_at": "2026-11-27",
+  "method": "candidate_listing",
+  "election": "June 2, 2026 Primary Election",
+  "as_of": "2026-06-02",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.bergencountyclerk.gov/services/88",
+      "title": "Bergen County Clerk, 2026 Primary Election sample ballots by municipality (74 PDFs, one page per election district; Republican column 'For Members of the County Committee (Vote for Two)', empty slots printed 'NO PETITION FILED')",
+      "type": "candidate_listing",
+      "as_of": "2026-06-02"
+    },
+    {
+      "url": "https://www.bergencountyclerk.gov/_Content/pdf/voting/sample-ballots/2026-primary/P26-Dumont.pdf",
+      "title": "Example: Borough of Dumont 2026 Official Primary Election Sample Ballot",
+      "type": "candidate_listing",
+      "as_of": "2026-06-02"
+    },
+    {
+      "url": "https://www.bergencountyclerk.gov/_Content/pdf/ElectionResult/2026%20Primary%20Official%20District%20Canvass.pdf",
+      "title": "Bergen County Official 2026 June Primary District Canvass (860 pages, 563 election districts; contains no Republican county committee contests)",
+      "type": "results",
+      "as_of": "2026-06-12"
+    },
+    {
+      "url": "https://www.livevoterturnout.com/ENR/bergennjenr/19/en/Index_19.html",
+      "title": "Bergen County Official 2026 Primary Summary Report (only county committee contest listed is one Democratic Upper Saddle River district)",
+      "type": "results",
+      "as_of": "2026-11-27"
+    },
+    {
+      "url": "https://nj.gov/state/elections/dos-statutes-elections-19-01-09.shtml",
+      "title": "N.J.S.A. 19:5-3 (one committeeman and one committeewoman per election district)",
+      "type": "rules",
+      "as_of": "2026-11-27"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "Borough of Allendale - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Allendale - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Allendale - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Allendale - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Alpine - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bergenfield - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bergenfield - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bergenfield - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bergenfield - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bergenfield - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bergenfield - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bergenfield - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bergenfield - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bergenfield - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bergenfield - District 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bergenfield - District 11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bergenfield - District 12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bergenfield - District 13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bergenfield - District 14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bergenfield - District 15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bergenfield - District 16",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bergenfield - District 17",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bogota - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bogota - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bogota - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bogota - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bogota - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Bogota - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Carlstadt - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Carlstadt - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Carlstadt - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Carlstadt - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Carlstadt - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cliffside Park - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cliffside Park - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cliffside Park - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cliffside Park - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cliffside Park - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cliffside Park - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cliffside Park - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cliffside Park - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cliffside Park - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cliffside Park - District 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cliffside Park - District 11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cliffside Park - District 12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cliffside Park - District 13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cliffside Park - District 14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cliffside Park - District 15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Closter - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Closter - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Closter - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Closter - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Closter - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Closter - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cresskill - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cresskill - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cresskill - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cresskill - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cresskill - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Cresskill - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Demarest - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Demarest - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Demarest - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Dumont - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Dumont - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Dumont - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Dumont - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Dumont - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Dumont - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Dumont - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Dumont - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Dumont - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Dumont - District 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Dumont - District 11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of East Rutherford - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of East Rutherford - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of East Rutherford - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of East Rutherford - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Edgewater - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Edgewater - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Edgewater - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Edgewater - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Elmwood Park - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Elmwood Park - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Elmwood Park - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Elmwood Park - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Elmwood Park - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Elmwood Park - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Elmwood Park - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Elmwood Park - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Elmwood Park - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Elmwood Park - District 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Emerson - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Emerson - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Emerson - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Emerson - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Emerson - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Emerson - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Englewood Cliffs - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Englewood Cliffs - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Englewood Cliffs - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Englewood Cliffs - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "City of Englewood - Ward 1 District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Englewood - Ward 1 District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Englewood - Ward 1 District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Englewood - Ward 1 District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Englewood - Ward 2 District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Englewood - Ward 2 District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Englewood - Ward 2 District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Englewood - Ward 2 District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Englewood - Ward 3 District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Englewood - Ward 3 District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Englewood - Ward 3 District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Englewood - Ward 3 District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Englewood - Ward 4 District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Englewood - Ward 4 District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Englewood - Ward 4 District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Englewood - Ward 4 District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 16",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 17",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 18",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 19",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 20",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 21",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 22",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fair Lawn - District 23",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fairview - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fairview - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fairview - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fairview - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fairview - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fairview - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 16",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 17",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 18",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Fort Lee - District 19",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Franklin Lakes - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Franklin Lakes - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Franklin Lakes - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Franklin Lakes - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Franklin Lakes - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Franklin Lakes - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Franklin Lakes - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "City of Garfield - Ward 1 District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "City of Garfield - Ward 1 District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "City of Garfield - Ward 1 District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Garfield - Ward 2 District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Garfield - Ward 2 District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Garfield - Ward 2 District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Garfield - Ward 3 District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Garfield - Ward 3 District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "City of Garfield - Ward 3 District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Garfield - Ward 4 District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Garfield - Ward 4 District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Garfield - Ward 4 District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Garfield - Ward 5 District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Garfield - Ward 5 District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Garfield - Ward 5 District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Glen Rock - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Glen Rock - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Glen Rock - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Glen Rock - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Glen Rock - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Glen Rock - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Glen Rock - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Glen Rock - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 1 District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 1 District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 1 District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 1 District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 2 District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 2 District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 2 District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 2 District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 2 District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 3 District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 3 District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 3 District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 3 District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 3 District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 4 District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 4 District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 4 District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 4 District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 4 District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 5 District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 5 District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 5 District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 5 District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 5 District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "City of Hackensack - Ward 5 District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Harrington Park - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Harrington Park - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Harrington Park - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Hasbrouck Heights - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Hasbrouck Heights - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Hasbrouck Heights - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Hasbrouck Heights - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Hasbrouck Heights - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Hasbrouck Heights - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Hasbrouck Heights - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Hasbrouck Heights - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Hasbrouck Heights - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Haworth - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Haworth - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Hillsdale - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Hillsdale - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Hillsdale - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Hillsdale - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Hillsdale - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Hillsdale - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Ho-Ho-Kus - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Ho-Ho-Kus - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Ho-Ho-Kus - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Leonia - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Leonia - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Leonia - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Leonia - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Leonia - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Leonia - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Little Ferry - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Little Ferry - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Little Ferry - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Little Ferry - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Little Ferry - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Little Ferry - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Lodi - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Lodi - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Lodi - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Lodi - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Lodi - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Lodi - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Lodi - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Lodi - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Lodi - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Lodi - District 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Lodi - District 11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Lodi - District 12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Lyndhurst - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Lyndhurst - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Lyndhurst - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Lyndhurst - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Lyndhurst - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Lyndhurst - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Lyndhurst - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Lyndhurst - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Lyndhurst - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Lyndhurst - District 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Lyndhurst - District 11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Lyndhurst - District 12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Lyndhurst - District 13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Lyndhurst - District 14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Lyndhurst - District 15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Mahwah - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Mahwah - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Mahwah - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Mahwah - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Mahwah - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Mahwah - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Mahwah - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Mahwah - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Mahwah - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Mahwah - District 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Mahwah - District 11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Mahwah - District 12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Mahwah - District 13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Mahwah - District 14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Maywood - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Maywood - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Maywood - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Maywood - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Maywood - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Maywood - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Maywood - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Midland Park - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Midland Park - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Midland Park - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Midland Park - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Midland Park - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Montvale - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Montvale - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Montvale - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Montvale - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Moonachie - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Moonachie - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Moonachie - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of New Milford - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of New Milford - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of New Milford - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of New Milford - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of New Milford - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of New Milford - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of New Milford - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of New Milford - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of New Milford - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of North Arlington - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of North Arlington - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of North Arlington - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of North Arlington - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of North Arlington - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of North Arlington - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of North Arlington - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of North Arlington - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of North Arlington - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of North Arlington - District 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Northvale - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Northvale - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Northvale - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Norwood - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Norwood - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Oakland - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Oakland - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Oakland - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Oakland - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Oakland - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Oakland - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Oakland - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Oakland - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Old Tappan - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Old Tappan - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Old Tappan - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Oradell - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Oradell - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Oradell - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Oradell - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Oradell - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Oradell - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Palisades Park - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Palisades Park - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Palisades Park - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Palisades Park - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Palisades Park - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Palisades Park - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Palisades Park - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Palisades Park - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Palisades Park - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 16",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 17",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 18",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 19",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Paramus - District 20",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Park Ridge - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Park Ridge - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Park Ridge - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Park Ridge - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Park Ridge - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Park Ridge - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Ramsey - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Ramsey - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Ramsey - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Ramsey - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Ramsey - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Ramsey - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Ramsey - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Ramsey - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgefield Park - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgefield Park - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgefield Park - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgefield Park - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgefield Park - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgefield Park - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgefield Park - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgefield Park - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Ridgefield - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Ridgefield - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Ridgefield - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Ridgefield - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Ridgefield - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 16",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 17",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 18",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Village of Ridgewood - District 19",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of River Edge - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of River Edge - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of River Edge - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of River Edge - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of River Edge - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of River Edge - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of River Edge - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of River Edge - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of River Vale - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of River Vale - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of River Vale - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of River Vale - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of River Vale - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Rochelle Park - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Rochelle Park - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Rochelle Park - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Rochelle Park - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Rockleigh - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Rutherford - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Rutherford - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Rutherford - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Rutherford - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Rutherford - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Rutherford - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Rutherford - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Rutherford - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Rutherford - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Rutherford - District 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Rutherford - District 11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Rutherford - District 12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Saddle Brook - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Saddle Brook - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Saddle Brook - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Saddle Brook - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Saddle Brook - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Saddle Brook - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Saddle Brook - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Saddle Brook - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Saddle Brook - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Saddle Brook - District 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Saddle Brook - District 11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Saddle River - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Saddle River - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of South Hackensack - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 16",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 17",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 18",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 19",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 20",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 21",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 22",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Teaneck - District 23",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Tenafly - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Tenafly - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Tenafly - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Tenafly - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Tenafly - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Tenafly - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Tenafly - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Tenafly - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Tenafly - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Tenafly - District 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Tenafly - District 11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Tenafly - District 12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Teterboro - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Township of Washington - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Washington - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Washington - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Washington - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Washington - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Washington - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Upper Saddle River - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Upper Saddle River - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Upper Saddle River - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Upper Saddle River - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Upper Saddle River - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Waldwick - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Waldwick - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Waldwick - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Waldwick - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Waldwick - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Waldwick - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Wallington - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Wallington - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Wallington - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Wallington - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Wallington - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Wallington - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Westwood - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Westwood - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Westwood - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Westwood - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Westwood - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Westwood - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Westwood - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Westwood - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Wood-Ridge - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Wood-Ridge - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Wood-Ridge - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Wood-Ridge - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Wood-Ridge - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Wood-Ridge - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Woodcliff Lake - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Woodcliff Lake - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Woodcliff Lake - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Borough of Woodcliff Lake - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Wyckoff - District 1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Wyckoff - District 2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Wyckoff - District 3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Wyckoff - District 4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Wyckoff - District 5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Wyckoff - District 6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Wyckoff - District 7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Wyckoff - District 8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Wyckoff - District 9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Township of Wyckoff - District 10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 563,
+    "seats": 1126,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 533,
+    "unknown": 593
+  },
+  "notes": "Republican county committee was on the June 2, 2026 primary ballot in every one of Bergen's 563 election districts (one 'For Members of the County Committee, Vote for Two' contest per district on the sample ballots). The county clerk's official district canvass and summary report for the 2026, 2025, 2024 and 2023 primaries do not report Bergen Republican county committee contests at all, so no official results were found and the evidence is the official sample ballots (a candidate listing). The sample ballots do not mark which candidate is running for the male or female seat, so seats are labeled 'Member'. Unknown = a slot with a printed Republican candidate (no result could be verified, so not counted as filled). Empty_no_filer = a slot printed 'NO PETITION FILED' (write-ins could still have won). Where more than two candidates appeared (20 districts), both seats are unknown. The candidate count per district was read from the position of the county committee column on each ballot page; every page balanced to two slots (candidates plus 'NO PETITION FILED'). The district count matches the 563 districts in the official canvass. Precinct names are as printed on the ballot. The county clerk offers a county committee list only on request."
+}

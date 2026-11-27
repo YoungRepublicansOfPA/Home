@@ -9,6 +9,8 @@ const LOAD_ALL = 7000;          // states with fewer units load every county at 
 const LOAD_ZOOM = 7.4;          // otherwise counties load once zoomed in this far
 const COLORS = {r: ['#e8a29b', '#d4605a', '#a8302f'], d: ['#9cc3e4', '#4f8fc9', '#245f9e'], tie: '#9b7bb5', none: '#5b6676'};
 const UNKNOWN_SEAT = '#6b7891';
+const CHAIR_SHADES = ['#4a3440', '#7a3040', '#a8333f', '#d9434c'], CHAIR_STEPS = [.10, .25, .50];   // share of seats open, as on the PA map
+const METHOD_LABEL = {roster: 'Committee roster', election_results: 'Official committee results', candidate_listing: 'Candidate filings', none_found: 'No public record found'};
 
 const $ = id => document.getElementById(id);
 const fmt = n => n.toLocaleString('en-US');
@@ -44,13 +46,30 @@ function voteBlock(p) {
       h('span', {text: 'Total votes'}), h('span', {text: fmt(p.total)}))];
 }
 
+const countySeats = slug => committee?.counties?.find(c => c.slug === slug);
+function openShare(t) { return t && t.seats ? (t.empty + t.empty_no_filer) / t.seats : null; }
+function chairColor(slug) {
+  const r = countySeats(slug), v = r && r.totals.seats && r.method !== 'none_found' && r.coverage !== 'partial' ? openShare(r.totals) : null;
+  if (v == null) return UNKNOWN_SEAT;
+  return CHAIR_SHADES[CHAIR_STEPS.filter(x => v >= x).length];
+}
+function seatBlock(t, label) {
+  const doc = t.filled + t.empty + t.empty_no_filer, open = t.empty + t.empty_no_filer;
+  return h('div', {class: 'kv'},
+    h('span', {text: label}), h('span', {text: fmt(t.seats)}),
+    h('span', {text: 'Filled'}), h('span', {text: `${fmt(t.filled)} (${pct(t.filled, t.seats)})`}),
+    h('span', {text: 'Open'}), h('span', {text: `${fmt(open)} (${pct(open, t.seats)})`}),
+    h('span', {text: 'Not known'}), h('span', {text: `${fmt(t.unknown)} (${pct(t.unknown, t.seats)})`}),
+    h('span', {text: 'Open, of documented seats'}), h('span', {text: pct(open, doc)}));
+}
 function committeeNote() {
   if (committee?.structure) {
     const c = committee.structure;
     return h('div', {class: 'note'}, h('b', {text: 'Republican committee seats'}),
       h('div', {text: c.summary}),
       c.source ? h('div', {}, h('a', {href: c.source, text: c.source_title || 'Official source'}), ` · checked ${committee.checked_at}`) : null,
-      h('div', {style: 'margin-top:6px;color:var(--muted)', text: committee.totals ? '' : 'Seat-by-seat status has not been documented yet, so the Empty chairs layer shows every unit as not known.'}));
+      committee.totals ? [h('div', {style: 'margin-top:8px', text: `Seats counted in ${committee.counties_counted} of ${committee.counties_total} counties so far:`}), seatBlock(committee.totals, 'Seats counted')]
+        : h('div', {style: 'margin-top:6px;color:var(--muted)', text: 'Seat-by-seat status has not been documented yet, so the Empty chairs layer shows every unit as not known.'}));
   }
   return h('div', {class: 'note warn'}, h('b', {text: 'Committee seats not yet documented'}),
     h('div', {text: `Who holds each Republican committee seat in ${info.name} hasn't been collected from official rosters or results yet. The Empty chairs layer shows every ${unitWord(1)} as not known until it is.`}));
@@ -71,11 +90,20 @@ function renderCounty(c) {
   $('panel').replaceChildren(
     h('button', {class: 'back', onclick: () => { renderHome(); fitBox(info.bbox); }, text: '← ' + info.name}),
     h('p', {class: 'eyebrow', text: 'County'}), h('h2', {text: c.name}),
-    h('p', {class: 'lede', text: `${fmt(c.units)} ${unitWord(c.units)} mapped.`}), ...voteBlock(c),
+    h('p', {class: 'lede', text: `${fmt(c.units)} ${unitWord(c.units)} mapped.`}), ...voteBlock(c), countyCommittee(c),
     h('h3', {text: info.unit === 'town' ? 'Towns' : 'Precincts'}),
     h('ul', {class: 'clist'}, units.map(f => h('li', {onclick: () => openUnit(f)}, h('span', {text: f.properties.name}), h('small', {text: marginText(margin(f.properties))})))));
 }
 
+function countyCommittee(c) {
+  const r = countySeats(c.slug);
+  if (!r) return h('div', {class: 'note warn'}, h('b', {text: 'Committee seats'}), h('div', {text: 'Not yet documented for this county.'}));
+  return h('div', {class: 'note'}, h('b', {text: 'Republican committee seats'}),
+    h('div', {style: 'color:var(--muted)', text: `${METHOD_LABEL[r.method]}${r.election ? ' · ' + r.election : ''} · checked ${r.checked_at}`}),
+    r.coverage === 'partial' ? h('div', {style: 'margin-top:6px', text: r.coverage_note || 'Partial seat list.'}) : null,
+    r.totals.seats ? seatBlock(r.totals, r.coverage === 'partial' ? 'Seats listed (partial)' : 'Seats') : h('div', {text: 'No seat list could be established from public records.'}),
+    h('a', {href: `../states/${st}/committee/${c.slug}.json`, text: 'Sources and seat list (JSON)'}));
+}
 function renderUnit(f) {
   const p = f.properties, c = info.counties.find(x => x.slug === p.county);
   $('panel').replaceChildren(
@@ -83,7 +111,7 @@ function renderUnit(f) {
     h('p', {class: 'eyebrow', text: info.unit === 'town' ? 'Town' : 'Precinct'}), h('h2', {text: p.name}),
     h('p', {class: 'lede', text: `${c ? c.name + ', ' : ''}${info.name} · ${p.official ? 'official boundary' : 'boundary estimated by the publisher'}`}),
     ...voteBlock(p),
-    h('div', {class: 'note'}, h('b', {text: 'Committee seats here'}), h('div', {text: 'Not yet documented from an official roster or results.'})));
+    h('div', {class: 'note'}, h('b', {text: 'Committee seats here'}), h('div', {text: countySeats(p.county) ? 'Documented for the county as a whole; see the county panel. Precinct-by-precinct seats are not matched to this map yet.' : 'Not yet documented from an official roster or results.'})));
 }
 
 function fitBox(b) { map.fitBounds([[b[0], b[1]], [b[2], b[3]]], {padding: {top: 70, bottom: 60, left: innerWidth > 900 ? 400 : 20, right: 30}, maxZoom: 12}); }
@@ -100,7 +128,7 @@ function bboxOf(g) {
 
 async function loadCounty(c) {
   if (!loaded.has(c.slug)) loaded.set(c.slug, fetch(`../states/${st}/${c.slug}.json`).then(r => r.json()).then(fc => {
-    for (const f of fc.features) { f.properties.county = c.slug; f.properties.fill = colorFor(margin(f.properties)); features.push(f); }
+    for (const f of fc.features) { f.properties.county = c.slug; f.properties.fill = colorFor(margin(f.properties)); f.properties.chair = chairColor(c.slug); features.push(f); }
     map.getSource('units').setData({type: 'FeatureCollection', features});
   }));
   return loaded.get(c.slug);
@@ -113,13 +141,14 @@ function loadVisible() {
 
 function applyLayer() {
   document.querySelectorAll('.tabs button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.layer === layer)));
-  map.setPaintProperty('units-fill', 'fill-color', layer === 'results' ? ['get', 'fill'] : UNKNOWN_SEAT);
+  map.setPaintProperty('units-fill', 'fill-color', layer === 'results' ? ['get', 'fill'] : ['get', 'chair']);
   map.setPaintProperty('units-fill', 'fill-opacity', layer === 'results' ? .78 : .55);
   $('legend').replaceChildren(...(layer === 'results'
     ? [h('span', {}, h('i', {style: 'background:' + COLORS.r[2]}), 'Trump 30+'), h('span', {}, h('i', {style: 'background:' + COLORS.r[1]}), '10–30'), h('span', {}, h('i', {style: 'background:' + COLORS.r[0]}), '0–10'),
        h('span', {}, h('i', {style: 'background:' + COLORS.d[0]}), 'Harris 0–10'), h('span', {}, h('i', {style: 'background:' + COLORS.d[1]}), '10–30'), h('span', {}, h('i', {style: 'background:' + COLORS.d[2]}), '30+'),
        info.totals.units > LOAD_ALL ? h('span', {style: 'color:var(--muted)', text: `Zoom in to load ${unitWord()}`}) : null]
-    : [h('span', {}, h('i', {style: 'background:' + UNKNOWN_SEAT}), 'Not known: committee seats not yet documented')]));
+    : [h('span', {text: 'County share of seats open:'}), ...['Under 10%', '10–25%', '25–50%', '50%+'].map((t, i) => h('span', {}, h('i', {style: 'background:' + CHAIR_SHADES[i]}), t)),
+       h('span', {}, h('i', {style: 'background:' + UNKNOWN_SEAT}), 'Not documented')]));
 }
 
 async function main() {
@@ -153,7 +182,7 @@ async function main() {
   map.on('mousemove', 'units-fill', e => {
     map.getCanvas().style.cursor = 'pointer';
     const p = e.features[0].properties;
-    popup.setLngLat(e.lngLat).setHTML(`<b>${p.name}</b><br>${layer === 'results' ? marginText(margin(p)) + ` · ${fmt(p.total)} votes` : 'Committee seats: not known'}`).addTo(map);
+    popup.setLngLat(e.lngLat).setHTML(`<b>${p.name}</b><br>${layer === 'results' ? marginText(margin(p)) + ` · ${fmt(p.total)} votes` : (countySeats(p.county) ? 'County seats documented; see panel' : 'Committee seats: not known')}`).addTo(map);
   });
   map.on('mouseleave', 'units-fill', () => { map.getCanvas().style.cursor = ''; popup.remove(); });
   map.on('click', 'units-fill', e => openUnit(features.find(f => f.properties.id === e.features[0].properties.id)));

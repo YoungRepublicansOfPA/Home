@@ -1,0 +1,2554 @@
+{
+ "county": "Oneida County",
+ "checked_at": "2026-11-27",
+ "method": "candidate_listing",
+ "election": "June 23, 2026 Primary",
+ "as_of": "2026-07-07",
+ "seats_per_precinct": 2,
+ "sources": [
+  {
+   "url": "https://oneidacountynyvotes.gov/wp-content/uploads/2026/04/2026-04-08_Candidate-Report_County-Committee.pdf",
+   "title": "Oneida County BOE Candidate Standard Report, committee offices, PE26 (4/8/2026; all filed petitions, valid and invalid)",
+   "type": "candidate_listing",
+   "as_of": "2026-04-08"
+  },
+  {
+   "url": "https://oneidacountynyvotes.gov/wp-content/uploads/2026/05/",
+   "title": "Oneida County BOE Certification for the June 23, 2026 Primary Election (dated April 30, 2026, amended May 5, 2026 with results of determination hearings; lists every Member of the County Committee designation, with uncontested candidates marked \"Uncontested\"). Linked from the BOE \"What's on the Ballot\" page.",
+   "type": "candidate_listing",
+   "as_of": "2026-05-05"
+  },
+  {
+   "url": "https://oneidacountynyvotes.gov/wp-content/uploads/2026/09/June-23-2026-Primary-Election-AMENDED-Statement-of-Canvass.pdf",
+   "title": "Oneida County Board of Canvassers, AMENDED Statement of Canvass, June 23, 2026 Primary Election (scanned; read by OCR, contested Republican county committee races)",
+   "type": "results",
+   "as_of": "2026-07-07"
+  },
+  {
+   "url": "https://oneidacountynyvotes.gov/results/",
+   "title": "Oneida County BOE results page: November 2025 general election results workbook (GE25 All Results, used for the list of 193 election districts)",
+   "type": "rules",
+   "as_of": "2025-11-04"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "Annsville 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Annsville 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Annsville 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Augusta 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Augusta 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ava 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Boonville 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Boonville 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Boonville 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Boonville 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bridgewater 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Camden 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Camden 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Camden 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Deerfield 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Deerfield 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Deerfield 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Florence 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Floyd 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Floyd 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Floyd 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Forestport 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Forestport 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Kirkland 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Kirkland 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Kirkland 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Kirkland 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Kirkland 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Kirkland 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Kirkland 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Kirkland 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Kirkland 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Kirkland 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lee 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lee 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lee 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lee 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lee 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marcy 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marcy 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marcy 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marcy 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Marshall 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Marshall 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "New Hartford Ward 1 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "New Hartford Ward 1 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "New Hartford Ward 1 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "New Hartford Ward 1 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "New Hartford Ward 1 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "New Hartford Ward 2 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "New Hartford Ward 2 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "New Hartford Ward 2 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "New Hartford Ward 2 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "New Hartford Ward 3 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "New Hartford Ward 3 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "New Hartford Ward 3 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "New Hartford Ward 3 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "New Hartford Ward 4 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "New Hartford Ward 4 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "New Hartford Ward 4 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "New Hartford Ward 4 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Paris 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Paris 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Paris 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Remsen 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 1 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 1 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 1 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 1 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 2 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 2 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 2 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 2 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 2 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 3 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 3 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 3 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 3 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 3 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 4 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 4 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 4 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 4 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 5 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 5 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 5 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 5 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 6 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 6 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 6 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 6 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 7 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 7 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 7 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 7 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Rome Ward 7 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Sangerfield 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Sangerfield 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Steuben 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Trenton 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Trenton 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Trenton 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Trenton 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 1 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 1 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 1 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 1 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 1 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 1 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 1 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 1 District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 1 District 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 2 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 2 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 2 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 2 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 2 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 2 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 2 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 2 District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 3 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 3 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 3 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 3 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 3 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 3 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 3 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 3 District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 3 District 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 3 District 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 3 District 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 4 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 4 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 4 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 4 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 4 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 4 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 4 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 4 District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 4 District 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 5 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 5 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 5 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 5 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 5 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 6 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 6 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 6 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 6 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 6 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 6 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 6 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 6 District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Utica Ward 6 District 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Vernon 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Vernon 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Vernon 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Vernon 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Vernon 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Verona 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Verona 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Verona 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Verona 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Verona 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Verona 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Verona 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Vienna 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Vienna 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Vienna 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Vienna 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Western 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Western 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Western 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Westmoreland 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Westmoreland 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Westmoreland 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Westmoreland 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitestown 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitestown 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitestown 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitestown 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitestown 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitestown 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitestown 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitestown 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitestown 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitestown 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitestown 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitestown 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitestown 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitestown 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitestown 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Whitestown 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "precincts": 193,
+  "seats": 386,
+  "filled": 349,
+  "empty": 0,
+  "empty_no_filer": 31,
+  "unknown": 6
+ },
+ "notes": "Oneida County Republicans elected county committee at the June 23, 2026 primary. Seats: 2 per ED (\"Vote For: Two\" on every Republican Member of the County Committee entry in the BOE primary certification). Filers come from the BOE certification as amended May 5, 2026 after determination hearings, which lists uncontested designations as well as ballot contests: 182 Republican committee entries, 50 of them contested. In an uncontested ED each certified candidate fills a seat and any remaining seat is empty_no_filer; EDs with no Republican entry are empty_no_filer. Contested EDs use the amended Statement of Canvass (a scanned document read by OCR; vote lines were checked against the printed totals, and the one inconsistent race, Rome Ward 3 District 2, was checked against the page image). Where the second-place candidates tied in the canvass (Rome Ward 4 District 3, Utica Ward 4 District 7, Utica Ward 6 District 4, Utica Ward 6 District 7), the tied seat is unknown. Verona 2 is unknown because the certification shows \"Litigation Pending\" with no candidates. The certification printed \"Utica 5-3\" twice; the first entry is Utica Ward 3 District 5, per the BOE committee petition report. Court rulings after May 5, declinations and later appointments are not reflected. ED list (193 EDs) from the BOE November 2025 general election results workbook. The certification PDF's exact file URL was not recorded; the sources entry points to the BOE upload folder."
+}

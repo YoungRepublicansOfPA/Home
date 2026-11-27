@@ -1,0 +1,44 @@
+{
+ "county": "Richmond County",
+ "checked_at": "2026-11-27",
+ "method": "none_found",
+ "election": "June 24, 2025 Primary Election (most likely cycle; not confirmed)",
+ "as_of": "2025-06-03",
+ "seats_per_precinct": null,
+ "sources": [
+  {
+   "url": "https://vote.nyc/sites/default/files/news/2025-05/6_3_2025%203_04_37%20PM_Contest%20List.pdf",
+   "title": "NYC Board of Elections, The Contest List, Primary Election 2025 - 06/24/2025 (printed 6/3/2025; lists only contested positions)",
+   "type": "candidate_listing",
+   "as_of": "2025-06-03"
+  },
+  {
+   "url": "https://www.vote.nyc/page/election-results-summary-2025",
+   "title": "NYC Board of Elections, 2025 election results summary (June 24, 2025 Primary)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/candidates/2026/5_12_2026%203_22_25%20PM_Primary%20Contest%20List%20Web%20Version.pdf",
+   "title": "NYC Board of Elections, Primary Contest List, Primary Election 2026 - 06/23/2026 (printed 5/12/2026; no Republican County Committee contest in any borough)",
+   "type": "candidate_listing",
+   "as_of": "2026-05-12"
+  },
+  {
+   "url": "https://www.nysenate.gov/legislation/laws/ELN/2-104",
+   "title": "N.Y. Election Law §2-104 (at least two county committee members per election district; county rules may add members)",
+   "type": "rules",
+   "as_of": "2026-11-27"
+  }
+ ],
+ "precincts": [],
+ "totals": {
+  "precincts": 0,
+  "seats": 0,
+  "filled": 0,
+  "empty": 0,
+  "empty_no_filer": 0,
+  "unknown": 0
+ },
+ "notes": "No Staten Island Republican county committee contest appears in the Board's 2025 contest list or results, in the 2026 contest list, or in the 2021 to 2024 results. The last contested Richmond Republican County Committee race found is in the June 2019 primary (an odd year, like the other boroughs' 2023 and 2025 contests), so the June 24, 2025 primary is the most likely most recent election, but that is not confirmed by any public record. Uncontested county committee seats are not on the ballot or in the results (an unopposed candidate with a valid petition is deemed elected), and the NYC Board of Elections does not publish a full list of county committee petition filers; its contest list names only contested EDs and its prima facie reports name only defective petitions. The county party's rules setting seats per ED are not published, and in Kings the Board's 2025 'Vote for' counts range from 2 to 4 per ED, so seats per ED cannot be assumed to be 2. With neither the filers nor the seats per ED public, the EDs are not listed and totals are zero; this is a lack of evidence, not a count of empty seats. No names are stored."
+}

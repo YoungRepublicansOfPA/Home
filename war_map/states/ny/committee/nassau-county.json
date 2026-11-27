@@ -1,0 +1,44 @@
+{
+ "county": "Nassau County",
+ "checked_at": "2026-11-27",
+ "method": "none_found",
+ "election": "Unknown (most recent Republican county committee election not identified)",
+ "as_of": "2026-11-27",
+ "seats_per_precinct": null,
+ "sources": [
+  {
+   "url": "https://www.nassaucountyny.gov/386/Board-of-Elections",
+   "title": "Nassau County Board of Elections page (candidate lists for public offices only; no county committee filings or roster)",
+   "type": "rules",
+   "as_of": "2026-11-27"
+  },
+  {
+   "url": "https://www.nassaucountyny.gov/571/Election-Results",
+   "title": "Nassau County BOE Election Results page",
+   "type": "results",
+   "as_of": "2026-11-27"
+  },
+  {
+   "url": "https://www.nassaucountyny.gov/2303/Election-Information",
+   "title": "Nassau County BOE Election Information page",
+   "type": "rules",
+   "as_of": "2026-11-27"
+  },
+  {
+   "url": "https://www.nassaucountyny.gov/DocumentCenter/View/54522/Candidate-List-as-of-09182026",
+   "title": "Nassau County BOE Candidate List - 2026, as of 09/18/2026 (general-election public offices only; no county committee entries)",
+   "type": "candidate_listing",
+   "as_of": "2026-09-18"
+  }
+ ],
+ "precincts": [],
+ "totals": {
+  "precincts": 0,
+  "seats": 0,
+  "filled": 0,
+  "empty": 0,
+  "empty_no_filer": 0,
+  "unknown": 0
+ },
+ "notes": "No list of Republican county committee filers, committee roster, or committee results was found on the Nassau County Board of Elections website; its published candidate lists cover public offices only, and contested committee races (if any) were not found in posted results. The year in which Nassau Republicans elect county committee was not confirmed from an official source. No official list of election districts could be retrieved (the NYS BOE enrollment-by-ED files sit behind a Cloudflare challenge), so precincts are empty. Seat status is unknown for the whole county. (Search results for a \"Nassau County\" committee roster at votenassaufl.gov refer to Nassau County, Florida, and were not used.)"
+}

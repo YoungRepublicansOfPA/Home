@@ -13,7 +13,7 @@ const MAPS = {
   TX: {url: 'https://yrtx.gop/map/', by: 'Young Republicans of Texas', external: true},
   FL: {url: 'https://www.flcollegegop.com/precinct', by: 'Florida College Republicans', external: true},
 };
-for (const st of NORTHEAST) MAPS[st] = {url: '../state/?st=' + st.toLowerCase(), by: 'Young Republicans of Pennsylvania'};
+for (const st of NORTHEAST) MAPS[st] = {url: '../state/?st=' + st.toLowerCase(), by: 'Young Republicans of Pennsylvania', seats: `../states/${st.toLowerCase()}/committee.json`};
 
 const VIEWS = {
   present: {label: 'Share of committee seats documented', ramp: ['#284264', '#159c94'], value: m => m.present / m.seats},
@@ -56,7 +56,7 @@ function bar(parts) {
 
 function statusText(s) {
   if (!s.map) return 'No War Map yet';
-  if (s.m) return `${pct(s.m.present, s.m.seats)} documented`;
+  if (s.m) return `${pct(s.m.present, s.m.seats)} documented` + (s.cov && s.cov[0] < s.cov[1] ? ` · ${s.cov[0]} of ${s.cov[1]} counties` : '');
   return s.map.external ? 'Partner map · seats not counted here' : 'Map live · seats not yet documented';
 }
 
@@ -109,7 +109,7 @@ function renderLegend() {
 function tipHTML(s) {
   const lines = [`<b>${s.name}</b>`];
   if (s.m) {
-    lines.push(`${fmt(s.m.seats)} committee seats counted`,
+    lines.push(`${fmt(s.m.seats)} committee seats counted` + (s.cov && s.cov[0] < s.cov[1] ? ` in ${s.cov[0]} of ${s.cov[1]} counties` : ''),
       `<span class="muted">Documented</span> ${pct(s.m.present, s.m.seats)} · <span class="muted">missing</span> ${pct(s.m.missing, s.m.seats)}`,
       `<span class="muted">Of documented:</span> ${pct(s.m.empty, s.m.present)} empty · ${pct(s.m.filled, s.m.present)} filled`);
   } else lines.push(`<span class="muted">${statusText(s)}</span>`);
@@ -160,7 +160,11 @@ async function main() {
   const names = Object.fromEntries(us.objects.states.geometries.map(g => [g.id, g.properties.name]));
   states = Object.entries(ABBR).filter(([f]) => f !== '11').map(([fips, st]) => ({fips, st, name: names[fips], map: MAPS[st] || null, m: null}));
   await Promise.all(states.filter(s => s.map?.seats).map(async s => {
-    try { s.m = metrics((await (await fetch(s.map.seats)).json()).total); } catch { s.m = null; }
+    try {
+      const j = await (await fetch(s.map.seats)).json();
+      s.m = metrics(j.total || j.totals);
+      if (s.m && j.counties_total) s.cov = [j.counties_counted, j.counties_total];
+    } catch { s.m = null; }
   }));
   renderNational(); renderList(); renderLegend(); draw(us);
   document.querySelectorAll('.tabs button').forEach(b => b.addEventListener('click', () => setView(b.dataset.view)));

@@ -1,0 +1,38 @@
+{
+ "county": "Suffolk County",
+ "checked_at": "2026-11-27",
+ "method": "none_found",
+ "election": "Unknown (most likely the June 24, 2025 primary; not confirmed)",
+ "as_of": "2026-11-27",
+ "seats_per_precinct": null,
+ "sources": [
+  {
+   "url": "https://apps2.suffolkcountyny.gov/boe/documents/2025%20Primary%20-%20Who%20Filed.html",
+   "title": "Suffolk County BOE \"Who Filed for 2025 Elections\" (Internet Archive copy, filings as of July 17, 2025; lists public offices only, no county committee filers). Live site returned HTTP 403 when checked.",
+   "type": "candidate_listing",
+   "as_of": "2025-07-17"
+  },
+  {
+   "url": "https://apps2.suffolkcountyny.gov/boe/documents/2024%20Primary%20-%20Who%20Filed.html",
+   "title": "Suffolk County BOE \"Who Filed for 2024 Primary Election\" (Internet Archive copy, filings as of June 6, 2024; no county committee filers)",
+   "type": "candidate_listing",
+   "as_of": "2024-06-06"
+  },
+  {
+   "url": "https://suffolkcountyny.gov/Departments/BOE/NOTICE-OF-MANUAL-COUNT-MEMBER-OF-COUNTY-COMMITTEE",
+   "title": "Suffolk County BOE Notice of Manual Count, Member of County Committee (search-result snippet: 2025, Republican Party, Town of Islip); page returned HTTP 403 when checked",
+   "type": "rules",
+   "as_of": "2026-11-27"
+  }
+ ],
+ "precincts": [],
+ "totals": {
+  "precincts": 0,
+  "seats": 0,
+  "filled": 0,
+  "empty": 0,
+  "empty_no_filer": 0,
+  "unknown": 0
+ },
+ "notes": "No Republican county committee filing list, roster or results could be retrieved. Every suffolkcountyny.gov page (including the BOE document server apps2.suffolkcountyny.gov/boe) returned HTTP 403 (\"Server Maintenance\") to both curl and WebFetch on 2026-11-27, and the NYS BOE sites (elections.ny.gov, publicreporting.elections.ny.gov) were behind a Cloudflare challenge, so no official election-district list was available either; precincts are therefore empty. Archived copies of the BOE \"Who Filed\" pages for 2024 and 2025 list public-office filers only. A search-result snippet for a BOE notice of a manual count for Republican county committee seats in the Town of Islip suggests Suffolk Republicans elected county committee at the June 2025 primary, but the page itself could not be read, so the election is not confirmed. Seat status is unknown for the whole county."
+}

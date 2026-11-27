@@ -7,6 +7,251 @@
   "source_title": "N.Y. Election Law \u00a72-104",
   "seat_data_source": "County boards of elections"
  },
- "totals": null,
- "notes": "Structure only. Seat-by-seat status has not been collected."
+ "totals": {
+  "seats": 5966,
+  "precincts": 2981,
+  "filled": 1560,
+  "empty": 0,
+  "empty_no_filer": 1930,
+  "unknown": 2476
+ },
+ "notes": "Totals cover the counties listed in `counties` that have a seat list. Counties without one, or with only a partial list (coverage: partial), are not in the totals. Seat status follows war_map/committee/README.md.",
+ "counties": [
+  {
+   "slug": "bronx-county",
+   "name": "Bronx County",
+   "method": "election_results",
+   "election": "June 24, 2025 Primary Election",
+   "as_of": "2025-07-22",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 2,
+    "seats": 4,
+    "filled": 3,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 1
+   },
+   "coverage": "partial",
+   "coverage_note": "Contested election districts only. The NYC Board of Elections does not publish who filed for uncontested county committee seats, so the rest of the county is not listed."
+  },
+  {
+   "slug": "erie-county",
+   "name": "Erie County",
+   "method": "candidate_listing",
+   "election": "June 23, 2026 Primary",
+   "as_of": "2026-07-28",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 652,
+    "seats": 1304,
+    "filled": 562,
+    "empty": 0,
+    "empty_no_filer": 740,
+    "unknown": 2
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "kings-county",
+   "name": "Kings County",
+   "method": "election_results",
+   "election": "June 24, 2025 Primary Election",
+   "as_of": "2025-07-29",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 52,
+    "seats": 130,
+    "filled": 106,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 24
+   },
+   "coverage": "partial",
+   "coverage_note": "Contested election districts only. The NYC Board of Elections does not publish who filed for uncontested county committee seats, so the rest of the county is not listed."
+  },
+  {
+   "slug": "monroe-county",
+   "name": "Monroe County",
+   "method": "none_found",
+   "election": "June 24, 2025 Primary (full Republican county committee filing list not found)",
+   "as_of": "2026-02-10",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 659,
+    "seats": 1322,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 1322
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "nassau-county",
+   "name": "Nassau County",
+   "method": "none_found",
+   "election": "Unknown (most recent Republican county committee election not identified)",
+   "as_of": "2026-11-27",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 0,
+    "seats": 0,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 0
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "new-york-county",
+   "name": "New York County",
+   "method": "none_found",
+   "election": "June 24, 2025 Primary Election",
+   "as_of": "2025-07-29",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 0,
+    "seats": 0,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 0
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "niagara-county",
+   "name": "Niagara County",
+   "method": "none_found",
+   "election": "June 23, 2026 Primary (filer list and results not found)",
+   "as_of": "2026-11-27",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 121,
+    "seats": 242,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 242
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "oneida-county",
+   "name": "Oneida County",
+   "method": "candidate_listing",
+   "election": "June 23, 2026 Primary",
+   "as_of": "2026-07-07",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 193,
+    "seats": 386,
+    "filled": 349,
+    "empty": 0,
+    "empty_no_filer": 31,
+    "unknown": 6
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "onondaga-county",
+   "name": "Onondaga County",
+   "method": "none_found",
+   "election": "June 23, 2026 Primary (full Republican county committee filing list not found)",
+   "as_of": "2026-05-18",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 450,
+    "seats": 900,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 900
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "queens-county",
+   "name": "Queens County",
+   "method": "election_results",
+   "election": "June 24, 2025 Primary Election",
+   "as_of": "2025-07-29",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 32,
+    "seats": 64,
+    "filled": 55,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 9
+   },
+   "coverage": "partial",
+   "coverage_note": "Contested election districts only. The NYC Board of Elections does not publish who filed for uncontested county committee seats, so the rest of the county is not listed."
+  },
+  {
+   "slug": "richmond-county",
+   "name": "Richmond County",
+   "method": "none_found",
+   "election": "June 24, 2025 Primary Election (most likely cycle; not confirmed)",
+   "as_of": "2025-06-03",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 0,
+    "seats": 0,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 0
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "suffolk-county",
+   "name": "Suffolk County",
+   "method": "none_found",
+   "election": "Unknown (most likely the June 24, 2025 primary; not confirmed)",
+   "as_of": "2026-11-27",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 0,
+    "seats": 0,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 0
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "westchester-county",
+   "name": "Westchester County",
+   "method": "candidate_listing",
+   "election": "June 24, 2025 Primary",
+   "as_of": "2025-06-24",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 906,
+    "seats": 1812,
+    "filled": 649,
+    "empty": 0,
+    "empty_no_filer": 1159,
+    "unknown": 4
+   },
+   "coverage": "full",
+   "coverage_note": null
+  }
+ ],
+ "counties_total": 62,
+ "counties_counted": 6
 }

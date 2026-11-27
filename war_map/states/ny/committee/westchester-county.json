@@ -1,0 +1,11823 @@
+{
+ "county": "Westchester County",
+ "checked_at": "2026-11-27",
+ "method": "candidate_listing",
+ "election": "June 24, 2025 Primary",
+ "as_of": "2025-06-24",
+ "seats_per_precinct": 2,
+ "sources": [
+  {
+   "url": "https://web.archive.org/web/20250519172525/https://citizenparticipation.westchestergov.com/images/stories/pdfs/2025/party-petitions-filed-through-4-18-25.pdf",
+   "title": "Westchester County Board of Elections: Party Petitions Filed 4-18-2025 (archived copy; original no longer on the BOE site)",
+   "type": "candidate_listing",
+   "as_of": "2025-04-18"
+  },
+  {
+   "url": "https://web.archive.org/web/20250622093922/https://citizenparticipation.westchestergov.com/images/stories/pdfs/2025/2025-primary-election-candidate-list-6-4.pdf",
+   "title": "Westchester County Board of Elections: 2025 Primary Election Candidate List (6-4) (archived copy)",
+   "type": "candidate_listing",
+   "as_of": "2025-06-04"
+  },
+  {
+   "url": "https://citizenparticipation.westchestercountyny.gov/images/stories/pdfs/2025/2025_June_Primary_Election_Canvass.pdf",
+   "title": "Westchester County Board of Elections: 2025 June Primary Election Canvass (Yonkers County Committee - Republican, pp. 67-85)",
+   "type": "results",
+   "as_of": "2025-06-24"
+  },
+  {
+   "url": "https://citizenparticipation.westchestercountyny.gov/images/stories/pdfs/2025/2025-general-election-canvass.pdf",
+   "title": "Westchester County Board of Elections: 2025 General Election Canvass (ED list from County Executive pages)",
+   "type": "rules",
+   "as_of": "2025-11-04"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "Town of Bedford - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bedford - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bedford - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bedford - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bedford - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bedford - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bedford - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bedford - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bedford - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bedford - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bedford - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bedford - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bedford - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bedford - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bedford - 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bedford - 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bedford - 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bedford - 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 32",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 33",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 34",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 35",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cortlandt - 39",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 32",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 33",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 34",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 35",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 36",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 37",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 38",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Eastchester - 39",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 32",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 33",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 34",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 35",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 36",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 37",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 38",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 39",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 40",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 41",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 42",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 43",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 44",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 45",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 46",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 47",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 48",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 49",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 50",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 51",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 52",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 53",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 54",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 55",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 56",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 57",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 58",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 59",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 60",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 61",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 62",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 63",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 64",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 65",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 66",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 67",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 68",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 69",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 70",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 71",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 72",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 73",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 74",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 75",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 76",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 77",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 78",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 79",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Greenburgh - 80",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Harrison - 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lewisboro - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lewisboro - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lewisboro - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lewisboro - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lewisboro - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lewisboro - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lewisboro - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lewisboro - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lewisboro - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lewisboro - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lewisboro - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lewisboro - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamaroneck - 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Kisco - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Kisco - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Kisco - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Kisco - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Kisco - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Kisco - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Kisco - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 32",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 33",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 34",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 35",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 36",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 37",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 38",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 39",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 40",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 41",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 42",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 43",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mount Pleasant - 44",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of New Castle - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of New Castle - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of New Castle - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of New Castle - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of New Castle - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of New Castle - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of New Castle - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of New Castle - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of New Castle - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of New Castle - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of New Castle - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of New Castle - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of New Castle - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of New Castle - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of New Castle - 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of New Castle - 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Castle - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Castle - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Castle - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Castle - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Castle - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Castle - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Castle - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Castle - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Castle - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Castle - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Castle - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Salem - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Salem - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Salem - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Salem - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Salem - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Salem - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Salem - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of North Salem - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Ossining - 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pelham - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pelham - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pelham - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pelham - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pelham - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pelham - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pelham - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pelham - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pelham - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pelham - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pound Ridge - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pound Ridge - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pound Ridge - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Pound Ridge - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rye - 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Scarsdale - 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Somers - 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 32",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 33",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 34",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 35",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 36",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 37",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 38",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 39",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 40",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 41",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 42",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Yorktown - 43",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 32",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 33",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 34",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 35",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 36",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 37",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 38",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 39",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 40",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 41",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 42",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 43",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 45",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 46",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 47",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 48",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 49",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 50",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 51",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 52",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 53",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 54",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 56",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 57",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 61",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 64",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 65",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 67",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 68",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 69",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 73",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Mount Vernon - 76",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 32",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 33",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 34",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 35",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 36",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 37",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 38",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 39",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 40",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 41",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 42",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 43",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 44",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 45",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 46",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 47",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 48",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 49",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 50",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 52",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 53",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 54",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 55",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 57",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 58",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 59",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 60",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 61",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 63",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 64",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 65",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 67",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 68",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 69",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 70",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 71",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 72",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 73",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 74",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of New Rochelle - 75",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Peekskill - 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Rye - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Rye - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Rye - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Rye - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Rye - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Rye - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Rye - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Rye - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Rye - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Rye - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Rye - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Rye - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Rye - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Rye - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 32",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 33",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 34",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 35",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 36",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 37",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 38",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 39",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 40",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 41",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 42",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 43",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 44",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of White Plains - 46",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 1 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 1 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 1 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 1 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 1 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 1 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 1 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 1 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 1 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 1 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 1 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 1 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 1 ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 1 ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 1 ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 2 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 2 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 2 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 2 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 2 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 2 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 2 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 2 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 2 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 2 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 2 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 2 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 2 ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 2 ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 2 ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 2 ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 3 ED 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 4 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 4 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 4 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 4 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 4 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 4 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 4 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 4 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 4 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 4 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 4 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 4 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 4 ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 4 ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 4 ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 4 ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 4 ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 5 ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 32",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 6 ED 33",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 7 ED 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 8 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 8 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 8 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 8 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 8 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 8 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 8 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 8 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 8 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 8 ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 8 ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 8 ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 8 ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 8 ED 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 9 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 9 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 9 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 9 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 9 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 9 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 9 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 9 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 9 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 9 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 9 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 9 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 9 ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 9 ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 9 ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 9 ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 10 ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 11 ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "City of Yonkers Ward 12 ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "precincts": 906,
+  "seats": 1812,
+  "filled": 649,
+  "empty": 0,
+  "empty_no_filer": 1159,
+  "unknown": 4
+ },
+ "notes": "Westchester Republicans elect county committee in odd years; the June 24, 2025 primary is the most recent election (the 2026 primary ballot list shows only Democratic county committee contests). Filing basis: the BOE's 'Party Petitions Filed 4-18-2025' list (marked 'subject to change'), counting REP County Committee Member filers with status E (a person listed on two petitions in the same ED counted once); status I entries (104) were treated as invalid, which matches the final 6-4 ballot list (e.g. Yonkers 250209 and 250301). Declinations or court rulings after 4/18/2025 are not reflected for uncontested EDs. Seats: 2 per ED ('VOTE FOR TWO' on the BOE ballot list). 19 Yonkers EDs were contested (some via opportunity-to-ballot petitions); winners taken from the certified 2025 primary canvass. In Yonkers Ward 6 ED 6 both seats were won by write-in candidates over the sole filer, so they are marked unknown (write-in acceptance not verified). ED list (906 EDs) and names from the 2025 general election canvass, which matches every ED code in the petition list. One ED had more valid filers than seats but no contest on the final ballot (Yonkers 250206, City of Yonkers Ward 2 ED 6); its seats are marked unknown."
+}

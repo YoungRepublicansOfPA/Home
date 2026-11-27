@@ -1,0 +1,1139 @@
+{
+ "county": "Kings County",
+ "checked_at": "2026-11-27",
+ "method": "election_results",
+ "election": "June 24, 2025 Primary Election",
+ "as_of": "2025-07-29",
+ "seats_per_precinct": null,
+ "sources": [
+  {
+   "url": "https://www.vote.nyc/page/election-results-summary-2025",
+   "title": "NYC Board of Elections, 2025 election results summary (June 24, 2025 Primary: Republican County Committee contests)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://vote.nyc/sites/default/files/news/2025-05/6_3_2025%203_04_37%20PM_Contest%20List.pdf",
+   "title": "NYC Board of Elections, The Contest List, Primary Election 2025 - 06/24/2025 (printed 6/3/2025; lists only contested positions, with '# to be elected' per ED)",
+   "type": "candidate_listing",
+   "as_of": "2025-06-03"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/candidates/2026/5_12_2026%203_22_25%20PM_Primary%20Contest%20List%20Web%20Version.pdf",
+   "title": "NYC Board of Elections, Primary Contest List, Primary Election 2026 - 06/23/2026 (printed 5/12/2026; no Republican County Committee contest in any borough)",
+   "type": "candidate_listing",
+   "as_of": "2026-05-12"
+  },
+  {
+   "url": "https://www.nysenate.gov/legislation/laws/ELN/2-104",
+   "title": "N.Y. Election Law \u00a72-104 (at least two county committee members per election district; county rules may add members, including in proportion to the party's gubernatorial vote)",
+   "type": "rules",
+   "as_of": "2026-11-27"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed1%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 001 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/02308347002Kings%20Republican%20County%20Committee%20002%2047%20Recap.csv",
+   "title": "Kings Republican County Committee ED 002 / AD 47, June 24, 2025 Primary, Statement and Return Report for Certification (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-22"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed3%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 003 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed4%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 004 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed5%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 005 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed6%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 006 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed7%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 007 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed8%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 008 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed9%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 009 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed10%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 010 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed11%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 011 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed12%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 012 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed13%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 013 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed15%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 015 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed16%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 016 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed17%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 017 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed18%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 018 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed19%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 019 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed20%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 020 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed21%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 021 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed22%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 022 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed23%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 023 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed24%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 024 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed25%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 025 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed26%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 026 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed27%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 027 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 4)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed28%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 028 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed29%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 029 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed30%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 030 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed31%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 031 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed32%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 032 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed33%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 033 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed34%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 034 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed35%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 035 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed36%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 036 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed37%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 037 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed38%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 038 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed39%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 039 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed40%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 040 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed41%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 041 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed42%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 042 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed43%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 043 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed44%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 044 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed45%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 045 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed46%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 046 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed47%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 047 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed49%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 049 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed53%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 053 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed55%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 055 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed56%20AD47_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 056 / AD 47, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed18%20AD49_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 018 / AD 49, June 24, 2025 Primary, manual recount recap (Vote for 3)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  },
+  {
+   "url": "https://www.vote.nyc/sites/default/files/pdf/election_results/2025/20250624Primary%20Election/Manual/Kings_Rep_County%20Committee%20ed57%20AD54_ManualCanvassRecap.xls",
+   "title": "Kings Republican County Committee ED 057 / AD 54, June 24, 2025 Primary, manual recount recap (Vote for 2)",
+   "type": "results",
+   "as_of": "2025-07-29"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "AD 47 ED 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 30",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 31",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 32",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 33",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 34",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 35",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 36",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 37",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 38",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 39",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 40",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 41",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 42",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 43",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 44",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 45",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 46",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 47",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 49",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 53",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 55",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 47 ED 56",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 49 ED 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AD 54 ED 57",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  }
+ ],
+ "notes": "The Board's results pages list Republican County Committee contests in the June primaries of 2019, 2022 (Kings and Queens), 2023 and 2025, and none in 2021 or 2024; the June 23, 2026 contest list has none in any borough. The June 24, 2025 primary is therefore the most recent Republican county committee election found; that an uncontested 2026 election took place in some borough cannot be ruled out from public records. Uncontested county committee seats are not on the ballot or in the results: a candidate with a valid petition and no opponent is deemed elected. The Board does not publish a full list of county committee petition filers; its contest list names only contested EDs and its prima facie reports name only defective petitions. So uncontested EDs, and EDs with no filer, cannot be identified from public records and are not listed here; the totals cover contested EDs only and are not a borough-wide count. Seats per ED vary under county party rules (Election Law \u00a72-104 allows additional members) and the rules are not published, so seats_per_precinct is null and seats are labelled Member 1..N using the Board's 'Vote for N'. Seat status: in each contested ED with N seats, a seat is filled when a ballot candidate's certified vote is above both the (N+1)th candidate's vote and the ED's total write-in votes (so no tie or write-in could change it); any other seat is unknown (ties at the cut-off, all-zero results, or write-ins that could have won). Write-in winners are not named in public results. No names are stored. Kings: the 52 contested EDs are 50 in AD 47 plus AD 49 ED 18 and AD 54 ED 57; seats per contested ED range from 2 to 4 ('Vote for' 2, 3 or 4), confirming that the county's allocation is not a flat 2 per ED. AD 47 ED 2 results are from the Board's certified Statement and Return CSV; the other 51 are from the Board's manual recount recaps. Totals cover 52 of Brooklyn's EDs only.",
+ "totals": {
+  "precincts": 52,
+  "seats": 130,
+  "filled": 106,
+  "empty": 0,
+  "empty_no_filer": 0,
+  "unknown": 24
+ },
+ "coverage": "partial",
+ "coverage_note": "Contested election districts only. The NYC Board of Elections does not publish who filed for uncontested county committee seats, so the rest of the county is not listed."
+}

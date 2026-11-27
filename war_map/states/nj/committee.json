@@ -7,6 +7,143 @@
   "source_title": "N.J.S.A. 19:5-3",
   "seat_data_source": "County clerk primary results"
  },
- "totals": null,
- "notes": "Structure only. Seat-by-seat status has not been collected."
+ "totals": {
+  "seats": 5156,
+  "precincts": 2335,
+  "filled": 1777,
+  "empty": 818,
+  "empty_no_filer": 574,
+  "unknown": 1987
+ },
+ "notes": "Totals cover the counties listed in `counties` that have a seat list. Counties without one, or with only a partial list (coverage: partial), are not in the totals. Seat status follows war_map/committee/README.md.",
+ "counties": [
+  {
+   "slug": "atlantic-county",
+   "name": "Atlantic County",
+   "method": "election_results",
+   "election": "June 2, 2026 Primary Election",
+   "as_of": "2026-07-20",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 24,
+    "seats": 290,
+    "filled": 248,
+    "empty": 0,
+    "empty_no_filer": 41,
+    "unknown": 1
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "bergen-county",
+   "name": "Bergen County",
+   "method": "candidate_listing",
+   "election": "June 2, 2026 Primary Election",
+   "as_of": "2026-06-02",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 563,
+    "seats": 1126,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 533,
+    "unknown": 593
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "burlington-county",
+   "name": "Burlington County",
+   "method": "election_results",
+   "election": "June 4, 2024 Primary Election",
+   "as_of": "2024-06-19",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 366,
+    "seats": 732,
+    "filled": 282,
+    "empty": 222,
+    "empty_no_filer": 0,
+    "unknown": 228
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "camden-county",
+   "name": "Camden County",
+   "method": "election_results",
+   "election": "June 2, 2026 Primary Election",
+   "as_of": "2026-06-11",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 36,
+    "seats": 316,
+    "filled": 206,
+    "empty": 10,
+    "empty_no_filer": 0,
+    "unknown": 100
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "mercer-county",
+   "name": "Mercer County",
+   "method": "election_results",
+   "election": "June 4, 2024 Primary Election",
+   "as_of": "2025-01-10",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 243,
+    "seats": 486,
+    "filled": 196,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 290
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "middlesex-county",
+   "name": "Middlesex County",
+   "method": "election_results",
+   "election": "June 2, 2026 Primary Election",
+   "as_of": "2026-11-27",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 618,
+    "seats": 1236,
+    "filled": 314,
+    "empty": 474,
+    "empty_no_filer": 0,
+    "unknown": 448
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "monmouth-county",
+   "name": "Monmouth County",
+   "method": "election_results",
+   "election": "June 2, 2026 Primary Election",
+   "as_of": "2026-06-12",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 485,
+    "seats": 970,
+    "filled": 531,
+    "empty": 112,
+    "empty_no_filer": 0,
+    "unknown": 327
+   },
+   "coverage": "full",
+   "coverage_note": null
+  }
+ ],
+ "counties_total": 21,
+ "counties_counted": 7
 }

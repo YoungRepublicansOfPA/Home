@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Anatomy of an Opportunity | Young Republicans of Pennsylvania</title>
+<meta name="description" content="Every state's Republican committee seats: how much of the data is documented, how many documented seats are empty, and how many are filled. Click a state to open its War Map.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Manrope:wght@400..800&display=swap">
+<link rel="stylesheet" href="../war-map.css?v=20261127-anatomy">
+<link rel="stylesheet" href="anatomy.css?v=20261127">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="../../"><img src="../../assets/pa-badge.png" alt=""><span>Young Republicans of Pennsylvania</span></a>
+  <h1>War Map</h1>
+  <nav class="toplinks" aria-label="Site"><a href="../../">Atlas home</a><a class="cta" href="../?layer=chairs">Pennsylvania map</a></nav>
+</header>
+<main class="stage anatomy">
+  <aside class="panel" aria-label="National summary">
+    <div class="panel-body" id="panel">
+      <p class="eyebrow">Republican committee seats, all 50 states</p>
+      <h2>Anatomy of an Opportunity</h2>
+      <p class="lede">Every precinct, ward and town has seats on the local Republican committee. This map shows how much of that we have documented in each state, and how many of the documented seats are sitting empty. Click a state to open its War Map.</p>
+      <div id="national"><p class="lede">Loading…</p></div>
+      <h3 class="list-head">States</h3>
+      <ol id="state-list" class="state-list"></ol>
+      <footer class="sources">
+        <details>
+          <summary>How these numbers work</summary>
+          <p><b>Documented</b> seats have a status we can show from a public record: a committee roster or official committee election results. <b>Missing</b> seats are ones whose status couldn't be determined, such as seats won only by unnamed write-ins. Empty and filled shares are taken out of documented seats only.</p>
+          <p>A state shows no percentages until its seats are counted from official sources. A War Map can be live before its committee seats are documented. Pennsylvania figures come from <a href="../committee/">county rosters and official results</a>, county by county, and update when that folder does.</p>
+          <p>State outlines: U.S. Census Bureau, via <a href="https://github.com/topojson/us-atlas">us-atlas</a>. Texas War Map: <a href="https://yrtx.gop/map/">Young Republicans of Texas</a>.</p>
+        </details>
+      </footer>
+    </div>
+  </aside>
+  <div class="map-wrap">
+    <nav class="tabs" aria-label="Map shading">
+      <button type="button" data-view="present" aria-pressed="true">Data documented</button>
+      <button type="button" data-view="empty" aria-pressed="false">Empty seats</button>
+      <button type="button" data-view="filled" aria-pressed="false">Filled by Republicans</button>
+    </nav>
+    <svg id="usmap" role="img" aria-label="Map of the United States shaded by committee-seat coverage"></svg>
+    <div id="tip" class="tip" hidden></div>
+    <div id="legend" class="legend" aria-live="polite"></div>
+  </div>
+</main>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<script src="anatomy.js?v=20261127"></script>
+</body>
+</html>

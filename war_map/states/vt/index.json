@@ -1,0 +1,233 @@
+{
+ "state": "VT",
+ "name": "Vermont",
+ "fips": "50",
+ "unit": "town",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/VT-precincts-with-results.geojson.gz",
+ "bbox": [
+  -73.4379,
+  42.7269,
+  -71.4651,
+  45.0167
+ ],
+ "totals": {
+  "rep": 104357,
+  "dem": 210544,
+  "total": 324961,
+  "units": 237
+ },
+ "counties": [
+  {
+   "fips": "50001",
+   "name": "Addison County",
+   "slug": "addison-county",
+   "bbox": [
+    -73.4379,
+    43.7531,
+    -72.7422,
+    44.3037
+   ],
+   "units": 23,
+   "rep": 6841,
+   "dem": 14879,
+   "total": 22396
+  },
+  {
+   "fips": "50003",
+   "name": "Bennington County",
+   "slug": "bennington-county",
+   "bbox": [
+    -73.2909,
+    42.7393,
+    -72.8196,
+    43.3145
+   ],
+   "units": 16,
+   "rep": 7697,
+   "dem": 12326,
+   "total": 20552
+  },
+  {
+   "fips": "50005",
+   "name": "Caledonia County",
+   "slug": "caledonia-county",
+   "bbox": [
+    -72.4347,
+    44.156,
+    -71.8371,
+    44.7694
+   ],
+   "units": 17,
+   "rep": 6927,
+   "dem": 8977,
+   "total": 16482
+  },
+  {
+   "fips": "50007",
+   "name": "Chittenden County",
+   "slug": "chittenden-county",
+   "bbox": [
+    -73.3615,
+    44.2227,
+    -72.8037,
+    44.7228
+   ],
+   "units": 16,
+   "rep": 17481,
+   "dem": 63278,
+   "total": 83229
+  },
+  {
+   "fips": "50009",
+   "name": "Essex County",
+   "slug": "essex-county",
+   "bbox": [
+    -71.9748,
+    44.348,
+    -71.4651,
+    45.0136
+   ],
+   "units": 13,
+   "rep": 1890,
+   "dem": 1344,
+   "total": 3410
+  },
+  {
+   "fips": "50011",
+   "name": "Franklin County",
+   "slug": "franklin-county",
+   "bbox": [
+    -73.2409,
+    44.6332,
+    -72.5333,
+    45.0167
+   ],
+   "units": 13,
+   "rep": 9811,
+   "dem": 9308,
+   "total": 19709
+  },
+  {
+   "fips": "50013",
+   "name": "Grand Isle County",
+   "slug": "grand-isle-county",
+   "bbox": [
+    -73.3902,
+    44.5643,
+    -73.1913,
+    45.0134
+   ],
+   "units": 5,
+   "rep": 1893,
+   "dem": 2940,
+   "total": 4967
+  },
+  {
+   "fips": "50015",
+   "name": "Lamoille County",
+   "slug": "lamoille-county",
+   "bbox": [
+    -72.9273,
+    44.3983,
+    -72.3684,
+    44.804
+   ],
+   "units": 10,
+   "rep": 4505,
+   "dem": 9788,
+   "total": 14757
+  },
+  {
+   "fips": "50017",
+   "name": "Orange County",
+   "slug": "orange-county",
+   "bbox": [
+    -72.7918,
+    43.7713,
+    -72.0306,
+    44.2208
+   ],
+   "units": 17,
+   "rep": 6683,
+   "dem": 10220,
+   "total": 17536
+  },
+  {
+   "fips": "50019",
+   "name": "Orleans County",
+   "slug": "orleans-county",
+   "bbox": [
+    -72.5791,
+    44.5425,
+    -71.8779,
+    45.0088
+   ],
+   "units": 17,
+   "rep": 5919,
+   "dem": 5623,
+   "total": 11883
+  },
+  {
+   "fips": "50021",
+   "name": "Rutland County",
+   "slug": "rutland-county",
+   "bbox": [
+    -73.4312,
+    43.2906,
+    -72.6998,
+    43.8581
+   ],
+   "units": 26,
+   "rep": 11427,
+   "dem": 11677,
+   "total": 23759
+  },
+  {
+   "fips": "50023",
+   "name": "Washington County",
+   "slug": "washington-county",
+   "bbox": [
+    -72.9522,
+    44.0128,
+    -72.2171,
+    44.5061
+   ],
+   "units": 18,
+   "rep": 5897,
+   "dem": 19711,
+   "total": 26545
+  },
+  {
+   "fips": "50025",
+   "name": "Windham County",
+   "slug": "windham-county",
+   "bbox": [
+    -73.001,
+    42.7269,
+    -72.4322,
+    43.2629
+   ],
+   "units": 22,
+   "rep": 6928,
+   "dem": 17904,
+   "total": 25718
+  },
+  {
+   "fips": "50027",
+   "name": "Windsor County",
+   "slug": "windsor-county",
+   "bbox": [
+    -72.9802,
+    43.2226,
+    -72.2052,
+    43.9622
+   ],
+   "units": 24,
+   "rep": 10458,
+   "dem": 22569,
+   "total": 34018
+  }
+ ]
+}

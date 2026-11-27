@@ -1,0 +1,383 @@
+{
+ "state": "MD",
+ "name": "Maryland",
+ "fips": "24",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/MD-precincts-with-results.geojson.gz",
+ "bbox": [
+  -79.4877,
+  37.8866,
+  -74.9863,
+  39.723
+ ],
+ "totals": {
+  "rep": 1035548,
+  "dem": 1902574,
+  "total": 3015645,
+  "units": 1954
+ },
+ "counties": [
+  {
+   "fips": "24001",
+   "name": "Allegany County",
+   "slug": "allegany-county",
+   "bbox": [
+    -79.0676,
+    39.4383,
+    -78.3133,
+    39.723
+   ],
+   "units": 30,
+   "rep": 22141,
+   "dem": 9231,
+   "total": 32001
+  },
+  {
+   "fips": "24003",
+   "name": "Anne Arundel County",
+   "slug": "anne-arundel-county",
+   "bbox": [
+    -76.8404,
+    38.7111,
+    -76.3495,
+    39.2374
+   ],
+   "units": 195,
+   "rep": 128892,
+   "dem": 171945,
+   "total": 308782
+  },
+  {
+   "fips": "24005",
+   "name": "Baltimore County",
+   "slug": "baltimore-county",
+   "bbox": [
+    -76.8956,
+    39.1566,
+    -76.2877,
+    39.7213
+   ],
+   "units": 243,
+   "rep": 149560,
+   "dem": 249958,
+   "total": 409811
+  },
+  {
+   "fips": "24009",
+   "name": "Calvert County",
+   "slug": "calvert-county",
+   "bbox": [
+    -76.702,
+    38.3051,
+    -76.3219,
+    38.7693
+   ],
+   "units": 18,
+   "rep": 29361,
+   "dem": 23438,
+   "total": 53882
+  },
+  {
+   "fips": "24011",
+   "name": "Caroline County",
+   "slug": "caroline-county",
+   "bbox": [
+    -76.0151,
+    38.6521,
+    -75.7094,
+    39.1433
+   ],
+   "units": 8,
+   "rep": 11053,
+   "dem": 4860,
+   "total": 16276
+  },
+  {
+   "fips": "24013",
+   "name": "Carroll County",
+   "slug": "carroll-county",
+   "bbox": [
+    -77.3115,
+    39.3485,
+    -76.7871,
+    39.7208
+   ],
+   "units": 49,
+   "rep": 62273,
+   "dem": 36867,
+   "total": 101796
+  },
+  {
+   "fips": "24015",
+   "name": "Cecil County",
+   "slug": "cecil-county",
+   "bbox": [
+    -76.2333,
+    39.3608,
+    -75.7666,
+    39.7222
+   ],
+   "units": 28,
+   "rep": 33871,
+   "dem": 17628,
+   "total": 52612
+  },
+  {
+   "fips": "24017",
+   "name": "Charles County",
+   "slug": "charles-county",
+   "bbox": [
+    -77.323,
+    38.1713,
+    -76.6625,
+    38.7062
+   ],
+   "units": 34,
+   "rep": 26145,
+   "dem": 63454,
+   "total": 91650
+  },
+  {
+   "fips": "24019",
+   "name": "Dorchester County",
+   "slug": "dorchester-county",
+   "bbox": [
+    -76.4388,
+    38.0584,
+    -75.7016,
+    38.7042
+   ],
+   "units": 44,
+   "rep": 9390,
+   "dem": 6954,
+   "total": 16730
+  },
+  {
+   "fips": "24021",
+   "name": "Frederick County",
+   "slug": "frederick-county",
+   "bbox": [
+    -77.6772,
+    39.2203,
+    -77.1068,
+    39.72
+   ],
+   "units": 66,
+   "rep": 68753,
+   "dem": 82409,
+   "total": 155004
+  },
+  {
+   "fips": "24023",
+   "name": "Garrett County",
+   "slug": "garrett-county",
+   "bbox": [
+    -79.4877,
+    39.2021,
+    -78.9284,
+    39.7229
+   ],
+   "units": 19,
+   "rep": 11983,
+   "dem": 3456,
+   "total": 15785
+  },
+  {
+   "fips": "24025",
+   "name": "Harford County",
+   "slug": "harford-county",
+   "bbox": [
+    -76.5695,
+    39.2541,
+    -76.0358,
+    39.7215
+   ],
+   "units": 64,
+   "rep": 83050,
+   "dem": 62453,
+   "total": 149020
+  },
+  {
+   "fips": "24027",
+   "name": "Howard County",
+   "slug": "howard-county",
+   "bbox": [
+    -77.1871,
+    39.1031,
+    -76.6964,
+    39.3693
+   ],
+   "units": 67,
+   "rep": 49425,
+   "dem": 124764,
+   "total": 180488
+  },
+  {
+   "fips": "24029",
+   "name": "Kent County",
+   "slug": "kent-county",
+   "bbox": [
+    -76.3548,
+    38.9924,
+    -75.756,
+    39.4055
+   ],
+   "units": 10,
+   "rep": 5561,
+   "dem": 5251,
+   "total": 11068
+  },
+  {
+   "fips": "24031",
+   "name": "Montgomery County",
+   "slug": "montgomery-county",
+   "bbox": [
+    -77.5277,
+    38.9343,
+    -76.8885,
+    39.3533
+   ],
+   "units": 257,
+   "rep": 112637,
+   "dem": 386581,
+   "total": 513919
+  },
+  {
+   "fips": "24033",
+   "name": "Prince George's County",
+   "slug": "prince-george-s-county",
+   "bbox": [
+    -77.0864,
+    38.5354,
+    -76.6695,
+    39.1313
+   ],
+   "units": 324,
+   "rep": 45006,
+   "dem": 347035,
+   "total": 401876
+  },
+  {
+   "fips": "24035",
+   "name": "Queen Anne's County",
+   "slug": "queen-anne-s-county",
+   "bbox": [
+    -76.4366,
+    38.8074,
+    -75.7478,
+    39.2618
+   ],
+   "units": 11,
+   "rep": 20200,
+   "dem": 11273,
+   "total": 32136
+  },
+  {
+   "fips": "24037",
+   "name": "St. Mary's County",
+   "slug": "st-mary-s-county",
+   "bbox": [
+    -76.8744,
+    37.8885,
+    -76.2015,
+    38.5138
+   ],
+   "units": 27,
+   "rep": 33582,
+   "dem": 23531,
+   "total": 58543
+  },
+  {
+   "fips": "24039",
+   "name": "Somerset County",
+   "slug": "somerset-county",
+   "bbox": [
+    -76.2365,
+    37.8866,
+    -75.5396,
+    38.2989
+   ],
+   "units": 23,
+   "rep": 5805,
+   "dem": 4054,
+   "total": 10090
+  },
+  {
+   "fips": "24041",
+   "name": "Talbot County",
+   "slug": "talbot-county",
+   "bbox": [
+    -76.4639,
+    38.5719,
+    -75.8962,
+    38.9451
+   ],
+   "units": 12,
+   "rep": 11125,
+   "dem": 11119,
+   "total": 22667
+  },
+  {
+   "fips": "24043",
+   "name": "Washington County",
+   "slug": "washington-county",
+   "bbox": [
+    -78.3635,
+    39.3185,
+    -77.4691,
+    39.7229
+   ],
+   "units": 47,
+   "rep": 44054,
+   "dem": 27260,
+   "total": 73001
+  },
+  {
+   "fips": "24045",
+   "name": "Wicomico County",
+   "slug": "wicomico-county",
+   "bbox": [
+    -75.9484,
+    38.216,
+    -75.307,
+    38.5609
+   ],
+   "units": 63,
+   "rep": 24065,
+   "dem": 21513,
+   "total": 46698
+  },
+  {
+   "fips": "24047",
+   "name": "Worcester County",
+   "slug": "worcester-county",
+   "bbox": [
+    -75.6618,
+    37.9942,
+    -74.9863,
+    38.452
+   ],
+   "units": 20,
+   "rep": 19632,
+   "dem": 12431,
+   "total": 32728
+  },
+  {
+   "fips": "24510",
+   "name": "Baltimore city",
+   "slug": "baltimore-city",
+   "bbox": [
+    -76.7115,
+    39.1972,
+    -76.5294,
+    39.3722
+   ],
+   "units": 295,
+   "rep": 27984,
+   "dem": 195109,
+   "total": 229082
+  }
+ ]
+}

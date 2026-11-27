@@ -1,0 +1,173 @@
+{
+ "state": "NH",
+ "name": "New Hampshire",
+ "fips": "33",
+ "unit": "town",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/NH-precincts-with-results.geojson.gz",
+ "bbox": [
+  -72.5571,
+  42.697,
+  -70.6056,
+  45.3058
+ ],
+ "totals": {
+  "rep": 395523,
+  "dem": 418488,
+  "total": 822116,
+  "units": 238
+ },
+ "counties": [
+  {
+   "fips": "33001",
+   "name": "Belknap County",
+   "slug": "belknap-county",
+   "bbox": [
+    -71.7317,
+    43.285,
+    -71.1594,
+    43.761
+   ],
+   "units": 11,
+   "rep": 22765,
+   "dem": 17469,
+   "total": 40540
+  },
+  {
+   "fips": "33003",
+   "name": "Carroll County",
+   "slug": "carroll-county",
+   "bbox": [
+    -71.5646,
+    43.4829,
+    -70.9506,
+    44.2849
+   ],
+   "units": 19,
+   "rep": 17426,
+   "dem": 16822,
+   "total": 34513
+  },
+  {
+   "fips": "33005",
+   "name": "Cheshire County",
+   "slug": "cheshire-county",
+   "bbox": [
+    -72.5571,
+    42.7121,
+    -71.929,
+    43.182
+   ],
+   "units": 23,
+   "rep": 20083,
+   "dem": 24579,
+   "total": 45141
+  },
+  {
+   "fips": "33007",
+   "name": "Coos County",
+   "slug": "coos-county",
+   "bbox": [
+    -71.7657,
+    44.2122,
+    -71.0129,
+    45.3058
+   ],
+   "units": 23,
+   "rep": 9734,
+   "dem": 7367,
+   "total": 17245
+  },
+  {
+   "fips": "33009",
+   "name": "Grafton County",
+   "slug": "grafton-county",
+   "bbox": [
+    -72.3351,
+    43.5289,
+    -71.362,
+    44.4064
+   ],
+   "units": 39,
+   "rep": 21909,
+   "dem": 32993,
+   "total": 55592
+  },
+  {
+   "fips": "33011",
+   "name": "Hillsborough County",
+   "slug": "hillsborough-county",
+   "bbox": [
+    -72.0622,
+    42.697,
+    -71.2455,
+    43.2071
+   ],
+   "units": 31,
+   "rep": 112057,
+   "dem": 118776,
+   "total": 233233
+  },
+  {
+   "fips": "33013",
+   "name": "Merrimack County",
+   "slug": "merrimack-county",
+   "bbox": [
+    -72.0901,
+    43.0093,
+    -71.236,
+    43.6112
+   ],
+   "units": 27,
+   "rep": 43364,
+   "dem": 48181,
+   "total": 92474
+  },
+  {
+   "fips": "33015",
+   "name": "Rockingham County",
+   "slug": "rockingham-county",
+   "bbox": [
+    -71.4512,
+    42.7373,
+    -70.6056,
+    43.2752
+   ],
+   "units": 37,
+   "rep": 102539,
+   "dem": 97611,
+   "total": 201966
+  },
+  {
+   "fips": "33017",
+   "name": "Strafford County",
+   "slug": "strafford-county",
+   "bbox": [
+    -71.2473,
+    43.0804,
+    -70.8095,
+    43.5728
+   ],
+   "units": 13,
+   "rep": 33162,
+   "dem": 42373,
+   "total": 76321
+  },
+  {
+   "fips": "33019",
+   "name": "Sullivan County",
+   "slug": "sullivan-county",
+   "bbox": [
+    -72.453,
+    43.1288,
+    -71.9353,
+    43.6002
+   ],
+   "units": 15,
+   "rep": 12484,
+   "dem": 12317,
+   "total": 25091
+  }
+ ]
+}

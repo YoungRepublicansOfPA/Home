@@ -1,0 +1,263 @@
+{
+ "state": "ME",
+ "name": "Maine",
+ "fips": "23",
+ "unit": "town",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/ME-precincts-with-results.geojson.gz",
+ "bbox": [
+  -71.0583,
+  42.9171,
+  -66.8855,
+  47.4598
+ ],
+ "totals": {
+  "rep": 377977,
+  "dem": 435652,
+  "total": 831375,
+  "units": 493
+ },
+ "counties": [
+  {
+   "fips": "23001",
+   "name": "Androscoggin County",
+   "slug": "androscoggin-county",
+   "bbox": [
+    -70.4853,
+    43.9067,
+    -69.9938,
+    44.4872
+   ],
+   "units": 14,
+   "rep": 30605,
+   "dem": 27019,
+   "total": 58847
+  },
+  {
+   "fips": "23003",
+   "name": "Aroostook County",
+   "slug": "aroostook-county",
+   "bbox": [
+    -70.0232,
+    45.5729,
+    -67.7507,
+    47.4598
+   ],
+   "units": 66,
+   "rep": 22246,
+   "dem": 12900,
+   "total": 35653
+  },
+  {
+   "fips": "23005",
+   "name": "Cumberland County",
+   "slug": "cumberland-county",
+   "bbox": [
+    -70.8666,
+    43.4669,
+    -69.857,
+    44.171
+   ],
+   "units": 28,
+   "rep": 60950,
+   "dem": 133281,
+   "total": 199225
+  },
+  {
+   "fips": "23007",
+   "name": "Franklin County",
+   "slug": "franklin-county",
+   "bbox": [
+    -70.8355,
+    44.459,
+    -69.9277,
+    45.6679
+   ],
+   "units": 22,
+   "rep": 9459,
+   "dem": 7990,
+   "total": 17836
+  },
+  {
+   "fips": "23009",
+   "name": "Hancock County",
+   "slug": "hancock-county",
+   "bbox": [
+    -68.8964,
+    44.0283,
+    -67.9252,
+    45.0105
+   ],
+   "units": 37,
+   "rep": 15549,
+   "dem": 19817,
+   "total": 36251
+  },
+  {
+   "fips": "23011",
+   "name": "Kennebec County",
+   "slug": "kennebec-county",
+   "bbox": [
+    -70.1327,
+    44.1077,
+    -69.3724,
+    44.7203
+   ],
+   "units": 29,
+   "rep": 36589,
+   "dem": 34585,
+   "total": 72886
+  },
+  {
+   "fips": "23013",
+   "name": "Knox County",
+   "slug": "knox-county",
+   "bbox": [
+    -69.4513,
+    43.7324,
+    -68.4846,
+    44.3646
+   ],
+   "units": 18,
+   "rep": 10262,
+   "dem": 15076,
+   "total": 25893
+  },
+  {
+   "fips": "23015",
+   "name": "Lincoln County",
+   "slug": "lincoln-county",
+   "bbox": [
+    -69.8136,
+    43.6998,
+    -69.2326,
+    44.3429
+   ],
+   "units": 19,
+   "rep": 10409,
+   "dem": 13110,
+   "total": 24003
+  },
+  {
+   "fips": "23017",
+   "name": "Oxford County",
+   "slug": "oxford-county",
+   "bbox": [
+    -71.0583,
+    43.785,
+    -70.2389,
+    45.0016
+   ],
+   "units": 36,
+   "rep": 19228,
+   "dem": 14765,
+   "total": 34590
+  },
+  {
+   "fips": "23019",
+   "name": "Penobscot County",
+   "slug": "penobscot-county",
+   "bbox": [
+    -69.3557,
+    44.644,
+    -67.9398,
+    46.3958
+   ],
+   "units": 61,
+   "rep": 47438,
+   "dem": 37945,
+   "total": 87073
+  },
+  {
+   "fips": "23021",
+   "name": "Piscataquis County",
+   "slug": "piscataquis-county",
+   "bbox": [
+    -69.7292,
+    45.011,
+    -68.7761,
+    45.584
+   ],
+   "units": 18,
+   "rep": 6487,
+   "dem": 3510,
+   "total": 10205
+  },
+  {
+   "fips": "23023",
+   "name": "Sagadahoc County",
+   "slug": "sagadahoc-county",
+   "bbox": [
+    -70.0518,
+    43.6365,
+    -69.6647,
+    44.168
+   ],
+   "units": 10,
+   "rep": 9917,
+   "dem": 13982,
+   "total": 24456
+  },
+  {
+   "fips": "23025",
+   "name": "Somerset County",
+   "slug": "somerset-county",
+   "bbox": [
+    -70.418,
+    44.5773,
+    -69.2668,
+    45.7514
+   ],
+   "units": 34,
+   "rep": 17826,
+   "dem": 10134,
+   "total": 28441
+  },
+  {
+   "fips": "23027",
+   "name": "Waldo County",
+   "slug": "waldo-county",
+   "bbox": [
+    -69.5064,
+    44.2027,
+    -68.7924,
+    44.7546
+   ],
+   "units": 26,
+   "rep": 11815,
+   "dem": 12661,
+   "total": 25130
+  },
+  {
+   "fips": "23029",
+   "name": "Washington County",
+   "slug": "washington-county",
+   "bbox": [
+    -68.105,
+    44.3169,
+    -66.8855,
+    45.6892
+   ],
+   "units": 46,
+   "rep": 11003,
+   "dem": 6763,
+   "total": 18048
+  },
+  {
+   "fips": "23031",
+   "name": "York County",
+   "slug": "york-county",
+   "bbox": [
+    -70.9891,
+    42.9171,
+    -70.2221,
+    43.8143
+   ],
+   "units": 29,
+   "rep": 58194,
+   "dem": 72114,
+   "total": 132838
+  }
+ ]
+}

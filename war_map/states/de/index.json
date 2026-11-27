@@ -1,0 +1,68 @@
+{
+ "state": "DE",
+ "name": "Delaware",
+ "fips": "10",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/DE-precincts-with-results.geojson.gz",
+ "bbox": [
+  -75.789,
+  38.4511,
+  -74.9842,
+  39.8395
+ ],
+ "totals": {
+  "rep": 214262,
+  "dem": 288933,
+  "total": 510775,
+  "units": 526
+ },
+ "counties": [
+  {
+   "fips": "10001",
+   "name": "Kent County",
+   "slug": "kent-county",
+   "bbox": [
+    -75.7601,
+    38.8299,
+    -75.1385,
+    39.3876
+   ],
+   "units": 97,
+   "rep": 42444,
+   "dem": 44163,
+   "total": 88066
+  },
+  {
+   "fips": "10003",
+   "name": "New Castle County",
+   "slug": "new-castle-county",
+   "bbox": [
+    -75.789,
+    39.2903,
+    -75.4054,
+    39.8395
+   ],
+   "units": 311,
+   "rep": 90805,
+   "dem": 180106,
+   "total": 275258
+  },
+  {
+   "fips": "10005",
+   "name": "Sussex County",
+   "slug": "sussex-county",
+   "bbox": [
+    -75.7228,
+    38.4511,
+    -74.9842,
+    39.0027
+   ],
+   "units": 118,
+   "rep": 81013,
+   "dem": 64664,
+   "total": 147451
+  }
+ ]
+}

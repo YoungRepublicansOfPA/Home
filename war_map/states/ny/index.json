@@ -1,0 +1,953 @@
+{
+ "state": "NY",
+ "name": "New York",
+ "fips": "36",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/NY-precincts-with-results.geojson.gz",
+ "bbox": [
+  -79.762,
+  40.4961,
+  -71.8477,
+  45.0159
+ ],
+ "totals": {
+  "rep": 3579513,
+  "dem": 4619551,
+  "total": 8304995,
+  "units": 12984
+ },
+ "counties": [
+  {
+   "fips": "36001",
+   "name": "Albany County",
+   "slug": "albany-county",
+   "bbox": [
+    -74.2649,
+    42.4071,
+    -73.6768,
+    42.8226
+   ],
+   "units": 233,
+   "rep": 54560,
+   "dem": 92589,
+   "total": 149677
+  },
+  {
+   "fips": "36003",
+   "name": "Allegany County",
+   "slug": "allegany-county",
+   "bbox": [
+    -78.3093,
+    41.9982,
+    -77.723,
+    42.5218
+   ],
+   "units": 38,
+   "rep": 14425,
+   "dem": 5802,
+   "total": 20450
+  },
+  {
+   "fips": "36005",
+   "name": "Bronx County",
+   "slug": "bronx-county",
+   "bbox": [
+    -73.9335,
+    40.7967,
+    -73.7813,
+    40.9153
+   ],
+   "units": 645,
+   "rep": 98173,
+   "dem": 261670,
+   "total": 364060
+  },
+  {
+   "fips": "36007",
+   "name": "Broome County",
+   "slug": "broome-county",
+   "bbox": [
+    -76.1302,
+    41.9979,
+    -75.3597,
+    42.4157
+   ],
+   "units": 125,
+   "rep": 44763,
+   "dem": 45142,
+   "total": 90459
+  },
+  {
+   "fips": "36009",
+   "name": "Cattaraugus County",
+   "slug": "cattaraugus-county",
+   "bbox": [
+    -79.0613,
+    41.9977,
+    -78.3081,
+    42.5433
+   ],
+   "units": 55,
+   "rep": 22586,
+   "dem": 11424,
+   "total": 34107
+  },
+  {
+   "fips": "36011",
+   "name": "Cayuga County",
+   "slug": "cayuga-county",
+   "bbox": [
+    -76.7402,
+    42.6186,
+    -76.2656,
+    43.4182
+   ],
+   "units": 41,
+   "rep": 20482,
+   "dem": 15772,
+   "total": 36517
+  },
+  {
+   "fips": "36013",
+   "name": "Chautauqua County",
+   "slug": "chautauqua-county",
+   "bbox": [
+    -79.762,
+    41.9984,
+    -79.0591,
+    42.5702
+   ],
+   "units": 90,
+   "rep": 34528,
+   "dem": 22085,
+   "total": 57046
+  },
+  {
+   "fips": "36015",
+   "name": "Chemung County",
+   "slug": "chemung-county",
+   "bbox": [
+    -76.9661,
+    42.0001,
+    -76.5358,
+    42.2944
+   ],
+   "units": 89,
+   "rep": 21861,
+   "dem": 15572,
+   "total": 37560
+  },
+  {
+   "fips": "36017",
+   "name": "Chenango County",
+   "slug": "chenango-county",
+   "bbox": [
+    -75.8898,
+    42.1949,
+    -75.2928,
+    42.7454
+   ],
+   "units": 31,
+   "rep": 14294,
+   "dem": 8177,
+   "total": 22655
+  },
+  {
+   "fips": "36019",
+   "name": "Clinton County",
+   "slug": "clinton-county",
+   "bbox": [
+    -74.0274,
+    44.4297,
+    -73.3332,
+    45.0107
+   ],
+   "units": 51,
+   "rep": 18247,
+   "dem": 17478,
+   "total": 35886
+  },
+  {
+   "fips": "36021",
+   "name": "Columbia County",
+   "slug": "columbia-county",
+   "bbox": [
+    -73.9296,
+    41.978,
+    -73.3524,
+    42.51
+   ],
+   "units": 62,
+   "rep": 15168,
+   "dem": 20396,
+   "total": 35897
+  },
+  {
+   "fips": "36023",
+   "name": "Cortland County",
+   "slug": "cortland-county",
+   "bbox": [
+    -76.2747,
+    42.4076,
+    -75.864,
+    42.791
+   ],
+   "units": 51,
+   "rep": 11706,
+   "dem": 10290,
+   "total": 22063
+  },
+  {
+   "fips": "36025",
+   "name": "Delaware County",
+   "slug": "delaware-county",
+   "bbox": [
+    -75.423,
+    41.8484,
+    -74.4282,
+    42.5178
+   ],
+   "units": 55,
+   "rep": 13789,
+   "dem": 9237,
+   "total": 23260
+  },
+  {
+   "fips": "36027",
+   "name": "Dutchess County",
+   "slug": "dutchess-county",
+   "bbox": [
+    -74.0001,
+    41.4389,
+    -73.4873,
+    42.0809
+   ],
+   "units": 171,
+   "rep": 71778,
+   "dem": 79994,
+   "total": 153413
+  },
+  {
+   "fips": "36029",
+   "name": "Erie County",
+   "slug": "erie-county",
+   "bbox": [
+    -79.1371,
+    42.438,
+    -78.4621,
+    43.0987
+   ],
+   "units": 650,
+   "rep": 204774,
+   "dem": 248651,
+   "total": 459926
+  },
+  {
+   "fips": "36031",
+   "name": "Essex County",
+   "slug": "essex-county",
+   "bbox": [
+    -74.3368,
+    43.7445,
+    -73.2936,
+    44.5468
+   ],
+   "units": 33,
+   "rep": 9533,
+   "dem": 9629,
+   "total": 19357
+  },
+  {
+   "fips": "36033",
+   "name": "Franklin County",
+   "slug": "franklin-county",
+   "bbox": [
+    -74.7262,
+    44.0992,
+    -73.9097,
+    45.0063
+   ],
+   "units": 29,
+   "rep": 10569,
+   "dem": 8821,
+   "total": 19458
+  },
+  {
+   "fips": "36035",
+   "name": "Fulton County",
+   "slug": "fulton-county",
+   "bbox": [
+    -74.7742,
+    42.9828,
+    -74.0975,
+    43.289
+   ],
+   "units": 32,
+   "rep": 16237,
+   "dem": 7666,
+   "total": 24053
+  },
+  {
+   "fips": "36037",
+   "name": "Genesee County",
+   "slug": "genesee-county",
+   "bbox": [
+    -78.4655,
+    42.8628,
+    -77.9041,
+    43.1336
+   ],
+   "units": 52,
+   "rep": 18997,
+   "dem": 9367,
+   "total": 28444
+  },
+  {
+   "fips": "36039",
+   "name": "Greene County",
+   "slug": "greene-county",
+   "bbox": [
+    -74.5373,
+    42.0966,
+    -73.7737,
+    42.4642
+   ],
+   "units": 52,
+   "rep": 14702,
+   "dem": 10436,
+   "total": 25440
+  },
+  {
+   "fips": "36041",
+   "name": "Hamilton County",
+   "slug": "hamilton-county",
+   "bbox": [
+    -74.8677,
+    43.2147,
+    -74.0461,
+    44.1206
+   ],
+   "units": 11,
+   "rep": 2223,
+   "dem": 1211,
+   "total": 3439
+  },
+  {
+   "fips": "36043",
+   "name": "Herkimer County",
+   "slug": "herkimer-county",
+   "bbox": [
+    -75.2191,
+    42.8249,
+    -74.696,
+    44.097
+   ],
+   "units": 44,
+   "rep": 19557,
+   "dem": 9110,
+   "total": 28725
+  },
+  {
+   "fips": "36045",
+   "name": "Jefferson County",
+   "slug": "jefferson-county",
+   "bbox": [
+    -76.464,
+    43.6681,
+    -75.4463,
+    44.4033
+   ],
+   "units": 65,
+   "rep": 26408,
+   "dem": 16315,
+   "total": 43056
+  },
+  {
+   "fips": "36047",
+   "name": "Kings County",
+   "slug": "kings-county",
+   "bbox": [
+    -74.0419,
+    40.5696,
+    -73.855,
+    40.7394
+   ],
+   "units": 1341,
+   "rep": 233964,
+   "dem": 601265,
+   "total": 853744
+  },
+  {
+   "fips": "36049",
+   "name": "Lewis County",
+   "slug": "lewis-county",
+   "bbox": [
+    -75.8505,
+    43.4198,
+    -75.1107,
+    44.2176
+   ],
+   "units": 32,
+   "rep": 9353,
+   "dem": 3600,
+   "total": 13032
+  },
+  {
+   "fips": "36051",
+   "name": "Livingston County",
+   "slug": "livingston-county",
+   "bbox": [
+    -78.0608,
+    42.4712,
+    -77.4869,
+    42.9885
+   ],
+   "units": 40,
+   "rep": 18780,
+   "dem": 12148,
+   "total": 31185
+  },
+  {
+   "fips": "36053",
+   "name": "Madison County",
+   "slug": "madison-county",
+   "bbox": [
+    -75.9935,
+    42.7238,
+    -75.2395,
+    43.1852
+   ],
+   "units": 52,
+   "rep": 19025,
+   "dem": 14629,
+   "total": 34019
+  },
+  {
+   "fips": "36055",
+   "name": "Monroe County",
+   "slug": "monroe-county",
+   "bbox": [
+    -77.9973,
+    42.94,
+    -77.3714,
+    43.3707
+   ],
+   "units": 655,
+   "rep": 145940,
+   "dem": 214757,
+   "total": 364781
+  },
+  {
+   "fips": "36057",
+   "name": "Montgomery County",
+   "slug": "montgomery-county",
+   "bbox": [
+    -74.7633,
+    42.773,
+    -74.0839,
+    43.0474
+   ],
+   "units": 35,
+   "rep": 13286,
+   "dem": 7356,
+   "total": 20788
+  },
+  {
+   "fips": "36059",
+   "name": "Nassau County",
+   "slug": "nassau-county",
+   "bbox": [
+    -73.7802,
+    40.5209,
+    -73.4233,
+    40.989
+   ],
+   "units": 1074,
+   "rep": 368138,
+   "dem": 338454,
+   "total": 715717
+  },
+  {
+   "fips": "36061",
+   "name": "New York County",
+   "slug": "new-york-county",
+   "bbox": [
+    -74.0198,
+    40.6991,
+    -73.907,
+    40.8793
+   ],
+   "units": 827,
+   "rep": 113921,
+   "dem": 533780,
+   "total": 660631
+  },
+  {
+   "fips": "36063",
+   "name": "Niagara County",
+   "slug": "niagara-county",
+   "bbox": [
+    -79.0759,
+    43.0189,
+    -78.4604,
+    43.3749
+   ],
+   "units": 125,
+   "rep": 58678,
+   "dem": 43438,
+   "total": 102918
+  },
+  {
+   "fips": "36065",
+   "name": "Oneida County",
+   "slug": "oneida-county",
+   "bbox": [
+    -75.8868,
+    42.8633,
+    -75.0692,
+    43.6152
+   ],
+   "units": 194,
+   "rep": 60687,
+   "dem": 39415,
+   "total": 100331
+  },
+  {
+   "fips": "36067",
+   "name": "Onondaga County",
+   "slug": "onondaga-county",
+   "bbox": [
+    -76.4993,
+    42.7713,
+    -75.8961,
+    43.2716
+   ],
+   "units": 445,
+   "rep": 93916,
+   "dem": 133155,
+   "total": 228381
+  },
+  {
+   "fips": "36069",
+   "name": "Ontario County",
+   "slug": "ontario-county",
+   "bbox": [
+    -77.6117,
+    42.5764,
+    -76.9634,
+    43.0399
+   ],
+   "units": 92,
+   "rep": 30221,
+   "dem": 29520,
+   "total": 60352
+  },
+  {
+   "fips": "36071",
+   "name": "Orange County",
+   "slug": "orange-county",
+   "bbox": [
+    -74.7626,
+    41.1431,
+    -73.9473,
+    41.6327
+   ],
+   "units": 328,
+   "rep": 94936,
+   "dem": 80253,
+   "total": 175660
+  },
+  {
+   "fips": "36073",
+   "name": "Orleans County",
+   "slug": "orleans-county",
+   "bbox": [
+    -78.4664,
+    43.1286,
+    -77.9952,
+    43.3763
+   ],
+   "units": 40,
+   "rep": 12659,
+   "dem": 5366,
+   "total": 18071
+  },
+  {
+   "fips": "36075",
+   "name": "Oswego County",
+   "slug": "oswego-county",
+   "bbox": [
+    -76.6176,
+    43.1556,
+    -75.7564,
+    43.707
+   ],
+   "units": 110,
+   "rep": 33548,
+   "dem": 20483,
+   "total": 54163
+  },
+  {
+   "fips": "36077",
+   "name": "Otsego County",
+   "slug": "otsego-county",
+   "bbox": [
+    -75.4169,
+    42.3139,
+    -74.6306,
+    42.9084
+   ],
+   "units": 50,
+   "rep": 15256,
+   "dem": 13031,
+   "total": 28436
+  },
+  {
+   "fips": "36079",
+   "name": "Putnam County",
+   "slug": "putnam-county",
+   "bbox": [
+    -73.9825,
+    41.3218,
+    -73.5301,
+    41.5272
+   ],
+   "units": 81,
+   "rep": 31553,
+   "dem": 23956,
+   "total": 56014
+  },
+  {
+   "fips": "36081",
+   "name": "Queens County",
+   "slug": "queens-county",
+   "bbox": [
+    -73.9626,
+    40.5418,
+    -73.7002,
+    40.8039
+   ],
+   "units": 1056,
+   "rep": 264628,
+   "dem": 437282,
+   "total": 715964
+  },
+  {
+   "fips": "36083",
+   "name": "Rensselaer County",
+   "slug": "rensselaer-county",
+   "bbox": [
+    -73.7861,
+    42.4642,
+    -73.2648,
+    42.9586
+   ],
+   "units": 122,
+   "rep": 38601,
+   "dem": 39668,
+   "total": 79154
+  },
+  {
+   "fips": "36085",
+   "name": "Richmond County",
+   "slug": "richmond-county",
+   "bbox": [
+    -74.2557,
+    40.4961,
+    -74.053,
+    40.6491
+   ],
+   "units": 227,
+   "rep": 128151,
+   "dem": 69345,
+   "total": 200558
+  },
+  {
+   "fips": "36087",
+   "name": "Rockland County",
+   "slug": "rockland-county",
+   "bbox": [
+    -74.2343,
+    40.9972,
+    -73.8872,
+    41.3247
+   ],
+   "units": 307,
+   "rep": 83544,
+   "dem": 65884,
+   "total": 150825
+  },
+  {
+   "fips": "36089",
+   "name": "St. Lawrence County",
+   "slug": "st-lawrence-county",
+   "bbox": [
+    -75.86,
+    44.0504,
+    -74.5257,
+    45.0159
+   ],
+   "units": 70,
+   "rep": 25919,
+   "dem": 18010,
+   "total": 44168
+  },
+  {
+   "fips": "36091",
+   "name": "Saratoga County",
+   "slug": "saratoga-county",
+   "bbox": [
+    -74.1601,
+    42.7754,
+    -73.5733,
+    43.398
+   ],
+   "units": 204,
+   "rep": 63940,
+   "dem": 66321,
+   "total": 130812
+  },
+  {
+   "fips": "36093",
+   "name": "Schenectady County",
+   "slug": "schenectady-county",
+   "bbox": [
+    -74.3067,
+    42.7108,
+    -73.8094,
+    42.9559
+   ],
+   "units": 102,
+   "rep": 31975,
+   "dem": 39733,
+   "total": 72610
+  },
+  {
+   "fips": "36095",
+   "name": "Schoharie County",
+   "slug": "schoharie-county",
+   "bbox": [
+    -74.7116,
+    42.355,
+    -74.1647,
+    42.8296
+   ],
+   "units": 22,
+   "rep": 10423,
+   "dem": 5547,
+   "total": 16112
+  },
+  {
+   "fips": "36097",
+   "name": "Schuyler County",
+   "slug": "schuyler-county",
+   "bbox": [
+    -77.1072,
+    42.2337,
+    -76.6192,
+    42.5468
+   ],
+   "units": 19,
+   "rep": 5715,
+   "dem": 3736,
+   "total": 9532
+  },
+  {
+   "fips": "36099",
+   "name": "Seneca County",
+   "slug": "seneca-county",
+   "bbox": [
+    -76.9783,
+    42.5415,
+    -76.586,
+    43.024
+   ],
+   "units": 27,
+   "rep": 8379,
+   "dem": 6610,
+   "total": 15105
+  },
+  {
+   "fips": "36101",
+   "name": "Steuben County",
+   "slug": "steuben-county",
+   "bbox": [
+    -77.7499,
+    41.9987,
+    -76.965,
+    42.5804
+   ],
+   "units": 63,
+   "rep": 29777,
+   "dem": 15413,
+   "total": 45575
+  },
+  {
+   "fips": "36103",
+   "name": "Suffolk County",
+   "slug": "suffolk-county",
+   "bbox": [
+    -73.4974,
+    40.5343,
+    -71.8477,
+    41.3104
+   ],
+   "units": 1068,
+   "rep": 417549,
+   "dem": 341812,
+   "total": 769435
+  },
+  {
+   "fips": "36105",
+   "name": "Sullivan County",
+   "slug": "sullivan-county",
+   "bbox": [
+    -75.1447,
+    41.4214,
+    -74.3644,
+    42.0164
+   ],
+   "units": 90,
+   "rep": 20386,
+   "dem": 14549,
+   "total": 35062
+  },
+  {
+   "fips": "36107",
+   "name": "Tioga County",
+   "slug": "tioga-county",
+   "bbox": [
+    -76.5636,
+    41.9983,
+    -76.0807,
+    42.4103
+   ],
+   "units": 34,
+   "rep": 15038,
+   "dem": 9437,
+   "total": 24559
+  },
+  {
+   "fips": "36109",
+   "name": "Tompkins County",
+   "slug": "tompkins-county",
+   "bbox": [
+    -76.6967,
+    42.263,
+    -76.2377,
+    42.6274
+   ],
+   "units": 62,
+   "rep": 11354,
+   "dem": 34631,
+   "total": 46902
+  },
+  {
+   "fips": "36111",
+   "name": "Ulster County",
+   "slug": "ulster-county",
+   "bbox": [
+    -74.7807,
+    41.5806,
+    -73.9107,
+    42.177
+   ],
+   "units": 165,
+   "rep": 39743,
+   "dem": 57974,
+   "total": 98534
+  },
+  {
+   "fips": "36113",
+   "name": "Warren County",
+   "slug": "warren-county",
+   "bbox": [
+    -74.2146,
+    43.2221,
+    -73.4366,
+    43.8037
+   ],
+   "units": 37,
+   "rep": 18606,
+   "dem": 17099,
+   "total": 36075
+  },
+  {
+   "fips": "36115",
+   "name": "Washington County",
+   "slug": "washington-county",
+   "bbox": [
+    -73.6368,
+    42.9412,
+    -73.2414,
+    43.8085
+   ],
+   "units": 50,
+   "rep": 17268,
+   "dem": 11224,
+   "total": 28586
+  },
+  {
+   "fips": "36117",
+   "name": "Wayne County",
+   "slug": "wayne-county",
+   "bbox": [
+    -77.3761,
+    43.0125,
+    -76.7023,
+    43.3439
+   ],
+   "units": 67,
+   "rep": 27291,
+   "dem": 17074,
+   "total": 44708
+  },
+  {
+   "fips": "36119",
+   "name": "Westchester County",
+   "slug": "westchester-county",
+   "bbox": [
+    -73.9833,
+    40.8717,
+    -73.4827,
+    41.3665
+   ],
+   "units": 906,
+   "rep": 167795,
+   "dem": 287434,
+   "total": 457838
+  },
+  {
+   "fips": "36121",
+   "name": "Wyoming County",
+   "slug": "wyoming-county",
+   "bbox": [
+    -78.4879,
+    42.5192,
+    -77.9546,
+    42.8702
+   ],
+   "units": 40,
+   "rep": 14112,
+   "dem": 4929,
+   "total": 19170
+  },
+  {
+   "fips": "36123",
+   "name": "Yates County",
+   "slug": "yates-county",
+   "bbox": [
+    -77.3671,
+    42.4592,
+    -76.8898,
+    42.7644
+   ],
+   "units": 20,
+   "rep": 6098,
+   "dem": 4399,
+   "total": 10540
+  }
+ ]
+}

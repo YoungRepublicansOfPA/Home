@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>War Map | Young Republicans of Pennsylvania</title>
+<meta name="description" content="2024 presidential results by precinct or town, county by county, and the state's Republican committee structure.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Manrope:wght@400..800&display=swap">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<link rel="stylesheet" href="../war-map.css?v=20261127-states">
+<link rel="stylesheet" href="state.css?v=20261127">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="../../"><img src="../../assets/pa-badge.png" alt=""><span>Young Republicans of Pennsylvania</span></a>
+  <h1 id="title">War Map</h1>
+  <nav class="toplinks" aria-label="Site"><a href="../anatomy/">All states</a><a class="cta" href="../?layer=chairs">Pennsylvania map</a></nav>
+</header>
+<main class="stage">
+  <div id="map" role="region" aria-label="State map"></div>
+  <nav class="tabs" aria-label="Map layer">
+    <button type="button" data-layer="results" aria-pressed="true">Precinct results</button>
+    <button type="button" data-layer="chairs" aria-pressed="false">Empty chairs</button>
+  </nav>
+  <aside class="panel" aria-label="Map details">
+    <div id="panel" class="panel-body" aria-live="polite"><p class="lede">Loading the map…</p></div>
+    <footer class="sources">
+      <details>
+        <summary>Sources and map coverage</summary>
+        <p id="credit"></p>
+        <p><a href="https://www.nytimes.com/interactive/2025/us/elections/2024-election-map-precinct-results.html">2024 Precinct-Level Election Results, The New York Times</a> · <a href="../data/NYT-LICENSE.txt">Election data terms</a> · <a href="../data/NYT-CREDITS.md">Full credits</a>. County outlines: U.S. Census Bureau via <a href="https://github.com/topojson/us-atlas">us-atlas</a>. Geometry is simplified for display.</p>
+      </details>
+    </footer>
+  </aside>
+  <div id="legend" class="legend" aria-live="polite"></div>
+</main>
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<script src="state.js?v=20261127"></script>
+</body>
+</html>

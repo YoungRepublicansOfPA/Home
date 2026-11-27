@@ -1,0 +1,338 @@
+{
+ "state": "NJ",
+ "name": "New Jersey",
+ "fips": "34",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/NJ-precincts-with-results.geojson.gz",
+ "bbox": [
+  -75.5596,
+  38.9284,
+  -73.9025,
+  41.3576
+ ],
+ "totals": {
+  "rep": 1943617,
+  "dem": 2185607,
+  "total": 4224521,
+  "units": 6384
+ },
+ "counties": [
+  {
+   "fips": "34001",
+   "name": "Atlantic County",
+   "slug": "atlantic-county",
+   "bbox": [
+    -74.9853,
+    39.2886,
+    -74.3037,
+    39.7298
+   ],
+   "units": 151,
+   "rep": 65611,
+   "dem": 61438,
+   "total": 129549
+  },
+  {
+   "fips": "34003",
+   "name": "Bergen County",
+   "slug": "bergen-county",
+   "bbox": [
+    -74.2722,
+    40.7616,
+    -73.9025,
+    41.1337
+   ],
+   "units": 562,
+   "rep": 212582,
+   "dem": 228009,
+   "total": 449650
+  },
+  {
+   "fips": "34005",
+   "name": "Burlington County",
+   "slug": "burlington-county",
+   "bbox": [
+    -75.0605,
+    39.5412,
+    -74.3897,
+    40.1837
+   ],
+   "units": 366,
+   "rep": 92679,
+   "dem": 129981,
+   "total": 226367
+  },
+  {
+   "fips": "34007",
+   "name": "Camden County",
+   "slug": "camden-county",
+   "bbox": [
+    -75.1385,
+    39.6084,
+    -74.7362,
+    39.9961
+   ],
+   "units": 343,
+   "rep": 84134,
+   "dem": 149228,
+   "total": 237617
+  },
+  {
+   "fips": "34009",
+   "name": "Cape May County",
+   "slug": "cape-may-county",
+   "bbox": [
+    -74.9727,
+    38.9284,
+    -74.5403,
+    39.3244
+   ],
+   "units": 127,
+   "rep": 32136,
+   "dem": 21555,
+   "total": 54677
+  },
+  {
+   "fips": "34011",
+   "name": "Cumberland County",
+   "slug": "cumberland-county",
+   "bbox": [
+    -75.4196,
+    39.1766,
+    -74.8518,
+    39.5687
+   ],
+   "units": 92,
+   "rep": 28100,
+   "dem": 25891,
+   "total": 54680
+  },
+  {
+   "fips": "34013",
+   "name": "Essex County",
+   "slug": "essex-county",
+   "bbox": [
+    -74.3774,
+    40.6755,
+    -74.1141,
+    40.9089
+   ],
+   "units": 572,
+   "rep": 83695,
+   "dem": 223519,
+   "total": 311969
+  },
+  {
+   "fips": "34015",
+   "name": "Gloucester County",
+   "slug": "gloucester-county",
+   "bbox": [
+    -75.4291,
+    39.515,
+    -74.8773,
+    39.8876
+   ],
+   "units": 229,
+   "rep": 83305,
+   "dem": 78580,
+   "total": 165112
+  },
+  {
+   "fips": "34017",
+   "name": "Hudson County",
+   "slug": "hudson-county",
+   "bbox": [
+    -74.1652,
+    40.6438,
+    -73.992,
+    40.8235
+   ],
+   "units": 465,
+   "rep": 79913,
+   "dem": 144765,
+   "total": 232232
+  },
+  {
+   "fips": "34019",
+   "name": "Hunterdon County",
+   "slug": "hunterdon-county",
+   "bbox": [
+    -75.1955,
+    40.3394,
+    -74.7027,
+    40.7877
+   ],
+   "units": 117,
+   "rep": 42391,
+   "dem": 36995,
+   "total": 81271
+  },
+  {
+   "fips": "34021",
+   "name": "Mercer County",
+   "slug": "mercer-county",
+   "bbox": [
+    -74.9429,
+    40.1368,
+    -74.4811,
+    40.4242
+   ],
+   "units": 243,
+   "rep": 50535,
+   "dem": 103321,
+   "total": 157628
+  },
+  {
+   "fips": "34023",
+   "name": "Middlesex County",
+   "slug": "middlesex-county",
+   "bbox": [
+    -74.631,
+    40.2512,
+    -74.205,
+    40.6087
+   ],
+   "units": 610,
+   "rep": 153476,
+   "dem": 181289,
+   "total": 346240
+  },
+  {
+   "fips": "34025",
+   "name": "Monmouth County",
+   "slug": "monmouth-county",
+   "bbox": [
+    -74.6146,
+    40.0791,
+    -73.9713,
+    40.4786
+   ],
+   "units": 474,
+   "rep": 197053,
+   "dem": 155450,
+   "total": 360268
+  },
+  {
+   "fips": "34027",
+   "name": "Morris County",
+   "slug": "morris-county",
+   "bbox": [
+    -74.8898,
+    40.6484,
+    -74.2666,
+    41.0861
+   ],
+   "units": 394,
+   "rep": 142748,
+   "dem": 133970,
+   "total": 283592
+  },
+  {
+   "fips": "34029",
+   "name": "Ocean County",
+   "slug": "ocean-county",
+   "bbox": [
+    -74.5531,
+    39.4985,
+    -74.0315,
+    40.1724
+   ],
+   "units": 408,
+   "rep": 225215,
+   "dem": 104428,
+   "total": 334603
+  },
+  {
+   "fips": "34031",
+   "name": "Passaic County",
+   "slug": "passaic-county",
+   "bbox": [
+    -74.5032,
+    40.82,
+    -74.107,
+    41.2032
+   ],
+   "units": 283,
+   "rep": 100955,
+   "dem": 95155,
+   "total": 203351
+  },
+  {
+   "fips": "34033",
+   "name": "Salem County",
+   "slug": "salem-county",
+   "bbox": [
+    -75.5596,
+    39.3803,
+    -75.0619,
+    39.7875
+   ],
+   "units": 43,
+   "rep": 18229,
+   "dem": 12275,
+   "total": 31085
+  },
+  {
+   "fips": "34035",
+   "name": "Somerset County",
+   "slug": "somerset-county",
+   "bbox": [
+    -74.7979,
+    40.3737,
+    -74.4018,
+    40.7583
+   ],
+   "units": 267,
+   "rep": 74101,
+   "dem": 98790,
+   "total": 178343
+  },
+  {
+   "fips": "34037",
+   "name": "Sussex County",
+   "slug": "sussex-county",
+   "bbox": [
+    -74.9393,
+    40.8992,
+    -74.3675,
+    41.3576
+   ],
+   "units": 118,
+   "rep": 52114,
+   "dem": 31007,
+   "total": 84896
+  },
+  {
+   "fips": "34039",
+   "name": "Union County",
+   "slug": "union-county",
+   "bbox": [
+    -74.4633,
+    40.5919,
+    -74.1358,
+    40.7393
+   ],
+   "units": 434,
+   "rep": 88873,
+   "dem": 146643,
+   "total": 241035
+  },
+  {
+   "fips": "34041",
+   "name": "Warren County",
+   "slug": "warren-county",
+   "bbox": [
+    -75.2039,
+    40.5919,
+    -74.7694,
+    41.0944
+   ],
+   "units": 86,
+   "rep": 35772,
+   "dem": 23318,
+   "total": 60356
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+ "state": "CT",
+ "name": "Connecticut",
+ "fips": "09",
+ "unit": "town",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/CT-precincts-with-results.geojson.gz",
+ "bbox": [
+  -73.7278,
+  40.9509,
+  -71.7872,
+  42.0505
+ ],
+ "totals": {
+  "rep": 736918,
+  "dem": 992053,
+  "total": 1758429,
+  "units": 169
+ },
+ "counties": [
+  {
+   "fips": "09110",
+   "name": "Capitol Planning Region",
+   "slug": "capitol-planning-region",
+   "bbox": [
+    -72.9539,
+    41.5447,
+    -72.1563,
+    42.0375
+   ],
+   "units": 38,
+   "rep": 181038,
+   "dem": 285105,
+   "total": 474268
+  },
+  {
+   "fips": "09120",
+   "name": "Greater Bridgeport Planning Region",
+   "slug": "greater-bridgeport-planning-region",
+   "bbox": [
+    -73.3688,
+    41.1145,
+    -73.0867,
+    41.3917
+   ],
+   "units": 6,
+   "rep": 51519,
+   "dem": 83461,
+   "total": 137015
+  },
+  {
+   "fips": "09130",
+   "name": "Lower Connecticut River Valley Planning Region",
+   "slug": "lower-connecticut-river-valley-planning-region",
+   "bbox": [
+    -72.7529,
+    41.2478,
+    -72.2484,
+    41.647
+   ],
+   "units": 17,
+   "rep": 44318,
+   "dem": 58360,
+   "total": 104480
+  },
+  {
+   "fips": "09140",
+   "name": "Naugatuck Valley Planning Region",
+   "slug": "naugatuck-valley-planning-region",
+   "bbox": [
+    -73.3271,
+    41.2546,
+    -72.8463,
+    41.7232
+   ],
+   "units": 19,
+   "rep": 115290,
+   "dem": 99237,
+   "total": 217520
+  },
+  {
+   "fips": "09150",
+   "name": "Northeastern Connecticut Planning Region",
+   "slug": "northeastern-connecticut-planning-region",
+   "bbox": [
+    -72.2349,
+    41.5057,
+    -71.7872,
+    42.0311
+   ],
+   "units": 16,
+   "rep": 29028,
+   "dem": 21165,
+   "total": 50962
+  },
+  {
+   "fips": "09160",
+   "name": "Northwest Hills Planning Region",
+   "slug": "northwest-hills-planning-region",
+   "bbox": [
+    -73.5181,
+    41.5044,
+    -72.8636,
+    42.0505
+   ],
+   "units": 21,
+   "rep": 31944,
+   "dem": 31137,
+   "total": 64076
+  },
+  {
+   "fips": "09170",
+   "name": "South Central Connecticut Planning Region",
+   "slug": "south-central-connecticut-planning-region",
+   "bbox": [
+    -73.1225,
+    41.1686,
+    -72.5359,
+    41.5789
+   ],
+   "units": 15,
+   "rep": 103087,
+   "dem": 156248,
+   "total": 264854
+  },
+  {
+   "fips": "09180",
+   "name": "Southeastern Connecticut Planning Region",
+   "slug": "southeastern-connecticut-planning-region",
+   "bbox": [
+    -72.4667,
+    41.2759,
+    -71.7932,
+    41.7562
+   ],
+   "units": 19,
+   "rep": 58392,
+   "dem": 76146,
+   "total": 136954
+  },
+  {
+   "fips": "09190",
+   "name": "Western Connecticut Planning Region",
+   "slug": "western-connecticut-planning-region",
+   "bbox": [
+    -73.7278,
+    40.9509,
+    -73.1833,
+    41.6833
+   ],
+   "units": 18,
+   "rep": 122302,
+   "dem": 181194,
+   "total": 308300
+  }
+ ]
+}

@@ -1,0 +1,165 @@
+{
+ "county": "Hamilton County",
+ "checked_at": "2026-11-27",
+ "method": "candidate_listing",
+ "election": "June 23, 2026 Primary",
+ "as_of": "2026-07-01",
+ "seats_per_precinct": 2,
+ "sources": [
+  {
+   "url": "https://www.hamiltoncountyny.gov/government/board-elections",
+   "title": "Hamilton County Board of Elections: two Republican committee seats per town and 2026 election information",
+   "type": "rules",
+   "as_of": "2026-11-27"
+  },
+  {
+   "url": "https://www.nysenate.gov/legislation/laws/ELN/6-160",
+   "title": "New York Election Law \u00a7 6-160(2): uncontested designees deemed elected without balloting",
+   "type": "rules",
+   "as_of": "2026-11-27"
+  },
+  {
+   "url": "https://www.hamiltoncountyny.gov/sites/default/files/2025-09/2026%20Petition%20Report%20Final.pdf",
+   "title": "Hamilton County BOE Ultimate Candidate Report, valid designating petitions, April 9, 2026",
+   "type": "candidate_listing",
+   "as_of": "2026-04-09",
+   "sha256": "8758ab1b3195ded24727938cd178c780988a0d37ddab4fd644290baa585273b3"
+  },
+  {
+   "url": "https://www.hamiltoncountyny.gov/sites/default/files/Cumulative%20Results-7-1-2026%2002-10-04%20PM.pdf",
+   "title": "Hamilton County BOE June 23, 2026 Primary Results, run July 1 (no contested committee races)",
+   "type": "results",
+   "as_of": "2026-07-01",
+   "sha256": "eb2941b70d5f21b199311d00b9597f108e227ef42e54bdc0859104a04bc7424e"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "Arietta",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Benson",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Hope",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Indian Lake",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Inlet",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Lake Pleasant",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Long Lake",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Morehouse",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Wells",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "precincts": 9,
+  "seats": 18,
+  "filled": 15,
+  "empty": 0,
+  "empty_no_filer": 3,
+  "unknown": 0
+ },
+ "coverage": "full",
+ "notes": "The county election office says each of nine towns has two Republican committee seats. Its valid-petition report lists 15 Republican county committee filings and no town has more than two. The posted primary results have no committee contest; under NY Election Law \u00a7 6-160(2), uncontested designees are deemed elected. Remaining seats are empty_no_filer, not confirmed current vacancies: later write-ins or appointments are not reflected. Committee units are towns, although filings identify election districts within them; the 2024 presidential map has 11 voting districts, so these seats are shown in county totals only. Candidate names are omitted."
+}

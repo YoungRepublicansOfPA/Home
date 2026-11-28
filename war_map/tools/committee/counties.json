@@ -871,10 +871,11 @@
   {
    "county": "Westmoreland",
    "slug": "westmoreland",
-   "current_method": "none_found",
+   "current_method": "election_results",
    "platform": "manual",
-   "election": "Unverified (county site inaccessible)",
-   "cycle_years": null
+   "election": "May 19, 2026 General Primary",
+   "cycle_years": null,
+   "notes": "Official Summary Results and Republican winner certification are imported together by import-westmoreland.mjs. The summary report repeats two contest headings at page breaks and wraps one title."
   },
   {
    "county": "Wyoming",

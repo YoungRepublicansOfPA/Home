@@ -1,9 +1,9 @@
 {
   "county": "McKean",
-  "checked_at": "2026-11-24",
+  "checked_at": "2026-11-27",
   "method": "none_found",
-  "election": "None found",
-  "as_of": "2026-11-24",
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2026-05-19",
   "seats_per_precinct": 2,
   "sources": [
     {
@@ -17,16 +17,611 @@
       "title": "McKean County Unofficial Election Results Viewer (GIS map; did not respond to automated access)",
       "type": "results",
       "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://cms6.revize.com/revize/mckeancountypa/2026%20UMOVA%20NOTICE%20OF%20GENERAL%20PRIMARY1.pdf",
+      "title": "McKean County Board of Elections 2026 General Primary official notice: Republican county committee member, one male and one female, vote for two per precinct",
+      "type": "rules",
+      "as_of": "2026-05-19"
     }
   ],
-  "precincts": [],
+  "precincts": [
+    {
+      "name": "Annin",
+      "map_id": "420830010",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bradford W 1",
+      "map_id": "420830020",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bradford W 2",
+      "map_id": "420830030",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bradford W 3 D 1",
+      "map_id": "420830040",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bradford W 3 D 2",
+      "map_id": "420830050",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bradford W 4",
+      "map_id": "420830065",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bradford W 5",
+      "map_id": "420830080",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bradford W 6 D 1",
+      "map_id": "420830090",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bradford W 6 D 2",
+      "map_id": "420830100",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bradford D 1",
+      "map_id": "420830110",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bradford D 2",
+      "map_id": "420830120",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bradford D 3",
+      "map_id": "420830130",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Ceres",
+      "map_id": "420830140",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Corydon",
+      "map_id": "420830150",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Eldred Borough",
+      "map_id": "420830160",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Eldred Township",
+      "map_id": "420830170",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Foster D 1",
+      "map_id": "420830180",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Foster D 2",
+      "map_id": "420830190",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Foster D 3",
+      "map_id": "420830200",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Foster D 4",
+      "map_id": "420830210",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hamilton",
+      "map_id": "420830220",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hamlin D 1",
+      "map_id": "420830230",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Hamlin D 2",
+      "map_id": "420830240",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Kane W 1",
+      "map_id": "420830250",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Kane W 2",
+      "map_id": "420830260",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Kane W 3",
+      "map_id": "420830270",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Kane W 4",
+      "map_id": "420830280",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Keating D 1",
+      "map_id": "420830290",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Keating D 2",
+      "map_id": "420830300",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Keating D 3",
+      "map_id": "420830310",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lafayette",
+      "map_id": "420830320",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Lewis Run",
+      "map_id": "420830330",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Liberty",
+      "map_id": "420830340",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Mt. Jewett",
+      "map_id": "420830350",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Norwich",
+      "map_id": "420830360",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Otto D 1",
+      "map_id": "420830370",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Otto D 2",
+      "map_id": "420830380",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Port Allegany D 1",
+      "map_id": "420830390",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Port Allegany D 2",
+      "map_id": "420830400",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Sergeant",
+      "map_id": "420830410",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Smethport",
+      "map_id": "420830420",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wetmore",
+      "map_id": "420830430",
+      "seats": [
+        {
+          "seat": "Male member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Female member",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
   "totals": {
     "precincts": 42,
-    "seats": 0,
+    "seats": 84,
     "filled": 0,
     "empty": 0,
     "empty_no_filer": 0,
-    "unknown": 0
+    "unknown": 84
   },
-  "notes": "No usable public evidence was found. The county's earlier 2024 primary result PDFs (SUMfinalunofficialPRI24.pdf, PrecinctFinalUnoffPRI24.pdf) now return 404, no 2026 primary results file is linked from the elections page, and the county's GIS 'Unofficial Election Results Viewer' did not respond to automated access. No public Republican committee roster was found. The precinct list is left empty because no county precinct list was retrieved; totals.precincts (42) comes from the map's county file. Two seats per precinct is the usual Pennsylvania arrangement and is not verified for McKean."
+  "notes": "The McKean County Board of Elections official notice for the May 19, 2026 primary specifies two Republican county committee members per precinct, one male and one female. Across the 42 mapped precincts this establishes 84 positions. The notice gives no candidates or certified winners, and no current roster was found, so every seat remains unknown. The 2026 election may have changed occupancy through write-ins or later appointments."
 }

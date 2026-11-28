@@ -1,0 +1,30 @@
+{
+ "county": "Kent County",
+ "checked_at": "2026-11-27",
+ "method": "roster",
+ "election": null,
+ "as_of": "2026-11-27",
+ "seats_per_precinct": 1,
+ "sources": [
+  {
+   "url": "https://www.kentrepublicans.com/representative-districts",
+   "title": "Kent County Republican Committee representative district leadership",
+   "type": "roster",
+   "as_of": "2026-11-27"
+  }
+ ],
+ "precincts": [
+  {"name": "Representative District 11", "seats": [{"seat": "Chair", "status": "filled"}]},
+  {"name": "Representative District 28", "seats": [{"seat": "Chair", "status": "filled"}]},
+  {"name": "Representative District 29", "seats": [{"seat": "Chair", "status": "filled"}]},
+  {"name": "Representative District 30", "seats": [{"seat": "Chair", "status": "filled"}]},
+  {"name": "Representative District 31", "seats": [{"seat": "Chair", "status": "filled"}]},
+  {"name": "Representative District 32", "seats": [{"seat": "Chair", "status": "filled"}]},
+  {"name": "Representative District 33", "seats": [{"seat": "Chair", "status": "filled"}]},
+  {"name": "Representative District 34", "seats": [{"seat": "Chair", "status": "filled"}]}
+ ],
+ "totals": {"precincts": 8, "seats": 8, "filled": 8, "empty": 0, "empty_no_filer": 0, "unknown": 0},
+ "coverage": "partial",
+ "coverage_note": "Eight representative district chair positions are listed. Election district committeeperson seats and other party offices have not been enumerated, so this is not a complete county seat count.",
+ "notes": "The county party's live leadership page was checked November 27, 2026. The 11th Representative District spans Kent and New Castle counties. This file counts only the district chair positions explicitly listed, and is excluded from state seat totals."
+}

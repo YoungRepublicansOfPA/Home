@@ -1,0 +1,70 @@
+{
+ "county": "Caroline County",
+ "checked_at": "2026-11-27",
+ "method": "election_results",
+ "election": "June 23, 2026 Gubernatorial Primary Election",
+ "as_of": "2026-07-23",
+ "seats_per_precinct": null,
+ "sources": [
+  {
+   "url": "https://elections.maryland.gov/elections/2026/primary_results/gen_results_2026_by_county_6.html",
+   "title": "Maryland State Board of Elections: Official 2026 Gubernatorial Primary Election Results for Caroline County",
+   "type": "results",
+   "as_of": "2026-07-23"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "Countywide",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 5",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 6",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 7",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 8",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 9",
+     "status": "empty_no_filer"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "precincts": 1,
+  "seats": 9,
+  "filled": 4,
+  "empty": 0,
+  "empty_no_filer": 5,
+  "unknown": 0
+ },
+ "coverage": "full",
+ "coverage_note": null,
+ "notes": "Filled seats are candidates marked Winner Selected by the official results. Unfilled slots with no filed candidate are empty_no_filer; write-ins or later appointments may fill them. Candidate names are not stored. The listed units are central committee constituencies, not precincts on the presidential map."
+}

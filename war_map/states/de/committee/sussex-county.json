@@ -1,0 +1,32 @@
+{
+ "county": "Sussex County",
+ "checked_at": "2026-11-27",
+ "method": "roster",
+ "election": null,
+ "as_of": "2026-11-27",
+ "seats_per_precinct": 1,
+ "sources": [
+  {
+   "url": "https://www.sussex.gop/about-sussex-gop",
+   "title": "Sussex County Republican Committee districts and leadership",
+   "type": "roster",
+   "as_of": "2026-11-27"
+  }
+ ],
+ "precincts": [
+  {"name": "Representative District 4", "seats": [{"seat": "Chair", "status": "filled"}]},
+  {"name": "Representative District 14", "seats": [{"seat": "Chair", "status": "empty"}]},
+  {"name": "Representative District 20", "seats": [{"seat": "Chair", "status": "filled"}]},
+  {"name": "Representative District 35", "seats": [{"seat": "Chair", "status": "empty"}]},
+  {"name": "Representative District 36", "seats": [{"seat": "Chair", "status": "filled"}]},
+  {"name": "Representative District 37", "seats": [{"seat": "Chair", "status": "filled"}]},
+  {"name": "Representative District 38", "seats": [{"seat": "Chair", "status": "empty"}]},
+  {"name": "Representative District 39", "seats": [{"seat": "Chair", "status": "filled"}]},
+  {"name": "Representative District 40", "seats": [{"seat": "Chair", "status": "filled"}]},
+  {"name": "Representative District 41", "seats": [{"seat": "Chair", "status": "filled"}]}
+ ],
+ "totals": {"precincts": 10, "seats": 10, "filled": 7, "empty": 3, "empty_no_filer": 0, "unknown": 0},
+ "coverage": "partial",
+ "coverage_note": "Ten representative district chair positions are listed. The party says each election district has two committeepersons, but their seat status has not been documented here, so this is not a complete county seat count.",
+ "notes": "The county party's live leadership page was checked November 27, 2026. It marks three representative district chairs vacant. Vice chairs are not included because the party says those positions exist only in some districts. Election district committeeperson seats are not included. This partial list is excluded from state seat totals."
+}

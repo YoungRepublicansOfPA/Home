@@ -1,0 +1,188 @@
+{
+ "county": "Baltimore County",
+ "checked_at": "2026-11-27",
+ "method": "election_results",
+ "election": "June 23, 2026 Gubernatorial Primary Election",
+ "as_of": "2026-07-23",
+ "seats_per_precinct": null,
+ "sources": [
+  {
+   "url": "https://elections.maryland.gov/elections/2026/primary_results/gen_results_2026_by_county_4.html",
+   "title": "Maryland State Board of Elections: Official 2026 Gubernatorial Primary Election Results for Baltimore County",
+   "type": "results",
+   "as_of": "2026-07-23"
+  },
+  {
+   "url": "https://www.msa.maryland.gov/msa/mdmanual/40party/html/repl.html",
+   "title": "Maryland State Archives: Republican local central committees",
+   "type": "roster",
+   "as_of": "2026-11-27"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 3",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "District 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "precincts": 9,
+  "seats": 27,
+  "filled": 24,
+  "empty": 0,
+  "empty_no_filer": 3,
+  "unknown": 0
+ },
+ "coverage": "full",
+ "coverage_note": "District seat counts and constituencies cross-checked against the Maryland State Archives roster.",
+ "notes": "Filled seats are candidates marked Winner Selected by the official results. Unfilled slots with no filed candidate are empty_no_filer; write-ins or later appointments may fill them. Candidate names are not stored. The listed units are central committee constituencies, not precincts on the presidential map."
+}

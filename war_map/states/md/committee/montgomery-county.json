@@ -1,0 +1,169 @@
+{
+ "county": "Montgomery County",
+ "checked_at": "2026-11-27",
+ "method": "election_results",
+ "election": "June 23, 2026 Gubernatorial Primary Election",
+ "as_of": "2026-07-23",
+ "seats_per_precinct": null,
+ "sources": [
+  {
+   "url": "https://elections.maryland.gov/elections/2026/primary_results/gen_results_2026_by_county_16.html",
+   "title": "Maryland State Board of Elections: Official 2026 Gubernatorial Primary Election Results for Montgomery County",
+   "type": "results",
+   "as_of": "2026-07-23"
+  },
+  {
+   "url": "https://www.msa.maryland.gov/msa/mdmanual/40party/html/repl.html",
+   "title": "Maryland State Archives: Republican local central committees",
+   "type": "roster",
+   "as_of": "2026-11-27"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "At large",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "District 9A",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "District 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "District 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "District 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "District 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "District 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "District 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "District 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "District 39",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "precincts": 10,
+  "seats": 21,
+  "filled": 20,
+  "empty": 0,
+  "empty_no_filer": 1,
+  "unknown": 0
+ },
+ "coverage": "full",
+ "coverage_note": "District seat counts and constituencies cross-checked against the Maryland State Archives roster.",
+ "notes": "Filled seats are candidates marked Winner Selected by the official results. Unfilled slots with no filed candidate are empty_no_filer; write-ins or later appointments may fill them. Candidate names are not stored. The listed units are central committee constituencies, not precincts on the presidential map."
+}

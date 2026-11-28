@@ -1,0 +1,1576 @@
+{
+ "county": "Sussex County",
+ "checked_at": "2026-11-27",
+ "method": "roster",
+ "election": "June 10, 2025 Primary Election",
+ "as_of": "2026-05-18",
+ "seats_per_precinct": 2,
+ "sources": [
+  {
+   "url": "https://www.sussex.nj.us/DocumentCenter/View/4341/2026-May-18-Official-GOP-CC-PDF",
+   "title": "Sussex County Republican County Committee Membership, updated May 18, 2026",
+   "type": "roster",
+   "as_of": "2026-05-18",
+   "sha256": "80ec6375817a9a5c03b5cdcec107a779bbafde4f2bf1e75ea381ad07c23ae5ca"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "ANDOVER BOROUGH-01-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "ANDOVER TOWNSHIP-02-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "ANDOVER TOWNSHIP-02-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "ANDOVER TOWNSHIP-02-03",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "ANDOVER TOWNSHIP-02-04",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "ANDOVER TOWNSHIP-02-05",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "ANDOVER TOWNSHIP-02-06",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "BRANCHVILLE-03-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BYRAM-04-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "BYRAM-04-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "BYRAM-04-03",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "BYRAM-04-04",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "BYRAM-04-05",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BYRAM-04-06",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "FRANKFORD-05-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FRANKFORD-05-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FRANKFORD-05-03",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FRANKFORD-05-04",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FRANKLIN-06-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FRANKLIN-06-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FRANKLIN-06-03",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FREDON-07-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "FREDON-07-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "FREDON-07-03",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FREDON-07-04",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "GREEN-08-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "GREEN-08-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "GREEN-08-03",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "GREEN-08-04",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "HAMBURG-09-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "HAMBURG-09-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "HAMPTON-10-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HAMPTON-10-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "HAMPTON-10-03",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "HAMPTON-10-04",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "HARDYSTON-11-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HARDYSTON-11-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HARDYSTON-11-03",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HARDYSTON-11-04",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HARDYSTON-11-05",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HARDYSTON-11-06",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HARDYSTON-11-07",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "HOPATCONG-12-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HOPATCONG-12-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HOPATCONG-12-03",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "HOPATCONG-12-04",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HOPATCONG-12-05",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HOPATCONG-12-06",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HOPATCONG-12-07",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HOPATCONG-12-08",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HOPATCONG-12-09",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HOPATCONG-12-10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HOPATCONG-12-11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HOPATCONG-12-12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LAFAYETTE-13-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "LAFAYETTE-13-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LAFAYETTE-13-03",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MONTAGUE-14-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MONTAGUE-14-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "MONTAGUE-14-03",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "NEWTON-15-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "NEWTON-15-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "NEWTON-15-03",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "NEWTON-15-04",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "NEWTON-15-05",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "NEWTON-15-06",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "OGDENSBURG-16-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "OGDENSBURG-16-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SANDYSTON-17-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SPARTA-18-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SPARTA-18-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "SPARTA-18-03",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SPARTA-18-04",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SPARTA-18-05",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "SPARTA-18-06",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "SPARTA-18-07",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SPARTA-18-08",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SPARTA-18-09",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SPARTA-18-10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "SPARTA-18-11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "SPARTA-18-12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SPARTA-18-13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "SPARTA-18-14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "STANHOPE-19-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "STANHOPE-19-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "STANHOPE-19-03",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "STILLWATER-20-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "STILLWATER-20-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "STILLWATER-20-03",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SUSSEX-21-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-03",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-04",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-05",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-06",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-07",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-08",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-09",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "VERNON-22-20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WALPACK-23-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "WANTAGE-24-01",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WANTAGE-24-02",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WANTAGE-24-03",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WANTAGE-24-04",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "WANTAGE-24-05",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "WANTAGE-24-06",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WANTAGE-24-07",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WANTAGE-24-08",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "precincts": 119,
+  "seats": 238,
+  "filled": 170,
+  "empty": 68,
+  "empty_no_filer": 0,
+  "unknown": 0
+ },
+ "coverage": "full",
+ "notes": "The county roster lists two county committee seats in each of 119 districts. VACANCY is empty; a listed member is filled. The roster was updated May 18, 2026; later changes are not reflected. Member names and contact details are omitted. The 2024 presidential map has 118 units, so the roster districts are shown in county totals only and are not assigned to map polygons."
+}

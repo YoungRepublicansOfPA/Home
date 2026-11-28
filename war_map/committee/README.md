@@ -8,14 +8,14 @@ One file per county: `<county-slug>.json`, where the slug is the county name in 
 
 In order of preference:
 1. **County committee roster** published by the county party or the county elections office. A listed seat with no member is `empty`.
-2. **Official results of the most recent committee election**, usually the May 2026 general primary in counties that elect in gubernatorial years. A seat with a winning candidate is `filled`. A seat with no candidate and no votes is `empty`. A seat won only by unnamed write-ins, or with an unresolved tie, is `unknown`.
+2. **Official results of the most recent committee election**, usually the May 2026 general primary in counties that elect in gubernatorial years. A seat with a certified winner is `filled`. A seat with no candidate and no votes is `empty`. A seat with only unidentified write-in totals, or with an unresolved tie, is `unknown`. Some counties publish a separate winner certification that explicitly identifies write-in winners; those seats can be `filled` without storing the winner's name.
 3. **Official candidate listing** for that election. A seat with no filed Republican candidate is `empty_no_filer`. Write-ins could still have won, so this is weaker evidence than results.
 
 If none of these is public, set `method` to `none_found` and every seat to `unknown`. Never infer a count from party statements, news estimates or other counties.
 
 Appointments made after an election aren't captured unless a newer roster shows them. Record the date of the evidence in `as_of`.
 
-**Names:** a seat-holder's name may be stored, as `holder`, only when the seat is `filled` and the name is printed in the county's official results (as the winning named candidate) or in a published committee roster. Store the name exactly as the source prints it. Never store anything else about a person: no address, phone, email, photo, social-media profile, or information gathered from any other source. Write-in winners aren't named in public results, so those seats stay `unknown` without a name; never guess one. Losing candidates' names are never stored.
+**Names:** a seat-holder's name may be stored, as `holder`, only when the seat is `filled` and the name is printed in the county's official results (as the winning ballot candidate) or in a published committee roster. Store the name exactly as the source prints it. Never store anything else about a person: no address, phone, email, photo, social-media profile, or information gathered from any other source. Omit names of write-in winners even when the certification identifies them; where no winner is identified, keep the seat `unknown`. Losing candidates' names are never stored.
 
 ## File format
 

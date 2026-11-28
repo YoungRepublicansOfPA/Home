@@ -8,12 +8,12 @@
   "seat_data_source": "County clerk primary results"
  },
  "totals": {
-  "seats": 8944,
-  "precincts": 4229,
-  "filled": 3135,
-  "empty": 1276,
+  "seats": 9912,
+  "precincts": 4713,
+  "filled": 3874,
+  "empty": 1504,
   "empty_no_filer": 1176,
-  "unknown": 3357
+  "unknown": 3358
  },
  "notes": "Totals cover the counties listed in `counties` that have a seat list. Counties without one, or with only a partial list (coverage: partial), are not in the totals. Seat status follows war_map/committee/README.md.",
  "counties": [
@@ -198,6 +198,42 @@
    "coverage_note": null
   },
   {
+   "slug": "passaic-county",
+   "name": "Passaic County",
+   "method": "roster",
+   "election": "June 10, 2025 Primary Election",
+   "as_of": "2025-06-10",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 279,
+    "seats": 558,
+    "filled": 421,
+    "empty": 136,
+    "empty_no_filer": 0,
+    "unknown": 1
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "sussex-county",
+   "name": "Sussex County",
+   "method": "roster",
+   "election": "June 10, 2025 Primary Election",
+   "as_of": "2026-05-18",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 119,
+    "seats": 238,
+    "filled": 170,
+    "empty": 68,
+    "empty_no_filer": 0,
+    "unknown": 0
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
    "slug": "union-county",
    "name": "Union County",
    "method": "election_results",
@@ -214,8 +250,26 @@
    },
    "coverage": "full",
    "coverage_note": null
+  },
+  {
+   "slug": "warren-county",
+   "name": "Warren County",
+   "method": "roster",
+   "election": "2025\u20132026 county committee term",
+   "as_of": "2025-09-29",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 86,
+    "seats": 172,
+    "filled": 148,
+    "empty": 24,
+    "empty_no_filer": 0,
+    "unknown": 0
+   },
+   "coverage": "full",
+   "coverage_note": null
   }
  ],
  "counties_total": 21,
- "counties_counted": 11
+ "counties_counted": 14
 }

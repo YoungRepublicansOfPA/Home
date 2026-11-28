@@ -58,6 +58,8 @@ export function read(path, cfg = {}) {
       // seat_labels maps short source labels to the county file's, e.g. Lycoming's (M)/(F).
       const g = head.groups, seat = (cfg.seat_labels?.[g.seat.trim()] || g.seat).replace(/\s+/g, '').toLowerCase();
       const precinct = aliases[g.precinct.trim().toUpperCase()] || g.precinct.trim();
+      // Some long contests repeat their title after a page break, before the total line.
+      if (cfg.merge_page_continuations && cur?.precinct === precinct && cur?.seat.toLowerCase() === seat) continue;
       cur = {seat: seat[0].toUpperCase() + seat.slice(1), precinct, voteFor: g.n ? +g.n : 1, choices: []};
       contests.push(cur);
       continue;
@@ -69,7 +71,14 @@ export function read(path, cfg = {}) {
     if (vf) { if (cur) cur.voteFor = +vf[1]; continue; }
     if (any && any.test(t)) { cur = null; continue; }
     if (!cur) continue;
-    if (end.test(t)) { cur = null; continue; }
+    if (end.test(t)) {
+      if (cfg.validate_contest_total) {
+        const reported = Number((t.match(/[\d,]+/) || ['0'])[0].replace(/,/g, ''));
+        const counted = cur.choices.reduce((sum, choice) => sum + choice.votes, 0);
+        if (counted !== reported) throw Error(`text report: ${cur.precinct} choices sum to ${counted}, reported total is ${reported}`);
+      }
+      cur = null; continue;
+    }
     if (SKIP.test(t) || FURNITURE.test(t) || !/\d/.test(t)) continue; // column headers, wrapped titles, page furniture
     // Drop percentage columns ("62    100.00%    54    8" in Lackawanna) before finding the total.
     const m = t.replace(/\s+[\d.]+%/g, '').match(/^(.*?\S)\s{2,}((?:[\d,]+\s+)*[\d,]+)$/);

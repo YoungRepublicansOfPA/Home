@@ -1,26 +1,267 @@
 {
   "county": "Fulton",
-  "checked_at": "2026-11-24",
+  "checked_at": "2026-11-27",
   "method": "none_found",
-  "election": null,
-  "as_of": null,
-  "seats_per_precinct": null,
+  "election": "Appointment permitted; committee election cycle not stated by the party",
+  "as_of": "2026-11-27",
+  "seats_per_precinct": 3,
   "sources": [
     {
       "url": "https://www.co.fulton.pa.us/elections.php",
       "title": "Fulton County Elections & Voter Registration page (no election results, candidate listings or committee rosters posted; only Act 88 mail-ballot notices and board agendas)",
       "type": "results",
       "as_of": "2026-11-24"
+    },
+    {
+      "url": "https://fultonpagop.com/",
+      "title": "Fulton County Republican Committee, Municipalities (three committee members per municipality; appointments invited)",
+      "type": "rules",
+      "as_of": "2026-11-27"
     }
   ],
-  "precincts": [],
+  "precincts": [
+    {
+      "name": "Ayr",
+      "map_id": "420570010",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Belfast",
+      "map_id": "420570020",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Bethel",
+      "map_id": "420570030",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Brush Creek",
+      "map_id": "420570040",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Dublin",
+      "map_id": "420570050",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Licking Creek",
+      "map_id": "420570060",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Mc Connellsburg",
+      "map_id": "420570070",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Taylor",
+      "map_id": "420570080",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Thompson",
+      "map_id": "420570090",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Todd",
+      "map_id": "420570100",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Union",
+      "map_id": "420570110",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Valley-Hi",
+      "map_id": "420570120",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Wells",
+      "map_id": "420570130",
+      "seats": [
+        {
+          "seat": "Member 1",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 2",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member 3",
+          "status": "unknown"
+        }
+      ]
+    }
+  ],
   "totals": {
     "precincts": 13,
-    "seats": 0,
+    "seats": 39,
     "filled": 0,
     "empty": 0,
     "empty_no_filer": 0,
-    "unknown": 0
+    "unknown": 39
   },
-  "notes": "No public Fulton County source was found for Republican committee seats: the county elections page posts no precinct results, candidate listings or rosters, and web searches turned up no Fulton County, PA committee results (only results for other states' Fulton counties). The number of seats per precinct and the election cycle are also unverified, so no seats are listed and totals.seats is 0 rather than an estimate. totals.precincts (13) is taken from war_map/counties.geojson. Possible next steps: request the 2026 primary precinct report from the Fulton County elections office, or a roster from the county Republican committee."
+  "notes": "The Fulton County Republican Committee lists all 13 municipalities and states that each is represented by three committee members. The party page says positions are available and registered Republicans may be appointed, but it does not identify the current member or vacancy in any seat. All 39 authorized municipal seats therefore remain unknown. The 2026 certified primary report does not list county committee contests; no current roster was found. Municipalities correspond one-to-one to the map units."
 }

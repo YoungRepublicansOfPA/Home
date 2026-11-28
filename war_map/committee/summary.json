@@ -20,14 +20,14 @@
   ]
  },
  "total": {
-  "seats": 17945,
-  "filled": 4829,
-  "empty": 4975,
-  "empty_no_filer": 399,
-  "unknown": 7742,
-  "named": 4345,
+  "seats": 18981,
+  "filled": 5356,
+  "empty": 5050,
+  "empty_no_filer": 527,
+  "unknown": 8048,
+  "named": 4510,
   "precincts": 9117,
-  "mapped": 8083
+  "mapped": 8521
  },
  "counties": {
   "Adams": {
@@ -580,9 +580,9 @@
   },
   "Centre": {
    "method": "none_found",
-   "election": "None identified (no Republican precinct committee contests on the 2024, 2025 or 2026 primary ballots)",
+   "election": "Appointed by the county chair under party bylaws; no 2026 precinct committee ballot",
    "as_of": "2026-06-04",
-   "checked_at": "2026-11-24",
+   "checked_at": "2026-11-27",
    "precincts": 87,
    "seats": 174,
    "filled": 0,
@@ -620,6 +620,11 @@
      "url": "https://www.centrecountypa.gov/DocumentCenter/View/31108/election-summary",
      "title": "Centre County 2025 Municipal Primary - Official Election Summary (no committee contests)",
      "type": "results"
+    },
+    {
+     "url": "https://centre.gop/the-bylaws-of-the-ccrc/",
+     "title": "Centre County Republican Committee bylaws, Article III sections 1 and 3 (two members per precinct, appointed by chair)",
+     "type": "rules"
     }
    ],
    "file": "centre.json"
@@ -1092,9 +1097,9 @@
   },
   "Fayette": {
    "method": "none_found",
-   "election": "Unverified (likely May 19, 2026 General Primary)",
-   "as_of": null,
-   "checked_at": "2026-11-24",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2024-10-15",
+   "checked_at": "2026-11-27",
    "precincts": 77,
    "seats": 0,
    "filled": 0,
@@ -1102,7 +1107,7 @@
    "empty_no_filer": 0,
    "unknown": 0,
    "named": 0,
-   "mapped": 0,
+   "mapped": 77,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -1110,7 +1115,7 @@
     "petitions_to": "2030-03-12",
     "cycle_years": 4,
     "cycle_confirmed": false,
-    "last_election_year": null
+    "last_election_year": 2026
    },
    "sources": [
     {
@@ -1132,6 +1137,11 @@
      "url": "https://www.fayettecountypa.org/DocumentCenter/View/6591",
      "title": "Primary 2023 Final Certified County and Local Results (checked: no committee contests)",
      "type": "results"
+    },
+    {
+     "url": "https://img1.wsimg.com/blobby/go/86907e03-7862-4e3f-8260-e06fdbe92a5a/downloads/138926bf-54da-4082-923e-a2d29a804ea5/FCRCbylaws2024-10-15.pdf?ver=1740688229400",
+     "title": "Fayette County Republican Committee bylaws, filed October 15, 2024, Article II section 2.3(a): each precinct elects up to two members every gubernatorial primary",
+     "type": "rules"
     }
    ],
    "file": "fayette.json"
@@ -1220,17 +1230,17 @@
   },
   "Fulton": {
    "method": "none_found",
-   "election": null,
-   "as_of": null,
-   "checked_at": "2026-11-24",
+   "election": "Appointment permitted; committee election cycle not stated by the party",
+   "as_of": "2026-11-27",
+   "checked_at": "2026-11-27",
    "precincts": 13,
-   "seats": 0,
+   "seats": 39,
    "filled": 0,
    "empty": 0,
    "empty_no_filer": 0,
-   "unknown": 0,
+   "unknown": 39,
    "named": 0,
-   "mapped": 0,
+   "mapped": 13,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -1245,6 +1255,11 @@
      "url": "https://www.co.fulton.pa.us/elections.php",
      "title": "Fulton County Elections & Voter Registration page (no election results, candidate listings or committee rosters posted; only Act 88 mail-ballot notices and board agendas)",
      "type": "results"
+    },
+    {
+     "url": "https://fultonpagop.com/",
+     "title": "Fulton County Republican Committee, Municipalities (three committee members per municipality; appointments invited)",
+     "type": "rules"
     }
    ],
    "file": "fulton.json"
@@ -1763,17 +1778,17 @@
   },
   "McKean": {
    "method": "none_found",
-   "election": "None found",
-   "as_of": "2026-11-24",
-   "checked_at": "2026-11-24",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-05-19",
+   "checked_at": "2026-11-27",
    "precincts": 42,
-   "seats": 0,
+   "seats": 84,
    "filled": 0,
    "empty": 0,
    "empty_no_filer": 0,
-   "unknown": 0,
+   "unknown": 84,
    "named": 0,
-   "mapped": 0,
+   "mapped": 42,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -1781,7 +1796,7 @@
     "petitions_to": "2030-03-12",
     "cycle_years": 4,
     "cycle_confirmed": false,
-    "last_election_year": null
+    "last_election_year": 2026
    },
    "sources": [
     {
@@ -1793,6 +1808,11 @@
      "url": "https://gismaps.mckeancountypa.org/portal/apps/webappviewer/index.html?id=13a73720a3874314bbd58c753094b7bc",
      "title": "McKean County Unofficial Election Results Viewer (GIS map; did not respond to automated access)",
      "type": "results"
+    },
+    {
+     "url": "https://cms6.revize.com/revize/mckeancountypa/2026%20UMOVA%20NOTICE%20OF%20GENERAL%20PRIMARY1.pdf",
+     "title": "McKean County Board of Elections 2026 General Primary official notice: Republican county committee member, one male and one female, vote for two per precinct",
+     "type": "rules"
     }
    ],
    "file": "mckean.json"
@@ -2316,16 +2336,16 @@
    "file": "snyder.json"
   },
   "Somerset": {
-   "method": "none_found",
-   "election": "Not determined (no committee results posted)",
-   "as_of": "2026-11-24",
-   "checked_at": "2026-11-24",
+   "method": "candidate_listing",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-05-05",
+   "checked_at": "2026-11-27",
    "precincts": 67,
    "seats": 134,
    "filled": 0,
    "empty": 0,
-   "empty_no_filer": 0,
-   "unknown": 134,
+   "empty_no_filer": 128,
+   "unknown": 6,
    "named": 0,
    "mapped": 63,
    "next_election": {
@@ -2335,7 +2355,7 @@
     "petitions_to": "2030-03-12",
     "cycle_years": 4,
     "cycle_confirmed": false,
-    "last_election_year": null
+    "last_election_year": 2026
    },
    "sources": [
     {
@@ -2347,6 +2367,16 @@
      "url": "http://www.co.somerset.pa.us/files/voter_files/ElectionResultsUpload/Precient%20by%20Precient%20Report.pdf",
      "title": "Somerset County 2026 General Election official precinct report (source of precinct names)",
      "type": "results"
+    },
+    {
+     "url": "https://www.co.somerset.pa.us/files/voter_files/Notices/S2026UMOVA.pdf",
+     "title": "Somerset County 2026 General Primary official military and overseas ballot notice: two county committee members per election precinct",
+     "type": "rules"
+    },
+    {
+     "url": "https://www.co.somerset.pa.us/files/voter_files/Notices/Candidates.pdf",
+     "title": "Somerset County Board of Elections May 5, 2026 official list of candidates filed for Republican county committee seats",
+     "type": "candidate_listing"
     }
    ],
    "file": "somerset.json"
@@ -2680,18 +2710,18 @@
    "file": "wayne.json"
   },
   "Westmoreland": {
-   "method": "none_found",
-   "election": "Unverified (county site inaccessible)",
-   "as_of": null,
-   "checked_at": "2026-11-24",
+   "method": "election_results",
+   "election": "May 19, 2026 General Primary",
+   "as_of": "2026-06-08",
+   "checked_at": "2026-11-27",
    "precincts": 306,
-   "seats": 0,
-   "filled": 0,
-   "empty": 0,
+   "seats": 913,
+   "filled": 527,
+   "empty": 75,
    "empty_no_filer": 0,
-   "unknown": 0,
-   "named": 0,
-   "mapped": 0,
+   "unknown": 311,
+   "named": 165,
+   "mapped": 306,
    "next_election": {
     "year": 2030,
     "date": "2030-05-21",
@@ -2699,12 +2729,17 @@
     "petitions_to": "2030-03-12",
     "cycle_years": 4,
     "cycle_confirmed": false,
-    "last_election_year": null
+    "last_election_year": 2026
    },
    "sources": [
     {
-     "url": "https://www.westmorelandcountypa.gov/350/Election-Bureau",
-     "title": "Westmoreland County Election Bureau (returned HTTP 403 to automated requests on 2026-11-24)",
+     "url": "https://www.westmorelandcountypa.gov/DocumentCenter/View/35896/Official-Results",
+     "title": "Westmoreland County Official Summary Results Report, 2026 General Primary (June 8, 2026)",
+     "type": "results"
+    },
+    {
+     "url": "https://www.westmorelandcountypa.gov/DocumentCenter/View/35893/Certification-of-The-Republican-Ballot-Results-2026-General-Primary",
+     "title": "Westmoreland County Official Republican Ballot Results, winners marked in green (June 8, 2026)",
      "type": "results"
     }
    ],

@@ -1,26 +1,5688 @@
 {
-  "county": "Westmoreland",
-  "checked_at": "2026-11-24",
-  "method": "none_found",
-  "election": "Unverified (county site inaccessible)",
-  "as_of": null,
-  "seats_per_precinct": null,
-  "sources": [
-    {
-      "url": "https://www.westmorelandcountypa.gov/350/Election-Bureau",
-      "title": "Westmoreland County Election Bureau (returned HTTP 403 to automated requests on 2026-11-24)",
-      "type": "results",
-      "as_of": "2026-11-24"
-    }
-  ],
-  "precincts": [],
-  "totals": {
-    "precincts": 306,
-    "seats": 0,
-    "filled": 0,
-    "empty": 0,
-    "empty_no_filer": 0,
-    "unknown": 0
+ "county": "Westmoreland",
+ "checked_at": "2026-11-27",
+ "method": "election_results",
+ "election": "May 19, 2026 General Primary",
+ "as_of": "2026-06-08",
+ "seats_per_precinct": null,
+ "sources": [
+  {
+   "url": "https://www.westmorelandcountypa.gov/DocumentCenter/View/35896/Official-Results",
+   "title": "Westmoreland County Official Summary Results Report, 2026 General Primary (June 8, 2026)",
+   "type": "results",
+   "as_of": "2026-06-08",
+   "sha256": "92ce20253521c312e605bd2c77db2214938420ace6b48f1efecbf205abd3fbd0"
   },
-  "notes": "No usable evidence obtained. Every Westmoreland County election page tried (westmorelandcountypa.gov Election Bureau pages and apps.westmorelandcountypa.gov ballot files) returned HTTP 403 to automated access, and the county's results site is Clarity/Scytl, which also blocks automated access. News coverage indicates committee seats were last elected in the May 20, 2025 municipal primary with many write-in ties, and that the county posted final committee results on its website, but those files could not be retrieved, so no seat counts are recorded. The precincts array is empty and totals.precincts (306) comes from the map's counties.geojson; seat totals are 0 because no seat-level record exists, and every seat should be read as unknown."
+  {
+   "url": "https://www.westmorelandcountypa.gov/DocumentCenter/View/35893/Certification-of-The-Republican-Ballot-Results-2026-General-Primary",
+   "title": "Westmoreland County Official Republican Ballot Results, winners marked in green (June 8, 2026)",
+   "type": "results",
+   "as_of": "2026-06-08",
+   "sha256": "6f8272393ec243311eed53c3bfd01fc47eeae474270a30bec0e513a530ff1055"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "ADAMSBURG BOROUGH",
+   "map_id": "421290010",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "ALLEGHENY TOWNSHIP NO 1 SHEARERS",
+   "map_id": "421290020",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 6",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "ALLEGHENY TOWNSHIP NO 2 MCKEES",
+   "map_id": "421290030",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "ALLEGHENY TOWNSHIP NO 3 SOBERS",
+   "map_id": "421290040",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "ALLEGHENY TOWNSHIP NO 4 STEWARTS",
+   "map_id": "421290050",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "ALLEGHENY TOWNSHIP NO 5 BELLVUE",
+   "map_id": "421290060",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "ARNOLD 1st WARD 1st PRECINCT",
+   "map_id": "421290070",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "ARNOLD 1st WARD 2nd PRECINCT",
+   "map_id": "421290080",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "ARNOLD 2nd WARD 1st PRECINCT",
+   "map_id": "421290090",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "ARNOLD 2nd WARD 2nd PRECINCT",
+   "map_id": "421290100",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "ARNOLD 2nd WARD 3rd PRECINCT",
+   "map_id": "421290110",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "ARONA BOROUGH",
+   "map_id": "421290120",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "AVONMORE BOROUGH",
+   "map_id": "421290130",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BELL TOWNSHIP PERRYSVILLE",
+   "map_id": "421290140",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BELL TOWNSHIP ROARING RUN",
+   "map_id": "421290150",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "BELL TOWNSHIP SALINA",
+   "map_id": "421290160",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "BOLIVAR BOROUGH",
+   "map_id": "421290170",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "COOK TOWNSHIP",
+   "map_id": "421290180",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "DELMONT BOROUGH",
+   "map_id": "421290190",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "ALYCE K. URBAN (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "RICK BAUSHER (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "CORRIE ALEXANDER (F)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "DERRY BOROUGH 1st WARD",
+   "map_id": "421290330",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "DERRY BOROUGH 2nd WARD",
+   "map_id": "421290340",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "DERRY BOROUGH 3rd WARD",
+   "map_id": "421290350",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "DERRY BOROUGH 4th WARD",
+   "map_id": "421290360",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "DERRY TOWNSHIP ALTERS",
+   "map_id": "421290200",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "MIKE DOROHOVICH (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "SUSAN DOROHOVICH (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "DERRY TOWNSHIP BRADENVILLE",
+   "map_id": "421290210",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "DERRY TOWNSHIP COKEVILLE",
+   "map_id": "421290220",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 3",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "DERRY TOWNSHIP COOPERSTOWN",
+   "map_id": "421290230",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "DANIEL SCHALL (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "DERRY TOWNSHIP KINGSTON",
+   "map_id": "421290240",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "DERRY TOWNSHIP LOYALHANNA",
+   "map_id": "421290250",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "DERRY TOWNSHIP MILLWOOD",
+   "map_id": "421290260",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "MELISSA HUGHES (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "DERRY TOWNSHIP NEW DERRY",
+   "map_id": "421290270",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "DERRY TOWNSHIP PEANUT",
+   "map_id": "421290280",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "DERRY TOWNSHIP SAXMAN",
+   "map_id": "421290290",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "DERRY TOWNSHIP SCALP LEVEL",
+   "map_id": "421290300",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "DERRY TOWNSHIP SIMPSONS",
+   "map_id": "421290310",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "DERRY TOWNSHIP TORRANCE",
+   "map_id": "421290320",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "DONEGAL BOROUGH",
+   "map_id": "421290390",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "DONEGAL TOWNSHIP FOUR MILE RUN",
+   "map_id": "421290370",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "DONEGAL TOWNSHIP INDIAN CREEK",
+   "map_id": "421290380",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "EAST HUNTINGDON TOWNSHIP BESSEMER NO 1",
+   "map_id": "421290400",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "EAST HUNTINGDON TOWNSHIP BESSEMER NO 2",
+   "map_id": "421290410",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "EAST HUNTINGDON TOWNSHIP RUFFSDALE",
+   "map_id": "421290420",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "EAST HUNTINGDON TOWNSHIP STONERS",
+   "map_id": "421290430",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "EAST HUNTINGDON TOWNSHIP STROHMS",
+   "map_id": "421290440",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "ZACHARY PETRAKOVICH (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "EAST HUNTINGDON TOWNSHIP WHITES",
+   "map_id": "421290450",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "DOLORES GLOWACKI (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "TIMOTHY R. HOWELLS (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "EAST VANDERGRIFT BOROUGH",
+   "map_id": "421290460",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "ANTHONY F. BUYNY (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "EXPORT BOROUGH",
+   "map_id": "421290470",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FAIRFIELD TOWNSHIP FAIRFIELD",
+   "map_id": "421290480",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "FAIRFIELD TOWNSHIP NORTH FAIRFIELD",
+   "map_id": "421290490",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "BARBARA ZUFALL (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "FAIRFIELD TOWNSHIP SOUTH FAIRFIELD",
+   "map_id": "421290500",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "LAURA BROWN (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "GREENSBURG 1st WARD 1st PRECINCT",
+   "map_id": "421290510",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "GREENSBURG 1st WARD 2nd PRECINCT",
+   "map_id": "421290520",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "MICHAEL HAMLEY (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "CARRIE HAMLEY (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "GREENSBURG 2nd WARD 1st PRECINCT",
+   "map_id": "421290530",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "GREENSBURG 2nd WARD 2nd PRECINCT",
+   "map_id": "421290540",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "GREENSBURG 2nd WARD 3rd PRECINCT",
+   "map_id": "421290550",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "GREENSBURG 2nd WARD 4th PRECINCT",
+   "map_id": "421290560",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "DEBORAH BOWMAN (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "FRANK SCHIEFER (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "TIFFANY SCHOMER (F)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "GREENSBURG 3rd WARD",
+   "map_id": "421290570",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "GREENSBURG 4th WARD 1st PRECINCT",
+   "map_id": "421290580",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "GREENSBURG 5th WARD 1st PRECINCT",
+   "map_id": "421290590",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "LAUREN BROWN (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "GREENSBURG 5th WARD 2nd PRECINCT",
+   "map_id": "421290600",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "GREENSBURG 6th WARD",
+   "map_id": "421290610",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "GREENSBURG 7th WARD 1st PRECINCT",
+   "map_id": "421290620",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "GREENSBURG 7th WARD 2nd PRECINCT",
+   "map_id": "421290630",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "GREENSBURG 8th WARD 1st PRECINCT",
+   "map_id": "421290640",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "GREENSBURG 8th WARD 2nd PRECINCT",
+   "map_id": "421290650",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP NO 1 FOXHILL",
+   "map_id": "421290720",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "TRACY MILLER (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "ADIN MILLER (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 5",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP NO 2 ALWINE",
+   "map_id": "421290660",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "PAUL KOSKO (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "LINDA HYATT (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "JERRY RADEBAUGH (M)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled",
+     "holder": "PAUL C. OHR (M)"
+    },
+    {
+     "seat": "Member 5",
+     "status": "filled",
+     "holder": "JANICE WEIMER (F)"
+    },
+    {
+     "seat": "Member 6",
+     "status": "filled",
+     "holder": "BOB WEIMER (M)"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP NO 3 MAPLEWOOD",
+   "map_id": "421290810",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP NO 4 CARBON",
+   "map_id": "421290680",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "JAY ANDERSON (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "DEB ANDERSON (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 5",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 6",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 7",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP NO 5 WENDEL-HERMINIE",
+   "map_id": "421290910",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP NO 6 LUXOR",
+   "map_id": "421290800",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "BECKY DURBIN (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "BRIAN DURBIN (M)"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP NO 7 HANNASTOWN",
+   "map_id": "421290750",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "BLAKE NAEGER (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "DEBRA ZUZIK NAEGER (F)"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP NO 8 BOVARD",
+   "map_id": "421290670",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP EAST ADAMSBURG",
+   "map_id": "421290690",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP EASTVIEW",
+   "map_id": "421290700",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "FRED FRANCESE (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "JUDY FRANCESE (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP FORT ALLEN",
+   "map_id": "421290710",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP GAYVILLE",
+   "map_id": "421290730",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP GRAPEVILLE",
+   "map_id": "421290740",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP HAYDENVILLE",
+   "map_id": "421290760",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP HIGH PARK",
+   "map_id": "421290770",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP LINCOLN HEIGHTS EAST",
+   "map_id": "421290780",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "JENNIFER KERTES (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "JOHN KERTES (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "PATRICK KERTES (M)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP LINCOLN HEIGHTS WEST",
+   "map_id": "421290790",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "NANCY DORAN (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "RAYMOND DORAN (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP MIDDLETOWN",
+   "map_id": "421290820",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "PATRICIA M. PARRY (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP NEW STANTON",
+   "map_id": "421290830",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "JENNIFER BRETZ (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "BILL BRETZ (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "DEREK BRETZ (M)"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP NORTH CARBON",
+   "map_id": "421290840",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP SIBEL",
+   "map_id": "421290850",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP TODD",
+   "map_id": "421290860",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "DOUG WEIMER (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "WOODY WEISSINGER (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "KAREN WEIMER (F)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled",
+     "holder": "BONNIE L. WEISSINGER (F)"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP UNIVERSITY",
+   "map_id": "421290870",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP VALLEY",
+   "map_id": "421290880",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP WEAVERS OLD STAND",
+   "map_id": "421290890",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "PAULA CINTI (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP WEGLEY",
+   "map_id": "421290900",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP WEST HEMPFIELD",
+   "map_id": "421290920",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "RICK REDEKER (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "ERAN SCOZZARO (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HEMPFIELD TOWNSHIP WEST POINT",
+   "map_id": "421290930",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "JOHN VENTRE (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "DAN GALBRAITH (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HUNKER BOROUGH",
+   "map_id": "421290940",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "HYDE PARK BOROUGH",
+   "map_id": "421290950",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "IRWIN BOROUGH 1st WARD",
+   "map_id": "421290960",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "IRWIN BOROUGH 2nd WARD",
+   "map_id": "421290970",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "JEFFREY CLEM (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "DIANE CLEM (F)"
+    }
+   ]
+  },
+  {
+   "name": "IRWIN BOROUGH 3rd WARD",
+   "map_id": "421290980",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "IRWIN BOROUGH 4th WARD",
+   "map_id": "421290990",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "IRWIN BOROUGH 5th WARD",
+   "map_id": "421291000",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "IRWIN BOROUGH 6th WARD",
+   "map_id": "421291010",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "IRWIN BOROUGH 7th WARD",
+   "map_id": "421291020",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "JEANNETTE 1st WARD",
+   "map_id": "421291030",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "JEANNETTE 2nd WARD 1st PRECINCT",
+   "map_id": "421291040",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "JEANNETTE 2nd WARD 2nd PRECINCT",
+   "map_id": "421291050",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "JEANNETTE 3rd WARD",
+   "map_id": "421291060",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "GABRIEL L. HOMAN (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "JEANNETTE 4th WARD",
+   "map_id": "421291070",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "JEANNETTE 5th WARD 1st PRECINCT",
+   "map_id": "421291080",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "JEANNETTE 5th WARD 2nd PRECINCT",
+   "map_id": "421291090",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 3",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "JEANNETTE 6th WARD",
+   "map_id": "421291100",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LATROBE BOROUGH 1st WARD",
+   "map_id": "421291110",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LATROBE BOROUGH 2nd WARD",
+   "map_id": "421291120",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LATROBE BOROUGH 3rd WARD",
+   "map_id": "421291130",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "MICHAEL VANDYKE (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "PEGGY VANDYKE (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LATROBE BOROUGH 4th WARD",
+   "map_id": "421291140",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LATROBE BOROUGH 5th WARD",
+   "map_id": "421291150",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LATROBE BOROUGH 6th WARD",
+   "map_id": "421291160",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LAUREL MOUNTAIN BOROUGH",
+   "map_id": "421291170",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "LIGONIER BOROUGH",
+   "map_id": "421291245",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "JORDAN FREI (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "WENDY VEROSTKO (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LIGONIER TOWNSHIP IDLE PARK",
+   "map_id": "421291180",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LIGONIER TOWNSHIP LAUGHLINTOWN",
+   "map_id": "421291190",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LIGONIER TOWNSHIP NORTH LIGONIER",
+   "map_id": "421291200",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "JIM GIESEY (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "LYNN JOHNSON (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LIGONIER TOWNSHIP SOUTH LIGONIER",
+   "map_id": "421291210",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "ROXANE PEIFFER (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LIGONIER TOWNSHIP WATERFORD",
+   "map_id": "421291220",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LIGONIER TOWNSHIP WILPEN",
+   "map_id": "421291230",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "CINDY BROWN (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LOWER BURRELL 1st WARD 1st PRECINCT",
+   "map_id": "421291260",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "J. ZACHARY KURTIK (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "KAREN TAYLOR (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "LEEANNA RYBA (F)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER BURRELL 1st WARD 2nd PRECINCT",
+   "map_id": "421291270",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LOWER BURRELL 2nd WARD 1st PRECINCT",
+   "map_id": "421291280",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER BURRELL 2nd WARD 2nd PRECINCT",
+   "map_id": "421291290",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LOWER BURRELL 2nd WARD 3rd PRECINCT",
+   "map_id": "421291300",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER BURRELL 3rd WARD 1st PRECINCT",
+   "map_id": "421291310",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LOWER BURRELL 3rd WARD 2nd PRECINCT",
+   "map_id": "421291320",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "LOWER BURRELL 4th WARD 1st PRECINCT",
+   "map_id": "421291330",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "LOWER BURRELL 4th WARD 2nd PRECINCT",
+   "map_id": "421291340",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LOYALHANNA TOWNSHIP NO 1",
+   "map_id": "421291350",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "LOYALHANNA TOWNSHIP NO 2",
+   "map_id": "421291360",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "MADISON BOROUGH",
+   "map_id": "421291370",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MANOR BOROUGH",
+   "map_id": "421291380",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "TREVOR A. CHELKIS-WILSON (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 6",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MONESSEN 1st WARD 1st PRECINCT",
+   "map_id": "421291390",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "MONESSEN 1st WARD 2nd PRECINCT",
+   "map_id": "421291400",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MONESSEN 1st WARD 3rd PRECINCT",
+   "map_id": "421291410",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MONESSEN 1st WARD 4th PRECINCT",
+   "map_id": "421291420",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "MONESSEN 1st WARD 5th PRECINCT",
+   "map_id": "421291430",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MONESSEN 2nd WARD 1st PRECINCT",
+   "map_id": "421291440",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MONESSEN 2nd WARD 2nd PRECINCT",
+   "map_id": "421291450",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "MONESSEN 2nd WARD 3rd PRECINCT",
+   "map_id": "421291460",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MONESSEN 3rd WARD 2nd PRECINCT",
+   "map_id": "421291470",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "MONESSEN 3rd WARD 3rd PRECINCT",
+   "map_id": "421291480",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "MONESSEN 3rd WARD 4th PRECINCT",
+   "map_id": "421291490",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MONESSEN 4th WARD 2nd PRECINCT",
+   "map_id": "421291500",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MONESSEN 4th WARD 3rd PRECINCT",
+   "map_id": "421291510",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MOUNT PLEASANT BOROUGH 1st WARD",
+   "map_id": "421291620",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "CINDY WOJNAR (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MOUNT PLEASANT BOROUGH 2nd WARD",
+   "map_id": "421291630",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MOUNT PLEASANT BOROUGH 3rd WARD",
+   "map_id": "421291640",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MOUNT PLEASANT TOWNSHIP BRIDGEPORT",
+   "map_id": "421291520",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MOUNT PLEASANT TOWNSHIP DUNCAN",
+   "map_id": "421291530",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MOUNT PLEASANT TOWNSHIP HECLA",
+   "map_id": "421291540",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MOUNT PLEASANT TOWNSHIP LAUREL RUN",
+   "map_id": "421291550",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MOUNT PLEASANT TOWNSHIP MAMMOTH",
+   "map_id": "421291560",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MOUNT PLEASANT TOWNSHIP PLEASANT VALLEY",
+   "map_id": "421291570",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MOUNT PLEASANT TOWNSHIP RIDGEVIEW",
+   "map_id": "421291580",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MOUNT PLEASANT TOWNSHIP SPRING GARDEN",
+   "map_id": "421291590",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MOUNT PLEASANT TOWNSHIP UNITED",
+   "map_id": "421291600",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MOUNT PLEASANT TOWNSHIP WESTMORELAND HOMESTEAD",
+   "map_id": "421291610",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "MURRYSVILLE EAST MANORDALE",
+   "map_id": "421291650",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "JOHN WOHLIN (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "JAMES R. BOYD (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "WILLIAM CSASZAR (M)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 5",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MURRYSVILLE EAST MURRYSVILLE",
+   "map_id": "421291660",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "ROBERT LINGG (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "JEANNETTE PAVLICK (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "VINCENT J. ESPOSITO (M)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled",
+     "holder": "MARY RITA TURKA (F)"
+    }
+   ]
+  },
+  {
+   "name": "MURRYSVILLE MANORDALE",
+   "map_id": "421291670",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "VALERIE FRICK (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "DANIEL J. DAUGHERTY (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "DOUGLAS FRICK (M)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled",
+     "holder": "REGIS SYNAN (M)"
+    },
+    {
+     "seat": "Member 5",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MURRYSVILLE NEWLONSBURG NO 1",
+   "map_id": "421291682",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "MAURICE G. FEY (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "FRANCES M. CAROSSO (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "DANIEL TODD (M)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MURRYSVILLE NEWLONSBURG NO 2",
+   "map_id": "421291684",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "JILL COOPER (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "THOMAS WUBBEN (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "LEIGHTON COOPER (M)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled",
+     "holder": "DEBORAH ANN BUCCIERO (F)"
+    },
+    {
+     "seat": "Member 5",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MURRYSVILLE SARDIS NO 1",
+   "map_id": "421291692",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "ERIN LORENZ (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "LARRY SCHULTZ (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "TONI BROCKWAY (F)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "MURRYSVILLE SARDIS NO 2",
+   "map_id": "421291694",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "DAVID PERRY (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "LAWRENCE KELLER (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "CAROL VENSEL (F)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled",
+     "holder": "SUSAN SUMMERHILL (F)"
+    },
+    {
+     "seat": "Member 5",
+     "status": "filled",
+     "holder": "ANDREW J. JARABAK (M)"
+    }
+   ]
+  },
+  {
+   "name": "MURRYSVILLE SOUTH MURRYSVILLE",
+   "map_id": "421291700",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "THEODORE DECESARE (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "STEPHANIE VERONA KRYDICK (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "ANTHONY T. MCGARTLAND (M)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled",
+     "holder": "SUSAN KEPPLE ILGENFRITZ (F)"
+    },
+    {
+     "seat": "Member 5",
+     "status": "filled",
+     "holder": "JOSEPH KRYDICK (M)"
+    }
+   ]
+  },
+  {
+   "name": "MURRYSVILLE WEST MURRYSVILLE",
+   "map_id": "421291710",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "ELAINE M. GOWATY (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "TANYA A. SIMCHICK (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 5",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NEW ALEXANDRIA BOROUGH",
+   "map_id": "421291720",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "NEW FLORENCE BOROUGH",
+   "map_id": "421291730",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "NEW KENSINGTON 2nd WARD",
+   "map_id": "421291740",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "NEW KENSINGTON 3rd WARD 1st PRECINCT",
+   "map_id": "421291750",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NEW KENSINGTON 3rd WARD 2nd PRECINCT",
+   "map_id": "421291760",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NEW KENSINGTON 3rd WARD 3rd PRECINCT",
+   "map_id": "421291770",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NEW KENSINGTON 3rd WARD 4th PRECINCT",
+   "map_id": "421291780",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NEW KENSINGTON 4th WARD 1st PRECINCT",
+   "map_id": "421291790",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "NEW KENSINGTON 4th WARD 2nd PRECINCT",
+   "map_id": "421291800",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "MICHAEL W. CONTES (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "THOMAS STRAUB (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "GERARD M. REITMEYER (M)"
+    }
+   ]
+  },
+  {
+   "name": "NEW KENSINGTON 4th WARD 3rd PRECINCT",
+   "map_id": "421291810",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NEW KENSINGTON 4th WARD 4th PRECINCT",
+   "map_id": "421291820",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NEW KENSINGTON 4th WARD 5th PRECINCT",
+   "map_id": "421291830",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NEW KENSINGTON 5th WARD",
+   "map_id": "421291840",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NEW KENSINGTON 6th WARD",
+   "map_id": "421291850",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NEW KENSINGTON 7th WARD 1st PRECINCT",
+   "map_id": "421291860",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "NEW KENSINGTON 7th WARD 2nd PRECINCT",
+   "map_id": "421291870",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "RICHARD SCHACHTE (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "GERALD CHANDLER (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NEW STANTON BOROUGH",
+   "map_id": "421291880",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "ALEX BROWN (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH BELLE VERNON BOROUGH 1st DISTRICT",
+   "map_id": "421291890",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH BELLE VERNON BOROUGH 2nd DISTRICT",
+   "map_id": "421291900",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 1st WARD 1st PRECINCT",
+   "map_id": "421291910",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "RICH WALCZAK (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 1st WARD 2nd PRECINCT",
+   "map_id": "421291920",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 1st WARD 3rd PRECINCT",
+   "map_id": "421291930",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 1st WARD 4th PRECINCT",
+   "map_id": "421291935",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "TOM HEMPEL (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 2nd WARD 1st PRECINCT",
+   "map_id": "421291955",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 2nd WARD 2nd PRECINCT",
+   "map_id": "421291960",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "DAVID NORTON (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "JENNIFER NORTON (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "JANET NORTON (F)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 2nd WARD 3rd PRECINCT",
+   "map_id": "421291965",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 3rd WARD 1st PRECINCT",
+   "map_id": "421291995",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 5",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 6",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 3rd WARD 2nd PRECINCT",
+   "map_id": "421292005",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 5",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 6",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 4th WARD 1st PRECINCT",
+   "map_id": "421292010",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "RICH GRAY (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 4th WARD 2nd PRECINCT",
+   "map_id": "421292020",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 4th WARD 3rd PRECINCT",
+   "map_id": "421292030",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "STEVE CLEAVELAND (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 4th WARD 4th PRECINCT",
+   "map_id": "421292035",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 5th WARD 1st PRECINCT",
+   "map_id": "421292040",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 5th WARD 2nd PRECINCT",
+   "map_id": "421292050",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "ROBERT MASTERS (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 5th WARD 3rd PRECINCT",
+   "map_id": "421292060",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "RONALD ZONA (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 6th WARD 1st PRECINCT",
+   "map_id": "421292075",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "ANTONIO LIO (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 6th WARD 2nd PRECINCT",
+   "map_id": "421292080",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 6th WARD 3rd PRECINCT",
+   "map_id": "421292095",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "SHERRIE KLOS (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 6th WARD 4th PRECINCT",
+   "map_id": "421292100",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 7th WARD 1st PRECINCT",
+   "map_id": "421292110",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 7th WARD 2nd PRECINCT",
+   "map_id": "421292125",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "LYNDA FUNK (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "JAMES FUNK (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "RANDALL PEDDER (M)"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 7th WARD 3rd PRECINCT",
+   "map_id": "421292140",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH HUNTINGDON TOWNSHIP 7th WARD 4th PRECINCT",
+   "map_id": "421292150",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "NORTH IRWIN BOROUGH",
+   "map_id": "421292160",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "ROBERT KENNEDY (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "OKLAHOMA BOROUGH",
+   "map_id": "421292170",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "PENN BOROUGH",
+   "map_id": "421292300",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "PENN TOWNSHIP 1st WARD 1st PRECINCT",
+   "map_id": "421292180",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "EDWARD KROUPA (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "PENN TOWNSHIP 1st WARD 2nd PRECINCT",
+   "map_id": "421292190",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "JENNIFER KLINE (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "BRYAN L. KLINE (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "DALLAS W. LEONARD (M)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "PENN TOWNSHIP 2nd WARD 1st PRECINCT",
+   "map_id": "421292200",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "ADAM HAPACH (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "PENN TOWNSHIP 2nd WARD 2nd PRECINCT",
+   "map_id": "421292210",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "PENN TOWNSHIP 3rd WARD 1st PRECINCT",
+   "map_id": "421292220",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "JAMES LEASURE (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 5",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 6",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "PENN TOWNSHIP 3rd WARD 2nd PRECINCT",
+   "map_id": "421292230",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "CHUCK KONKUS (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "MARY ANN MILNE (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "JULIE KONKUS (F)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "PENN TOWNSHIP 4th WARD 1st PRECINCT",
+   "map_id": "421292250",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "ROSEMARY E. HORVAT (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "PENN TOWNSHIP 4th WARD 2nd PRECINCT",
+   "map_id": "421292260",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "PENN TOWNSHIP 5th WARD 1st PRECINCT",
+   "map_id": "421292280",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "RONALD R. ROMETO (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "BEVERLY RONALLO (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "PENN TOWNSHIP 5th WARD 2nd PRECINCT",
+   "map_id": "421292290",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "JANICE BOWELL (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "PENN TOWNSHIP 5th WARD 3rd PRECINCT",
+   "map_id": "421292295",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "CAROL HEINECKE (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "ROSTRAVER TOWNSHIP COLLINSBURG",
+   "map_id": "421292310",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "ROSTRAVER TOWNSHIP CONCORD",
+   "map_id": "421292320",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "ROSTRAVER TOWNSHIP CROSS ROADS",
+   "map_id": "421292330",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "ROSTRAVER TOWNSHIP FELLSBURG",
+   "map_id": "421292340",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 6",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "ROSTRAVER TOWNSHIP LYNNWOOD",
+   "map_id": "421292350",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "ROSTRAVER TOWNSHIP PRICEDALE",
+   "map_id": "421292360",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "ROSTRAVER TOWNSHIP VAN METER",
+   "map_id": "421292370",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "ROSTRAVER TOWNSHIP WEBSTER",
+   "map_id": "421292380",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "SALEM TOWNSHIP FIVE POINTS",
+   "map_id": "421292390",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "ROBIN SAVAGE (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "JACK SAVAGE (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "SALEM TOWNSHIP HUGUS",
+   "map_id": "421292400",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SALEM TOWNSHIP MECHLINGS",
+   "map_id": "421292410",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "SALEM TOWNSHIP NEW SALEM",
+   "map_id": "421292420",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "SALEM TOWNSHIP SLICKVILLE",
+   "map_id": "421292430",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SALEM TOWNSHIP STEELES",
+   "map_id": "421292440",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SALEM TOWNSHIP TREES MILLS",
+   "map_id": "421292450",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "MARY ELIZABETH TYSON (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "SCOTTDALE BOROUGH 1st WARD",
+   "map_id": "421292460",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "ANDY PINSKEY (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "SCOTTDALE BOROUGH 2nd WARD",
+   "map_id": "421292470",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SCOTTDALE BOROUGH 3rd WARD",
+   "map_id": "421292480",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "SCOTTDALE BOROUGH 4th WARD",
+   "map_id": "421292490",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 3",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "SEWARD BOROUGH",
+   "map_id": "421292500",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SEWICKLEY TOWNSHIP EAST HERMINIE",
+   "map_id": "421292510",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "SEWICKLEY TOWNSHIP LOWBER",
+   "map_id": "421292520",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "SEWICKLEY TOWNSHIP RILLTON",
+   "map_id": "421292530",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SEWICKLEY TOWNSHIP SEWICKLEY",
+   "map_id": "421292540",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "SEWICKLEY TOWNSHIP WEST HERMINIE",
+   "map_id": "421292550",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "SEWICKLEY TOWNSHIP WHYEL",
+   "map_id": "421292560",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "SMITHTON BOROUGH",
+   "map_id": "421292570",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "SOUTH GREENSBURG BOROUGH 1st DISTRICT",
+   "map_id": "421292580",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "SOUTH GREENSBURG BOROUGH 2nd DISTRICT",
+   "map_id": "421292590",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "SOUTH HUNTINGDON TOWNSHIP HIXON",
+   "map_id": "421292600",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "ERIC DAVANZO (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "RACHELLE DAVANZO (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "KEITH MAGINSKY (M)"
+    }
+   ]
+  },
+  {
+   "name": "SOUTH HUNTINGDON TOWNSHIP JACOBS CREEK",
+   "map_id": "421292610",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SOUTH HUNTINGDON TOWNSHIP MINERAL",
+   "map_id": "421292620",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "SOUTH HUNTINGDON TOWNSHIP PORT ROYAL",
+   "map_id": "421292630",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "SOUTH HUNTINGDON TOWNSHIP SOUTH HUNTINGDON",
+   "map_id": "421292640",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "SOUTH HUNTINGDON TOWNSHIP WAYNE",
+   "map_id": "421292650",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "SOUTH HUNTINGDON TOWNSHIP WYANO",
+   "map_id": "421292660",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "RICHARD DAVANZO SR (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "KATHLEEN DAVANZO (F)"
+    }
+   ]
+  },
+  {
+   "name": "SOUTH HUNTINGDON TOWNSHIP YUKON",
+   "map_id": "421292670",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SOUTHWEST GREENSBURG BOROUGH 1st DISTRICT",
+   "map_id": "421292680",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "SARAH V. KLEIN (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "SOUTHWEST GREENSBURG BOROUGH 2nd DISTRICT",
+   "map_id": "421292690",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "CAROLE A. NEDROW (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "ST. CLAIR TOWNSHIP SEWARD",
+   "map_id": "421292700",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "MICHAEL KOCH (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "ST. CLAIR TOWNSHIP ST. CLAIR",
+   "map_id": "421292710",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "SUTERSVILLE BOROUGH",
+   "map_id": "421292720",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "TRAFFORD BOROUGH 1st DISTRICT",
+   "map_id": "421292730",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "JOHN LYNCH (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "TRAFFORD BOROUGH 2nd DISTRICT",
+   "map_id": "421292740",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "UNITY TOWNSHIP BAGGALEY",
+   "map_id": "421292750",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "LESLIE ROSSI (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "YELAYNA ROSSI (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "UNITY TOWNSHIP BEATTY",
+   "map_id": "421292760",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "MEGAN LOUGHNER (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "UNITY TOWNSHIP CRABTREE",
+   "map_id": "421292770",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "UNITY TOWNSHIP DENNISON",
+   "map_id": "421292780",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "MIKE OBARTO (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "GINA OBARTO (F)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled",
+     "holder": "JAMES ULERY (M)"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled",
+     "holder": "DEBRA LOUGHNER (F)"
+    },
+    {
+     "seat": "Member 5",
+     "status": "filled",
+     "holder": "ESTHER ULERY (F)"
+    },
+    {
+     "seat": "Member 6",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 7",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 8",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "UNITY TOWNSHIP DOROTHY",
+   "map_id": "421292790",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "CONSTANCE BURICK (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "UNITY TOWNSHIP GRAVEL HILL",
+   "map_id": "421292800",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "JILL COOPER (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "SHANNON COOPER (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "UNITY TOWNSHIP KUHNS",
+   "map_id": "421292810",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "UNITY TOWNSHIP LLOYDSVILLE",
+   "map_id": "421292820",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "UNITY TOWNSHIP MARGUERITE",
+   "map_id": "421292830",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "UNITY TOWNSHIP MUTUAL",
+   "map_id": "421292840",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "UNITY TOWNSHIP PLEASANT UNITY",
+   "map_id": "421292852",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "UNITY TOWNSHIP ROBLE",
+   "map_id": "421292860",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "UNITY TOWNSHIP WHITNEY",
+   "map_id": "421292870",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "UPPER BURRELL TOWNSHIP NO 1",
+   "map_id": "421292880",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "UPPER BURRELL TOWNSHIP NO 2",
+   "map_id": "421292890",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "VANDERGRIFT BOROUGH 1st WARD",
+   "map_id": "421292900",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "VANDERGRIFT BOROUGH 2nd WARD",
+   "map_id": "421292910",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "VANDERGRIFT BOROUGH 3rd WARD",
+   "map_id": "421292920",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "VANDERGRIFT BOROUGH 4th WARD",
+   "map_id": "421292930",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "VANDERGRIFT BOROUGH 5th WARD",
+   "map_id": "421292940",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "DAVID R. ROSS (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "VANDERGRIFT BOROUGH 6th WARD",
+   "map_id": "421292950",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WASHINGTON TOWNSHIP BEAMERS",
+   "map_id": "421292960",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 5",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "WASHINGTON TOWNSHIP NORTH WASHINGTON",
+   "map_id": "421292970",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "FRANK CALIZZI (M)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "WASHINGTON TOWNSHIP OAKLAND CROSS ROADS",
+   "map_id": "421292980",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 4",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "WASHINGTON TOWNSHIP PAULTON",
+   "map_id": "421292990",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WEST LEECHBURG BOROUGH",
+   "map_id": "421293000",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WEST NEWTON BOROUGH 1st WARD",
+   "map_id": "421293010",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled",
+     "holder": "ANNA L. CRAIG (F)"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled",
+     "holder": "DAVID R. CRAIG (M)"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "WEST NEWTON BOROUGH 2nd WARD",
+   "map_id": "421293020",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "WEST NEWTON BOROUGH 3rd WARD",
+   "map_id": "421293030",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "YOUNGSTOWN BOROUGH",
+   "map_id": "421293040",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "YOUNGWOOD BOROUGH 1st DISTRICT",
+   "map_id": "421293050",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 3",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "YOUNGWOOD BOROUGH 2nd DISTRICT",
+   "map_id": "421293060",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "YOUNGWOOD BOROUGH 3rd DISTRICT",
+   "map_id": "421293070",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 3",
+     "status": "unknown"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "precincts": 306,
+  "seats": 913,
+  "filled": 527,
+  "empty": 75,
+  "empty_no_filer": 0,
+  "unknown": 311
+ },
+ "notes": "All 306 Republican county committee contests in the official 2026 report were reconciled with the winner certification. Green-marked winners are filled; names of write-in winners are omitted. A seat with no winner is empty only when the report shows no votes, otherwise unknown. The PDF repeats two contest headings across page breaks and wraps one title; those sections were merged before each contest was checked against its printed total. Eighteen source precinct names were matched to uniquely corresponding map labels using the aliases in import-westmoreland.mjs. Appointments after certification are not captured."
 }

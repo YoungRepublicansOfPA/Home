@@ -8,5 +8,63 @@
   "seat_data_source": "No official seat-level source; would require party rosters."
  },
  "totals": null,
- "notes": "Structure only. Seat-by-seat status has not been collected."
+ "notes": "Totals cover the counties listed in `counties` that have a seat list. Counties without one, or with only a partial list (coverage: partial), are not in the totals. Seat status follows war_map/committee/README.md.",
+ "counties": [
+  {
+   "slug": "kent-county",
+   "name": "Kent County",
+   "method": "roster",
+   "election": null,
+   "as_of": "2026-11-27",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 8,
+    "seats": 8,
+    "filled": 8,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 0
+   },
+   "coverage": "partial",
+   "coverage_note": "Eight representative district chair positions are listed. Election district committeeperson seats and other party offices have not been enumerated, so this is not a complete county seat count."
+  },
+  {
+   "slug": "new-castle-county",
+   "name": "New Castle County",
+   "method": "roster",
+   "election": null,
+   "as_of": "2026-11-27",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 7,
+    "seats": 7,
+    "filled": 3,
+    "empty": 4,
+    "empty_no_filer": 0,
+    "unknown": 0
+   },
+   "coverage": "partial",
+   "coverage_note": "This lists seven representative district chair positions in the Colonial Region only. Northern and Western New Castle regions, election district committeepersons, and other offices have not been enumerated."
+  },
+  {
+   "slug": "sussex-county",
+   "name": "Sussex County",
+   "method": "roster",
+   "election": null,
+   "as_of": "2026-11-27",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 10,
+    "seats": 10,
+    "filled": 7,
+    "empty": 3,
+    "empty_no_filer": 0,
+    "unknown": 0
+   },
+   "coverage": "partial",
+   "coverage_note": "Ten representative district chair positions are listed. The party says each election district has two committeepersons, but their seat status has not been documented here, so this is not a complete county seat count."
+  }
+ ],
+ "counties_total": 3,
+ "counties_counted": 0
 }

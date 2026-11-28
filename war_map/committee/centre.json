@@ -1,8 +1,8 @@
 {
   "county": "Centre",
-  "checked_at": "2026-11-24",
+  "checked_at": "2026-11-27",
   "method": "none_found",
-  "election": "None identified (no Republican precinct committee contests on the 2024, 2025 or 2026 primary ballots)",
+  "election": "Appointed by the county chair under party bylaws; no 2026 precinct committee ballot",
   "as_of": "2026-06-04",
   "seats_per_precinct": 2,
   "sources": [
@@ -29,6 +29,12 @@
       "title": "Centre County 2025 Municipal Primary - Official Election Summary (no committee contests)",
       "type": "results",
       "as_of": "2025"
+    },
+    {
+      "url": "https://centre.gop/the-bylaws-of-the-ccrc/",
+      "title": "Centre County Republican Committee bylaws, Article III sections 1 and 3 (two members per precinct, appointed by chair)",
+      "type": "rules",
+      "as_of": "2026-03-28"
     }
   ],
   "precincts": [
@@ -1251,5 +1257,5 @@
     "empty_no_filer": 0,
     "unknown": 174
   },
-  "notes": "No public evidence of Republican precinct committee seat status was found. Centre County ballots in the 2024, 2025 and 2026 primaries carried no Republican precinct committee contests (the 2026 ballot elected only the county Republican chair and vice-chair countywide, while Democrats elected precinct persons), so Republican committee members appear to be chosen outside the primary ballot under county party rules; no public roster or rules document was found. Every seat is unknown. The precinct list is the 87 precincts named in the county 2026 official precinct summary (the map file counts 86). Two seats per precinct is an unverified placeholder based on the usual Pennsylvania pattern, not on Centre County party rules."
+  "notes": "Centre County Republican Committee bylaws, Article III, authorize two registered Republican members from each precinct or voting district and say the chair appoints these members. The 2026 primary report elected the county chair and vice-chair but did not list precinct committee contests. The county party website does not publish a precinct-by-precinct membership roster, so all 174 authorized seats across the 87 official 2026 precincts remain unknown. The 2024 presidential map contains 86 precinct polygons; one source precinct is unmatched. County leadership and state committee representatives mentioned in the bylaws are separate from these precinct seats."
 }

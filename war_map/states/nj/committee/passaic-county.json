@@ -1,0 +1,3656 @@
+{
+ "county": "Passaic County",
+ "checked_at": "2026-11-27",
+ "method": "roster",
+ "election": "June 10, 2025 Primary Election",
+ "as_of": "2025-06-10",
+ "seats_per_precinct": 2,
+ "sources": [
+  {
+   "url": "https://www.passaiccountynj.org/home/showpublisheddocument/8559/639104623738730000",
+   "title": "Passaic County Republican County Committee: Certified Results from June 10, 2025 Primary Election",
+   "type": "roster",
+   "as_of": "2025-06-10",
+   "sha256": "68db6608242f12ee9bfcc568afa906052da5e609d77badbb91adabaa2d8fb4bc"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "Borough of Bloomingdale District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Bloomingdale District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Bloomingdale District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Bloomingdale District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Bloomingdale District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 1 District 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 2 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 2 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 2 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 2 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 2 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 2 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 2 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 2 District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 3 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 3 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 3 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 3 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 3 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 3 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 3 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 3 District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 4 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 4 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 4 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 4 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 4 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 5 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 5 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 5 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 5 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 5 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Clifton Ward 5 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Haledon District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Haledon District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Haledon District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Haledon District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Haledon District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Haledon District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Hawthorne Ward 1 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Hawthorne Ward 1 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Hawthorne Ward 1 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Hawthorne Ward 2 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Hawthorne Ward 2 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Hawthorne Ward 2 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Hawthorne Ward 3 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Hawthorne Ward 3 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Hawthorne Ward 3 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Hawthorne Ward 3 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Hawthorne Ward 4 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Hawthorne Ward 4 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Hawthorne Ward 4 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Little Falls District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Little Falls District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Little Falls District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Little Falls District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Little Falls District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Little Falls District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Little Falls District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of Little Falls District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of North Haledon District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of North Haledon District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of North Haledon District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of North Haledon District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of North Haledon District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of North Haledon District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Borough of North Haledon District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 1 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 1 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 1 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 1 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 2 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 2 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 2 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 2 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 2 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 2 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 2 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 2 District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 2 District 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 3 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 3 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 3 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 3 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 3 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 3 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 3 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 3 District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 3 District 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 3 District 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 4 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 4 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 4 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 4 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 4 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 4 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Passsaic Ward 4 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 1 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 1 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 1 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 1 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 1 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 1 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 1 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 1 District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 1 District 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 1 District 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 1 District 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 2 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 2 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 2 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 2 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 2 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 2 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 2 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 2 District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 2 District 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 2 District 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 2 District 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 2 District 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 3 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 3 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 3 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 3 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 3 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 3 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 3 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 3 District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 3 District 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 3 District 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 3 District 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 3 District 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 3 District 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 3 District 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 4 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 4 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 4 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 4 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 4 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 4 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 4 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 4 District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 4 District 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 4 District 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 5 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 5 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 5 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 5 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 5 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 5 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 5 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 5 District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 5 District 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 6 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 6 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 6 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 6 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 6 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 6 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 6 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 6 District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 6 District 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 6 District 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Paterson Ward 6 District 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Pompton Lakes District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Pompton Lakes District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Pompton Lakes District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Pompton Lakes District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Pompton Lakes District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Pompton Lakes District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Prospect Park District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Prospect Park District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Prospect Park District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Prospect Park District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Ringwood District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Ringwood District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Ringwood District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Ringwood District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Ringwood District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Ringwood District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Ringwood District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Ringwood District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Ringwood District 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Totowa District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Totowa District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Totowa District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Totowa District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Totowa District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Totowa District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Wanaque District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Wanaque District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Wanaque District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Wanaque District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Wanaque District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Wanaque District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Wanaque District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Bourough of Wanaque District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 1 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 1 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 1 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 1 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 1 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 1 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 2 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 2 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 2 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 2 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 2 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 2 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 3 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 3 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 3 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 3 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 3 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 3 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 3 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 3 District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 3 District 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 4 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 4 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 4 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 4 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 4 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 4 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 4 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 5 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 5 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 5 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 5 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 5 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 6 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 6 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 6 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 6 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 6 District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 6 District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "City of Wayne Ward 6 District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of West Milford District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of West Milford District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of West Milford District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of West Milford District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of West Milford District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of West Milford District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of West Milford District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of West Milford District 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of West Milford District 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of West Milford District 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of West Milford District 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Township of West Milford District 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  },
+  {
+   "name": "Township of West Milford District 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of Woodland Park District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of Woodland Park District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of Woodland Park District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of Woodland Park District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of Woodland Park District 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of Woodland Park District 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Township of Woodland Park District 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "precincts": 279,
+  "seats": 558,
+  "filled": 421,
+  "empty": 136,
+  "empty_no_filer": 0,
+  "unknown": 1
+ },
+ "coverage": "full",
+ "notes": "Certified municipal-clerk list from the 2025 primary. A listed VACANT row is empty; a named row is filled. One district row has no member or vacancy marker, so its status is unknown. Later appointments and resignations are not reflected. Names and contact details are omitted. The 2024 presidential map has 283 units rather than the roster's 279 districts, so these seats appear in county totals only."
+}

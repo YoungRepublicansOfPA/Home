@@ -15,6 +15,7 @@ lib/textreport.mjs   configurable reader for other text-layout results PDFs (Buc
 lib/winners.mjs      reader for an official winners-list spreadsheet (Philadelphia); reads only race and name
 lib/roster.mjs       reader for a committee roster table PDF (Lawrence); reads only precinct and member name
 lib/htmllines.mjs    reader for a saved official results web page (Monroe)
+import-westmoreland.mjs  reconcile official summary PDF with the separate winner certification
 lib/rules.mjs        vote totals -> filled / empty / unknown, with the winner's name on filled seats
 lib/match.mjs        precinct-name matching against the map (strict -> loose -> abbreviations, one-to-one only)
 lib/validate.mjs     totals, allowed fields (holder only on filled seats), map ids against the map
@@ -61,6 +62,8 @@ node war_map/tools/committee/link-map.mjs
 | `htmllines` | Monroe (add-holders.mjs) | `lib/htmllines.mjs` |
 | `livevoterturnout` | Franklin, Lehigh | not yet |
 | `manual` | the rest: Dauphin (web app), Pike, Clarion, Venango, Potter (refuse scripted requests), Mifflin (timed out), Columbia (two contests side by side per page), Franklin and Greene (web pages), Bradford, Snyder, Wyoming, Susquehanna (other layouts) | not yet |
+
+Westmoreland uses two official PDFs: the [summary report](https://www.westmorelandcountypa.gov/DocumentCenter/View/35896/Official-Results) and [Republican winner certification](https://www.westmorelandcountypa.gov/DocumentCenter/View/35893/Certification-of-The-Republican-Ballot-Results-2026-General-Primary). Save both under `.cache/westmoreland/` and run `node war_map/tools/committee/import-westmoreland.mjs --summary <summary.pdf> --cert <certification.pdf>`. The importer checks every contest's vote sum, reconciles all 306 contests with the certification, and stores only winning ballot candidate names. Certified write-in winners count as filled but their names are omitted.
 
 Some county sites refuse scripted downloads (Lycoming, Pike, Cambria). Download those files in a browser and pass
 the saved path with `--file`.

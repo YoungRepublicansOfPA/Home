@@ -69,6 +69,7 @@ function committeeNote() {
     return h('div', {class: 'note'}, h('b', {text: 'Republican committee seats'}),
       h('div', {text: c.summary}),
       c.source ? h('div', {}, h('a', {href: c.source, text: c.source_title || 'Official source'}), ` · checked ${committee.checked_at}`) : null,
+      c.county_directory ? h('div', {}, h('a', {href: c.county_directory, text: 'Official county party directory'})) : null,
       committee.totals ? [h('div', {style: 'margin-top:8px', text: `Seats counted in ${committee.counties_counted} of ${committee.counties_total} counties so far:`}), seatBlock(committee.totals, 'Seats counted')]
         : h('div', {style: 'margin-top:6px;color:var(--muted)', text: 'Seat-by-seat status has not been documented yet, so the Empty chairs layer shows every unit as not known.'}));
   }

@@ -1,9 +1,9 @@
 {
   "county": "Fayette",
-  "checked_at": "2026-11-24",
+  "checked_at": "2026-11-27",
   "method": "none_found",
-  "election": "Unverified (likely May 19, 2026 General Primary)",
-  "as_of": null,
+  "election": "May 19, 2026 General Primary",
+  "as_of": "2024-10-15",
   "seats_per_precinct": null,
   "sources": [
     {
@@ -29,9 +29,401 @@
       "title": "Primary 2023 Final Certified County and Local Results (checked: no committee contests)",
       "type": "results",
       "as_of": "2023-05-16"
+    },
+    {
+      "url": "https://img1.wsimg.com/blobby/go/86907e03-7862-4e3f-8260-e06fdbe92a5a/downloads/138926bf-54da-4082-923e-a2d29a804ea5/FCRCbylaws2024-10-15.pdf?ver=1740688229400",
+      "title": "Fayette County Republican Committee bylaws, filed October 15, 2024, Article II section 2.3(a): each precinct elects up to two members every gubernatorial primary",
+      "type": "rules",
+      "as_of": "2024-10-15"
     }
   ],
-  "precincts": [],
+  "precincts": [
+    {
+      "name": "Belle Vernon",
+      "map_id": "420510010",
+      "seats": []
+    },
+    {
+      "name": "Brownsville W 1",
+      "map_id": "420510035",
+      "seats": []
+    },
+    {
+      "name": "Brownsville W 2",
+      "map_id": "420510055",
+      "seats": []
+    },
+    {
+      "name": "Brownsville W 3",
+      "map_id": "420510085",
+      "seats": []
+    },
+    {
+      "name": "Brownsville",
+      "map_id": "420510020",
+      "seats": []
+    },
+    {
+      "name": "Bullskin D 1",
+      "map_id": "420510100",
+      "seats": []
+    },
+    {
+      "name": "Bullskin D 2",
+      "map_id": "420510110",
+      "seats": []
+    },
+    {
+      "name": "Bullskin D 3",
+      "map_id": "420510120",
+      "seats": []
+    },
+    {
+      "name": "Connellsville W 1",
+      "map_id": "420510131",
+      "seats": []
+    },
+    {
+      "name": "Connellsville W 2",
+      "map_id": "420510140",
+      "seats": []
+    },
+    {
+      "name": "Connellsville W 3",
+      "map_id": "420510156",
+      "seats": []
+    },
+    {
+      "name": "Connellsville W 4",
+      "map_id": "420510161",
+      "seats": []
+    },
+    {
+      "name": "Connellsville",
+      "map_id": "420510190",
+      "seats": []
+    },
+    {
+      "name": "Dawson",
+      "map_id": "420510200",
+      "seats": []
+    },
+    {
+      "name": "Dunbar",
+      "map_id": "420510250",
+      "seats": []
+    },
+    {
+      "name": "Dunbar D 1",
+      "map_id": "420510211",
+      "seats": []
+    },
+    {
+      "name": "Dunbar D 2",
+      "map_id": "420510221",
+      "seats": []
+    },
+    {
+      "name": "Everson",
+      "map_id": "420510260",
+      "seats": []
+    },
+    {
+      "name": "Fairchance",
+      "map_id": "420510270",
+      "seats": []
+    },
+    {
+      "name": "Fayette City",
+      "map_id": "420510280",
+      "seats": []
+    },
+    {
+      "name": "Franklin D 1",
+      "map_id": "420510290",
+      "seats": []
+    },
+    {
+      "name": "Franklin D 2",
+      "map_id": "420510300",
+      "seats": []
+    },
+    {
+      "name": "Georges D 1",
+      "map_id": "420510310",
+      "seats": []
+    },
+    {
+      "name": "Georges D 2",
+      "map_id": "420510320",
+      "seats": []
+    },
+    {
+      "name": "Georges D 3",
+      "map_id": "420510331",
+      "seats": []
+    },
+    {
+      "name": "German D 1",
+      "map_id": "420510350",
+      "seats": []
+    },
+    {
+      "name": "German D 2",
+      "map_id": "420510366",
+      "seats": []
+    },
+    {
+      "name": "German D 3",
+      "map_id": "420510370",
+      "seats": []
+    },
+    {
+      "name": "German D 4",
+      "map_id": "420510381",
+      "seats": []
+    },
+    {
+      "name": "Henry Clay",
+      "map_id": "420510420",
+      "seats": []
+    },
+    {
+      "name": "Jefferson",
+      "map_id": "420510435",
+      "seats": []
+    },
+    {
+      "name": "Lower Tyrone D 1",
+      "map_id": "420510450",
+      "seats": []
+    },
+    {
+      "name": "Luzerne D 1",
+      "map_id": "420510460",
+      "seats": []
+    },
+    {
+      "name": "Luzerne D 2",
+      "map_id": "420510470",
+      "seats": []
+    },
+    {
+      "name": "Luzerne D 3",
+      "map_id": "420510480",
+      "seats": []
+    },
+    {
+      "name": "Luzerne D 4",
+      "map_id": "420510490",
+      "seats": []
+    },
+    {
+      "name": "Markleysburg",
+      "map_id": "420510520",
+      "seats": []
+    },
+    {
+      "name": "Masontown",
+      "map_id": "420510536",
+      "seats": []
+    },
+    {
+      "name": "Menallen D 1",
+      "map_id": "420510560",
+      "seats": []
+    },
+    {
+      "name": "Menallen D 2",
+      "map_id": "420510570",
+      "seats": []
+    },
+    {
+      "name": "Menallen D 3",
+      "map_id": "420510580",
+      "seats": []
+    },
+    {
+      "name": "Newell",
+      "map_id": "420510590",
+      "seats": []
+    },
+    {
+      "name": "Nicholson",
+      "map_id": "420510601",
+      "seats": []
+    },
+    {
+      "name": "North Union D 1",
+      "map_id": "420510630",
+      "seats": []
+    },
+    {
+      "name": "North Union D 2",
+      "map_id": "420510640",
+      "seats": []
+    },
+    {
+      "name": "North Union D 3",
+      "map_id": "420510650",
+      "seats": []
+    },
+    {
+      "name": "North Union D 4",
+      "map_id": "420510660",
+      "seats": []
+    },
+    {
+      "name": "North Union D 5",
+      "map_id": "420510670",
+      "seats": []
+    },
+    {
+      "name": "Ohiopyle",
+      "map_id": "420510680",
+      "seats": []
+    },
+    {
+      "name": "Perry",
+      "map_id": "420510692",
+      "seats": []
+    },
+    {
+      "name": "Perryopolis",
+      "map_id": "420510730",
+      "seats": []
+    },
+    {
+      "name": "Point Marion",
+      "map_id": "420510740",
+      "seats": []
+    },
+    {
+      "name": "Redstone D 1",
+      "map_id": "420510751",
+      "seats": []
+    },
+    {
+      "name": "Redstone D 2",
+      "map_id": "420510761",
+      "seats": []
+    },
+    {
+      "name": "Redstone D 3",
+      "map_id": "420510770",
+      "seats": []
+    },
+    {
+      "name": "Redstone D 4",
+      "map_id": "420510780",
+      "seats": []
+    },
+    {
+      "name": "Saltlick",
+      "map_id": "420510811",
+      "seats": []
+    },
+    {
+      "name": "Smithfield",
+      "map_id": "420510840",
+      "seats": []
+    },
+    {
+      "name": "South Connellsville",
+      "map_id": "420510850",
+      "seats": []
+    },
+    {
+      "name": "South Union D 1",
+      "map_id": "420510860",
+      "seats": []
+    },
+    {
+      "name": "South Union D 2",
+      "map_id": "420510870",
+      "seats": []
+    },
+    {
+      "name": "South Union D 3",
+      "map_id": "420510880",
+      "seats": []
+    },
+    {
+      "name": "Springfield D 1",
+      "map_id": "420510890",
+      "seats": []
+    },
+    {
+      "name": "Springfield D 2",
+      "map_id": "420510900",
+      "seats": []
+    },
+    {
+      "name": "Springhill",
+      "map_id": "420510915",
+      "seats": []
+    },
+    {
+      "name": "Stewart",
+      "map_id": "420510930",
+      "seats": []
+    },
+    {
+      "name": "Uniontown W 1",
+      "map_id": "420510945",
+      "seats": []
+    },
+    {
+      "name": "Uniontown W 2",
+      "map_id": "420510955",
+      "seats": []
+    },
+    {
+      "name": "Uniontown W 3",
+      "map_id": "420510970",
+      "seats": []
+    },
+    {
+      "name": "Uniontown W 4",
+      "map_id": "420510980",
+      "seats": []
+    },
+    {
+      "name": "Uniontown W 5",
+      "map_id": "420510995",
+      "seats": []
+    },
+    {
+      "name": "Uniontown W 6",
+      "map_id": "420511015",
+      "seats": []
+    },
+    {
+      "name": "Uniontown W 7",
+      "map_id": "420511020",
+      "seats": []
+    },
+    {
+      "name": "Upper Tyrone",
+      "map_id": "420511045",
+      "seats": []
+    },
+    {
+      "name": "Vanderbilt",
+      "map_id": "420511060",
+      "seats": []
+    },
+    {
+      "name": "Washington",
+      "map_id": "420511072",
+      "seats": []
+    },
+    {
+      "name": "Wharton",
+      "map_id": "420511111",
+      "seats": []
+    }
+  ],
   "totals": {
     "precincts": 77,
     "seats": 0,
@@ -40,5 +432,5 @@
     "empty_no_filer": 0,
     "unknown": 0
   },
-  "notes": "No usable evidence obtained. Fayette's official May 19, 2026 primary results are published only on the Clarity/Scytl site, which blocked automated access (HTTP 403). The county's 2021 and 2023 municipal primary result PDFs contain no committee contests and the scanned April 2024 primary certification covers federal/state offices only, so committee seats are presumably elected in gubernatorial-year primaries, but this was not confirmed. No Republican committee candidate list or roster was found. The precincts array is empty and totals.precincts (77) comes from the map's counties.geojson; seat totals are 0 because no seat-level record exists, and every seat should be read as unknown."
+  "notes": "The county party bylaws filed with the Fayette County Election Bureau allow each precinct to elect up to two committee members every four years at the gubernatorial primary, including 2026; vacancies may later be filled by appointment. The 77 mapped precincts imply a ceiling of 154 positions, not a fixed authorized seat count. A complete certified 2026 committee result or current roster was not obtained, so the number and status of actual positions remain unverified and no seats are counted. The county result site blocked automated access when checked November 24, 2026."
 }

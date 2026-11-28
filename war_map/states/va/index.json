@@ -1,0 +1,2022 @@
+{
+ "state": "VA",
+ "name": "Virginia",
+ "fips": "51",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/VA-precincts-with-results.geojson.gz",
+ "bbox": [
+  -83.6754,
+  36.5409,
+  -75.1664,
+  39.466
+ ],
+ "totals": {
+  "rep": 2075107,
+  "dem": 2335386,
+  "total": 4504905,
+  "units": 2536
+ },
+ "counties": [
+  {
+   "fips": "51001",
+   "name": "Accomack County",
+   "slug": "accomack-county",
+   "bbox": [
+    -76.2365,
+    37.4486,
+    -75.1664,
+    38.0279
+   ],
+   "units": 16,
+   "rep": 9660,
+   "dem": 7376,
+   "total": 17177
+  },
+  {
+   "fips": "51003",
+   "name": "Albemarle County",
+   "slug": "albemarle-county",
+   "bbox": [
+    -78.8389,
+    37.7227,
+    -78.2094,
+    38.2779
+   ],
+   "units": 30,
+   "rep": 21513,
+   "dem": 44278,
+   "total": 67206
+  },
+  {
+   "fips": "51005",
+   "name": "Alleghany County",
+   "slug": "alleghany-county",
+   "bbox": [
+    -80.2961,
+    37.5964,
+    -79.6063,
+    37.9605
+   ],
+   "units": 12,
+   "rep": 6092,
+   "dem": 2114,
+   "total": 8291
+  },
+  {
+   "fips": "51007",
+   "name": "Amelia County",
+   "slug": "amelia-county",
+   "bbox": [
+    -78.2408,
+    37.1922,
+    -77.6489,
+    37.498
+   ],
+   "units": 5,
+   "rep": 5776,
+   "dem": 2214,
+   "total": 8048
+  },
+  {
+   "fips": "51009",
+   "name": "Amherst County",
+   "slug": "amherst-county",
+   "bbox": [
+    -79.4369,
+    37.3858,
+    -78.8676,
+    37.8141
+   ],
+   "units": 11,
+   "rep": 11742,
+   "dem": 5431,
+   "total": 17358
+  },
+  {
+   "fips": "51011",
+   "name": "Appomattox County",
+   "slug": "appomattox-county",
+   "bbox": [
+    -79.0216,
+    37.2019,
+    -78.5944,
+    37.5525
+   ],
+   "units": 9,
+   "rep": 7244,
+   "dem": 2324,
+   "total": 9684
+  },
+  {
+   "fips": "51013",
+   "name": "Arlington County",
+   "slug": "arlington-county",
+   "bbox": [
+    -77.1723,
+    38.8274,
+    -77.0322,
+    38.9343
+   ],
+   "units": 54,
+   "rep": 25222,
+   "dem": 100448,
+   "total": 129554
+  },
+  {
+   "fips": "51015",
+   "name": "Augusta County",
+   "slug": "augusta-county",
+   "bbox": [
+    -79.5333,
+    37.8816,
+    -78.7494,
+    38.4777
+   ],
+   "units": 28,
+   "rep": 32429,
+   "dem": 11405,
+   "total": 44409
+  },
+  {
+   "fips": "51017",
+   "name": "Bath County",
+   "slug": "bath-county",
+   "bbox": [
+    -80.0561,
+    37.8445,
+    -79.4367,
+    38.2662
+   ],
+   "units": 7,
+   "rep": 1975,
+   "dem": 588,
+   "total": 2583
+  },
+  {
+   "fips": "51019",
+   "name": "Bedford County",
+   "slug": "bedford-county",
+   "bbox": [
+    -79.8584,
+    37.0058,
+    -79.1855,
+    37.6183
+   ],
+   "units": 32,
+   "rep": 38019,
+   "dem": 12414,
+   "total": 51078
+  },
+  {
+   "fips": "51021",
+   "name": "Bland County",
+   "slug": "bland-county",
+   "bbox": [
+    -81.4623,
+    36.9524,
+    -80.8546,
+    37.3023
+   ],
+   "units": 7,
+   "rep": 2997,
+   "dem": 523,
+   "total": 3553
+  },
+  {
+   "fips": "51023",
+   "name": "Botetourt County",
+   "slug": "botetourt-county",
+   "bbox": [
+    -80.0741,
+    37.3094,
+    -79.4987,
+    37.801
+   ],
+   "units": 10,
+   "rep": 15795,
+   "dem": 5914,
+   "total": 21972
+  },
+  {
+   "fips": "51025",
+   "name": "Brunswick County",
+   "slug": "brunswick-county",
+   "bbox": [
+    -78.0462,
+    36.5436,
+    -77.6559,
+    37.0245
+   ],
+   "units": 13,
+   "rep": 3522,
+   "dem": 4185,
+   "total": 7749
+  },
+  {
+   "fips": "51027",
+   "name": "Buchanan County",
+   "slug": "buchanan-county",
+   "bbox": [
+    -82.3142,
+    37.0382,
+    -81.7401,
+    37.538
+   ],
+   "units": 18,
+   "rep": 7939,
+   "dem": 1354,
+   "total": 9333
+  },
+  {
+   "fips": "51029",
+   "name": "Buckingham County",
+   "slug": "buckingham-county",
+   "bbox": [
+    -78.8333,
+    37.3295,
+    -78.2397,
+    37.7969
+   ],
+   "units": 10,
+   "rep": 4848,
+   "dem": 2988,
+   "total": 7925
+  },
+  {
+   "fips": "51031",
+   "name": "Campbell County",
+   "slug": "campbell-county",
+   "bbox": [
+    -79.4423,
+    37.0223,
+    -78.8247,
+    37.4337
+   ],
+   "units": 16,
+   "rep": 23031,
+   "dem": 7889,
+   "total": 31276
+  },
+  {
+   "fips": "51033",
+   "name": "Caroline County",
+   "slug": "caroline-county",
+   "bbox": [
+    -77.6436,
+    37.7762,
+    -77.0687,
+    38.2527
+   ],
+   "units": 13,
+   "rep": 9513,
+   "dem": 7957,
+   "total": 17697
+  },
+  {
+   "fips": "51035",
+   "name": "Carroll County",
+   "slug": "carroll-county",
+   "bbox": [
+    -81.0424,
+    36.5579,
+    -80.4537,
+    36.9318
+   ],
+   "units": 16,
+   "rep": 13153,
+   "dem": 2927,
+   "total": 16201
+  },
+  {
+   "fips": "51036",
+   "name": "Charles City County",
+   "slug": "charles-city-county",
+   "bbox": [
+    -77.2716,
+    37.2229,
+    -76.8716,
+    37.4906
+   ],
+   "units": 3,
+   "rep": 1917,
+   "dem": 2384,
+   "total": 4353
+  },
+  {
+   "fips": "51037",
+   "name": "Charlotte County",
+   "slug": "charlotte-county",
+   "bbox": [
+    -78.9046,
+    36.6979,
+    -78.4436,
+    37.2488
+   ],
+   "units": 7,
+   "rep": 3963,
+   "dem": 2008,
+   "total": 6020
+  },
+  {
+   "fips": "51041",
+   "name": "Chesterfield County",
+   "slug": "chesterfield-county",
+   "bbox": [
+    -77.8784,
+    37.217,
+    -77.2462,
+    37.5625
+   ],
+   "units": 78,
+   "rep": 94030,
+   "dem": 112872,
+   "total": 210593
+  },
+  {
+   "fips": "51043",
+   "name": "Clarke County",
+   "slug": "clarke-county",
+   "bbox": [
+    -78.1516,
+    38.9794,
+    -77.8283,
+    39.2645
+   ],
+   "units": 7,
+   "rep": 5642,
+   "dem": 3993,
+   "total": 9834
+  },
+  {
+   "fips": "51045",
+   "name": "Craig County",
+   "slug": "craig-county",
+   "bbox": [
+    -80.4728,
+    37.3164,
+    -79.9691,
+    37.6603
+   ],
+   "units": 8,
+   "rep": 2563,
+   "dem": 541,
+   "total": 3135
+  },
+  {
+   "fips": "51047",
+   "name": "Culpeper County",
+   "slug": "culpeper-county",
+   "bbox": [
+    -78.2318,
+    38.3084,
+    -77.6187,
+    38.699
+   ],
+   "units": 15,
+   "rep": 17684,
+   "dem": 10558,
+   "total": 28673
+  },
+  {
+   "fips": "51049",
+   "name": "Cumberland County",
+   "slug": "cumberland-county",
+   "bbox": [
+    -78.4651,
+    37.3016,
+    -78.0722,
+    37.7494
+   ],
+   "units": 5,
+   "rep": 3335,
+   "dem": 2116,
+   "total": 5500
+  },
+  {
+   "fips": "51051",
+   "name": "Dickenson County",
+   "slug": "dickenson-county",
+   "bbox": [
+    -82.5538,
+    36.9558,
+    -82.136,
+    37.3063
+   ],
+   "units": 11,
+   "rep": 5700,
+   "dem": 1316,
+   "total": 7058
+  },
+  {
+   "fips": "51053",
+   "name": "Dinwiddie County",
+   "slug": "dinwiddie-county",
+   "bbox": [
+    -77.9003,
+    36.874,
+    -77.3947,
+    37.271
+   ],
+   "units": 13,
+   "rep": 9548,
+   "dem": 5940,
+   "total": 15606
+  },
+  {
+   "fips": "51057",
+   "name": "Essex County",
+   "slug": "essex-county",
+   "bbox": [
+    -77.1701,
+    37.7286,
+    -76.6682,
+    38.162
+   ],
+   "units": 4,
+   "rep": 3245,
+   "dem": 2775,
+   "total": 6074
+  },
+  {
+   "fips": "51059",
+   "name": "Fairfax County",
+   "slug": "fairfax-county",
+   "bbox": [
+    -77.537,
+    38.6046,
+    -77.0414,
+    39.0577
+   ],
+   "units": 264,
+   "rep": 181898,
+   "dem": 386436,
+   "total": 589263
+  },
+  {
+   "fips": "51061",
+   "name": "Fauquier County",
+   "slug": "fauquier-county",
+   "bbox": [
+    -78.1313,
+    38.4096,
+    -77.5313,
+    39.0137
+   ],
+   "units": 24,
+   "rep": 26823,
+   "dem": 17180,
+   "total": 44751
+  },
+  {
+   "fips": "51063",
+   "name": "Floyd County",
+   "slug": "floyd-county",
+   "bbox": [
+    -80.634,
+    36.7087,
+    -80.1044,
+    37.1234
+   ],
+   "units": 5,
+   "rep": 6551,
+   "dem": 2969,
+   "total": 9662
+  },
+  {
+   "fips": "51065",
+   "name": "Fluvanna County",
+   "slug": "fluvanna-county",
+   "bbox": [
+    -78.4913,
+    37.6903,
+    -78.0625,
+    38.0065
+   ],
+   "units": 5,
+   "rep": 8776,
+   "dem": 7730,
+   "total": 16739
+  },
+  {
+   "fips": "51067",
+   "name": "Franklin County",
+   "slug": "franklin-county",
+   "bbox": [
+    -80.2355,
+    36.7807,
+    -79.5923,
+    37.233
+   ],
+   "units": 23,
+   "rep": 22319,
+   "dem": 8321,
+   "total": 31017
+  },
+  {
+   "fips": "51069",
+   "name": "Frederick County",
+   "slug": "frederick-county",
+   "bbox": [
+    -78.5441,
+    39.008,
+    -78.0332,
+    39.466
+   ],
+   "units": 29,
+   "rep": 33116,
+   "dem": 18332,
+   "total": 52249
+  },
+  {
+   "fips": "51071",
+   "name": "Giles County",
+   "slug": "giles-county",
+   "bbox": [
+    -81.0145,
+    37.1475,
+    -80.4309,
+    37.4817
+   ],
+   "units": 9,
+   "rep": 7102,
+   "dem": 2067,
+   "total": 9256
+  },
+  {
+   "fips": "51073",
+   "name": "Gloucester County",
+   "slug": "gloucester-county",
+   "bbox": [
+    -76.7123,
+    37.2333,
+    -76.3045,
+    37.6031
+   ],
+   "units": 11,
+   "rep": 15917,
+   "dem": 7035,
+   "total": 23227
+  },
+  {
+   "fips": "51075",
+   "name": "Goochland County",
+   "slug": "goochland-county",
+   "bbox": [
+    -78.1593,
+    37.564,
+    -77.6163,
+    37.9051
+   ],
+   "units": 11,
+   "rep": 11521,
+   "dem": 7874,
+   "total": 19738
+  },
+  {
+   "fips": "51077",
+   "name": "Grayson County",
+   "slug": "grayson-county",
+   "bbox": [
+    -81.6775,
+    36.5592,
+    -80.838,
+    36.8064
+   ],
+   "units": 15,
+   "rep": 6545,
+   "dem": 1504,
+   "total": 8120
+  },
+  {
+   "fips": "51079",
+   "name": "Greene County",
+   "slug": "greene-county",
+   "bbox": [
+    -78.6627,
+    38.1842,
+    -78.2885,
+    38.4755
+   ],
+   "units": 6,
+   "rep": 7432,
+   "dem": 4455,
+   "total": 12105
+  },
+  {
+   "fips": "51081",
+   "name": "Greensville County",
+   "slug": "greensville-county",
+   "bbox": [
+    -77.767,
+    36.5448,
+    -77.2969,
+    36.8983
+   ],
+   "units": 9,
+   "rep": 1937,
+   "dem": 2334,
+   "total": 4304
+  },
+  {
+   "fips": "51083",
+   "name": "Halifax County",
+   "slug": "halifax-county",
+   "bbox": [
+    -79.2185,
+    36.5416,
+    -78.5492,
+    37.0615
+   ],
+   "units": 20,
+   "rep": 10744,
+   "dem": 6984,
+   "total": 17870
+  },
+  {
+   "fips": "51085",
+   "name": "Hanover County",
+   "slug": "hanover-county",
+   "bbox": [
+    -77.7973,
+    37.5381,
+    -77.1085,
+    38.0082
+   ],
+   "units": 36,
+   "rep": 45568,
+   "dem": 26734,
+   "total": 73390
+  },
+  {
+   "fips": "51087",
+   "name": "Henrico County",
+   "slug": "henrico-county",
+   "bbox": [
+    -77.6544,
+    37.3534,
+    -77.177,
+    37.7104
+   ],
+   "units": 90,
+   "rep": 62885,
+   "dem": 115039,
+   "total": 181438
+  },
+  {
+   "fips": "51089",
+   "name": "Henry County",
+   "slug": "henry-county",
+   "bbox": [
+    -80.0951,
+    36.542,
+    -79.6406,
+    36.8561
+   ],
+   "units": 24,
+   "rep": 16801,
+   "dem": 8456,
+   "total": 25473
+  },
+  {
+   "fips": "51091",
+   "name": "Highland County",
+   "slug": "highland-county",
+   "bbox": [
+    -79.8101,
+    38.1804,
+    -79.3082,
+    38.5915
+   ],
+   "units": 5,
+   "rep": 1095,
+   "dem": 416,
+   "total": 1535
+  },
+  {
+   "fips": "51093",
+   "name": "Isle of Wight County",
+   "slug": "isle-of-wight-county",
+   "bbox": [
+    -76.9303,
+    36.6441,
+    -76.4453,
+    37.1538
+   ],
+   "units": 17,
+   "rep": 14660,
+   "dem": 9777,
+   "total": 24756
+  },
+  {
+   "fips": "51095",
+   "name": "James City County",
+   "slug": "james-city-county",
+   "bbox": [
+    -76.915,
+    37.1692,
+    -76.578,
+    37.4587
+   ],
+   "units": 18,
+   "rep": 23576,
+   "dem": 26743,
+   "total": 51262
+  },
+  {
+   "fips": "51097",
+   "name": "King and Queen County",
+   "slug": "king-and-queen-county",
+   "bbox": [
+    -77.1869,
+    37.4313,
+    -76.6454,
+    37.9722
+   ],
+   "units": 5,
+   "rep": 2608,
+   "dem": 1536,
+   "total": 4188
+  },
+  {
+   "fips": "51099",
+   "name": "King George County",
+   "slug": "king-george-county",
+   "bbox": [
+    -77.3474,
+    38.1411,
+    -76.9977,
+    38.401
+   ],
+   "units": 5,
+   "rep": 9499,
+   "dem": 5656,
+   "total": 15434
+  },
+  {
+   "fips": "51101",
+   "name": "King William County",
+   "slug": "king-william-county",
+   "bbox": [
+    -77.3456,
+    37.5176,
+    -76.7771,
+    37.9103
+   ],
+   "units": 6,
+   "rep": 8080,
+   "dem": 3388,
+   "total": 11581
+  },
+  {
+   "fips": "51103",
+   "name": "Lancaster County",
+   "slug": "lancaster-county",
+   "bbox": [
+    -76.6459,
+    37.6039,
+    -76.2688,
+    37.8412
+   ],
+   "units": 6,
+   "rep": 3866,
+   "dem": 3356,
+   "total": 7313
+  },
+  {
+   "fips": "51105",
+   "name": "Lee County",
+   "slug": "lee-county",
+   "bbox": [
+    -83.6754,
+    36.5937,
+    -82.7716,
+    36.8929
+   ],
+   "units": 16,
+   "rep": 8674,
+   "dem": 1391,
+   "total": 10121
+  },
+  {
+   "fips": "51107",
+   "name": "Loudoun County",
+   "slug": "loudoun-county",
+   "bbox": [
+    -77.9622,
+    38.8462,
+    -77.3283,
+    39.3246
+   ],
+   "units": 107,
+   "rep": 92111,
+   "dem": 129277,
+   "total": 229618
+  },
+  {
+   "fips": "51109",
+   "name": "Louisa County",
+   "slug": "louisa-county",
+   "bbox": [
+    -78.3068,
+    37.7306,
+    -77.6873,
+    38.1526
+   ],
+   "units": 14,
+   "rep": 15083,
+   "dem": 8777,
+   "total": 24136
+  },
+  {
+   "fips": "51111",
+   "name": "Lunenburg County",
+   "slug": "lunenburg-county",
+   "bbox": [
+    -78.493,
+    36.7762,
+    -78.0037,
+    37.1201
+   ],
+   "units": 11,
+   "rep": 3594,
+   "dem": 2253,
+   "total": 5884
+  },
+  {
+   "fips": "51113",
+   "name": "Madison County",
+   "slug": "madison-county",
+   "bbox": [
+    -78.4528,
+    38.2301,
+    -78.0827,
+    38.6273
+   ],
+   "units": 9,
+   "rep": 5672,
+   "dem": 2700,
+   "total": 8480
+  },
+  {
+   "fips": "51115",
+   "name": "Mathews County",
+   "slug": "mathews-county",
+   "bbox": [
+    -76.4519,
+    37.2784,
+    -76.1363,
+    37.5422
+   ],
+   "units": 3,
+   "rep": 4107,
+   "dem": 1774,
+   "total": 5946
+  },
+  {
+   "fips": "51117",
+   "name": "Mecklenburg County",
+   "slug": "mecklenburg-county",
+   "bbox": [
+    -78.7403,
+    36.541,
+    -78.0274,
+    36.8912
+   ],
+   "units": 22,
+   "rep": 9792,
+   "dem": 6403,
+   "total": 16304
+  },
+  {
+   "fips": "51119",
+   "name": "Middlesex County",
+   "slug": "middlesex-county",
+   "bbox": [
+    -76.7512,
+    37.5121,
+    -76.2979,
+    37.7704
+   ],
+   "units": 6,
+   "rep": 4357,
+   "dem": 2474,
+   "total": 6907
+  },
+  {
+   "fips": "51121",
+   "name": "Montgomery County",
+   "slug": "montgomery-county",
+   "bbox": [
+    -80.615,
+    36.9815,
+    -80.1777,
+    37.3688
+   ],
+   "units": 29,
+   "rep": 22180,
+   "dem": 23811,
+   "total": 47044
+  },
+  {
+   "fips": "51125",
+   "name": "Nelson County",
+   "slug": "nelson-county",
+   "bbox": [
+    -79.1721,
+    37.5356,
+    -78.6408,
+    38.0474
+   ],
+   "units": 9,
+   "rep": 5003,
+   "dem": 4300,
+   "total": 9430
+  },
+  {
+   "fips": "51127",
+   "name": "New Kent County",
+   "slug": "new-kent-county",
+   "bbox": [
+    -77.241,
+    37.3777,
+    -76.742,
+    37.6269
+   ],
+   "units": 10,
+   "rep": 10975,
+   "dem": 5641,
+   "total": 16806
+  },
+  {
+   "fips": "51131",
+   "name": "Northampton County",
+   "slug": "northampton-county",
+   "bbox": [
+    -76.1408,
+    36.9907,
+    -75.5974,
+    37.5573
+   ],
+   "units": 5,
+   "rep": 3183,
+   "dem": 3603,
+   "total": 6856
+  },
+  {
+   "fips": "51133",
+   "name": "Northumberland County",
+   "slug": "northumberland-county",
+   "bbox": [
+    -76.6346,
+    37.6697,
+    -76.1757,
+    38.035
+   ],
+   "units": 5,
+   "rep": 4937,
+   "dem": 3202,
+   "total": 8230
+  },
+  {
+   "fips": "51135",
+   "name": "Nottoway County",
+   "slug": "nottoway-county",
+   "bbox": [
+    -78.2394,
+    36.9827,
+    -77.7959,
+    37.2962
+   ],
+   "units": 7,
+   "rep": 4168,
+   "dem": 2636,
+   "total": 6869
+  },
+  {
+   "fips": "51137",
+   "name": "Orange County",
+   "slug": "orange-county",
+   "bbox": [
+    -78.369,
+    38.118,
+    -77.703,
+    38.3931
+   ],
+   "units": 12,
+   "rep": 13763,
+   "dem": 8274,
+   "total": 22350
+  },
+  {
+   "fips": "51139",
+   "name": "Page County",
+   "slug": "page-county",
+   "bbox": [
+    -78.6914,
+    38.4216,
+    -78.2849,
+    38.8227
+   ],
+   "units": 5,
+   "rep": 10123,
+   "dem": 2977,
+   "total": 13252
+  },
+  {
+   "fips": "51141",
+   "name": "Patrick County",
+   "slug": "patrick-county",
+   "bbox": [
+    -80.6257,
+    36.5425,
+    -80.0415,
+    36.8721
+   ],
+   "units": 13,
+   "rep": 7748,
+   "dem": 1885,
+   "total": 9718
+  },
+  {
+   "fips": "51143",
+   "name": "Pittsylvania County",
+   "slug": "pittsylvania-county",
+   "bbox": [
+    -79.7148,
+    36.5409,
+    -79.0923,
+    37.1374
+   ],
+   "units": 29,
+   "rep": 24311,
+   "dem": 9598,
+   "total": 34156
+  },
+  {
+   "fips": "51145",
+   "name": "Powhatan County",
+   "slug": "powhatan-county",
+   "bbox": [
+    -78.1321,
+    37.4149,
+    -77.6554,
+    37.6917
+   ],
+   "units": 12,
+   "rep": 14917,
+   "dem": 5735,
+   "total": 20910
+  },
+  {
+   "fips": "51147",
+   "name": "Prince Edward County",
+   "slug": "prince-edward-county",
+   "bbox": [
+    -78.6925,
+    37.0782,
+    -78.2312,
+    37.398
+   ],
+   "units": 10,
+   "rep": 4780,
+   "dem": 4538,
+   "total": 9454
+  },
+  {
+   "fips": "51149",
+   "name": "Prince George County",
+   "slug": "prince-george-county",
+   "bbox": [
+    -77.3985,
+    36.993,
+    -76.9726,
+    37.3207
+   ],
+   "units": 10,
+   "rep": 10590,
+   "dem": 6842,
+   "total": 17631
+  },
+  {
+   "fips": "51153",
+   "name": "Prince William County",
+   "slug": "prince-william-county",
+   "bbox": [
+    -77.7159,
+    38.5008,
+    -77.2203,
+    38.9428
+   ],
+   "units": 103,
+   "rep": 90205,
+   "dem": 131130,
+   "total": 228644
+  },
+  {
+   "fips": "51155",
+   "name": "Pulaski County",
+   "slug": "pulaski-county",
+   "bbox": [
+    -80.9306,
+    36.879,
+    -80.5152,
+    37.2449
+   ],
+   "units": 13,
+   "rep": 12734,
+   "dem": 4831,
+   "total": 17747
+  },
+  {
+   "fips": "51157",
+   "name": "Rappahannock County",
+   "slug": "rappahannock-county",
+   "bbox": [
+    -78.3382,
+    38.5208,
+    -77.9354,
+    38.8655
+   ],
+   "units": 6,
+   "rep": 2944,
+   "dem": 2041,
+   "total": 5065
+  },
+  {
+   "fips": "51159",
+   "name": "Richmond County",
+   "slug": "richmond-county",
+   "bbox": [
+    -76.938,
+    37.7784,
+    -76.5078,
+    38.1244
+   ],
+   "units": 5,
+   "rep": 2696,
+   "dem": 1439,
+   "total": 4166
+  },
+  {
+   "fips": "51161",
+   "name": "Roanoke County",
+   "slug": "roanoke-county",
+   "bbox": [
+    -80.2622,
+    37.1091,
+    -79.8396,
+    37.4225
+   ],
+   "units": 33,
+   "rep": 34455,
+   "dem": 21695,
+   "total": 57035
+  },
+  {
+   "fips": "51163",
+   "name": "Rockbridge County",
+   "slug": "rockbridge-county",
+   "bbox": [
+    -79.6888,
+    37.5328,
+    -79.1439,
+    38.0861
+   ],
+   "units": 17,
+   "rep": 8469,
+   "dem": 4158,
+   "total": 12823
+  },
+  {
+   "fips": "51165",
+   "name": "Rockingham County",
+   "slug": "rockingham-county",
+   "bbox": [
+    -79.2243,
+    38.2067,
+    -78.4857,
+    38.85
+   ],
+   "units": 29,
+   "rep": 33032,
+   "dem": 15036,
+   "total": 48847
+  },
+  {
+   "fips": "51167",
+   "name": "Russell County",
+   "slug": "russell-county",
+   "bbox": [
+    -82.4066,
+    36.709,
+    -81.7806,
+    37.1425
+   ],
+   "units": 15,
+   "rep": 11304,
+   "dem": 2170,
+   "total": 13546
+  },
+  {
+   "fips": "51169",
+   "name": "Scott County",
+   "slug": "scott-county",
+   "bbox": [
+    -82.9851,
+    36.5935,
+    -82.2941,
+    36.8856
+   ],
+   "units": 17,
+   "rep": 9390,
+   "dem": 1607,
+   "total": 11075
+  },
+  {
+   "fips": "51171",
+   "name": "Shenandoah County",
+   "slug": "shenandoah-county",
+   "bbox": [
+    -78.8696,
+    38.6047,
+    -78.3004,
+    39.1029
+   ],
+   "units": 14,
+   "rep": 17216,
+   "dem": 6914,
+   "total": 24482
+  },
+  {
+   "fips": "51173",
+   "name": "Smyth County",
+   "slug": "smyth-county",
+   "bbox": [
+    -81.8371,
+    36.634,
+    -81.262,
+    37.0185
+   ],
+   "units": 12,
+   "rep": 11520,
+   "dem": 2805,
+   "total": 14465
+  },
+  {
+   "fips": "51175",
+   "name": "Southampton County",
+   "slug": "southampton-county",
+   "bbox": [
+    -77.5019,
+    36.5439,
+    -76.8149,
+    36.9962
+   ],
+   "units": 11,
+   "rep": 6133,
+   "dem": 3627,
+   "total": 9856
+  },
+  {
+   "fips": "51177",
+   "name": "Spotsylvania County",
+   "slug": "spotsylvania-county",
+   "bbox": [
+    -77.9536,
+    37.9907,
+    -77.3703,
+    38.3781
+   ],
+   "units": 29,
+   "rep": 42532,
+   "dem": 35747,
+   "total": 79504
+  },
+  {
+   "fips": "51179",
+   "name": "Stafford County",
+   "slug": "stafford-county",
+   "bbox": [
+    -77.6352,
+    38.2423,
+    -77.2871,
+    38.5926
+   ],
+   "units": 37,
+   "rep": 40588,
+   "dem": 41248,
+   "total": 83509
+  },
+  {
+   "fips": "51181",
+   "name": "Surry County",
+   "slug": "surry-county",
+   "bbox": [
+    -77.1561,
+    36.9445,
+    -76.6416,
+    37.2485
+   ],
+   "units": 6,
+   "rep": 2206,
+   "dem": 2176,
+   "total": 4441
+  },
+  {
+   "fips": "51183",
+   "name": "Sussex County",
+   "slug": "sussex-county",
+   "bbox": [
+    -77.619,
+    36.7072,
+    -76.9536,
+    37.112
+   ],
+   "units": 10,
+   "rep": 2322,
+   "dem": 2540,
+   "total": 4901
+  },
+  {
+   "fips": "51185",
+   "name": "Tazewell County",
+   "slug": "tazewell-county",
+   "bbox": [
+    -81.9019,
+    36.9329,
+    -81.2251,
+    37.3381
+   ],
+   "units": 20,
+   "rep": 16711,
+   "dem": 3030,
+   "total": 19903
+  },
+  {
+   "fips": "51187",
+   "name": "Warren County",
+   "slug": "warren-county",
+   "bbox": [
+    -78.3947,
+    38.757,
+    -78.0047,
+    39.0366
+   ],
+   "units": 11,
+   "rep": 15400,
+   "dem": 6910,
+   "total": 22673
+  },
+  {
+   "fips": "51191",
+   "name": "Washington County",
+   "slug": "washington-county",
+   "bbox": [
+    -82.3321,
+    36.5942,
+    -81.6054,
+    36.929
+   ],
+   "units": 19,
+   "rep": 22455,
+   "dem": 6772,
+   "total": 29513
+  },
+  {
+   "fips": "51193",
+   "name": "Westmoreland County",
+   "slug": "westmoreland-county",
+   "bbox": [
+    -77.0647,
+    37.9656,
+    -76.5162,
+    38.2781
+   ],
+   "units": 8,
+   "rep": 6003,
+   "dem": 4490,
+   "total": 10605
+  },
+  {
+   "fips": "51195",
+   "name": "Wise County",
+   "slug": "wise-county",
+   "bbox": [
+    -82.8786,
+    36.799,
+    -82.2986,
+    37.2028
+   ],
+   "units": 12,
+   "rep": 13656,
+   "dem": 3035,
+   "total": 16808
+  },
+  {
+   "fips": "51197",
+   "name": "Wythe County",
+   "slug": "wythe-county",
+   "bbox": [
+    -81.3794,
+    36.7576,
+    -80.7405,
+    37.0733
+   ],
+   "units": 11,
+   "rep": 12267,
+   "dem": 3074,
+   "total": 15472
+  },
+  {
+   "fips": "51199",
+   "name": "York County",
+   "slug": "york-county",
+   "bbox": [
+    -76.7555,
+    37.092,
+    -76.1355,
+    37.3801
+   ],
+   "units": 13,
+   "rep": 20724,
+   "dem": 18293,
+   "total": 39743
+  },
+  {
+   "fips": "51510",
+   "name": "Alexandria city",
+   "slug": "alexandria-city",
+   "bbox": [
+    -77.1444,
+    38.7852,
+    -77.0373,
+    38.8449
+   ],
+   "units": 32,
+   "rep": 16111,
+   "dem": 62327,
+   "total": 80893
+  },
+  {
+   "fips": "51520",
+   "name": "Bristol city",
+   "slug": "bristol-city",
+   "bbox": [
+    -82.2428,
+    36.5947,
+    -82.103,
+    36.6777
+   ],
+   "units": 5,
+   "rep": 5198,
+   "dem": 2231,
+   "total": 7491
+  },
+  {
+   "fips": "51530",
+   "name": "Buena Vista city",
+   "slug": "buena-vista-city",
+   "bbox": [
+    -79.3815,
+    37.6957,
+    -79.326,
+    37.7621
+   ],
+   "units": 2,
+   "rep": 2035,
+   "dem": 768,
+   "total": 2868
+  },
+  {
+   "fips": "51540",
+   "name": "Charlottesville city",
+   "slug": "charlottesville-city",
+   "bbox": [
+    -78.5237,
+    38.0097,
+    -78.4464,
+    38.0705
+   ],
+   "units": 9,
+   "rep": 3429,
+   "dem": 19436,
+   "total": 23437
+  },
+  {
+   "fips": "51550",
+   "name": "Chesapeake city",
+   "slug": "chesapeake-city",
+   "bbox": [
+    -76.4913,
+    36.5505,
+    -76.0656,
+    36.8665
+   ],
+   "units": 64,
+   "rep": 60550,
+   "dem": 65400,
+   "total": 127966
+  },
+  {
+   "fips": "51570",
+   "name": "Colonial Heights city",
+   "slug": "colonial-heights-city",
+   "bbox": [
+    -77.4318,
+    37.2335,
+    -77.3624,
+    37.2979
+   ],
+   "units": 5,
+   "rep": 5883,
+   "dem": 2982,
+   "total": 8964
+  },
+  {
+   "fips": "51580",
+   "name": "Covington city",
+   "slug": "covington-city",
+   "bbox": [
+    -80.009,
+    37.7482,
+    -79.966,
+    37.8136
+   ],
+   "units": 5,
+   "rep": 1643,
+   "dem": 818,
+   "total": 2480
+  },
+  {
+   "fips": "51590",
+   "name": "Danville city",
+   "slug": "danville-city",
+   "bbox": [
+    -79.5193,
+    36.541,
+    -79.3026,
+    36.644
+   ],
+   "units": 16,
+   "rep": 6896,
+   "dem": 10616,
+   "total": 17709
+  },
+  {
+   "fips": "51595",
+   "name": "Emporia city",
+   "slug": "emporia-city",
+   "bbox": [
+    -77.564,
+    36.6719,
+    -77.5074,
+    36.7206
+   ],
+   "units": 7,
+   "rep": 743,
+   "dem": 1418,
+   "total": 2176
+  },
+  {
+   "fips": "51600",
+   "name": "Fairfax city",
+   "slug": "fairfax-city",
+   "bbox": [
+    -77.335,
+    38.8328,
+    -77.2686,
+    38.8717
+   ],
+   "units": 6,
+   "rep": 4303,
+   "dem": 8798,
+   "total": 13566
+  },
+  {
+   "fips": "51610",
+   "name": "Falls Church city",
+   "slug": "falls-church-city",
+   "bbox": [
+    -77.1949,
+    38.8725,
+    -77.1497,
+    38.8998
+   ],
+   "units": 3,
+   "rep": 1621,
+   "dem": 7201,
+   "total": 9061
+  },
+  {
+   "fips": "51620",
+   "name": "Franklin city",
+   "slug": "franklin-city",
+   "bbox": [
+    -76.9694,
+    36.6472,
+    -76.9097,
+    36.7087
+   ],
+   "units": 6,
+   "rep": 1476,
+   "dem": 2360,
+   "total": 3888
+  },
+  {
+   "fips": "51630",
+   "name": "Fredericksburg city",
+   "slug": "fredericksburg-city",
+   "bbox": [
+    -77.5327,
+    38.2702,
+    -77.4471,
+    38.3263
+   ],
+   "units": 5,
+   "rep": 4480,
+   "dem": 8760,
+   "total": 13577
+  },
+  {
+   "fips": "51640",
+   "name": "Galax city",
+   "slug": "galax-city",
+   "bbox": [
+    -80.95,
+    36.6251,
+    -80.8773,
+    36.696
+   ],
+   "units": 2,
+   "rep": 1946,
+   "dem": 753,
+   "total": 2721
+  },
+  {
+   "fips": "51650",
+   "name": "Hampton city",
+   "slug": "hampton-city",
+   "bbox": [
+    -76.4513,
+    36.9896,
+    -76.2705,
+    37.1121
+   ],
+   "units": 30,
+   "rep": 18383,
+   "dem": 43356,
+   "total": 62801
+  },
+  {
+   "fips": "51660",
+   "name": "Harrisonburg city",
+   "slug": "harrisonburg-city",
+   "bbox": [
+    -78.9179,
+    38.3898,
+    -78.8243,
+    38.4895
+   ],
+   "units": 8,
+   "rep": 6265,
+   "dem": 10640,
+   "total": 17329
+  },
+  {
+   "fips": "51670",
+   "name": "Hopewell city",
+   "slug": "hopewell-city",
+   "bbox": [
+    -77.3378,
+    37.2576,
+    -77.2523,
+    37.3177
+   ],
+   "units": 7,
+   "rep": 3839,
+   "dem": 5078,
+   "total": 9024
+  },
+  {
+   "fips": "51678",
+   "name": "Lexington city",
+   "slug": "lexington-city",
+   "bbox": [
+    -79.4616,
+    37.7652,
+    -79.415,
+    37.7948
+   ],
+   "units": 1,
+   "rep": 1030,
+   "dem": 1795,
+   "total": 2895
+  },
+  {
+   "fips": "51680",
+   "name": "Lynchburg city",
+   "slug": "lynchburg-city",
+   "bbox": [
+    -79.2714,
+    37.3328,
+    -79.0851,
+    37.4694
+   ],
+   "units": 18,
+   "rep": 19574,
+   "dem": 16663,
+   "total": 37010
+  },
+  {
+   "fips": "51683",
+   "name": "Manassas city",
+   "slug": "manassas-city",
+   "bbox": [
+    -77.5265,
+    38.7061,
+    -77.4477,
+    38.7812
+   ],
+   "units": 6,
+   "rep": 6670,
+   "dem": 9047,
+   "total": 16099
+  },
+  {
+   "fips": "51685",
+   "name": "Manassas Park city",
+   "slug": "manassas-park-city",
+   "bbox": [
+    -77.4791,
+    38.7496,
+    -77.4194,
+    38.7884
+   ],
+   "units": 3,
+   "rep": 2313,
+   "dem": 3506,
+   "total": 5996
+  },
+  {
+   "fips": "51690",
+   "name": "Martinsville city",
+   "slug": "martinsville-city",
+   "bbox": [
+    -79.9041,
+    36.6438,
+    -79.8263,
+    36.7153
+   ],
+   "units": 6,
+   "rep": 2155,
+   "dem": 3435,
+   "total": 5671
+  },
+  {
+   "fips": "51700",
+   "name": "Newport News city",
+   "slug": "newport-news-city",
+   "bbox": [
+    -76.6269,
+    36.9603,
+    -76.3877,
+    37.2205
+   ],
+   "units": 43,
+   "rep": 26383,
+   "dem": 48169,
+   "total": 75880
+  },
+  {
+   "fips": "51710",
+   "name": "Norfolk city",
+   "slug": "norfolk-city",
+   "bbox": [
+    -76.3456,
+    36.8209,
+    -76.1763,
+    36.9697
+   ],
+   "units": 48,
+   "rep": 24377,
+   "dem": 59942,
+   "total": 85986
+  },
+  {
+   "fips": "51720",
+   "name": "Norton city",
+   "slug": "norton-city",
+   "bbox": [
+    -82.6629,
+    36.9002,
+    -82.5892,
+    36.9598
+   ],
+   "units": 1,
+   "rep": 1174,
+   "dem": 458,
+   "total": 1644
+  },
+  {
+   "fips": "51730",
+   "name": "Petersburg city",
+   "slug": "petersburg-city",
+   "bbox": [
+    -77.4549,
+    37.1651,
+    -77.3298,
+    37.245
+   ],
+   "units": 7,
+   "rep": 1702,
+   "dem": 11219,
+   "total": 13116
+  },
+  {
+   "fips": "51735",
+   "name": "Poquoson city",
+   "slug": "poquoson-city",
+   "bbox": [
+    -76.4136,
+    37.0969,
+    -76.2925,
+    37.1707
+   ],
+   "units": 3,
+   "rep": 5800,
+   "dem": 2119,
+   "total": 8065
+  },
+  {
+   "fips": "51740",
+   "name": "Portsmouth city",
+   "slug": "portsmouth-city",
+   "bbox": [
+    -76.4204,
+    36.7862,
+    -76.29,
+    36.8978
+   ],
+   "units": 31,
+   "rep": 12369,
+   "dem": 28308,
+   "total": 41337
+  },
+  {
+   "fips": "51750",
+   "name": "Radford city",
+   "slug": "radford-city",
+   "bbox": [
+    -80.5964,
+    37.0897,
+    -80.5079,
+    37.1509
+   ],
+   "units": 4,
+   "rep": 3198,
+   "dem": 3231,
+   "total": 6583
+  },
+  {
+   "fips": "51760",
+   "name": "Richmond city",
+   "slug": "richmond-city",
+   "bbox": [
+    -77.6012,
+    37.4466,
+    -77.3855,
+    37.6028
+   ],
+   "units": 72,
+   "rep": 17038,
+   "dem": 88710,
+   "total": 108705
+  },
+  {
+   "fips": "51770",
+   "name": "Roanoke city",
+   "slug": "roanoke-city",
+   "bbox": [
+    -80.0375,
+    37.2119,
+    -79.8786,
+    37.3376
+   ],
+   "units": 20,
+   "rep": 15789,
+   "dem": 25738,
+   "total": 42304
+  },
+  {
+   "fips": "51775",
+   "name": "Salem city",
+   "slug": "salem-city",
+   "bbox": [
+    -80.1203,
+    37.2522,
+    -80.0134,
+    37.3239
+   ],
+   "units": 10,
+   "rep": 7770,
+   "dem": 5237,
+   "total": 13201
+  },
+  {
+   "fips": "51790",
+   "name": "Staunton city",
+   "slug": "staunton-city",
+   "bbox": [
+    -79.1138,
+    38.1212,
+    -79.0114,
+    38.199
+   ],
+   "units": 5,
+   "rep": 5778,
+   "dem": 7592,
+   "total": 13626
+  },
+  {
+   "fips": "51800",
+   "name": "Suffolk city",
+   "slug": "suffolk-city",
+   "bbox": [
+    -76.9309,
+    36.5506,
+    -76.3996,
+    36.9419
+   ],
+   "units": 30,
+   "rep": 22113,
+   "dem": 30598,
+   "total": 53527
+  },
+  {
+   "fips": "51810",
+   "name": "Virginia Beach city",
+   "slug": "virginia-beach-city",
+   "bbox": [
+    -76.228,
+    36.5504,
+    -75.866,
+    36.9333
+   ],
+   "units": 108,
+   "rep": 109374,
+   "dem": 115405,
+   "total": 228674
+  },
+  {
+   "fips": "51820",
+   "name": "Waynesboro city",
+   "slug": "waynesboro-city",
+   "bbox": [
+    -78.9507,
+    38.0314,
+    -78.8559,
+    38.0998
+   ],
+   "units": 4,
+   "rep": 5883,
+   "dem": 5240,
+   "total": 11318
+  },
+  {
+   "fips": "51830",
+   "name": "Williamsburg city",
+   "slug": "williamsburg-city",
+   "bbox": [
+    -76.743,
+    37.2475,
+    -76.6645,
+    37.3101
+   ],
+   "units": 2,
+   "rep": 2119,
+   "dem": 5613,
+   "total": 7894
+  },
+  {
+   "fips": "51840",
+   "name": "Winchester city",
+   "slug": "winchester-city",
+   "bbox": [
+    -78.2005,
+    39.1311,
+    -78.1367,
+    39.2049
+   ],
+   "units": 6,
+   "rep": 5251,
+   "dem": 6406,
+   "total": 11887
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 133,
+ "missing_counties": [],
+ "coverage_note": null
+}

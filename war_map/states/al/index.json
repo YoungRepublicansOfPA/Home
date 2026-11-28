@@ -1,0 +1,1032 @@
+{
+ "state": "AL",
+ "name": "Alabama",
+ "fips": "01",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/AL-precincts-with-results.geojson.gz",
+ "bbox": [
+  -88.4732,
+  30.1444,
+  -84.8882,
+  35.008
+ ],
+ "totals": {
+  "rep": 1461592,
+  "dem": 772335,
+  "total": 2263975,
+  "units": 1945
+ },
+ "counties": [
+  {
+   "fips": "01001",
+   "name": "Autauga County",
+   "slug": "autauga-county",
+   "bbox": [
+    -86.9212,
+    32.3076,
+    -86.4112,
+    32.7082
+   ],
+   "units": 19,
+   "rep": 20484,
+   "dem": 7439,
+   "total": 28281
+  },
+  {
+   "fips": "01003",
+   "name": "Baldwin County",
+   "slug": "baldwin-county",
+   "bbox": [
+    -88.0294,
+    30.2211,
+    -87.3666,
+    31.319
+   ],
+   "units": 59,
+   "rep": 95798,
+   "dem": 24934,
+   "total": 122249
+  },
+  {
+   "fips": "01005",
+   "name": "Barbour County",
+   "slug": "barbour-county",
+   "bbox": [
+    -85.7484,
+    31.6176,
+    -85.0488,
+    32.1482
+   ],
+   "units": 16,
+   "rep": 5606,
+   "dem": 4158,
+   "total": 9855
+  },
+  {
+   "fips": "01007",
+   "name": "Bibb County",
+   "slug": "bibb-county",
+   "bbox": [
+    -87.422,
+    32.8315,
+    -86.876,
+    33.2469
+   ],
+   "units": 8,
+   "rep": 7572,
+   "dem": 1619,
+   "total": 9257
+  },
+  {
+   "fips": "01009",
+   "name": "Blount County",
+   "slug": "blount-county",
+   "bbox": [
+    -86.9634,
+    33.7652,
+    -86.3035,
+    34.2605
+   ],
+   "units": 24,
+   "rep": 25354,
+   "dem": 2576,
+   "total": 28163
+  },
+  {
+   "fips": "01011",
+   "name": "Bullock County",
+   "slug": "bullock-county",
+   "bbox": [
+    -85.9993,
+    31.8803,
+    -85.41,
+    32.3053
+   ],
+   "units": 8,
+   "rep": 1101,
+   "dem": 2983,
+   "total": 4111
+  },
+  {
+   "fips": "01013",
+   "name": "Butler County",
+   "slug": "butler-county",
+   "bbox": [
+    -86.9089,
+    31.5237,
+    -86.4383,
+    31.9646
+   ],
+   "units": 21,
+   "rep": 5172,
+   "dem": 3251,
+   "total": 8480
+  },
+  {
+   "fips": "01015",
+   "name": "Calhoun County",
+   "slug": "calhoun-county",
+   "bbox": [
+    -86.1462,
+    33.5559,
+    -85.5294,
+    33.9685
+   ],
+   "units": 42,
+   "rep": 34912,
+   "dem": 13194,
+   "total": 48653
+  },
+  {
+   "fips": "01017",
+   "name": "Chambers County",
+   "slug": "chambers-county",
+   "bbox": [
+    -85.5936,
+    32.7285,
+    -85.1222,
+    33.109
+   ],
+   "units": 16,
+   "rep": 8711,
+   "dem": 5405,
+   "total": 14245
+  },
+  {
+   "fips": "01019",
+   "name": "Cherokee County",
+   "slug": "cherokee-county",
+   "bbox": [
+    -85.8438,
+    33.9414,
+    -85.3988,
+    34.5263
+   ],
+   "units": 23,
+   "rep": 11358,
+   "dem": 1553,
+   "total": 13006
+  },
+  {
+   "fips": "01021",
+   "name": "Chilton County",
+   "slug": "chilton-county",
+   "bbox": [
+    -87.0192,
+    32.6601,
+    -86.3711,
+    33.0719
+   ],
+   "units": 18,
+   "rep": 16920,
+   "dem": 2698,
+   "total": 19763
+  },
+  {
+   "fips": "01023",
+   "name": "Choctaw County",
+   "slug": "choctaw-county",
+   "bbox": [
+    -88.4732,
+    31.6979,
+    -87.9283,
+    32.3106
+   ],
+   "units": 32,
+   "rep": 4103,
+   "dem": 2515,
+   "total": 6656
+  },
+  {
+   "fips": "01025",
+   "name": "Clarke County",
+   "slug": "clarke-county",
+   "bbox": [
+    -88.1808,
+    31.1855,
+    -87.5009,
+    31.9914
+   ],
+   "units": 29,
+   "rep": 6965,
+   "dem": 4927,
+   "total": 11958
+  },
+  {
+   "fips": "01027",
+   "name": "Clay County",
+   "slug": "clay-county",
+   "bbox": [
+    -86.1744,
+    33.0903,
+    -85.6411,
+    33.4989
+   ],
+   "units": 15,
+   "rep": 5734,
+   "dem": 993,
+   "total": 6767
+  },
+  {
+   "fips": "01029",
+   "name": "Cleburne County",
+   "slug": "cleburne-county",
+   "bbox": [
+    -85.8878,
+    33.4692,
+    -85.3044,
+    33.9642
+   ],
+   "units": 14,
+   "rep": 6988,
+   "dem": 605,
+   "total": 7651
+  },
+  {
+   "fips": "01031",
+   "name": "Coffee County",
+   "slug": "coffee-county",
+   "bbox": [
+    -86.1964,
+    31.1821,
+    -85.7891,
+    31.6193
+   ],
+   "units": 27,
+   "rep": 17495,
+   "dem": 4601,
+   "total": 22319
+  },
+  {
+   "fips": "01033",
+   "name": "Colbert County",
+   "slug": "colbert-county",
+   "bbox": [
+    -88.14,
+    34.5662,
+    -87.4159,
+    34.9066
+   ],
+   "units": 34,
+   "rep": 19714,
+   "dem": 7137,
+   "total": 27160
+  },
+  {
+   "fips": "01035",
+   "name": "Conecuh County",
+   "slug": "conecuh-county",
+   "bbox": [
+    -87.4275,
+    31.1811,
+    -86.6621,
+    31.753
+   ],
+   "units": 27,
+   "rep": 3423,
+   "dem": 2580,
+   "total": 6051
+  },
+  {
+   "fips": "01037",
+   "name": "Coosa County",
+   "slug": "coosa-county",
+   "bbox": [
+    -86.5223,
+    32.7534,
+    -85.9998,
+    33.1047
+   ],
+   "units": 12,
+   "rep": 3758,
+   "dem": 1478,
+   "total": 5268
+  },
+  {
+   "fips": "01039",
+   "name": "Covington County",
+   "slug": "covington-county",
+   "bbox": [
+    -86.7028,
+    30.9933,
+    -86.1869,
+    31.5286
+   ],
+   "units": 25,
+   "rep": 14677,
+   "dem": 2314,
+   "total": 17095
+  },
+  {
+   "fips": "01041",
+   "name": "Crenshaw County",
+   "slug": "crenshaw-county",
+   "bbox": [
+    -86.5039,
+    31.4401,
+    -86.144,
+    32.0517
+   ],
+   "units": 15,
+   "rep": 5000,
+   "dem": 1457,
+   "total": 6486
+  },
+  {
+   "fips": "01043",
+   "name": "Cullman County",
+   "slug": "cullman-county",
+   "bbox": [
+    -87.151,
+    33.858,
+    -86.4511,
+    34.3138
+   ],
+   "units": 47,
+   "rep": 37680,
+   "dem": 3962,
+   "total": 42031
+  },
+  {
+   "fips": "01045",
+   "name": "Dale County",
+   "slug": "dale-county",
+   "bbox": [
+    -85.7916,
+    31.1952,
+    -85.4153,
+    31.6206
+   ],
+   "units": 18,
+   "rep": 14476,
+   "dem": 4484,
+   "total": 19139
+  },
+  {
+   "fips": "01047",
+   "name": "Dallas County",
+   "slug": "dallas-county",
+   "bbox": [
+    -87.4731,
+    32.0472,
+    -86.8069,
+    32.7295
+   ],
+   "units": 29,
+   "rep": 5190,
+   "dem": 10236,
+   "total": 15547
+  },
+  {
+   "fips": "01049",
+   "name": "DeKalb County",
+   "slug": "dekalb-county",
+   "bbox": [
+    -86.1189,
+    34.1993,
+    -85.5136,
+    34.8604
+   ],
+   "units": 44,
+   "rep": 25633,
+   "dem": 3758,
+   "total": 29660
+  },
+  {
+   "fips": "01051",
+   "name": "Elmore County",
+   "slug": "elmore-county",
+   "bbox": [
+    -86.4133,
+    32.406,
+    -85.8526,
+    32.7692
+   ],
+   "units": 29,
+   "rep": 31374,
+   "dem": 9774,
+   "total": 41624
+  },
+  {
+   "fips": "01053",
+   "name": "Escambia County",
+   "slug": "escambia-county",
+   "bbox": [
+    -87.6161,
+    30.9945,
+    -86.6881,
+    31.262
+   ],
+   "units": 29,
+   "rep": 10884,
+   "dem": 3964,
+   "total": 14957
+  },
+  {
+   "fips": "01055",
+   "name": "Etowah County",
+   "slug": "etowah-county",
+   "bbox": [
+    -86.3701,
+    33.8416,
+    -85.7371,
+    34.2008
+   ],
+   "units": 31,
+   "rep": 35653,
+   "dem": 10027,
+   "total": 46137
+  },
+  {
+   "fips": "01057",
+   "name": "Fayette County",
+   "slug": "fayette-county",
+   "bbox": [
+    -87.9521,
+    33.5196,
+    -87.4237,
+    33.9199
+   ],
+   "units": 24,
+   "rep": 7158,
+   "dem": 1142,
+   "total": 8369
+  },
+  {
+   "fips": "01059",
+   "name": "Franklin County",
+   "slug": "franklin-county",
+   "bbox": [
+    -88.1736,
+    34.3046,
+    -87.5297,
+    34.5817
+   ],
+   "units": 24,
+   "rep": 10417,
+   "dem": 1568,
+   "total": 12097
+  },
+  {
+   "fips": "01061",
+   "name": "Geneva County",
+   "slug": "geneva-county",
+   "bbox": [
+    -86.1935,
+    30.9929,
+    -85.4853,
+    31.1999
+   ],
+   "units": 21,
+   "rep": 10929,
+   "dem": 1391,
+   "total": 12401
+  },
+  {
+   "fips": "01063",
+   "name": "Greene County",
+   "slug": "greene-county",
+   "bbox": [
+    -88.2075,
+    32.5177,
+    -87.7063,
+    33.1537
+   ],
+   "units": 14,
+   "rep": 885,
+   "dem": 3133,
+   "total": 4039
+  },
+  {
+   "fips": "01065",
+   "name": "Hale County",
+   "slug": "hale-county",
+   "bbox": [
+    -87.8705,
+    32.4807,
+    -87.4201,
+    33.0068
+   ],
+   "units": 14,
+   "rep": 3369,
+   "dem": 3868,
+   "total": 7305
+  },
+  {
+   "fips": "01067",
+   "name": "Henry County",
+   "slug": "henry-county",
+   "bbox": [
+    -85.418,
+    31.3077,
+    -85.0413,
+    31.7744
+   ],
+   "units": 14,
+   "rep": 6989,
+   "dem": 2263,
+   "total": 9320
+  },
+  {
+   "fips": "01069",
+   "name": "Houston County",
+   "slug": "houston-county",
+   "bbox": [
+    -85.7124,
+    30.9971,
+    -84.9994,
+    31.315
+   ],
+   "units": 27,
+   "rep": 32469,
+   "dem": 11352,
+   "total": 44349
+  },
+  {
+   "fips": "01071",
+   "name": "Jackson County",
+   "slug": "jackson-county",
+   "bbox": [
+    -86.359,
+    34.4645,
+    -85.5832,
+    34.9911
+   ],
+   "units": 30,
+   "rep": 20073,
+   "dem": 3276,
+   "total": 23556
+  },
+  {
+   "fips": "01073",
+   "name": "Jefferson County",
+   "slug": "jefferson-county",
+   "bbox": [
+    -87.3417,
+    33.246,
+    -86.5167,
+    33.8432
+   ],
+   "units": 175,
+   "rep": 131123,
+   "dem": 162112,
+   "total": 298704
+  },
+  {
+   "fips": "01075",
+   "name": "Lamar County",
+   "slug": "lamar-county",
+   "bbox": [
+    -88.2746,
+    33.524,
+    -87.9463,
+    34.0583
+   ],
+   "units": 25,
+   "rep": 6033,
+   "dem": 806,
+   "total": 6890
+  },
+  {
+   "fips": "01077",
+   "name": "Lauderdale County",
+   "slug": "lauderdale-county",
+   "bbox": [
+    -88.203,
+    34.7319,
+    -87.2108,
+    35.008
+   ],
+   "units": 31,
+   "rep": 32708,
+   "dem": 10326,
+   "total": 43637
+  },
+  {
+   "fips": "01079",
+   "name": "Lawrence County",
+   "slug": "lawrence-county",
+   "bbox": [
+    -87.531,
+    34.2991,
+    -87.1051,
+    34.805
+   ],
+   "units": 29,
+   "rep": 13024,
+   "dem": 2983,
+   "total": 16122
+  },
+  {
+   "fips": "01081",
+   "name": "Lee County",
+   "slug": "lee-county",
+   "bbox": [
+    -85.697,
+    32.4098,
+    -85.001,
+    32.7465
+   ],
+   "units": 25,
+   "rep": 46020,
+   "dem": 25798,
+   "total": 73127
+  },
+  {
+   "fips": "01083",
+   "name": "Limestone County",
+   "slug": "limestone-county",
+   "bbox": [
+    -87.2786,
+    34.5508,
+    -86.7836,
+    34.999
+   ],
+   "units": 25,
+   "rep": 37887,
+   "dem": 14581,
+   "total": 53332
+  },
+  {
+   "fips": "01085",
+   "name": "Lowndes County",
+   "slug": "lowndes-county",
+   "bbox": [
+    -86.9086,
+    31.9616,
+    -86.3964,
+    32.4067
+   ],
+   "units": 12,
+   "rep": 1758,
+   "dem": 3867,
+   "total": 5655
+  },
+  {
+   "fips": "01087",
+   "name": "Macon County",
+   "slug": "macon-county",
+   "bbox": [
+    -86.0232,
+    32.232,
+    -85.4335,
+    32.5959
+   ],
+   "units": 14,
+   "rep": 1682,
+   "dem": 6084,
+   "total": 7834
+  },
+  {
+   "fips": "01089",
+   "name": "Madison County",
+   "slug": "madison-county",
+   "bbox": [
+    -86.79,
+    34.4756,
+    -86.2558,
+    34.9923
+   ],
+   "units": 79,
+   "rep": 105430,
+   "dem": 87824,
+   "total": 197617
+  },
+  {
+   "fips": "01091",
+   "name": "Marengo County",
+   "slug": "marengo-county",
+   "bbox": [
+    -88.1183,
+    31.9899,
+    -87.4722,
+    32.5473
+   ],
+   "units": 18,
+   "rep": 4995,
+   "dem": 4631,
+   "total": 9682
+  },
+  {
+   "fips": "01093",
+   "name": "Marion County",
+   "slug": "marion-county",
+   "bbox": [
+    -88.2072,
+    33.9147,
+    -87.6343,
+    34.321
+   ],
+   "units": 15,
+   "rep": 12245,
+   "dem": 1197,
+   "total": 13543
+  },
+  {
+   "fips": "01095",
+   "name": "Marshall County",
+   "slug": "marshall-county",
+   "bbox": [
+    -86.5819,
+    34.0991,
+    -86.0577,
+    34.6001
+   ],
+   "units": 29,
+   "rep": 34434,
+   "dem": 5553,
+   "total": 40388
+  },
+  {
+   "fips": "01097",
+   "name": "Mobile County",
+   "slug": "mobile-county",
+   "bbox": [
+    -88.432,
+    30.1444,
+    -87.924,
+    31.1733
+   ],
+   "units": 80,
+   "rep": 100759,
+   "dem": 72055,
+   "total": 175164
+  },
+  {
+   "fips": "01099",
+   "name": "Monroe County",
+   "slug": "monroe-county",
+   "bbox": [
+    -87.7848,
+    31.2273,
+    -86.9059,
+    31.8318
+   ],
+   "units": 27,
+   "rep": 6007,
+   "dem": 3740,
+   "total": 9815
+  },
+  {
+   "fips": "01101",
+   "name": "Montgomery County",
+   "slug": "montgomery-county",
+   "bbox": [
+    -86.4985,
+    31.9651,
+    -85.9186,
+    32.5017
+   ],
+   "units": 51,
+   "rep": 30477,
+   "dem": 57946,
+   "total": 89798
+  },
+  {
+   "fips": "01103",
+   "name": "Morgan County",
+   "slug": "morgan-county",
+   "bbox": [
+    -87.1101,
+    34.3047,
+    -86.5514,
+    34.686
+   ],
+   "units": 39,
+   "rep": 40449,
+   "dem": 12392,
+   "total": 53543
+  },
+  {
+   "fips": "01105",
+   "name": "Perry County",
+   "slug": "perry-county",
+   "bbox": [
+    -87.5257,
+    32.3073,
+    -87.0177,
+    32.8751
+   ],
+   "units": 12,
+   "rep": 1269,
+   "dem": 3174,
+   "total": 4465
+  },
+  {
+   "fips": "01107",
+   "name": "Pickens County",
+   "slug": "pickens-county",
+   "bbox": [
+    -88.3404,
+    32.9912,
+    -87.8366,
+    33.534
+   ],
+   "units": 19,
+   "rep": 5465,
+   "dem": 3388,
+   "total": 8912
+  },
+  {
+   "fips": "01109",
+   "name": "Pike County",
+   "slug": "pike-county",
+   "bbox": [
+    -86.1994,
+    31.6164,
+    -85.6577,
+    32.0619
+   ],
+   "units": 34,
+   "rep": 8224,
+   "dem": 4899,
+   "total": 13234
+  },
+  {
+   "fips": "01111",
+   "name": "Randolph County",
+   "slug": "randolph-county",
+   "bbox": [
+    -85.6539,
+    33.1066,
+    -85.2324,
+    33.5014
+   ],
+   "units": 20,
+   "rep": 9102,
+   "dem": 1920,
+   "total": 11091
+  },
+  {
+   "fips": "01113",
+   "name": "Russell County",
+   "slug": "russell-county",
+   "bbox": [
+    -85.4347,
+    32.0617,
+    -84.8882,
+    32.5102
+   ],
+   "units": 18,
+   "rep": 10078,
+   "dem": 10422,
+   "total": 20718
+  },
+  {
+   "fips": "01115",
+   "name": "St. Clair County",
+   "slug": "st-clair-county",
+   "bbox": [
+    -86.5778,
+    33.391,
+    -86.0439,
+    33.9894
+   ],
+   "units": 30,
+   "rep": 35501,
+   "dem": 7640,
+   "total": 43526
+  },
+  {
+   "fips": "01117",
+   "name": "Shelby County",
+   "slug": "shelby-county",
+   "bbox": [
+    -87.0268,
+    33.0187,
+    -86.3409,
+    33.5462
+   ],
+   "units": 38,
+   "rep": 79666,
+   "dem": 33087,
+   "total": 114698
+  },
+  {
+   "fips": "01119",
+   "name": "Sumter County",
+   "slug": "sumter-county",
+   "bbox": [
+    -88.4214,
+    32.3074,
+    -87.8409,
+    32.9959
+   ],
+   "units": 13,
+   "rep": 1542,
+   "dem": 3725,
+   "total": 5307
+  },
+  {
+   "fips": "01121",
+   "name": "Talladega County",
+   "slug": "talladega-county",
+   "bbox": [
+    -86.5036,
+    33.1029,
+    -85.7946,
+    33.6995
+   ],
+   "units": 26,
+   "rep": 22100,
+   "dem": 10898,
+   "total": 33250
+  },
+  {
+   "fips": "01123",
+   "name": "Tallapoosa County",
+   "slug": "tallapoosa-county",
+   "bbox": [
+    -86.0139,
+    32.493,
+    -85.593,
+    33.1073
+   ],
+   "units": 26,
+   "rep": 14884,
+   "dem": 4975,
+   "total": 20023
+  },
+  {
+   "fips": "01125",
+   "name": "Tuscaloosa County",
+   "slug": "tuscaloosa-county",
+   "bbox": [
+    -87.8407,
+    33.0034,
+    -87.0657,
+    33.6098
+   ],
+   "units": 54,
+   "rep": 50724,
+   "dem": 33399,
+   "total": 85256
+  },
+  {
+   "fips": "01127",
+   "name": "Walker County",
+   "slug": "walker-county",
+   "bbox": [
+    -87.6361,
+    33.5129,
+    -86.9536,
+    34.0053
+   ],
+   "units": 45,
+   "rep": 25464,
+   "dem": 4102,
+   "total": 29786
+  },
+  {
+   "fips": "01129",
+   "name": "Washington County",
+   "slug": "washington-county",
+   "bbox": [
+    -88.4644,
+    31.1141,
+    -87.8873,
+    31.6993
+   ],
+   "units": 19,
+   "rep": 6534,
+   "dem": 1863,
+   "total": 8441
+  },
+  {
+   "fips": "01131",
+   "name": "Wilcox County",
+   "slug": "wilcox-county",
+   "bbox": [
+    -87.668,
+    31.8271,
+    -86.8566,
+    32.269
+   ],
+   "units": 20,
+   "rep": 1793,
+   "dem": 3449,
+   "total": 5263
+  },
+  {
+   "fips": "01133",
+   "name": "Winston County",
+   "slug": "winston-county",
+   "bbox": [
+    -87.6366,
+    33.9849,
+    -87.1099,
+    34.307
+   ],
+   "units": 18,
+   "rep": 10191,
+   "dem": 884,
+   "total": 11149
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 67,
+ "missing_counties": [],
+ "coverage_note": null
+}

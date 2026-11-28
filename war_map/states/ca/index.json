@@ -1,0 +1,897 @@
+{
+ "state": "CA",
+ "name": "California",
+ "fips": "06",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/CA-precincts-with-results.geojson.gz",
+ "bbox": [
+  -124.4095,
+  32.5343,
+  -114.1312,
+  42.0095
+ ],
+ "totals": {
+  "rep": 6075808,
+  "dem": 9267771,
+  "total": 15849905,
+  "units": 18539
+ },
+ "counties": [
+  {
+   "fips": "06001",
+   "name": "Alameda County",
+   "slug": "alameda-county",
+   "bbox": [
+    -122.3436,
+    37.4543,
+    -121.5581,
+    37.9058
+   ],
+   "units": 391,
+   "rep": 139468,
+   "dem": 494467,
+   "total": 663309
+  },
+  {
+   "fips": "06003",
+   "name": "Alpine County",
+   "slug": "alpine-county",
+   "bbox": [
+    -120.0733,
+    38.3269,
+    -119.5424,
+    38.9333
+   ],
+   "units": 5,
+   "rep": 243,
+   "dem": 479,
+   "total": 738
+  },
+  {
+   "fips": "06005",
+   "name": "Amador County",
+   "slug": "amador-county",
+   "bbox": [
+    -121.0277,
+    38.218,
+    -120.0724,
+    38.709
+   ],
+   "units": 47,
+   "rep": 14018,
+   "dem": 7783,
+   "total": 22402
+  },
+  {
+   "fips": "06007",
+   "name": "Butte County",
+   "slug": "butte-county",
+   "bbox": [
+    -122.0692,
+    39.2957,
+    -121.077,
+    40.1519
+   ],
+   "units": 130,
+   "rep": 46691,
+   "dem": 44013,
+   "total": 93836
+  },
+  {
+   "fips": "06009",
+   "name": "Calaveras County",
+   "slug": "calaveras-county",
+   "bbox": [
+    -120.9955,
+    37.8319,
+    -120.02,
+    38.5099
+   ],
+   "units": 25,
+   "rep": 16625,
+   "dem": 9181,
+   "total": 26479
+  },
+  {
+   "fips": "06011",
+   "name": "Colusa County",
+   "slug": "colusa-county",
+   "bbox": [
+    -122.7851,
+    38.9238,
+    -121.7954,
+    39.4146
+   ],
+   "units": 19,
+   "rep": 4414,
+   "dem": 2431,
+   "total": 7021
+  },
+  {
+   "fips": "06013",
+   "name": "Contra Costa County",
+   "slug": "contra-costa-county",
+   "bbox": [
+    -122.4357,
+    37.7211,
+    -121.5564,
+    38.061
+   ],
+   "units": 674,
+   "rep": 155055,
+   "dem": 355729,
+   "total": 528435
+  },
+  {
+   "fips": "06015",
+   "name": "Del Norte County",
+   "slug": "del-norte-county",
+   "bbox": [
+    -124.2558,
+    41.3808,
+    -123.5179,
+    42.0007
+   ],
+   "units": 18,
+   "rep": 5991,
+   "dem": 4266,
+   "total": 10556
+  },
+  {
+   "fips": "06017",
+   "name": "El Dorado County",
+   "slug": "el-dorado-county",
+   "bbox": [
+    -121.1408,
+    38.5024,
+    -119.8773,
+    39.0674
+   ],
+   "units": 143,
+   "rep": 61086,
+   "dem": 47697,
+   "total": 111860
+  },
+  {
+   "fips": "06019",
+   "name": "Fresno County",
+   "slug": "fresno-county",
+   "bbox": [
+    -120.9187,
+    35.9083,
+    -118.3608,
+    37.5858
+   ],
+   "units": 376,
+   "rep": 165776,
+   "dem": 151567,
+   "total": 325893
+  },
+  {
+   "fips": "06021",
+   "name": "Glenn County",
+   "slug": "glenn-county",
+   "bbox": [
+    -122.9384,
+    39.383,
+    -121.8564,
+    39.8006
+   ],
+   "units": 82,
+   "rep": 6861,
+   "dem": 3246,
+   "total": 10384
+  },
+  {
+   "fips": "06023",
+   "name": "Humboldt County",
+   "slug": "humboldt-county",
+   "bbox": [
+    -124.4095,
+    40.0013,
+    -123.406,
+    41.4659
+   ],
+   "units": 90,
+   "rep": 21553,
+   "dem": 39787,
+   "total": 64209
+  },
+  {
+   "fips": "06025",
+   "name": "Imperial County",
+   "slug": "imperial-county",
+   "bbox": [
+    -116.1063,
+    32.6185,
+    -114.4629,
+    33.4338
+   ],
+   "units": 134,
+   "rep": 26446,
+   "dem": 26011,
+   "total": 53849
+  },
+  {
+   "fips": "06027",
+   "name": "Inyo County",
+   "slug": "inyo-county",
+   "bbox": [
+    -118.79,
+    35.7866,
+    -115.6484,
+    37.4652
+   ],
+   "units": 15,
+   "rep": 4456,
+   "dem": 4200,
+   "total": 8938
+  },
+  {
+   "fips": "06029",
+   "name": "Kern County",
+   "slug": "kern-county",
+   "bbox": [
+    -120.1944,
+    34.7887,
+    -117.6165,
+    35.7984
+   ],
+   "units": 602,
+   "rep": 167694,
+   "dem": 108179,
+   "total": 283071
+  },
+  {
+   "fips": "06031",
+   "name": "Kings County",
+   "slug": "kings-county",
+   "bbox": [
+    -120.1659,
+    35.7886,
+    -119.4744,
+    36.4889
+   ],
+   "units": 100,
+   "rep": 24886,
+   "dem": 15369,
+   "total": 41151
+  },
+  {
+   "fips": "06033",
+   "name": "Lake County",
+   "slug": "lake-county",
+   "bbox": [
+    -123.0942,
+    38.6708,
+    -122.3402,
+    39.5814
+   ],
+   "units": 46,
+   "rep": 13154,
+   "dem": 12791,
+   "total": 26749
+  },
+  {
+   "fips": "06035",
+   "name": "Lassen County",
+   "slug": "lassen-county",
+   "bbox": [
+    -121.3323,
+    39.7077,
+    -119.9956,
+    41.1845
+   ],
+   "units": 48,
+   "rep": 8614,
+   "dem": 2478,
+   "total": 11366
+  },
+  {
+   "fips": "06037",
+   "name": "Los Angeles County",
+   "slug": "los-angeles-county",
+   "bbox": [
+    -118.9447,
+    33.2991,
+    -117.6464,
+    34.8233
+   ],
+   "units": 2626,
+   "rep": 1189862,
+   "dem": 2417109,
+   "total": 3728427
+  },
+  {
+   "fips": "06039",
+   "name": "Madera County",
+   "slug": "madera-county",
+   "bbox": [
+    -120.5449,
+    36.763,
+    -119.0231,
+    37.778
+   ],
+   "units": 62,
+   "rep": 32332,
+   "dem": 20965,
+   "total": 54604
+  },
+  {
+   "fips": "06041",
+   "name": "Marin County",
+   "slug": "marin-county",
+   "bbox": [
+    -123.0242,
+    37.8151,
+    -122.3525,
+    38.321
+   ],
+   "units": 115,
+   "rep": 24038,
+   "dem": 116127,
+   "total": 144071
+  },
+  {
+   "fips": "06043",
+   "name": "Mariposa County",
+   "slug": "mariposa-county",
+   "bbox": [
+    -120.3954,
+    37.1831,
+    -119.3073,
+    37.9041
+   ],
+   "units": 26,
+   "rep": 5625,
+   "dem": 3622,
+   "total": 9509
+  },
+  {
+   "fips": "06045",
+   "name": "Mendocino County",
+   "slug": "mendocino-county",
+   "bbox": [
+    -124.018,
+    38.7588,
+    -122.8214,
+    40.0021
+   ],
+   "units": 165,
+   "rep": 13472,
+   "dem": 23956,
+   "total": 39057
+  },
+  {
+   "fips": "06047",
+   "name": "Merced County",
+   "slug": "merced-county",
+   "bbox": [
+    -121.2473,
+    36.7406,
+    -120.0525,
+    37.6333
+   ],
+   "units": 577,
+   "rep": 43955,
+   "dem": 40190,
+   "total": 86684
+  },
+  {
+   "fips": "06049",
+   "name": "Modoc County",
+   "slug": "modoc-county",
+   "bbox": [
+    -121.4572,
+    41.1835,
+    -119.9983,
+    41.9975
+   ],
+   "units": 21,
+   "rep": 2884,
+   "dem": 1008,
+   "total": 4016
+  },
+  {
+   "fips": "06051",
+   "name": "Mono County",
+   "slug": "mono-county",
+   "bbox": [
+    -119.6515,
+    37.4626,
+    -117.8327,
+    38.7132
+   ],
+   "units": 12,
+   "rep": 2294,
+   "dem": 3522,
+   "total": 6064
+  },
+  {
+   "fips": "06053",
+   "name": "Monterey County",
+   "slug": "monterey-county",
+   "bbox": [
+    -121.9787,
+    35.7892,
+    -120.2144,
+    36.919
+   ],
+   "units": 199,
+   "rep": 49193,
+   "dem": 93039,
+   "total": 146700
+  },
+  {
+   "fips": "06055",
+   "name": "Napa County",
+   "slug": "napa-county",
+   "bbox": [
+    -122.6464,
+    38.1549,
+    -122.0614,
+    38.864
+   ],
+   "units": 193,
+   "rep": 20336,
+   "dem": 43185,
+   "total": 65497
+  },
+  {
+   "fips": "06057",
+   "name": "Nevada County",
+   "slug": "nevada-county",
+   "bbox": [
+    -121.2798,
+    39.0052,
+    -120.0038,
+    39.5268
+   ],
+   "units": 95,
+   "rep": 26174,
+   "dem": 33780,
+   "total": 62125
+  },
+  {
+   "fips": "06059",
+   "name": "Orange County",
+   "slug": "orange-county",
+   "bbox": [
+    -118.1198,
+    33.3869,
+    -117.413,
+    33.9476
+   ],
+   "units": 1615,
+   "rep": 654811,
+   "dem": 691728,
+   "total": 1391299
+  },
+  {
+   "fips": "06061",
+   "name": "Placer County",
+   "slug": "placer-county",
+   "bbox": [
+    -121.4844,
+    38.7132,
+    -120.0057,
+    39.3164
+   ],
+   "units": 252,
+   "rep": 123831,
+   "dem": 103918,
+   "total": 234657
+  },
+  {
+   "fips": "06063",
+   "name": "Plumas County",
+   "slug": "plumas-county",
+   "bbox": [
+    -121.4979,
+    39.5973,
+    -120.0993,
+    40.4497
+   ],
+   "units": 28,
+   "rep": 5725,
+   "dem": 4020,
+   "total": 10067
+  },
+  {
+   "fips": "06065",
+   "name": "Riverside County",
+   "slug": "riverside-county",
+   "bbox": [
+    -117.6731,
+    33.4261,
+    -114.435,
+    34.0798
+   ],
+   "units": 919,
+   "rep": 463315,
+   "dem": 451591,
+   "total": 939843
+  },
+  {
+   "fips": "06067",
+   "name": "Sacramento County",
+   "slug": "sacramento-county",
+   "bbox": [
+    -121.8625,
+    38.0184,
+    -121.0271,
+    38.736
+   ],
+   "units": 658,
+   "rep": 252140,
+   "dem": 381564,
+   "total": 656747
+  },
+  {
+   "fips": "06069",
+   "name": "San Benito County",
+   "slug": "san-benito-county",
+   "bbox": [
+    -121.644,
+    36.1968,
+    -120.5966,
+    36.9889
+   ],
+   "units": 41,
+   "rep": 11702,
+   "dem": 15179,
+   "total": 27649
+  },
+  {
+   "fips": "06071",
+   "name": "San Bernardino County",
+   "slug": "san-bernardino-county",
+   "bbox": [
+    -117.7937,
+    33.8709,
+    -114.1312,
+    35.8091
+   ],
+   "units": 1509,
+   "rep": 377573,
+   "dem": 361621,
+   "total": 760597
+  },
+  {
+   "fips": "06073",
+   "name": "San Diego County",
+   "slug": "san-diego-county",
+   "bbox": [
+    -117.5962,
+    32.5343,
+    -116.0809,
+    33.505
+   ],
+   "units": 1746,
+   "rep": 593168,
+   "dem": 841248,
+   "total": 1477795
+  },
+  {
+   "fips": "06075",
+   "name": "San Francisco County",
+   "slug": "san-francisco-county",
+   "bbox": [
+    -122.5149,
+    37.7079,
+    -122.357,
+    37.8323
+   ],
+   "units": 510,
+   "rep": 62594,
+   "dem": 323719,
+   "total": 402997
+  },
+  {
+   "fips": "06077",
+   "name": "San Joaquin County",
+   "slug": "san-joaquin-county",
+   "bbox": [
+    -121.5851,
+    37.4818,
+    -120.917,
+    38.3002
+   ],
+   "units": 232,
+   "rep": 128947,
+   "dem": 126623,
+   "total": 263596
+  },
+  {
+   "fips": "06079",
+   "name": "San Luis Obispo County",
+   "slug": "san-luis-obispo-county",
+   "bbox": [
+    -121.4382,
+    34.9038,
+    -119.5538,
+    35.7966
+   ],
+   "units": 137,
+   "rep": 64913,
+   "dem": 81303,
+   "total": 150736
+  },
+  {
+   "fips": "06081",
+   "name": "San Mateo County",
+   "slug": "san-mateo-county",
+   "bbox": [
+    -122.5211,
+    37.1068,
+    -122.0815,
+    37.7086
+   ],
+   "units": 295,
+   "rep": 76616,
+   "dem": 242957,
+   "total": 330565
+  },
+  {
+   "fips": "06083",
+   "name": "Santa Barbara County",
+   "slug": "santa-barbara-county",
+   "bbox": [
+    -120.6715,
+    34.373,
+    -119.4404,
+    35.1142
+   ],
+   "units": 237,
+   "rep": 64839,
+   "dem": 114111,
+   "total": 184641
+  },
+  {
+   "fips": "06085",
+   "name": "Santa Clara County",
+   "slug": "santa-clara-county",
+   "bbox": [
+    -122.2026,
+    36.893,
+    -121.2082,
+    37.4845
+   ],
+   "units": 724,
+   "rep": 210919,
+   "dem": 510730,
+   "total": 750587
+  },
+  {
+   "fips": "06087",
+   "name": "Santa Cruz County",
+   "slug": "santa-cruz-county",
+   "bbox": [
+    -122.3177,
+    36.8507,
+    -121.5811,
+    37.286
+   ],
+   "units": 153,
+   "rep": 27955,
+   "dem": 100933,
+   "total": 134043
+  },
+  {
+   "fips": "06089",
+   "name": "Shasta County",
+   "slug": "shasta-county",
+   "bbox": [
+    -123.0688,
+    40.2854,
+    -121.32,
+    41.185
+   ],
+   "units": 66,
+   "rep": 59533,
+   "dem": 27130,
+   "total": 88894
+  },
+  {
+   "fips": "06091",
+   "name": "Sierra County",
+   "slug": "sierra-county",
+   "bbox": [
+    -121.0582,
+    39.3916,
+    -120.0008,
+    39.7769
+   ],
+   "units": 19,
+   "rep": 1066,
+   "dem": 641,
+   "total": 1754
+  },
+  {
+   "fips": "06093",
+   "name": "Siskiyou County",
+   "slug": "siskiyou-county",
+   "bbox": [
+    -123.7192,
+    40.9922,
+    -121.446,
+    42.0095
+   ],
+   "units": 54,
+   "rep": 12461,
+   "dem": 8329,
+   "total": 21489
+  },
+  {
+   "fips": "06095",
+   "name": "Solano County",
+   "slug": "solano-county",
+   "bbox": [
+    -122.3867,
+    38.0317,
+    -121.5933,
+    38.539
+   ],
+   "units": 203,
+   "rep": 70270,
+   "dem": 113953,
+   "total": 189711
+  },
+  {
+   "fips": "06097",
+   "name": "Sonoma County",
+   "slug": "sonoma-county",
+   "bbox": [
+    -123.5337,
+    38.1108,
+    -122.3497,
+    38.8527
+   ],
+   "units": 415,
+   "rep": 63341,
+   "dem": 179491,
+   "total": 251267
+  },
+  {
+   "fips": "06099",
+   "name": "Stanislaus County",
+   "slug": "stanislaus-county",
+   "bbox": [
+    -121.4868,
+    37.2459,
+    -120.3873,
+    38.0774
+   ],
+   "units": 250,
+   "rep": 106071,
+   "dem": 84625,
+   "total": 195784
+  },
+  {
+   "fips": "06101",
+   "name": "Sutter County",
+   "slug": "sutter-county",
+   "bbox": [
+    -121.9483,
+    38.7346,
+    -121.4144,
+    39.3057
+   ],
+   "units": 24,
+   "rep": 25372,
+   "dem": 13016,
+   "total": 39336
+  },
+  {
+   "fips": "06103",
+   "name": "Tehama County",
+   "slug": "tehama-county",
+   "bbox": [
+    -123.066,
+    39.7974,
+    -121.3423,
+    40.4531
+   ],
+   "units": 37,
+   "rep": 18503,
+   "dem": 7415,
+   "total": 26532
+  },
+  {
+   "fips": "06105",
+   "name": "Trinity County",
+   "slug": "trinity-county",
+   "bbox": [
+    -123.6238,
+    39.977,
+    -122.4454,
+    41.3681
+   ],
+   "units": 9,
+   "rep": 2979,
+   "dem": 2449,
+   "total": 5645
+  },
+  {
+   "fips": "06107",
+   "name": "Tulare County",
+   "slug": "tulare-county",
+   "bbox": [
+    -119.573,
+    35.7894,
+    -117.9808,
+    36.7448
+   ],
+   "units": 305,
+   "rep": 81850,
+   "dem": 53218,
+   "total": 138340
+  },
+  {
+   "fips": "06109",
+   "name": "Tuolumne County",
+   "slug": "tuolumne-county",
+   "bbox": [
+    -120.6532,
+    37.6338,
+    -119.1962,
+    38.4335
+   ],
+   "units": 41,
+   "rep": 17210,
+   "dem": 10909,
+   "total": 28810
+  },
+  {
+   "fips": "06111",
+   "name": "Ventura County",
+   "slug": "ventura-county",
+   "bbox": [
+    -119.4783,
+    34.0453,
+    -118.6325,
+    34.9012
+   ],
+   "units": 940,
+   "rep": 158573,
+   "dem": 217043,
+   "total": 386865
+  },
+  {
+   "fips": "06113",
+   "name": "Yolo County",
+   "slug": "yolo-county",
+   "bbox": [
+    -122.422,
+    38.313,
+    -121.501,
+    38.9259
+   ],
+   "units": 51,
+   "rep": 27844,
+   "dem": 61405,
+   "total": 92589
+  },
+  {
+   "fips": "06115",
+   "name": "Yuba County",
+   "slug": "yuba-county",
+   "bbox": [
+    -121.6363,
+    38.9185,
+    -121.0096,
+    39.6394
+   ],
+   "units": 33,
+   "rep": 18491,
+   "dem": 10725,
+   "total": 30070
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 58,
+ "missing_counties": [],
+ "coverage_note": null
+}

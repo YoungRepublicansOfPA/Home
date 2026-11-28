@@ -1,0 +1,462 @@
+{
+ "state": "UT",
+ "name": "Utah",
+ "fips": "49",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/UT-precincts-with-results.geojson.gz",
+ "bbox": [
+  -114.0524,
+  36.9977,
+  -109.0416,
+  42.0017
+ ],
+ "totals": {
+  "rep": 882981,
+  "dem": 561830,
+  "total": 1487285,
+  "units": 2678
+ },
+ "counties": [
+  {
+   "fips": "49001",
+   "name": "Beaver County",
+   "slug": "beaver-county",
+   "bbox": [
+    -114.0505,
+    38.1473,
+    -112.3354,
+    38.5742
+   ],
+   "units": 9,
+   "rep": 2781,
+   "dem": 394,
+   "total": 3212
+  },
+  {
+   "fips": "49003",
+   "name": "Box Elder County",
+   "slug": "box-elder-county",
+   "bbox": [
+    -114.042,
+    40.9999,
+    -111.8732,
+    42.0012
+   ],
+   "units": 51,
+   "rep": 22853,
+   "dem": 5274,
+   "total": 29332
+  },
+  {
+   "fips": "49005",
+   "name": "Cache County",
+   "slug": "cache-county",
+   "bbox": [
+    -112.1661,
+    41.3688,
+    -111.4016,
+    41.9992
+   ],
+   "units": 108,
+   "rep": 39370,
+   "dem": 18690,
+   "total": 60142
+  },
+  {
+   "fips": "49007",
+   "name": "Carbon County",
+   "slug": "carbon-county",
+   "bbox": [
+    -111.2475,
+    39.4675,
+    -109.8739,
+    39.8141
+   ],
+   "units": 20,
+   "rep": 6715,
+   "dem": 2522,
+   "total": 9438
+  },
+  {
+   "fips": "49009",
+   "name": "Daggett County",
+   "slug": "daggett-county",
+   "bbox": [
+    -110.0007,
+    40.7404,
+    -109.0497,
+    41.0021
+   ],
+   "units": 2,
+   "rep": 440,
+   "dem": 100,
+   "total": 546
+  },
+  {
+   "fips": "49011",
+   "name": "Davis County",
+   "slug": "davis-county",
+   "bbox": [
+    -112.1561,
+    40.8199,
+    -111.8154,
+    41.1528
+   ],
+   "units": 367,
+   "rep": 101186,
+   "dem": 59859,
+   "total": 166426
+  },
+  {
+   "fips": "49013",
+   "name": "Duchesne County",
+   "slug": "duchesne-county",
+   "bbox": [
+    -110.9029,
+    39.8062,
+    -109.9764,
+    40.8348
+   ],
+   "units": 50,
+   "rep": 7721,
+   "dem": 998,
+   "total": 8863
+  },
+  {
+   "fips": "49015",
+   "name": "Emery County",
+   "slug": "emery-county",
+   "bbox": [
+    -111.3012,
+    38.7892,
+    -110.004,
+    39.7043
+   ],
+   "units": 12,
+   "rep": 4341,
+   "dem": 603,
+   "total": 5011
+  },
+  {
+   "fips": "49017",
+   "name": "Garfield County",
+   "slug": "garfield-county",
+   "bbox": [
+    -112.6892,
+    37.5358,
+    -109.9272,
+    38.1524
+   ],
+   "units": 11,
+   "rep": 2209,
+   "dem": 541,
+   "total": 2809
+  },
+  {
+   "fips": "49019",
+   "name": "Grand County",
+   "slug": "grand-county",
+   "bbox": [
+    -110.1793,
+    38.4999,
+    -109.0507,
+    39.4999
+   ],
+   "units": 20,
+   "rep": 2324,
+   "dem": 2828,
+   "total": 5297
+  },
+  {
+   "fips": "49021",
+   "name": "Iron County",
+   "slug": "iron-county",
+   "bbox": [
+    -114.0524,
+    37.4743,
+    -112.467,
+    38.1488
+   ],
+   "units": 49,
+   "rep": 21568,
+   "dem": 5675,
+   "total": 27867
+  },
+  {
+   "fips": "49023",
+   "name": "Juab County",
+   "slug": "juab-county",
+   "bbox": [
+    -114.0477,
+    39.3145,
+    -111.5848,
+    40.0117
+   ],
+   "units": 23,
+   "rep": 5667,
+   "dem": 733,
+   "total": 6513
+  },
+  {
+   "fips": "49025",
+   "name": "Kane County",
+   "slug": "kane-county",
+   "bbox": [
+    -112.9013,
+    37.0004,
+    -110.8676,
+    37.5437
+   ],
+   "units": 10,
+   "rep": 3270,
+   "dem": 1134,
+   "total": 4478
+  },
+  {
+   "fips": "49027",
+   "name": "Millard County",
+   "slug": "millard-county",
+   "bbox": [
+    -114.05,
+    38.5714,
+    -112.014,
+    39.554
+   ],
+   "units": 17,
+   "rep": 5558,
+   "dem": 713,
+   "total": 6387
+  },
+  {
+   "fips": "49029",
+   "name": "Morgan County",
+   "slug": "morgan-county",
+   "bbox": [
+    -111.8572,
+    40.78,
+    -111.2214,
+    41.374
+   ],
+   "units": 21,
+   "rep": 5290,
+   "dem": 1252,
+   "total": 6744
+  },
+  {
+   "fips": "49031",
+   "name": "Piute County",
+   "slug": "piute-county",
+   "bbox": [
+    -112.5195,
+    38.1457,
+    -111.7664,
+    38.5123
+   ],
+   "units": 5,
+   "rep": 854,
+   "dem": 94,
+   "total": 963
+  },
+  {
+   "fips": "49033",
+   "name": "Rich County",
+   "slug": "rich-county",
+   "bbox": [
+    -111.512,
+    41.141,
+    -111.0458,
+    42.0017
+   ],
+   "units": 10,
+   "rep": 1200,
+   "dem": 214,
+   "total": 1436
+  },
+  {
+   "fips": "49035",
+   "name": "Salt Lake County",
+   "slug": "salt-lake-county",
+   "bbox": [
+    -112.197,
+    40.4296,
+    -111.5532,
+    40.9218
+   ],
+   "units": 868,
+   "rep": 221398,
+   "dem": 273494,
+   "total": 509302
+  },
+  {
+   "fips": "49037",
+   "name": "San Juan County",
+   "slug": "san-juan-county",
+   "bbox": [
+    -111.4128,
+    36.9977,
+    -109.0416,
+    38.5
+   ],
+   "units": 20,
+   "rep": 3581,
+   "dem": 2567,
+   "total": 6282
+  },
+  {
+   "fips": "49039",
+   "name": "Sanpete County",
+   "slug": "sanpete-county",
+   "bbox": [
+    -112.0162,
+    39.0323,
+    -111.2471,
+    39.8132
+   ],
+   "units": 28,
+   "rep": 10653,
+   "dem": 1906,
+   "total": 12944
+  },
+  {
+   "fips": "49041",
+   "name": "Sevier County",
+   "slug": "sevier-county",
+   "bbox": [
+    -112.5226,
+    38.5018,
+    -111.2982,
+    39.0456
+   ],
+   "units": 23,
+   "rep": 9526,
+   "dem": 1236,
+   "total": 10926
+  },
+  {
+   "fips": "49043",
+   "name": "Summit County",
+   "slug": "summit-county",
+   "bbox": [
+    -111.6491,
+    40.5483,
+    -110.9754,
+    41.1832
+   ],
+   "units": 59,
+   "rep": 10751,
+   "dem": 14493,
+   "total": 25720
+  },
+  {
+   "fips": "49045",
+   "name": "Tooele County",
+   "slug": "tooele-county",
+   "bbox": [
+    -114.047,
+    39.9037,
+    -112.1444,
+    40.8228
+   ],
+   "units": 70,
+   "rep": 23451,
+   "dem": 9539,
+   "total": 33950
+  },
+  {
+   "fips": "49047",
+   "name": "Uintah County",
+   "slug": "uintah-county",
+   "bbox": [
+    -110.0482,
+    39.4618,
+    -109.0478,
+    40.8584
+   ],
+   "units": 29,
+   "rep": 13595,
+   "dem": 1947,
+   "total": 15823
+  },
+  {
+   "fips": "49049",
+   "name": "Utah County",
+   "slug": "utah-county",
+   "bbox": [
+    -112.1838,
+    39.7762,
+    -110.8577,
+    40.5357
+   ],
+   "units": 438,
+   "rep": 203310,
+   "dem": 84670,
+   "total": 297695
+  },
+  {
+   "fips": "49051",
+   "name": "Wasatch County",
+   "slug": "wasatch-county",
+   "bbox": [
+    -111.6209,
+    39.8997,
+    -110.8917,
+    40.691
+   ],
+   "units": 51,
+   "rep": 11493,
+   "dem": 6456,
+   "total": 18348
+  },
+  {
+   "fips": "49053",
+   "name": "Washington County",
+   "slug": "washington-county",
+   "bbox": [
+    -113.9203,
+    37.0,
+    -112.8991,
+    37.6049
+   ],
+   "units": 131,
+   "rep": 73128,
+   "dem": 22284,
+   "total": 97174
+  },
+  {
+   "fips": "49055",
+   "name": "Wayne County",
+   "slug": "wayne-county",
+   "bbox": [
+    -111.8488,
+    38.15,
+    -109.8851,
+    38.5102
+   ],
+   "units": 7,
+   "rep": 1236,
+   "dem": 381,
+   "total": 1649
+  },
+  {
+   "fips": "49057",
+   "name": "Weber County",
+   "slug": "weber-county",
+   "bbox": [
+    -112.4935,
+    41.0769,
+    -111.4204,
+    41.4289
+   ],
+   "units": 169,
+   "rep": 67512,
+   "dem": 41233,
+   "total": 112008
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 29,
+ "missing_counties": [],
+ "coverage_note": null
+}

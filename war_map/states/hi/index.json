@@ -1,0 +1,92 @@
+{
+ "state": "HI",
+ "name": "Hawaii",
+ "fips": "15",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/HI-precincts-with-results.geojson.gz",
+ "bbox": [
+  -160.2459,
+  18.9107,
+  -154.8066,
+  22.2327
+ ],
+ "totals": {
+  "rep": 193661,
+  "dem": 313044,
+  "total": 516701,
+  "units": 235
+ },
+ "counties": [
+  {
+   "fips": "15001",
+   "name": "Hawaii County",
+   "slug": "hawaii-county",
+   "bbox": [
+    -156.0617,
+    18.9107,
+    -154.8066,
+    20.2685
+   ],
+   "units": 33,
+   "rep": 28748,
+   "dem": 52163,
+   "total": 82823
+  },
+  {
+   "fips": "15003",
+   "name": "Honolulu County",
+   "slug": "honolulu-county",
+   "bbox": [
+    -158.2819,
+    21.2549,
+    -157.6486,
+    21.7128
+   ],
+   "units": 151,
+   "rep": 130489,
+   "dem": 204301,
+   "total": 340921
+  },
+  {
+   "fips": "15007",
+   "name": "Kauai County",
+   "slug": "kauai-county",
+   "bbox": [
+    -160.2459,
+    21.7792,
+    -159.2924,
+    22.2327
+   ],
+   "units": 16,
+   "rep": 11803,
+   "dem": 17675,
+   "total": 30064
+  },
+  {
+   "fips": "15009",
+   "name": "Maui County",
+   "slug": "maui-county",
+   "bbox": [
+    -157.3109,
+    20.5744,
+    -155.979,
+    21.2242
+   ],
+   "units": 35,
+   "rep": 22621,
+   "dem": 38905,
+   "total": 62893
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 5,
+ "missing_counties": [
+  {
+   "fips": "15005",
+   "name": "Kalawao County"
+  }
+ ],
+ "coverage_note": "The source has no usable mapped precinct results for 1 of 5 county areas. State vote totals shown here sum mapped units only."
+}

@@ -1,0 +1,522 @@
+{
+ "state": "NM",
+ "name": "New Mexico",
+ "fips": "35",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/NM-precincts-with-results.geojson.gz",
+ "bbox": [
+  -109.0504,
+  31.3322,
+  -103.002,
+  37.0002
+ ],
+ "totals": {
+  "rep": 423385,
+  "dem": 478801,
+  "total": 923396,
+  "units": 2165
+ },
+ "counties": [
+  {
+   "fips": "35001",
+   "name": "Bernalillo County",
+   "slug": "bernalillo-county",
+   "bbox": [
+    -107.1972,
+    34.8693,
+    -106.1497,
+    35.2195
+   ],
+   "units": 687,
+   "rep": 118762,
+   "dem": 184117,
+   "total": 310844
+  },
+  {
+   "fips": "35003",
+   "name": "Catron County",
+   "slug": "catron-county",
+   "bbox": [
+    -109.0476,
+    33.2009,
+    -107.7114,
+    34.5803
+   ],
+   "units": 9,
+   "rep": 1752,
+   "dem": 571,
+   "total": 2357
+  },
+  {
+   "fips": "35005",
+   "name": "Chaves County",
+   "slug": "chaves-county",
+   "bbox": [
+    -105.354,
+    32.5188,
+    -103.5098,
+    34.0887
+   ],
+   "units": 64,
+   "rep": 15890,
+   "dem": 5941,
+   "total": 22196
+  },
+  {
+   "fips": "35006",
+   "name": "Cibola County",
+   "slug": "cibola-county",
+   "bbox": [
+    -109.0461,
+    34.5778,
+    -107.0666,
+    35.3483
+   ],
+   "units": 30,
+   "rep": 4311,
+   "dem": 4450,
+   "total": 8977
+  },
+  {
+   "fips": "35007",
+   "name": "Colfax County",
+   "slug": "colfax-county",
+   "bbox": [
+    -105.3777,
+    36.2179,
+    -104.0075,
+    36.9961
+   ],
+   "units": 21,
+   "rep": 3252,
+   "dem": 2436,
+   "total": 5813
+  },
+  {
+   "fips": "35009",
+   "name": "Curry County",
+   "slug": "curry-county",
+   "bbox": [
+    -103.7401,
+    34.3026,
+    -103.0427,
+    34.9542
+   ],
+   "units": 43,
+   "rep": 10714,
+   "dem": 4230,
+   "total": 15223
+  },
+  {
+   "fips": "35011",
+   "name": "De Baca County",
+   "slug": "de-baca-county",
+   "bbox": [
+    -104.8934,
+    33.9954,
+    -103.9453,
+    34.7795
+   ],
+   "units": 4,
+   "rep": 649,
+   "dem": 206,
+   "total": 874
+  },
+  {
+   "fips": "35013",
+   "name": "Do\u00c3\u00b1a Ana County",
+   "slug": "do-a-ana-county",
+   "bbox": [
+    -107.2997,
+    31.7836,
+    -106.3405,
+    33.0528
+   ],
+   "units": 190,
+   "rep": 37594,
+   "dem": 45937,
+   "total": 85407
+  },
+  {
+   "fips": "35015",
+   "name": "Eddy County",
+   "slug": "eddy-county",
+   "bbox": [
+    -104.8517,
+    31.9975,
+    -103.7228,
+    32.9654
+   ],
+   "units": 54,
+   "rep": 18141,
+   "dem": 5032,
+   "total": 23472
+  },
+  {
+   "fips": "35017",
+   "name": "Grant County",
+   "slug": "grant-county",
+   "bbox": [
+    -109.0478,
+    31.8636,
+    -107.6085,
+    33.2093
+   ],
+   "units": 39,
+   "rep": 6580,
+   "dem": 7301,
+   "total": 14224
+  },
+  {
+   "fips": "35019",
+   "name": "Guadalupe County",
+   "slug": "guadalupe-county",
+   "bbox": [
+    -105.3131,
+    34.3471,
+    -104.1252,
+    35.2165
+   ],
+   "units": 5,
+   "rep": 945,
+   "dem": 959,
+   "total": 1938
+  },
+  {
+   "fips": "35021",
+   "name": "Harding County",
+   "slug": "harding-county",
+   "bbox": [
+    -104.4392,
+    35.3895,
+    -103.3649,
+    36.2187
+   ],
+   "units": 3,
+   "rep": 297,
+   "dem": 128,
+   "total": 431
+  },
+  {
+   "fips": "35023",
+   "name": "Hidalgo County",
+   "slug": "hidalgo-county",
+   "bbox": [
+    -109.0504,
+    31.3322,
+    -108.2085,
+    32.7778
+   ],
+   "units": 11,
+   "rep": 1140,
+   "dem": 705,
+   "total": 1862
+  },
+  {
+   "fips": "35025",
+   "name": "Lea County",
+   "slug": "lea-county",
+   "bbox": [
+    -103.8146,
+    32.0002,
+    -103.0526,
+    33.5706
+   ],
+   "units": 55,
+   "rep": 16997,
+   "dem": 3930,
+   "total": 21209
+  },
+  {
+   "fips": "35027",
+   "name": "Lincoln County",
+   "slug": "lincoln-county",
+   "bbox": [
+    -106.3738,
+    33.1317,
+    -104.8851,
+    34.3475
+   ],
+   "units": 29,
+   "rep": 6942,
+   "dem": 3033,
+   "total": 10165
+  },
+  {
+   "fips": "35028",
+   "name": "Los Alamos County",
+   "slug": "los-alamos-county",
+   "bbox": [
+    -106.4189,
+    35.7543,
+    -106.1719,
+    35.9734
+   ],
+   "units": 23,
+   "rep": 4047,
+   "dem": 7726,
+   "total": 12187
+  },
+  {
+   "fips": "35029",
+   "name": "Luna County",
+   "slug": "luna-county",
+   "bbox": [
+    -108.23,
+    31.7836,
+    -107.2964,
+    32.6055
+   ],
+   "units": 18,
+   "rep": 4698,
+   "dem": 3176,
+   "total": 8056
+  },
+  {
+   "fips": "35031",
+   "name": "McKinley County",
+   "slug": "mckinley-county",
+   "bbox": [
+    -109.0469,
+    34.9591,
+    -107.3061,
+    36.0028
+   ],
+   "units": 71,
+   "rep": 9364,
+   "dem": 15711,
+   "total": 25867
+  },
+  {
+   "fips": "35033",
+   "name": "Mora County",
+   "slug": "mora-county",
+   "bbox": [
+    -105.7205,
+    35.7542,
+    -104.3273,
+    36.2623
+   ],
+   "units": 11,
+   "rep": 1010,
+   "dem": 1439,
+   "total": 2487
+  },
+  {
+   "fips": "35035",
+   "name": "Otero County",
+   "slug": "otero-county",
+   "bbox": [
+    -106.3775,
+    32.0002,
+    -104.8477,
+    33.3907
+   ],
+   "units": 66,
+   "rep": 15117,
+   "dem": 8582,
+   "total": 24242
+  },
+  {
+   "fips": "35037",
+   "name": "Quay County",
+   "slug": "quay-county",
+   "bbox": [
+    -104.1295,
+    34.6047,
+    -103.0414,
+    35.7398
+   ],
+   "units": 12,
+   "rep": 2570,
+   "dem": 1055,
+   "total": 3704
+  },
+  {
+   "fips": "35039",
+   "name": "Rio Arriba County",
+   "slug": "rio-arriba-county",
+   "bbox": [
+    -107.6265,
+    35.9306,
+    -105.5301,
+    37.0002
+   ],
+   "units": 47,
+   "rep": 6266,
+   "dem": 9372,
+   "total": 15986
+  },
+  {
+   "fips": "35041",
+   "name": "Roosevelt County",
+   "slug": "roosevelt-county",
+   "bbox": [
+    -103.9492,
+    33.5701,
+    -103.0437,
+    34.605
+   ],
+   "units": 21,
+   "rep": 4687,
+   "dem": 1820,
+   "total": 6639
+  },
+  {
+   "fips": "35043",
+   "name": "Sandoval County",
+   "slug": "sandoval-county",
+   "bbox": [
+    -107.6265,
+    35.1978,
+    -106.2442,
+    36.2199
+   ],
+   "units": 156,
+   "rep": 36605,
+   "dem": 41205,
+   "total": 79540
+  },
+  {
+   "fips": "35045",
+   "name": "San Juan County",
+   "slug": "san-juan-county",
+   "bbox": [
+    -109.0462,
+    36.0003,
+    -107.4209,
+    37.0002
+   ],
+   "units": 103,
+   "rep": 34264,
+   "dem": 17464,
+   "total": 52926
+  },
+  {
+   "fips": "35047",
+   "name": "San Miguel County",
+   "slug": "san-miguel-county",
+   "bbox": [
+    -105.7222,
+    35.0416,
+    -103.637,
+    35.8712
+   ],
+   "units": 34,
+   "rep": 3887,
+   "dem": 6985,
+   "total": 11108
+  },
+  {
+   "fips": "35049",
+   "name": "Santa Fe County",
+   "slug": "santa-fe-county",
+   "bbox": [
+    -106.2505,
+    35.04,
+    -105.7144,
+    36.0023
+   ],
+   "units": 179,
+   "rep": 20457,
+   "dem": 61405,
+   "total": 83719
+  },
+  {
+   "fips": "35051",
+   "name": "Sierra County",
+   "slug": "sierra-county",
+   "bbox": [
+    -108.0006,
+    32.6053,
+    -106.3405,
+    33.4804
+   ],
+   "units": 12,
+   "rep": 3473,
+   "dem": 2332,
+   "total": 5953
+  },
+  {
+   "fips": "35053",
+   "name": "Socorro County",
+   "slug": "socorro-county",
+   "bbox": [
+    -107.7267,
+    33.4754,
+    -105.9247,
+    34.5806
+   ],
+   "units": 27,
+   "rep": 3651,
+   "dem": 3384,
+   "total": 7233
+  },
+  {
+   "fips": "35055",
+   "name": "Taos County",
+   "slug": "taos-county",
+   "bbox": [
+    -106.0584,
+    36.013,
+    -105.2001,
+    36.9959
+   ],
+   "units": 47,
+   "rep": 4139,
+   "dem": 12038,
+   "total": 16636
+  },
+  {
+   "fips": "35057",
+   "name": "Torrance County",
+   "slug": "torrance-county",
+   "bbox": [
+    -106.4712,
+    34.2598,
+    -105.2901,
+    35.042
+   ],
+   "units": 22,
+   "rep": 4880,
+   "dem": 2144,
+   "total": 7179
+  },
+  {
+   "fips": "35059",
+   "name": "Union County",
+   "slug": "union-county",
+   "bbox": [
+    -104.0093,
+    35.7394,
+    -103.002,
+    37.0002
+   ],
+   "units": 6,
+   "rep": 1247,
+   "dem": 378,
+   "total": 1665
+  },
+  {
+   "fips": "35061",
+   "name": "Valencia County",
+   "slug": "valencia-county",
+   "bbox": [
+    -107.2044,
+    34.4371,
+    -106.4116,
+    34.9576
+   ],
+   "units": 66,
+   "rep": 19057,
+   "dem": 13609,
+   "total": 33277
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 33,
+ "missing_counties": [],
+ "coverage_note": null
+}

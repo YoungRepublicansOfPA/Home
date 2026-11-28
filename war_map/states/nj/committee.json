@@ -8,12 +8,12 @@
   "seat_data_source": "County clerk primary results"
  },
  "totals": {
-  "seats": 5156,
-  "precincts": 2335,
-  "filled": 1777,
-  "empty": 818,
-  "empty_no_filer": 574,
-  "unknown": 1987
+  "seats": 8944,
+  "precincts": 4229,
+  "filled": 3135,
+  "empty": 1276,
+  "empty_no_filer": 1176,
+  "unknown": 3357
  },
  "notes": "Totals cover the counties listed in `counties` that have a seat list. Counties without one, or with only a partial list (coverage: partial), are not in the totals. Seat status follows war_map/committee/README.md.",
  "counties": [
@@ -90,6 +90,42 @@
    "coverage_note": null
   },
   {
+   "slug": "essex-county",
+   "name": "Essex County",
+   "method": "election_results",
+   "election": "June 4, 2024 Primary Election",
+   "as_of": "2024-06-17",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 575,
+    "seats": 1150,
+    "filled": 270,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 880
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "hudson-county",
+   "name": "Hudson County",
+   "method": "candidate_listing",
+   "election": "June 10, 2025 Primary Election",
+   "as_of": "2025-05-01",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 467,
+    "seats": 934,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 602,
+    "unknown": 332
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
    "slug": "mercer-county",
    "name": "Mercer County",
    "method": "election_results",
@@ -142,8 +178,44 @@
    },
    "coverage": "full",
    "coverage_note": null
+  },
+  {
+   "slug": "ocean-county",
+   "name": "Ocean County",
+   "method": "roster",
+   "election": "June 2, 2026 Primary Election (2026-2030 committee term)",
+   "as_of": "2026-10-02",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 418,
+    "seats": 836,
+    "filled": 661,
+    "empty": 175,
+    "empty_no_filer": 0,
+    "unknown": 0
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "union-county",
+   "name": "Union County",
+   "method": "election_results",
+   "election": "June 2, 2026 Primary Election",
+   "as_of": "2026-11-27",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 434,
+    "seats": 868,
+    "filled": 427,
+    "empty": 283,
+    "empty_no_filer": 0,
+    "unknown": 158
+   },
+   "coverage": "full",
+   "coverage_note": null
   }
  ],
  "counties_total": 21,
- "counties_counted": 7
+ "counties_counted": 11
 }

@@ -1,0 +1,32 @@
+{
+ "county": "Orange County",
+ "checked_at": "2026-11-27",
+ "method": "none_found",
+ "election": "Unknown (most likely the June 24, 2025 primary; not confirmed from the Board of Elections)",
+ "as_of": "2026-11-27",
+ "seats_per_precinct": null,
+ "sources": [
+  {
+   "url": "https://www.orangecountyny.gov/169/Board-of-Elections",
+   "title": "Orange County Board of Elections page (returned HTTP 403 / Cloudflare block to curl and WebFetch on 2026-11-27)",
+   "type": "rules",
+   "as_of": "2026-11-27"
+  },
+  {
+   "url": "https://www.washingtonville-ny.gov/2025/06/primary-election-june-24",
+   "title": "Village of Washingtonville notice, June 24, 2025 primary (search-result snippet lists Republican county committee contests, indicating an odd-year committee election; not an Orange County BOE source)",
+   "type": "rules",
+   "as_of": "2025-06"
+  }
+ ],
+ "precincts": [],
+ "totals": {
+  "precincts": 0,
+  "seats": 0,
+  "filled": 0,
+  "empty": 0,
+  "empty_no_filer": 0,
+  "unknown": 0
+ },
+ "notes": "No Republican county committee filing list, roster or results could be retrieved: the Orange County Board of Elections website (orangecountyny.gov) returned HTTP 403 (Cloudflare) to both curl and WebFetch, and the NYS BOE sites were also behind a Cloudflare challenge, so no official election-district list was available and precincts are empty. A village notice for the June 24, 2025 primary mentions Republican county committee contests, which suggests Orange County Republicans elect county committee in odd years, but this was not confirmed from a Board of Elections source. Seat status is unknown for the whole county."
+}

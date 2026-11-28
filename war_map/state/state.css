@@ -15,3 +15,4 @@
 .clist small { color: var(--muted); }
 .back { background: none; border: 0; color: #a9d2ff; padding: 0; font-weight: 700; font-size: .8rem; margin-top: 10px; }
 .legend i { display: inline-block; width: 18px; height: 10px; border-radius: 3px; vertical-align: -1px; margin-right: 4px; }
+.tabs[hidden] { display: none; }

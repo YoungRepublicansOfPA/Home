@@ -1,0 +1,612 @@
+{
+ "state": "WA",
+ "name": "Washington",
+ "fips": "53",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/WA-precincts-with-results.geojson.gz",
+ "bbox": [
+  -124.849,
+  45.5436,
+  -116.9161,
+  49.0024
+ ],
+ "totals": {
+  "rep": 1528201,
+  "dem": 2243384,
+  "total": 3918909,
+  "units": 7747
+ },
+ "counties": [
+  {
+   "fips": "53001",
+   "name": "Adams County",
+   "slug": "adams-county",
+   "bbox": [
+    -119.3695,
+    46.7354,
+    -117.9594,
+    47.2617
+   ],
+   "units": 28,
+   "rep": 3767,
+   "dem": 1455,
+   "total": 5365
+  },
+  {
+   "fips": "53003",
+   "name": "Asotin County",
+   "slug": "asotin-county",
+   "bbox": [
+    -117.48,
+    45.9954,
+    -116.9161,
+    46.4622
+   ],
+   "units": 26,
+   "rep": 7004,
+   "dem": 4082,
+   "total": 11468
+  },
+  {
+   "fips": "53005",
+   "name": "Benton County",
+   "slug": "benton-county",
+   "bbox": [
+    -119.874,
+    45.8364,
+    -118.9455,
+    46.4482
+   ],
+   "units": 222,
+   "rep": 59435,
+   "dem": 37651,
+   "total": 100560
+  },
+  {
+   "fips": "53007",
+   "name": "Chelan County",
+   "slug": "chelan-county",
+   "bbox": [
+    -121.1808,
+    47.2609,
+    -119.8616,
+    48.5507
+   ],
+   "units": 102,
+   "rep": 22339,
+   "dem": 18393,
+   "total": 42163
+  },
+  {
+   "fips": "53009",
+   "name": "Clallam County",
+   "slug": "clallam-county",
+   "bbox": [
+    -124.849,
+    47.8668,
+    -122.898,
+    48.4935
+   ],
+   "units": 67,
+   "rep": 21632,
+   "dem": 25440,
+   "total": 48663
+  },
+  {
+   "fips": "53011",
+   "name": "Clark County",
+   "slug": "clark-county",
+   "bbox": [
+    -122.7959,
+    45.5436,
+    -122.2457,
+    46.0596
+   ],
+   "units": 352,
+   "rep": 123995,
+   "dem": 143201,
+   "total": 276569
+  },
+  {
+   "fips": "53013",
+   "name": "Columbia County",
+   "slug": "columbia-county",
+   "bbox": [
+    -118.2423,
+    45.999,
+    -117.6033,
+    46.6247
+   ],
+   "units": 13,
+   "rep": 1737,
+   "dem": 661,
+   "total": 2485
+  },
+  {
+   "fips": "53015",
+   "name": "Cowlitz County",
+   "slug": "cowlitz-county",
+   "bbox": [
+    -123.218,
+    45.8515,
+    -122.2399,
+    46.388
+   ],
+   "units": 91,
+   "rep": 34580,
+   "dem": 22825,
+   "total": 59325
+  },
+  {
+   "fips": "53017",
+   "name": "Douglas County",
+   "slug": "douglas-county",
+   "bbox": [
+    -120.3181,
+    47.2201,
+    -118.9509,
+    48.1512
+   ],
+   "units": 49,
+   "rep": 13095,
+   "dem": 7410,
+   "total": 21182
+  },
+  {
+   "fips": "53019",
+   "name": "Ferry County",
+   "slug": "ferry-county",
+   "bbox": [
+    -118.87,
+    47.8304,
+    -118.1045,
+    49.0001
+   ],
+   "units": 19,
+   "rep": 2667,
+   "dem": 1315,
+   "total": 4119
+  },
+  {
+   "fips": "53021",
+   "name": "Franklin County",
+   "slug": "franklin-county",
+   "bbox": [
+    -119.4575,
+    46.1927,
+    -118.1983,
+    46.7391
+   ],
+   "units": 111,
+   "rep": 19044,
+   "dem": 11881,
+   "total": 31850
+  },
+  {
+   "fips": "53023",
+   "name": "Garfield County",
+   "slug": "garfield-county",
+   "bbox": [
+    -117.8633,
+    45.9979,
+    -117.228,
+    46.7032
+   ],
+   "units": 11,
+   "rep": 973,
+   "dem": 330,
+   "total": 1352
+  },
+  {
+   "fips": "53025",
+   "name": "Grant County",
+   "slug": "grant-county",
+   "bbox": [
+    -120.0428,
+    46.6255,
+    -118.9735,
+    47.9622
+   ],
+   "units": 78,
+   "rep": 23802,
+   "dem": 10493,
+   "total": 35406
+  },
+  {
+   "fips": "53027",
+   "name": "Grays Harbor County",
+   "slug": "grays-harbor-county",
+   "bbox": [
+    -124.4296,
+    46.7909,
+    -123.1584,
+    47.5339
+   ],
+   "units": 91,
+   "rep": 19425,
+   "dem": 17159,
+   "total": 37784
+  },
+  {
+   "fips": "53029",
+   "name": "Island County",
+   "slug": "island-county",
+   "bbox": [
+    -122.8631,
+    47.8281,
+    -122.3285,
+    48.4179
+   ],
+   "units": 90,
+   "rep": 20967,
+   "dem": 29595,
+   "total": 52449
+  },
+  {
+   "fips": "53031",
+   "name": "Jefferson County",
+   "slug": "jefferson-county",
+   "bbox": [
+    -124.6126,
+    47.5177,
+    -122.6106,
+    48.1444
+   ],
+   "units": 37,
+   "rep": 6324,
+   "dem": 17459,
+   "total": 24698
+  },
+  {
+   "fips": "53033",
+   "name": "King County",
+   "slug": "king-county",
+   "bbox": [
+    -122.5285,
+    47.0849,
+    -121.066,
+    47.7806
+   ],
+   "units": 2741,
+   "rep": 252186,
+   "dem": 832589,
+   "total": 1130477
+  },
+  {
+   "fips": "53035",
+   "name": "Kitsap County",
+   "slug": "kitsap-county",
+   "bbox": [
+    -123.0232,
+    47.4031,
+    -122.4706,
+    47.9408
+   ],
+   "units": 234,
+   "rep": 58725,
+   "dem": 91268,
+   "total": 156029
+  },
+  {
+   "fips": "53037",
+   "name": "Kittitas County",
+   "slug": "kittitas-county",
+   "bbox": [
+    -121.4657,
+    46.7362,
+    -119.9257,
+    47.5979
+   ],
+   "units": 48,
+   "rep": 14645,
+   "dem": 10810,
+   "total": 26499
+  },
+  {
+   "fips": "53039",
+   "name": "Klickitat County",
+   "slug": "klickitat-county",
+   "bbox": [
+    -121.6126,
+    45.6061,
+    -119.8658,
+    46.0449
+   ],
+   "units": 31,
+   "rep": 7178,
+   "dem": 5917,
+   "total": 13607
+  },
+  {
+   "fips": "53041",
+   "name": "Lewis County",
+   "slug": "lewis-county",
+   "bbox": [
+    -123.3727,
+    46.3837,
+    -121.3613,
+    46.7944
+   ],
+   "units": 93,
+   "rep": 29308,
+   "dem": 14431,
+   "total": 45322
+  },
+  {
+   "fips": "53043",
+   "name": "Lincoln County",
+   "slug": "lincoln-county",
+   "bbox": [
+    -118.9787,
+    47.2603,
+    -117.8194,
+    47.9577
+   ],
+   "units": 44,
+   "rep": 5210,
+   "dem": 1676,
+   "total": 7080
+  },
+  {
+   "fips": "53045",
+   "name": "Mason County",
+   "slug": "mason-county",
+   "bbox": [
+    -123.5061,
+    47.0823,
+    -122.8005,
+    47.6075
+   ],
+   "units": 54,
+   "rep": 17943,
+   "dem": 17058,
+   "total": 36334
+  },
+  {
+   "fips": "53047",
+   "name": "Okanogan County",
+   "slug": "okanogan-county",
+   "bbox": [
+    -120.8856,
+    47.9409,
+    -118.8364,
+    49.0001
+   ],
+   "units": 46,
+   "rep": 11555,
+   "dem": 8466,
+   "total": 20732
+  },
+  {
+   "fips": "53049",
+   "name": "Pacific County",
+   "slug": "pacific-county",
+   "bbox": [
+    -124.1751,
+    46.2349,
+    -123.3574,
+    46.7942
+   ],
+   "units": 39,
+   "rep": 6803,
+   "dem": 6750,
+   "total": 13954
+  },
+  {
+   "fips": "53051",
+   "name": "Pend Oreille County",
+   "slug": "pend-oreille-county",
+   "bbox": [
+    -117.6296,
+    48.0454,
+    -117.0321,
+    49.0005
+   ],
+   "units": 27,
+   "rep": 5826,
+   "dem": 2461,
+   "total": 8545
+  },
+  {
+   "fips": "53053",
+   "name": "Pierce County",
+   "slug": "pierce-county",
+   "bbox": [
+    -122.8414,
+    46.7284,
+    -121.3745,
+    47.4036
+   ],
+   "units": 690,
+   "rep": 188148,
+   "dem": 235151,
+   "total": 439515
+  },
+  {
+   "fips": "53055",
+   "name": "San Juan County",
+   "slug": "san-juan-county",
+   "bbox": [
+    -123.2374,
+    48.4144,
+    -122.7419,
+    48.7892
+   ],
+   "units": 23,
+   "rep": 2890,
+   "dem": 9539,
+   "total": 13006
+  },
+  {
+   "fips": "53057",
+   "name": "Skagit County",
+   "slug": "skagit-county",
+   "bbox": [
+    -122.7566,
+    48.2959,
+    -120.6861,
+    48.657
+   ],
+   "units": 119,
+   "rep": 30278,
+   "dem": 36346,
+   "total": 69131
+  },
+  {
+   "fips": "53059",
+   "name": "Skamania County",
+   "slug": "skamania-county",
+   "bbox": [
+    -122.2501,
+    45.5487,
+    -121.5145,
+    46.3882
+   ],
+   "units": 23,
+   "rep": 3961,
+   "dem": 3147,
+   "total": 7355
+  },
+  {
+   "fips": "53061",
+   "name": "Snohomish County",
+   "slug": "snohomish-county",
+   "bbox": [
+    -122.3985,
+    47.7754,
+    -120.9074,
+    48.299
+   ],
+   "units": 848,
+   "rep": 161142,
+   "dem": 239843,
+   "total": 417713
+  },
+  {
+   "fips": "53063",
+   "name": "Spokane County",
+   "slug": "spokane-county",
+   "bbox": [
+    -117.8236,
+    47.2593,
+    -117.0398,
+    48.0478
+   ],
+   "units": 451,
+   "rep": 145338,
+   "dem": 131163,
+   "total": 287082
+  },
+  {
+   "fips": "53065",
+   "name": "Stevens County",
+   "slug": "stevens-county",
+   "bbox": [
+    -118.4016,
+    47.7923,
+    -117.43,
+    49.0007
+   ],
+   "units": 58,
+   "rep": 19895,
+   "dem": 7492,
+   "total": 28246
+  },
+  {
+   "fips": "53067",
+   "name": "Thurston County",
+   "slug": "thurston-county",
+   "bbox": [
+    -123.2031,
+    46.7622,
+    -122.208,
+    47.1942
+   ],
+   "units": 283,
+   "rep": 62135,
+   "dem": 95459,
+   "total": 164174
+  },
+  {
+   "fips": "53069",
+   "name": "Wahkiakum County",
+   "slug": "wahkiakum-county",
+   "bbox": [
+    -123.7283,
+    46.1447,
+    -123.2132,
+    46.3851
+   ],
+   "units": 11,
+   "rep": 1757,
+   "dem": 1204,
+   "total": 3062
+  },
+  {
+   "fips": "53071",
+   "name": "Walla Walla County",
+   "slug": "walla-walla-county",
+   "bbox": [
+    -119.0414,
+    45.9999,
+    -117.9915,
+    46.6067
+   ],
+   "units": 61,
+   "rep": 15476,
+   "dem": 13106,
+   "total": 29568
+  },
+  {
+   "fips": "53073",
+   "name": "Whatcom County",
+   "slug": "whatcom-county",
+   "bbox": [
+    -123.0951,
+    48.6373,
+    -120.6559,
+    49.0024
+   ],
+   "units": 174,
+   "rep": 49213,
+   "dem": 83295,
+   "total": 137868
+  },
+  {
+   "fips": "53075",
+   "name": "Whitman County",
+   "slug": "whitman-county",
+   "bbox": [
+    -118.2493,
+    46.417,
+    -117.0395,
+    47.2605
+   ],
+   "units": 80,
+   "rep": 8699,
+   "dem": 10480,
+   "total": 20027
+  },
+  {
+   "fips": "53077",
+   "name": "Yakima County",
+   "slug": "yakima-county",
+   "bbox": [
+    -121.523,
+    46.0402,
+    -119.8656,
+    47.0887
+   ],
+   "units": 182,
+   "rep": 49104,
+   "dem": 36383,
+   "total": 88145
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 39,
+ "missing_counties": [],
+ "coverage_note": null
+}

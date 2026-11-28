@@ -1,0 +1,38 @@
+{
+ "county": "Dutchess County",
+ "checked_at": "2026-11-27",
+ "method": "none_found",
+ "election": "June 24, 2025 Primary (seat allocation per ED not found)",
+ "as_of": "2025-04-17",
+ "seats_per_precinct": null,
+ "sources": [
+  {
+   "url": "https://elections.dutchessny.gov/wp-content/uploads/2025/04/UltimatePetitionReport-4.17.25.pdf",
+   "title": "Dutchess County BOE Ultimate Petition Report, valid petitions, 4/17/2025 (includes 295 valid Republican county committee candidacies for PE25; does not show seats per ED)",
+   "type": "candidate_listing",
+   "as_of": "2025-04-17"
+  },
+  {
+   "url": "https://elections.dutchessny.gov/wp-content/uploads/2025/03/3.31.25-Petition-Report.pdf",
+   "title": "Dutchess County BOE Ultimate Candidate Report, 3/31/2025 (first-day filings only; shows Republican county committee \"Vote For\" of 2, 3 or 4 depending on the ED)",
+   "type": "candidate_listing",
+   "as_of": "2025-03-31"
+  },
+  {
+   "url": "https://elections.dutchessny.gov/wp-content/uploads/2025/06/PE25-Candidate-Notice.pdf",
+   "title": "Dutchess County BOE legal notice of candidates, Primary Election June 24, 2025 (contested races)",
+   "type": "candidate_listing",
+   "as_of": "2025-06"
+  }
+ ],
+ "precincts": [],
+ "totals": {
+  "precincts": 0,
+  "seats": 0,
+  "filled": 0,
+  "empty": 0,
+  "empty_no_filer": 0,
+  "unknown": 0
+ },
+ "notes": "Dutchess County Republicans elected county committee at the June 24, 2025 primary (Republican county committee designations for PE25 appear in the BOE petition reports, and none appear for 2026). The BOE 4/17/2025 report lists valid Republican county committee candidates, but the number of seats differs by ED: the 3/31/2025 report shows Republican \"Vote For\" values of 2, 3 and 4 in different EDs. No source giving the Republican seat allocation for every ED (including EDs with no filer) was found, so empty seats cannot be counted and no ED-level figures are published here. This county could be documented if the Dutchess County Republican Committee's seat allocation by ED, or a complete PE25 candidate report with \"Vote For\" values, is found. Seat status is unknown for the whole county."
+}

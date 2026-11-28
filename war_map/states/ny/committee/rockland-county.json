@@ -1,0 +1,26 @@
+{
+ "county": "Rockland County",
+ "checked_at": "2026-11-27",
+ "method": "none_found",
+ "election": "June 23, 2026 Primary (filing list not retrievable)",
+ "as_of": "2026-11-27",
+ "seats_per_precinct": null,
+ "sources": [
+  {
+   "url": "https://www.rocklandcountyny.gov/home/showpublisheddocument/3957/639135721455239417",
+   "title": "Rockland County BOE candidate list, Primary Election June 23, 2026 (search-result snippet shows Republican Member of the County Committee entries by election district; the file returned HTTP 403 to curl and WebFetch on 2026-11-27)",
+   "type": "candidate_listing",
+   "as_of": "2026-11-27"
+  }
+ ],
+ "precincts": [],
+ "totals": {
+  "precincts": 0,
+  "seats": 0,
+  "filled": 0,
+  "empty": 0,
+  "empty_no_filer": 0,
+  "unknown": 0
+ },
+ "notes": "Rockland County Republican county committee members appear to have been elected at the June 23, 2026 primary: a search-result snippet of the Board of Elections 2026 primary candidate list shows Republican \"Member of the County Committee\" entries by election district. The document itself, and every other rocklandcountyny.gov page tried, returned HTTP 403 to both curl and WebFetch, so the list could not be read and it could not be confirmed whether it includes uncontested filers. No official ED list was retrievable (NYS BOE sites are behind a Cloudflare challenge), so precincts are empty. A local news report mentions Stony Point districts electing up to four members each; the number of seats per ED county-wide was not confirmed. Seat status is unknown for the whole county."
+}

@@ -1,0 +1,14 @@
+{
+  "state": "AK",
+  "name": "Alaska",
+  "fips": "02",
+  "unit": "precinct",
+  "election": "November 5, 2024 presidential election",
+  "checked_at": "2026-11-27",
+  "source": "https://github.com/nytimes/presidential-precinct-map-2024#state-by-state-data-and-caveats",
+  "credit": "The New York Times 2024 precinct dataset marks Alaska results unusable because absentee, early and provisional votes are reported district-wide.",
+  "unavailable": "Alaska has no precinct War Map in this release. The New York Times marks its 2024 precinct results unusable: absentee, early and provisional votes are reported district-wide and cannot reliably be assigned to precincts. Checked November 27, 2026.",
+  "bbox": [-170, 51, -130, 72],
+  "totals": {"rep": 0, "dem": 0, "total": 0, "units": 0},
+  "counties": []
+}

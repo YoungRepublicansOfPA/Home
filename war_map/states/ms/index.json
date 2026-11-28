@@ -1,0 +1,1247 @@
+{
+ "state": "MS",
+ "name": "Mississippi",
+ "fips": "28",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/MS-precincts-with-results.geojson.gz",
+ "bbox": [
+  -91.655,
+  30.1461,
+  -88.0979,
+  34.9961
+ ],
+ "totals": {
+  "rep": 747448,
+  "dem": 466380,
+  "total": 1227385,
+  "units": 1730
+ },
+ "counties": [
+  {
+   "fips": "28001",
+   "name": "Adams County",
+   "slug": "adams-county",
+   "bbox": [
+    -91.655,
+    31.1911,
+    -91.1538,
+    31.7501
+   ],
+   "units": 19,
+   "rep": 5081,
+   "dem": 6743,
+   "total": 11928
+  },
+  {
+   "fips": "28003",
+   "name": "Alcorn County",
+   "slug": "alcorn-county",
+   "bbox": [
+    -88.8235,
+    34.7556,
+    -88.3635,
+    34.9961
+   ],
+   "units": 17,
+   "rep": 12657,
+   "dem": 2328,
+   "total": 15112
+  },
+  {
+   "fips": "28005",
+   "name": "Amite County",
+   "slug": "amite-county",
+   "bbox": [
+    -91.0954,
+    30.9989,
+    -90.5476,
+    31.3497
+   ],
+   "units": 22,
+   "rep": 4484,
+   "dem": 2246,
+   "total": 6815
+  },
+  {
+   "fips": "28007",
+   "name": "Attala County",
+   "slug": "attala-county",
+   "bbox": [
+    -89.966,
+    32.8795,
+    -89.3164,
+    33.286
+   ],
+   "units": 20,
+   "rep": 4723,
+   "dem": 2930,
+   "total": 7703
+  },
+  {
+   "fips": "28009",
+   "name": "Benton County",
+   "slug": "benton-county",
+   "bbox": [
+    -89.353,
+    34.5829,
+    -89.0166,
+    34.995
+   ],
+   "units": 5,
+   "rep": 2535,
+   "dem": 1318,
+   "total": 3880
+  },
+  {
+   "fips": "28011",
+   "name": "Bolivar County",
+   "slug": "bolivar-county",
+   "bbox": [
+    -91.2345,
+    33.5293,
+    -90.657,
+    34.1208
+   ],
+   "units": 30,
+   "rep": 3943,
+   "dem": 6419,
+   "total": 10435
+  },
+  {
+   "fips": "28013",
+   "name": "Calhoun County",
+   "slug": "calhoun-county",
+   "bbox": [
+    -89.5101,
+    33.7216,
+    -89.1376,
+    34.1621
+   ],
+   "units": 10,
+   "rep": 4443,
+   "dem": 1547,
+   "total": 6034
+  },
+  {
+   "fips": "28015",
+   "name": "Carroll County",
+   "slug": "carroll-county",
+   "bbox": [
+    -90.1749,
+    33.2142,
+    -89.6453,
+    33.6771
+   ],
+   "units": 14,
+   "rep": 3730,
+   "dem": 1431,
+   "total": 5194
+  },
+  {
+   "fips": "28017",
+   "name": "Chickasaw County",
+   "slug": "chickasaw-county",
+   "bbox": [
+    -89.1918,
+    33.7386,
+    -88.7189,
+    34.075
+   ],
+   "units": 15,
+   "rep": 4079,
+   "dem": 3090,
+   "total": 7234
+  },
+  {
+   "fips": "28019",
+   "name": "Choctaw County",
+   "slug": "choctaw-county",
+   "bbox": [
+    -89.454,
+    33.1089,
+    -89.0882,
+    33.5332
+   ],
+   "units": 12,
+   "rep": 2881,
+   "dem": 965,
+   "total": 3890
+  },
+  {
+   "fips": "28021",
+   "name": "Claiborne County",
+   "slug": "claiborne-county",
+   "bbox": [
+    -91.2481,
+    31.7854,
+    -90.7144,
+    32.2255
+   ],
+   "units": 12,
+   "rep": 558,
+   "dem": 2950,
+   "total": 3541
+  },
+  {
+   "fips": "28023",
+   "name": "Clarke County",
+   "slug": "clarke-county",
+   "bbox": [
+    -88.9143,
+    31.8267,
+    -88.4314,
+    32.2277
+   ],
+   "units": 23,
+   "rep": 5093,
+   "dem": 2430,
+   "total": 7571
+  },
+  {
+   "fips": "28025",
+   "name": "Clay County",
+   "slug": "clay-county",
+   "bbox": [
+    -89.0361,
+    33.5062,
+    -88.4719,
+    33.8124
+   ],
+   "units": 14,
+   "rep": 4017,
+   "dem": 4960,
+   "total": 9057
+  },
+  {
+   "fips": "28027",
+   "name": "Coahoma County",
+   "slug": "coahoma-county",
+   "bbox": [
+    -90.961,
+    33.9857,
+    -90.3975,
+    34.524
+   ],
+   "units": 18,
+   "rep": 2008,
+   "dem": 4711,
+   "total": 6790
+  },
+  {
+   "fips": "28029",
+   "name": "Copiah County",
+   "slug": "copiah-county",
+   "bbox": [
+    -90.7368,
+    31.6852,
+    -90.1075,
+    32.0501
+   ],
+   "units": 18,
+   "rep": 6134,
+   "dem": 5426,
+   "total": 11665
+  },
+  {
+   "fips": "28031",
+   "name": "Covington County",
+   "slug": "covington-county",
+   "bbox": [
+    -89.7558,
+    31.4337,
+    -89.3992,
+    31.7969
+   ],
+   "units": 15,
+   "rep": 5869,
+   "dem": 2921,
+   "total": 8861
+  },
+  {
+   "fips": "28033",
+   "name": "DeSoto County",
+   "slug": "desoto-county",
+   "bbox": [
+    -90.3177,
+    34.7079,
+    -89.7234,
+    34.9957
+   ],
+   "units": 47,
+   "rep": 48064,
+   "dem": 29023,
+   "total": 79082
+  },
+  {
+   "fips": "28035",
+   "name": "Forrest County",
+   "slug": "forrest-county",
+   "bbox": [
+    -89.4516,
+    30.9099,
+    -89.138,
+    31.4344
+   ],
+   "units": 34,
+   "rep": 16579,
+   "dem": 11475,
+   "total": 28466
+  },
+  {
+   "fips": "28037",
+   "name": "Franklin County",
+   "slug": "franklin-county",
+   "bbox": [
+    -91.1582,
+    31.3198,
+    -90.6326,
+    31.6116
+   ],
+   "units": 14,
+   "rep": 2831,
+   "dem": 1213,
+   "total": 4066
+  },
+  {
+   "fips": "28039",
+   "name": "George County",
+   "slug": "george-county",
+   "bbox": [
+    -88.885,
+    30.7342,
+    -88.4126,
+    30.9988
+   ],
+   "units": 21,
+   "rep": 9858,
+   "dem": 1138,
+   "total": 11069
+  },
+  {
+   "fips": "28041",
+   "name": "Greene County",
+   "slug": "greene-county",
+   "bbox": [
+    -88.842,
+    30.9974,
+    -88.4254,
+    31.436
+   ],
+   "units": 13,
+   "rep": 4776,
+   "dem": 835,
+   "total": 5649
+  },
+  {
+   "fips": "28043",
+   "name": "Grenada County",
+   "slug": "grenada-county",
+   "bbox": [
+    -90.137,
+    33.6762,
+    -89.5069,
+    33.8981
+   ],
+   "units": 13,
+   "rep": 5651,
+   "dem": 4060,
+   "total": 9766
+  },
+  {
+   "fips": "28045",
+   "name": "Hancock County",
+   "slug": "hancock-county",
+   "bbox": [
+    -89.6906,
+    30.1606,
+    -89.3061,
+    30.6484
+   ],
+   "units": 26,
+   "rep": 16684,
+   "dem": 4262,
+   "total": 21175
+  },
+  {
+   "fips": "28047",
+   "name": "Harrison County",
+   "slug": "harrison-county",
+   "bbox": [
+    -89.3418,
+    30.2074,
+    -88.8177,
+    30.6773
+   ],
+   "units": 49,
+   "rep": 48497,
+   "dem": 26555,
+   "total": 75923
+  },
+  {
+   "fips": "28049",
+   "name": "Hinds County",
+   "slug": "hinds-county",
+   "bbox": [
+    -90.7286,
+    32.0483,
+    -90.0657,
+    32.5738
+   ],
+   "units": 108,
+   "rep": 22816,
+   "dem": 62840,
+   "total": 86830
+  },
+  {
+   "fips": "28051",
+   "name": "Holmes County",
+   "slug": "holmes-county",
+   "bbox": [
+    -90.432,
+    32.8796,
+    -89.7486,
+    33.3751
+   ],
+   "units": 16,
+   "rep": 1243,
+   "dem": 5420,
+   "total": 6730
+  },
+  {
+   "fips": "28053",
+   "name": "Humphreys County",
+   "slug": "humphreys-county",
+   "bbox": [
+    -90.7332,
+    32.9225,
+    -90.3303,
+    33.3295
+   ],
+   "units": 13,
+   "rep": 990,
+   "dem": 2443,
+   "total": 3468
+  },
+  {
+   "fips": "28057",
+   "name": "Itawamba County",
+   "slug": "itawamba-county",
+   "bbox": [
+    -88.5449,
+    34.0866,
+    -88.1563,
+    34.4654
+   ],
+   "units": 28,
+   "rep": 9523,
+   "dem": 1027,
+   "total": 10621
+  },
+  {
+   "fips": "28059",
+   "name": "Jackson County",
+   "slug": "jackson-county",
+   "bbox": [
+    -88.8845,
+    30.1461,
+    -88.3844,
+    30.736
+   ],
+   "units": 31,
+   "rep": 36376,
+   "dem": 15469,
+   "total": 52410
+  },
+  {
+   "fips": "28061",
+   "name": "Jasper County",
+   "slug": "jasper-county",
+   "bbox": [
+    -89.3227,
+    31.8021,
+    -88.9104,
+    32.2244
+   ],
+   "units": 12,
+   "rep": 4118,
+   "dem": 3722,
+   "total": 7890
+  },
+  {
+   "fips": "28063",
+   "name": "Jefferson County",
+   "slug": "jefferson-county",
+   "bbox": [
+    -91.3656,
+    31.6101,
+    -90.7363,
+    31.8698
+   ],
+   "units": 12,
+   "rep": 541,
+   "dem": 2727,
+   "total": 3299
+  },
+  {
+   "fips": "28065",
+   "name": "Jefferson Davis County",
+   "slug": "jefferson-davis-county",
+   "bbox": [
+    -89.9762,
+    31.39,
+    -89.5866,
+    31.7747
+   ],
+   "units": 17,
+   "rep": 2302,
+   "dem": 3041,
+   "total": 5378
+  },
+  {
+   "fips": "28067",
+   "name": "Jones County",
+   "slug": "jones-county",
+   "bbox": [
+    -89.4013,
+    31.4335,
+    -88.9426,
+    31.8246
+   ],
+   "units": 38,
+   "rep": 20265,
+   "dem": 7272,
+   "total": 27755
+  },
+  {
+   "fips": "28069",
+   "name": "Kemper County",
+   "slug": "kemper-county",
+   "bbox": [
+    -88.9153,
+    32.5768,
+    -88.3479,
+    32.9291
+   ],
+   "units": 13,
+   "rep": 1691,
+   "dem": 2381,
+   "total": 4086
+  },
+  {
+   "fips": "28071",
+   "name": "Lafayette County",
+   "slug": "lafayette-county",
+   "bbox": [
+    -89.7222,
+    34.161,
+    -89.2455,
+    34.5554
+   ],
+   "units": 18,
+   "rep": 14050,
+   "dem": 8956,
+   "total": 23409
+  },
+  {
+   "fips": "28073",
+   "name": "Lamar County",
+   "slug": "lamar-county",
+   "bbox": [
+    -89.6544,
+    30.9825,
+    -89.3478,
+    31.4342
+   ],
+   "units": 24,
+   "rep": 20775,
+   "dem": 7038,
+   "total": 28171
+  },
+  {
+   "fips": "28075",
+   "name": "Lauderdale County",
+   "slug": "lauderdale-county",
+   "bbox": [
+    -88.9157,
+    32.2242,
+    -88.3888,
+    32.5783
+   ],
+   "units": 37,
+   "rep": 16487,
+   "dem": 10677,
+   "total": 27407
+  },
+  {
+   "fips": "28077",
+   "name": "Lawrence County",
+   "slug": "lawrence-county",
+   "bbox": [
+    -90.2452,
+    31.3287,
+    -89.9589,
+    31.7617
+   ],
+   "units": 13,
+   "rep": 4113,
+   "dem": 1899,
+   "total": 6053
+  },
+  {
+   "fips": "28079",
+   "name": "Leake County",
+   "slug": "leake-county",
+   "bbox": [
+    -89.7303,
+    32.5762,
+    -89.3176,
+    32.9317
+   ],
+   "units": 19,
+   "rep": 5143,
+   "dem": 3182,
+   "total": 8380
+  },
+  {
+   "fips": "28081",
+   "name": "Lee County",
+   "slug": "lee-county",
+   "bbox": [
+    -88.8256,
+    34.0745,
+    -88.5417,
+    34.5094
+   ],
+   "units": 33,
+   "rep": 24339,
+   "dem": 10616,
+   "total": 35338
+  },
+  {
+   "fips": "28083",
+   "name": "Leflore County",
+   "slug": "leflore-county",
+   "bbox": [
+    -90.4538,
+    33.2353,
+    -90.1013,
+    33.8114
+   ],
+   "units": 18,
+   "rep": 2854,
+   "dem": 6476,
+   "total": 9421
+  },
+  {
+   "fips": "28085",
+   "name": "Lincoln County",
+   "slug": "lincoln-county",
+   "bbox": [
+    -90.7374,
+    31.3492,
+    -90.2426,
+    31.7175
+   ],
+   "units": 30,
+   "rep": 11432,
+   "dem": 4262,
+   "total": 15802
+  },
+  {
+   "fips": "28087",
+   "name": "Lowndes County",
+   "slug": "lowndes-county",
+   "bbox": [
+    -88.6713,
+    33.2869,
+    -88.2489,
+    33.7458
+   ],
+   "units": 20,
+   "rep": 13087,
+   "dem": 11096,
+   "total": 24426
+  },
+  {
+   "fips": "28089",
+   "name": "Madison County",
+   "slug": "madison-county",
+   "bbox": [
+    -90.4515,
+    32.3995,
+    -89.7299,
+    32.8856
+   ],
+   "units": 44,
+   "rep": 32333,
+   "dem": 22700,
+   "total": 55710
+  },
+  {
+   "fips": "28091",
+   "name": "Marion County",
+   "slug": "marion-county",
+   "bbox": [
+    -90.0406,
+    30.9994,
+    -89.6538,
+    31.4341
+   ],
+   "units": 22,
+   "rep": 7874,
+   "dem": 3215,
+   "total": 11188
+  },
+  {
+   "fips": "28093",
+   "name": "Marshall County",
+   "slug": "marshall-county",
+   "bbox": [
+    -89.7244,
+    34.4948,
+    -89.2456,
+    34.9953
+   ],
+   "units": 24,
+   "rep": 7977,
+   "dem": 6888,
+   "total": 14983
+  },
+  {
+   "fips": "28095",
+   "name": "Monroe County",
+   "slug": "monroe-county",
+   "bbox": [
+    -88.7204,
+    33.6502,
+    -88.2039,
+    34.0894
+   ],
+   "units": 27,
+   "rep": 10861,
+   "dem": 5090,
+   "total": 16069
+  },
+  {
+   "fips": "28097",
+   "name": "Montgomery County",
+   "slug": "montgomery-county",
+   "bbox": [
+    -89.7869,
+    33.2855,
+    -89.3807,
+    33.678
+   ],
+   "units": 14,
+   "rep": 2658,
+   "dem": 1737,
+   "total": 4424
+  },
+  {
+   "fips": "28099",
+   "name": "Neshoba County",
+   "slug": "neshoba-county",
+   "bbox": [
+    -89.3193,
+    32.5765,
+    -88.9142,
+    32.9324
+   ],
+   "units": 23,
+   "rep": 8154,
+   "dem": 2622,
+   "total": 10861
+  },
+  {
+   "fips": "28101",
+   "name": "Newton County",
+   "slug": "newton-county",
+   "bbox": [
+    -89.3227,
+    32.2235,
+    -88.9138,
+    32.5773
+   ],
+   "units": 17,
+   "rep": 6641,
+   "dem": 2603,
+   "total": 9323
+  },
+  {
+   "fips": "28103",
+   "name": "Noxubee County",
+   "slug": "noxubee-county",
+   "bbox": [
+    -88.8137,
+    32.926,
+    -88.3044,
+    33.2884
+   ],
+   "units": 8,
+   "rep": 1151,
+   "dem": 3269,
+   "total": 4449
+  },
+  {
+   "fips": "28105",
+   "name": "Oktibbeha County",
+   "slug": "oktibbeha-county",
+   "bbox": [
+    -89.0887,
+    33.286,
+    -88.669,
+    33.5654
+   ],
+   "units": 20,
+   "rep": 8901,
+   "dem": 8851,
+   "total": 18051
+  },
+  {
+   "fips": "28107",
+   "name": "Panola County",
+   "slug": "panola-county",
+   "bbox": [
+    -90.1986,
+    34.1595,
+    -89.7194,
+    34.5544
+   ],
+   "units": 21,
+   "rep": 8202,
+   "dem": 6061,
+   "total": 14422
+  },
+  {
+   "fips": "28109",
+   "name": "Pearl River County",
+   "slug": "pearl-river-county",
+   "bbox": [
+    -89.8522,
+    30.4589,
+    -89.3407,
+    31.016
+   ],
+   "units": 27,
+   "rep": 20438,
+   "dem": 3982,
+   "total": 24671
+  },
+  {
+   "fips": "28111",
+   "name": "Perry County",
+   "slug": "perry-county",
+   "bbox": [
+    -89.1462,
+    30.9099,
+    -88.8343,
+    31.434
+   ],
+   "units": 16,
+   "rep": 4425,
+   "dem": 1078,
+   "total": 5539
+  },
+  {
+   "fips": "28113",
+   "name": "Pike County",
+   "slug": "pike-county",
+   "bbox": [
+    -90.5484,
+    30.9995,
+    -90.2596,
+    31.3503
+   ],
+   "units": 25,
+   "rep": 7943,
+   "dem": 7402,
+   "total": 15485
+  },
+  {
+   "fips": "28115",
+   "name": "Pontotoc County",
+   "slug": "pontotoc-county",
+   "bbox": [
+    -89.2465,
+    34.0739,
+    -88.8244,
+    34.3802
+   ],
+   "units": 28,
+   "rep": 11740,
+   "dem": 2214,
+   "total": 14068
+  },
+  {
+   "fips": "28117",
+   "name": "Prentiss County",
+   "slug": "prentiss-county",
+   "bbox": [
+    -88.7365,
+    34.4636,
+    -88.3292,
+    34.7568
+   ],
+   "units": 14,
+   "rep": 8581,
+   "dem": 1727,
+   "total": 10381
+  },
+  {
+   "fips": "28119",
+   "name": "Quitman County",
+   "slug": "quitman-county",
+   "bbox": [
+    -90.451,
+    34.0722,
+    -90.1345,
+    34.5111
+   ],
+   "units": 10,
+   "rep": 902,
+   "dem": 1725,
+   "total": 2677
+  },
+  {
+   "fips": "28121",
+   "name": "Rankin County",
+   "slug": "rankin-county",
+   "bbox": [
+    -90.2548,
+    32.047,
+    -89.7297,
+    32.5933
+   ],
+   "units": 46,
+   "rep": 50896,
+   "dem": 18060,
+   "total": 69678
+  },
+  {
+   "fips": "28123",
+   "name": "Scott County",
+   "slug": "scott-county",
+   "bbox": [
+    -89.7841,
+    32.2218,
+    -89.3222,
+    32.6342
+   ],
+   "units": 23,
+   "rep": 6098,
+   "dem": 3729,
+   "total": 9891
+  },
+  {
+   "fips": "28125",
+   "name": "Sharkey County",
+   "slug": "sharkey-county",
+   "bbox": [
+    -90.9653,
+    32.6621,
+    -90.6563,
+    33.0975
+   ],
+   "units": 10,
+   "rep": 551,
+   "dem": 1201,
+   "total": 1766
+  },
+  {
+   "fips": "28127",
+   "name": "Simpson County",
+   "slug": "simpson-county",
+   "bbox": [
+    -90.2479,
+    31.7527,
+    -89.653,
+    32.0497
+   ],
+   "units": 22,
+   "rep": 7552,
+   "dem": 3479,
+   "total": 11094
+  },
+  {
+   "fips": "28129",
+   "name": "Smith County",
+   "slug": "smith-county",
+   "bbox": [
+    -89.7313,
+    31.7807,
+    -89.3166,
+    32.2238
+   ],
+   "units": 18,
+   "rep": 6146,
+   "dem": 1486,
+   "total": 7676
+  },
+  {
+   "fips": "28131",
+   "name": "Stone County",
+   "slug": "stone-county",
+   "bbox": [
+    -89.3415,
+    30.6473,
+    -88.8845,
+    30.9108
+   ],
+   "units": 15,
+   "rep": 6214,
+   "dem": 1620,
+   "total": 7919
+  },
+  {
+   "fips": "28133",
+   "name": "Sunflower County",
+   "slug": "sunflower-county",
+   "bbox": [
+    -90.7645,
+    33.27,
+    -90.4503,
+    33.9876
+   ],
+   "units": 17,
+   "rep": 2515,
+   "dem": 5312,
+   "total": 7876
+  },
+  {
+   "fips": "28135",
+   "name": "Tallahatchie County",
+   "slug": "tallahatchie-county",
+   "bbox": [
+    -90.4516,
+    33.6941,
+    -89.9253,
+    34.1644
+   ],
+   "units": 19,
+   "rep": 2333,
+   "dem": 2630,
+   "total": 5012
+  },
+  {
+   "fips": "28137",
+   "name": "Tate County",
+   "slug": "tate-county",
+   "bbox": [
+    -90.2443,
+    34.5536,
+    -89.6685,
+    34.773
+   ],
+   "units": 19,
+   "rep": 9185,
+   "dem": 3555,
+   "total": 12861
+  },
+  {
+   "fips": "28139",
+   "name": "Tippah County",
+   "slug": "tippah-county",
+   "bbox": [
+    -89.0886,
+    34.5963,
+    -88.7178,
+    34.9959
+   ],
+   "units": 21,
+   "rep": 7984,
+   "dem": 1547,
+   "total": 9591
+  },
+  {
+   "fips": "28141",
+   "name": "Tishomingo County",
+   "slug": "tishomingo-county",
+   "bbox": [
+    -88.3659,
+    34.4632,
+    -88.0979,
+    34.9957
+   ],
+   "units": 13,
+   "rep": 8064,
+   "dem": 921,
+   "total": 9050
+  },
+  {
+   "fips": "28143",
+   "name": "Tunica County",
+   "slug": "tunica-county",
+   "bbox": [
+    -90.5918,
+    34.4238,
+    -90.1984,
+    34.8917
+   ],
+   "units": 12,
+   "rep": 799,
+   "dem": 1836,
+   "total": 2667
+  },
+  {
+   "fips": "28145",
+   "name": "Union County",
+   "slug": "union-county",
+   "bbox": [
+    -89.2464,
+    34.3648,
+    -88.7354,
+    34.5988
+   ],
+   "units": 20,
+   "rep": 10559,
+   "dem": 1807,
+   "total": 12478
+  },
+  {
+   "fips": "28147",
+   "name": "Walthall County",
+   "slug": "walthall-county",
+   "bbox": [
+    -90.261,
+    31.0006,
+    -89.8358,
+    31.3509
+   ],
+   "units": 20,
+   "rep": 4114,
+   "dem": 2355,
+   "total": 6529
+  },
+  {
+   "fips": "28149",
+   "name": "Warren County",
+   "slug": "warren-county",
+   "bbox": [
+    -91.1746,
+    32.0784,
+    -90.5538,
+    32.6189
+   ],
+   "units": 23,
+   "rep": 9407,
+   "dem": 8683,
+   "total": 18298
+  },
+  {
+   "fips": "28151",
+   "name": "Washington County",
+   "slug": "washington-county",
+   "bbox": [
+    -91.2359,
+    33.0077,
+    -90.6787,
+    33.5305
+   ],
+   "units": 19,
+   "rep": 4649,
+   "dem": 9735,
+   "total": 14540
+  },
+  {
+   "fips": "28153",
+   "name": "Wayne County",
+   "slug": "wayne-county",
+   "bbox": [
+    -88.9435,
+    31.4334,
+    -88.4494,
+    31.8939
+   ],
+   "units": 22,
+   "rep": 6013,
+   "dem": 3028,
+   "total": 9119
+  },
+  {
+   "fips": "28155",
+   "name": "Webster County",
+   "slug": "webster-county",
+   "bbox": [
+    -89.5071,
+    33.4598,
+    -89.0183,
+    33.7394
+   ],
+   "units": 14,
+   "rep": 4195,
+   "dem": 872,
+   "total": 5095
+  },
+  {
+   "fips": "28157",
+   "name": "Wilkinson County",
+   "slug": "wilkinson-county",
+   "bbox": [
+    -91.6369,
+    30.9987,
+    -91.0589,
+    31.3732
+   ],
+   "units": 9,
+   "rep": 1075,
+   "dem": 1817,
+   "total": 2931
+  },
+  {
+   "fips": "28159",
+   "name": "Winston County",
+   "slug": "winston-county",
+   "bbox": [
+    -89.3192,
+    32.9191,
+    -88.8128,
+    33.2864
+   ],
+   "units": 12,
+   "rep": 4922,
+   "dem": 3392,
+   "total": 8384
+  },
+  {
+   "fips": "28161",
+   "name": "Yalobusha County",
+   "slug": "yalobusha-county",
+   "bbox": [
+    -89.9317,
+    33.8669,
+    -89.5073,
+    34.1925
+   ],
+   "units": 12,
+   "rep": 3518,
+   "dem": 2289,
+   "total": 5878
+  },
+  {
+   "fips": "28163",
+   "name": "Yazoo County",
+   "slug": "yazoo-county",
+   "bbox": [
+    -90.7597,
+    32.503,
+    -89.9659,
+    33.0224
+   ],
+   "units": 23,
+   "rep": 4558,
+   "dem": 4342,
+   "total": 8971
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 82,
+ "missing_counties": [
+  {
+   "fips": "28055",
+   "name": "Issaquena County"
+  }
+ ],
+ "coverage_note": "The source has no usable mapped precinct results for 1 of 82 county areas. State vote totals shown here sum mapped units only."
+}

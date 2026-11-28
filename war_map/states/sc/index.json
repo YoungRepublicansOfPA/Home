@@ -1,0 +1,717 @@
+{
+ "state": "SC",
+ "name": "South Carolina",
+ "fips": "45",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/SC-precincts-with-results.geojson.gz",
+ "bbox": [
+  -83.3539,
+  31.996,
+  -78.4993,
+  35.2155
+ ],
+ "totals": {
+  "rep": 1480198,
+  "dem": 1025831,
+  "total": 2541877,
+  "units": 2308
+ },
+ "counties": [
+  {
+   "fips": "45001",
+   "name": "Abbeville County",
+   "slug": "abbeville-county",
+   "bbox": [
+    -82.7421,
+    34.0138,
+    -82.2401,
+    34.4843
+   ],
+   "units": 15,
+   "rep": 8502,
+   "dem": 3399,
+   "total": 12041
+  },
+  {
+   "fips": "45003",
+   "name": "Aiken County",
+   "slug": "aiken-county",
+   "bbox": [
+    -82.0125,
+    33.2334,
+    -81.1872,
+    33.8773
+   ],
+   "units": 89,
+   "rep": 53515,
+   "dem": 31245,
+   "total": 85958
+  },
+  {
+   "fips": "45005",
+   "name": "Allendale County",
+   "slug": "allendale-county",
+   "bbox": [
+    -81.614,
+    32.7449,
+    -81.0823,
+    33.1583
+   ],
+   "units": 8,
+   "rep": 811,
+   "dem": 2164,
+   "total": 3020
+  },
+  {
+   "fips": "45007",
+   "name": "Anderson County",
+   "slug": "anderson-county",
+   "bbox": [
+    -82.9922,
+    34.2117,
+    -82.3139,
+    34.8194
+   ],
+   "units": 79,
+   "rep": 71617,
+   "dem": 25233,
+   "total": 98036
+  },
+  {
+   "fips": "45009",
+   "name": "Bamberg County",
+   "slug": "bamberg-county",
+   "bbox": [
+    -81.2278,
+    33.0266,
+    -80.7979,
+    33.4399
+   ],
+   "units": 13,
+   "rep": 2374,
+   "dem": 3243,
+   "total": 5690
+  },
+  {
+   "fips": "45011",
+   "name": "Barnwell County",
+   "slug": "barnwell-county",
+   "bbox": [
+    -81.6148,
+    33.0957,
+    -81.1929,
+    33.4905
+   ],
+   "units": 15,
+   "rep": 5588,
+   "dem": 4058,
+   "total": 9762
+  },
+  {
+   "fips": "45013",
+   "name": "Beaufort County",
+   "slug": "beaufort-county",
+   "bbox": [
+    -81.0162,
+    32.0769,
+    -80.3057,
+    32.7043
+   ],
+   "units": 126,
+   "rep": 58887,
+   "dem": 43785,
+   "total": 103945
+  },
+  {
+   "fips": "45015",
+   "name": "Berkeley County",
+   "slug": "berkeley-county",
+   "bbox": [
+    -80.3619,
+    32.8188,
+    -79.4467,
+    33.5072
+   ],
+   "units": 94,
+   "rep": 64744,
+   "dem": 46393,
+   "total": 112778
+  },
+  {
+   "fips": "45017",
+   "name": "Calhoun County",
+   "slug": "calhoun-county",
+   "bbox": [
+    -81.0605,
+    33.466,
+    -80.4963,
+    33.8801
+   ],
+   "units": 12,
+   "rep": 4467,
+   "dem": 3336,
+   "total": 7904
+  },
+  {
+   "fips": "45019",
+   "name": "Charleston County",
+   "slug": "charleston-county",
+   "bbox": [
+    -80.4535,
+    32.4826,
+    -79.2618,
+    33.2151
+   ],
+   "units": 182,
+   "rep": 99106,
+   "dem": 111215,
+   "total": 214144
+  },
+  {
+   "fips": "45021",
+   "name": "Cherokee County",
+   "slug": "cherokee-county",
+   "bbox": [
+    -81.8747,
+    34.8393,
+    -81.3666,
+    35.184
+   ],
+   "units": 29,
+   "rep": 18615,
+   "dem": 5895,
+   "total": 24713
+  },
+  {
+   "fips": "45023",
+   "name": "Chester County",
+   "slug": "chester-county",
+   "bbox": [
+    -81.4883,
+    34.5431,
+    -80.8597,
+    34.8222
+   ],
+   "units": 21,
+   "rep": 9028,
+   "dem": 6353,
+   "total": 15553
+  },
+  {
+   "fips": "45025",
+   "name": "Chesterfield County",
+   "slug": "chesterfield-county",
+   "bbox": [
+    -80.5639,
+    34.3662,
+    -79.7775,
+    34.8174
+   ],
+   "units": 25,
+   "rep": 11678,
+   "dem": 6520,
+   "total": 18387
+  },
+  {
+   "fips": "45027",
+   "name": "Clarendon County",
+   "slug": "clarendon-county",
+   "bbox": [
+    -80.5405,
+    33.4302,
+    -79.8756,
+    33.9465
+   ],
+   "units": 25,
+   "rep": 9065,
+   "dem": 7064,
+   "total": 16320
+  },
+  {
+   "fips": "45029",
+   "name": "Colleton County",
+   "slug": "colleton-county",
+   "bbox": [
+    -81.0823,
+    32.3976,
+    -80.2236,
+    33.1812
+   ],
+   "units": 32,
+   "rep": 10689,
+   "dem": 7368,
+   "total": 18261
+  },
+  {
+   "fips": "45031",
+   "name": "Darlington County",
+   "slug": "darlington-county",
+   "bbox": [
+    -80.2888,
+    34.0859,
+    -79.6568,
+    34.5349
+   ],
+   "units": 32,
+   "rep": 17007,
+   "dem": 12965,
+   "total": 30309
+  },
+  {
+   "fips": "45033",
+   "name": "Dillon County",
+   "slug": "dillon-county",
+   "bbox": [
+    -79.6334,
+    34.2309,
+    -79.0713,
+    34.621
+   ],
+   "units": 19,
+   "rep": 6525,
+   "dem": 5240,
+   "total": 11859
+  },
+  {
+   "fips": "45035",
+   "name": "Dorchester County",
+   "slug": "dorchester-county",
+   "bbox": [
+    -80.792,
+    32.8182,
+    -80.079,
+    33.3345
+   ],
+   "units": 81,
+   "rep": 43839,
+   "dem": 32489,
+   "total": 77764
+  },
+  {
+   "fips": "45037",
+   "name": "Edgefield County",
+   "slug": "edgefield-county",
+   "bbox": [
+    -82.183,
+    33.5321,
+    -81.6518,
+    33.9769
+   ],
+   "units": 12,
+   "rep": 9088,
+   "dem": 4658,
+   "total": 13914
+  },
+  {
+   "fips": "45039",
+   "name": "Fairfield County",
+   "slug": "fairfield-county",
+   "bbox": [
+    -81.4275,
+    34.1746,
+    -80.7699,
+    34.572
+   ],
+   "units": 22,
+   "rep": 4779,
+   "dem": 6266,
+   "total": 11191
+  },
+  {
+   "fips": "45041",
+   "name": "Florence County",
+   "slug": "florence-county",
+   "bbox": [
+    -80.0699,
+    33.7754,
+    -79.3138,
+    34.3076
+   ],
+   "units": 63,
+   "rep": 32604,
+   "dem": 27703,
+   "total": 61126
+  },
+  {
+   "fips": "45043",
+   "name": "Georgetown County",
+   "slug": "georgetown-county",
+   "bbox": [
+    -79.6809,
+    33.0498,
+    -78.9268,
+    33.7799
+   ],
+   "units": 34,
+   "rep": 22308,
+   "dem": 14951,
+   "total": 37722
+  },
+  {
+   "fips": "45045",
+   "name": "Greenville County",
+   "slug": "greenville-county",
+   "bbox": [
+    -82.7641,
+    34.4843,
+    -82.1456,
+    35.2155
+   ],
+   "units": 151,
+   "rep": 157820,
+   "dem": 99591,
+   "total": 262081
+  },
+  {
+   "fips": "45047",
+   "name": "Greenwood County",
+   "slug": "greenwood-county",
+   "bbox": [
+    -82.3342,
+    33.9532,
+    -81.8684,
+    34.4097
+   ],
+   "units": 50,
+   "rep": 19627,
+   "dem": 10706,
+   "total": 30738
+  },
+  {
+   "fips": "45049",
+   "name": "Hampton County",
+   "slug": "hampton-county",
+   "bbox": [
+    -81.4275,
+    32.5511,
+    -80.8263,
+    33.0266
+   ],
+   "units": 18,
+   "rep": 3798,
+   "dem": 4323,
+   "total": 8225
+  },
+  {
+   "fips": "45051",
+   "name": "Horry County",
+   "slug": "horry-county",
+   "bbox": [
+    -79.3391,
+    33.5691,
+    -78.4993,
+    34.2998
+   ],
+   "units": 125,
+   "rep": 141542,
+   "dem": 62235,
+   "total": 205682
+  },
+  {
+   "fips": "45053",
+   "name": "Jasper County",
+   "slug": "jasper-county",
+   "bbox": [
+    -81.2813,
+    31.996,
+    -80.7417,
+    32.7531
+   ],
+   "units": 18,
+   "rep": 9888,
+   "dem": 8138,
+   "total": 18209
+  },
+  {
+   "fips": "45055",
+   "name": "Kershaw County",
+   "slug": "kershaw-county",
+   "bbox": [
+    -80.8792,
+    34.069,
+    -80.284,
+    34.6148
+   ],
+   "units": 32,
+   "rep": 21254,
+   "dem": 11802,
+   "total": 33474
+  },
+  {
+   "fips": "45057",
+   "name": "Lancaster County",
+   "slug": "lancaster-county",
+   "bbox": [
+    -80.9095,
+    34.4578,
+    -80.4084,
+    35.0763
+   ],
+   "units": 36,
+   "rep": 33466,
+   "dem": 20046,
+   "total": 54165
+  },
+  {
+   "fips": "45059",
+   "name": "Laurens County",
+   "slug": "laurens-county",
+   "bbox": [
+    -82.3148,
+    34.2032,
+    -81.6435,
+    34.7852
+   ],
+   "units": 33,
+   "rep": 21031,
+   "dem": 8730,
+   "total": 30093
+  },
+  {
+   "fips": "45061",
+   "name": "Lee County",
+   "slug": "lee-county",
+   "bbox": [
+    -80.4813,
+    33.952,
+    -80.0006,
+    34.3679
+   ],
+   "units": 22,
+   "rep": 3077,
+   "dem": 4502,
+   "total": 8072
+  },
+  {
+   "fips": "45063",
+   "name": "Lexington County",
+   "slug": "lexington-county",
+   "bbox": [
+    -81.5715,
+    33.6529,
+    -80.9246,
+    34.1976
+   ],
+   "units": 96,
+   "rep": 96758,
+   "dem": 47707,
+   "total": 146580
+  },
+  {
+   "fips": "45065",
+   "name": "McCormick County",
+   "slug": "mccormick-county",
+   "bbox": [
+    -82.5946,
+    33.5899,
+    -82.0451,
+    34.0812
+   ],
+   "units": 11,
+   "rep": 3562,
+   "dem": 2510,
+   "total": 6147
+  },
+  {
+   "fips": "45067",
+   "name": "Marion County",
+   "slug": "marion-county",
+   "bbox": [
+    -79.5719,
+    33.6942,
+    -79.1265,
+    34.3006
+   ],
+   "units": 17,
+   "rep": 5896,
+   "dem": 7272,
+   "total": 13334
+  },
+  {
+   "fips": "45069",
+   "name": "Marlboro County",
+   "slug": "marlboro-county",
+   "bbox": [
+    -79.9346,
+    34.298,
+    -79.45,
+    34.8066
+   ],
+   "units": 15,
+   "rep": 4852,
+   "dem": 5096,
+   "total": 10066
+  },
+  {
+   "fips": "45071",
+   "name": "Newberry County",
+   "slug": "newberry-county",
+   "bbox": [
+    -81.945,
+    34.0708,
+    -81.3169,
+    34.5337
+   ],
+   "units": 30,
+   "rep": 12065,
+   "dem": 5837,
+   "total": 18122
+  },
+  {
+   "fips": "45073",
+   "name": "Oconee County",
+   "slug": "oconee-county",
+   "bbox": [
+    -83.3539,
+    34.4722,
+    -82.8229,
+    35.0562
+   ],
+   "units": 31,
+   "rep": 31698,
+   "dem": 9971,
+   "total": 42174
+  },
+  {
+   "fips": "45075",
+   "name": "Orangeburg County",
+   "slug": "orangeburg-county",
+   "bbox": [
+    -81.3735,
+    33.1769,
+    -80.2215,
+    33.7071
+   ],
+   "units": 53,
+   "rep": 13745,
+   "dem": 22815,
+   "total": 36948
+  },
+  {
+   "fips": "45077",
+   "name": "Pickens County",
+   "slug": "pickens-county",
+   "bbox": [
+    -82.9436,
+    34.6091,
+    -82.4765,
+    35.0856
+   ],
+   "units": 61,
+   "rep": 45498,
+   "dem": 13833,
+   "total": 60161
+  },
+  {
+   "fips": "45079",
+   "name": "Richland County",
+   "slug": "richland-county",
+   "bbox": [
+    -81.3453,
+    33.7432,
+    -80.5962,
+    34.2688
+   ],
+   "units": 149,
+   "rep": 57942,
+   "dem": 120880,
+   "total": 182102
+  },
+  {
+   "fips": "45081",
+   "name": "Saluda County",
+   "slug": "saluda-county",
+   "bbox": [
+    -82.0103,
+    33.8145,
+    -81.472,
+    34.1876
+   ],
+   "units": 13,
+   "rep": 6451,
+   "dem": 2454,
+   "total": 9013
+  },
+  {
+   "fips": "45083",
+   "name": "Spartanburg County",
+   "slug": "spartanburg-county",
+   "bbox": [
+    -82.2265,
+    34.5802,
+    -81.7142,
+    35.1962
+   ],
+   "units": 112,
+   "rep": 102712,
+   "dem": 50378,
+   "total": 154939
+  },
+  {
+   "fips": "45085",
+   "name": "Sumter County",
+   "slug": "sumter-county",
+   "bbox": [
+    -80.6467,
+    33.6439,
+    -79.8934,
+    34.1687
+   ],
+   "units": 58,
+   "rep": 21196,
+   "dem": 23412,
+   "total": 45137
+  },
+  {
+   "fips": "45087",
+   "name": "Union County",
+   "slug": "union-county",
+   "bbox": [
+    -81.8519,
+    34.445,
+    -81.416,
+    34.913
+   ],
+   "units": 21,
+   "rep": 8051,
+   "dem": 4040,
+   "total": 12193
+  },
+  {
+   "fips": "45089",
+   "name": "Williamsburg County",
+   "slug": "williamsburg-county",
+   "bbox": [
+    -80.1017,
+    33.3049,
+    -79.317,
+    33.8917
+   ],
+   "units": 28,
+   "rep": 5522,
+   "dem": 8631,
+   "total": 14325
+  },
+  {
+   "fips": "45091",
+   "name": "York County",
+   "slug": "york-county",
+   "bbox": [
+    -81.4923,
+    34.8208,
+    -80.8651,
+    35.1649
+   ],
+   "units": 100,
+   "rep": 87911,
+   "dem": 59379,
+   "total": 149500
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 46,
+ "missing_counties": [],
+ "coverage_note": null
+}

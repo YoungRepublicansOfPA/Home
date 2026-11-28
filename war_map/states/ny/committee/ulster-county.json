@@ -1,0 +1,32 @@
+{
+ "county": "Ulster County",
+ "checked_at": "2026-11-27",
+ "method": "none_found",
+ "election": "June 23, 2026 Primary (ED list not found)",
+ "as_of": "2026-04-06",
+ "seats_per_precinct": null,
+ "sources": [
+  {
+   "url": "https://elections.ulstercountyny.gov/wp-content/uploads/2026/04/Daily-Petition-Filings-2026.pdf",
+   "title": "Ulster County BOE Public Office/Party Position Petition Filings (Unofficial), 3/30-4/6/2026 (lists 119 Republican county committee filers in 67 EDs, all filed 4/3/2026; no validity status)",
+   "type": "candidate_listing",
+   "as_of": "2026-04-06"
+  },
+  {
+   "url": "https://elections.ulstercountyny.gov/election-results/files/2026-06-23-Primary-Results.pdf",
+   "title": "Ulster County BOE Cumulative Results Report, June 23, 2026 Primary (no Republican county committee contests; countywide contest shows 165 precincts)",
+   "type": "results",
+   "as_of": "2026-07-01"
+  }
+ ],
+ "precincts": [],
+ "totals": {
+  "precincts": 0,
+  "seats": 0,
+  "filled": 0,
+  "empty": 0,
+  "empty_no_filer": 0,
+  "unknown": 0
+ },
+ "notes": "Ulster County Republicans filed county committee designating petitions for the June 23, 2026 primary: the BOE unofficial daily filing log lists 119 Republican county committee candidates in 67 EDs (no ED has more than 2), and the 2026 primary results contain no Republican county committee contests, so those filers were unopposed. The county has 165 election districts (per the countywide contest in the 2026 primary results report), but no official list of ED names could be retrieved (the BOE results page returned 404 and the results report is cumulative, not by ED), and the filing log is unofficial and does not show petition validity, declinations or seats per ED. Seat status is therefore not published by ED and is unknown for the whole county. With an official ED list and confirmation of 2 seats per ED, this county could be documented from the filing log."
+}

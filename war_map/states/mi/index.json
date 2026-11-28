@@ -1,0 +1,1272 @@
+{
+ "state": "MI",
+ "name": "Michigan",
+ "fips": "26",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/MI-precincts-with-results.geojson.gz",
+ "bbox": [
+  -90.4183,
+  41.6961,
+  -82.4135,
+  48.2627
+ ],
+ "totals": {
+  "rep": 2816576,
+  "dem": 2736484,
+  "total": 5674863,
+  "units": 3997
+ },
+ "counties": [
+  {
+   "fips": "26001",
+   "name": "Alcona County",
+   "slug": "alcona-county",
+   "bbox": [
+    -83.8886,
+    44.5089,
+    -83.2689,
+    44.8595
+   ],
+   "units": 12,
+   "rep": 5257,
+   "dem": 2140,
+   "total": 7483
+  },
+  {
+   "fips": "26003",
+   "name": "Alger County",
+   "slug": "alger-county",
+   "bbox": [
+    -87.1166,
+    46.1585,
+    -85.8643,
+    46.6908
+   ],
+   "units": 9,
+   "rep": 3116,
+   "dem": 2075,
+   "total": 5258
+  },
+  {
+   "fips": "26005",
+   "name": "Allegan County",
+   "slug": "allegan-county",
+   "bbox": [
+    -86.2736,
+    42.4188,
+    -85.543,
+    42.7689
+   ],
+   "units": 44,
+   "rep": 45205,
+   "dem": 25637,
+   "total": 72023
+  },
+  {
+   "fips": "26007",
+   "name": "Alpena County",
+   "slug": "alpena-county",
+   "bbox": [
+    -83.8904,
+    44.8566,
+    -83.1907,
+    45.2071
+   ],
+   "units": 17,
+   "rep": 10967,
+   "dem": 6038,
+   "total": 17241
+  },
+  {
+   "fips": "26009",
+   "name": "Antrim County",
+   "slug": "antrim-county",
+   "bbox": [
+    -85.4431,
+    44.8124,
+    -84.8473,
+    45.2078
+   ],
+   "units": 16,
+   "rep": 10341,
+   "dem": 6330,
+   "total": 16912
+  },
+  {
+   "fips": "26011",
+   "name": "Arenac County",
+   "slug": "arenac-county",
+   "bbox": [
+    -84.1667,
+    43.9105,
+    -83.4268,
+    44.1635
+   ],
+   "units": 15,
+   "rep": 6379,
+   "dem": 2662,
+   "total": 9163
+  },
+  {
+   "fips": "26013",
+   "name": "Baraga County",
+   "slug": "baraga-county",
+   "bbox": [
+    -88.6795,
+    46.4198,
+    -87.9912,
+    46.967
+   ],
+   "units": 6,
+   "rep": 2779,
+   "dem": 1488,
+   "total": 4332
+  },
+  {
+   "fips": "26015",
+   "name": "Barry County",
+   "slug": "barry-county",
+   "bbox": [
+    -85.5456,
+    42.4197,
+    -85.0716,
+    42.7708
+   ],
+   "units": 24,
+   "rep": 25650,
+   "dem": 12391,
+   "total": 38621
+  },
+  {
+   "fips": "26017",
+   "name": "Bay County",
+   "slug": "bay-county",
+   "bbox": [
+    -84.1681,
+    43.4786,
+    -83.6988,
+    43.9971
+   ],
+   "units": 40,
+   "rep": 34740,
+   "dem": 25734,
+   "total": 61252
+  },
+  {
+   "fips": "26019",
+   "name": "Benzie County",
+   "slug": "benzie-county",
+   "bbox": [
+    -86.2592,
+    44.513,
+    -85.8151,
+    44.7787
+   ],
+   "units": 13,
+   "rep": 6895,
+   "dem": 5780,
+   "total": 12871
+  },
+  {
+   "fips": "26021",
+   "name": "Berrien County",
+   "slug": "berrien-county",
+   "bbox": [
+    -86.8249,
+    41.7595,
+    -86.2228,
+    42.2435
+   ],
+   "units": 58,
+   "rep": 44975,
+   "dem": 38323,
+   "total": 84668
+  },
+  {
+   "fips": "26023",
+   "name": "Branch County",
+   "slug": "branch-county",
+   "bbox": [
+    -85.2936,
+    41.7595,
+    -84.8251,
+    42.0729
+   ],
+   "units": 21,
+   "rep": 14847,
+   "dem": 5910,
+   "total": 21122
+  },
+  {
+   "fips": "26025",
+   "name": "Calhoun County",
+   "slug": "calhoun-county",
+   "bbox": [
+    -85.2995,
+    42.0704,
+    -84.7096,
+    42.4222
+   ],
+   "units": 56,
+   "rep": 38606,
+   "dem": 28988,
+   "total": 68259
+  },
+  {
+   "fips": "26027",
+   "name": "Cass County",
+   "slug": "cass-county",
+   "bbox": [
+    -86.2261,
+    41.7591,
+    -85.7601,
+    42.0715
+   ],
+   "units": 21,
+   "rep": 18502,
+   "dem": 9048,
+   "total": 27910
+  },
+  {
+   "fips": "26029",
+   "name": "Charlevoix County",
+   "slug": "charlevoix-county",
+   "bbox": [
+    -85.8441,
+    45.1149,
+    -84.7327,
+    45.8409
+   ],
+   "units": 20,
+   "rep": 10183,
+   "dem": 7197,
+   "total": 17679
+  },
+  {
+   "fips": "26031",
+   "name": "Cheboygan County",
+   "slug": "cheboygan-county",
+   "bbox": [
+    -84.7344,
+    45.1986,
+    -84.2043,
+    45.8102
+   ],
+   "units": 22,
+   "rep": 10653,
+   "dem": 5543,
+   "total": 16457
+  },
+  {
+   "fips": "26033",
+   "name": "Chippewa County",
+   "slug": "chippewa-county",
+   "bbox": [
+    -85.2401,
+    45.9122,
+    -83.4338,
+    46.7734
+   ],
+   "units": 19,
+   "rep": 11249,
+   "dem": 6796,
+   "total": 18387
+  },
+  {
+   "fips": "26035",
+   "name": "Clare County",
+   "slug": "clare-county",
+   "bbox": [
+    -85.0888,
+    43.8137,
+    -84.606,
+    44.1642
+   ],
+   "units": 19,
+   "rep": 11772,
+   "dem": 5273,
+   "total": 17310
+  },
+  {
+   "fips": "26037",
+   "name": "Clinton County",
+   "slug": "clinton-county",
+   "bbox": [
+    -84.8376,
+    42.7695,
+    -84.3637,
+    43.1189
+   ],
+   "units": 33,
+   "rep": 26751,
+   "dem": 22450,
+   "total": 49986
+  },
+  {
+   "fips": "26039",
+   "name": "Crawford County",
+   "slug": "crawford-county",
+   "bbox": [
+    -84.851,
+    44.5072,
+    -84.3706,
+    44.8584
+   ],
+   "units": 9,
+   "rep": 5613,
+   "dem": 2752,
+   "total": 8487
+  },
+  {
+   "fips": "26041",
+   "name": "Delta County",
+   "slug": "delta-county",
+   "bbox": [
+    -87.368,
+    45.4781,
+    -86.4591,
+    46.1592
+   ],
+   "units": 22,
+   "rep": 14109,
+   "dem": 7462,
+   "total": 21897
+  },
+  {
+   "fips": "26043",
+   "name": "Dickinson County",
+   "slug": "dickinson-county",
+   "bbox": [
+    -88.1362,
+    45.7226,
+    -87.6151,
+    46.247
+   ],
+   "units": 15,
+   "rep": 10324,
+   "dem": 4763,
+   "total": 15344
+  },
+  {
+   "fips": "26045",
+   "name": "Eaton County",
+   "slug": "eaton-county",
+   "bbox": [
+    -85.0756,
+    42.4214,
+    -84.6004,
+    42.7708
+   ],
+   "units": 44,
+   "rep": 33102,
+   "dem": 31056,
+   "total": 65208
+  },
+  {
+   "fips": "26047",
+   "name": "Emmet County",
+   "slug": "emmet-county",
+   "bbox": [
+    -85.1202,
+    45.2711,
+    -84.7298,
+    45.7894
+   ],
+   "units": 22,
+   "rep": 12465,
+   "dem": 10005,
+   "total": 22901
+  },
+  {
+   "fips": "26049",
+   "name": "Genesee County",
+   "slug": "genesee-county",
+   "bbox": [
+    -83.9321,
+    42.7808,
+    -83.4533,
+    43.2231
+   ],
+   "units": 156,
+   "rep": 105303,
+   "dem": 114670,
+   "total": 223268
+  },
+  {
+   "fips": "26051",
+   "name": "Gladwin County",
+   "slug": "gladwin-county",
+   "bbox": [
+    -84.6081,
+    43.8136,
+    -84.1659,
+    44.1618
+   ],
+   "units": 17,
+   "rep": 10809,
+   "dem": 4501,
+   "total": 15506
+  },
+  {
+   "fips": "26053",
+   "name": "Gogebic County",
+   "slug": "gogebic-county",
+   "bbox": [
+    -90.4183,
+    46.0974,
+    -88.9906,
+    46.7655
+   ],
+   "units": 10,
+   "rep": 4803,
+   "dem": 3385,
+   "total": 8295
+  },
+  {
+   "fips": "26055",
+   "name": "Grand Traverse County",
+   "slug": "grand-traverse-county",
+   "bbox": [
+    -85.8178,
+    44.5121,
+    -85.3329,
+    44.9918
+   ],
+   "units": 39,
+   "rep": 31423,
+   "dem": 30339,
+   "total": 62887
+  },
+  {
+   "fips": "26057",
+   "name": "Gratiot County",
+   "slug": "gratiot-county",
+   "bbox": [
+    -84.846,
+    43.1176,
+    -84.3678,
+    43.4662
+   ],
+   "units": 21,
+   "rep": 12894,
+   "dem": 6682,
+   "total": 19864
+  },
+  {
+   "fips": "26059",
+   "name": "Hillsdale County",
+   "slug": "hillsdale-county",
+   "bbox": [
+    -84.8265,
+    41.6961,
+    -84.3604,
+    42.0735
+   ],
+   "units": 26,
+   "rep": 18631,
+   "dem": 5875,
+   "total": 24828
+  },
+  {
+   "fips": "26061",
+   "name": "Houghton County",
+   "slug": "houghton-county",
+   "bbox": [
+    -88.9916,
+    46.4197,
+    -88.2274,
+    47.2863
+   ],
+   "units": 29,
+   "rep": 11181,
+   "dem": 7881,
+   "total": 19405
+  },
+  {
+   "fips": "26063",
+   "name": "Huron County",
+   "slug": "huron-county",
+   "bbox": [
+    -83.496,
+    43.6676,
+    -82.6049,
+    44.0734
+   ],
+   "units": 31,
+   "rep": 13224,
+   "dem": 5522,
+   "total": 18969
+  },
+  {
+   "fips": "26065",
+   "name": "Ingham County",
+   "slug": "ingham-county",
+   "bbox": [
+    -84.6031,
+    42.422,
+    -84.1406,
+    42.7766
+   ],
+   "units": 103,
+   "rep": 50564,
+   "dem": 94542,
+   "total": 148303
+  },
+  {
+   "fips": "26067",
+   "name": "Ionia County",
+   "slug": "ionia-county",
+   "bbox": [
+    -85.3126,
+    42.7696,
+    -84.8369,
+    43.1202
+   ],
+   "units": 19,
+   "rep": 22179,
+   "dem": 11338,
+   "total": 34021
+  },
+  {
+   "fips": "26069",
+   "name": "Iosco County",
+   "slug": "iosco-county",
+   "bbox": [
+    -83.8866,
+    44.1618,
+    -83.3167,
+    44.5118
+   ],
+   "units": 18,
+   "rep": 10155,
+   "dem": 5344,
+   "total": 15754
+  },
+  {
+   "fips": "26071",
+   "name": "Iron County",
+   "slug": "iron-county",
+   "bbox": [
+    -88.9912,
+    45.9208,
+    -88.1166,
+    46.4201
+   ],
+   "units": 12,
+   "rep": 4501,
+   "dem": 2441,
+   "total": 7033
+  },
+  {
+   "fips": "26073",
+   "name": "Isabella County",
+   "slug": "isabella-county",
+   "bbox": [
+    -85.0888,
+    43.466,
+    -84.606,
+    43.8152
+   ],
+   "units": 23,
+   "rep": 16320,
+   "dem": 14011,
+   "total": 30900
+  },
+  {
+   "fips": "26075",
+   "name": "Jackson County",
+   "slug": "jackson-county",
+   "bbox": [
+    -84.7186,
+    42.0704,
+    -84.1308,
+    42.4249
+   ],
+   "units": 59,
+   "rep": 50199,
+   "dem": 32348,
+   "total": 83827
+  },
+  {
+   "fips": "26077",
+   "name": "Kalamazoo County",
+   "slug": "kalamazoo-county",
+   "bbox": [
+    -85.7661,
+    42.0693,
+    -85.2936,
+    42.4215
+   ],
+   "units": 105,
+   "rep": 58671,
+   "dem": 84501,
+   "total": 146119
+  },
+  {
+   "fips": "26079",
+   "name": "Kalkaska County",
+   "slug": "kalkaska-county",
+   "bbox": [
+    -85.334,
+    44.5103,
+    -84.8471,
+    44.8596
+   ],
+   "units": 13,
+   "rep": 8149,
+   "dem": 3206,
+   "total": 11550
+  },
+  {
+   "fips": "26081",
+   "name": "Kent County",
+   "slug": "kent-county",
+   "bbox": [
+    -85.7907,
+    42.7681,
+    -85.3096,
+    43.2944
+   ],
+   "units": 240,
+   "rep": 172720,
+   "dem": 192668,
+   "total": 372930
+  },
+  {
+   "fips": "26083",
+   "name": "Keweenaw County",
+   "slug": "keweenaw-county",
+   "bbox": [
+    -89.3182,
+    47.1997,
+    -87.5856,
+    48.2627
+   ],
+   "units": 5,
+   "rep": 896,
+   "dem": 690,
+   "total": 1614
+  },
+  {
+   "fips": "26085",
+   "name": "Lake County",
+   "slug": "lake-county",
+   "bbox": [
+    -86.0435,
+    43.8141,
+    -85.5623,
+    44.1671
+   ],
+   "units": 15,
+   "rep": 4523,
+   "dem": 2298,
+   "total": 6923
+  },
+  {
+   "fips": "26087",
+   "name": "Lapeer County",
+   "slug": "lapeer-county",
+   "bbox": [
+    -83.4607,
+    42.8804,
+    -82.9836,
+    43.327
+   ],
+   "units": 33,
+   "rep": 38398,
+   "dem": 16338,
+   "total": 55508
+  },
+  {
+   "fips": "26089",
+   "name": "Leelanau County",
+   "slug": "leelanau-county",
+   "bbox": [
+    -86.1561,
+    44.7745,
+    -85.527,
+    45.4911
+   ],
+   "units": 13,
+   "rep": 8035,
+   "dem": 9406,
+   "total": 17725
+  },
+  {
+   "fips": "26091",
+   "name": "Lenawee County",
+   "slug": "lenawee-county",
+   "bbox": [
+    -84.3633,
+    41.7066,
+    -83.7632,
+    42.0824
+   ],
+   "units": 41,
+   "rep": 33463,
+   "dem": 20787,
+   "total": 55078
+  },
+  {
+   "fips": "26093",
+   "name": "Livingston County",
+   "slug": "livingston-county",
+   "bbox": [
+    -84.1582,
+    42.4239,
+    -83.6648,
+    42.7833
+   ],
+   "units": 73,
+   "rep": 81217,
+   "dem": 49503,
+   "total": 132448
+  },
+  {
+   "fips": "26095",
+   "name": "Luce County",
+   "slug": "luce-county",
+   "bbox": [
+    -85.8651,
+    46.2446,
+    -85.2378,
+    46.7555
+   ],
+   "units": 4,
+   "rep": 2170,
+   "dem": 769,
+   "total": 2991
+  },
+  {
+   "fips": "26097",
+   "name": "Mackinac County",
+   "slug": "mackinac-county",
+   "bbox": [
+    -85.8654,
+    45.7182,
+    -84.1142,
+    46.2457
+   ],
+   "units": 14,
+   "rep": 4476,
+   "dem": 2674,
+   "total": 7247
+  },
+  {
+   "fips": "26099",
+   "name": "Macomb County",
+   "slug": "macomb-county",
+   "bbox": [
+    -83.1029,
+    42.4472,
+    -82.706,
+    42.8975
+   ],
+   "units": 308,
+   "rep": 284660,
+   "dem": 214977,
+   "total": 510076
+  },
+  {
+   "fips": "26101",
+   "name": "Manistee County",
+   "slug": "manistee-county",
+   "bbox": [
+    -86.3886,
+    44.1642,
+    -85.8176,
+    44.5183
+   ],
+   "units": 16,
+   "rep": 8748,
+   "dem": 6309,
+   "total": 15323
+  },
+  {
+   "fips": "26103",
+   "name": "Marquette County",
+   "slug": "marquette-county",
+   "bbox": [
+    -88.1176,
+    45.9851,
+    -87.1159,
+    46.9666
+   ],
+   "units": 29,
+   "rep": 17459,
+   "dem": 20866,
+   "total": 39009
+  },
+  {
+   "fips": "26105",
+   "name": "Mason County",
+   "slug": "mason-county",
+   "bbox": [
+    -86.5154,
+    43.8156,
+    -86.0379,
+    44.1787
+   ],
+   "units": 24,
+   "rep": 10830,
+   "dem": 6973,
+   "total": 18091
+  },
+  {
+   "fips": "26107",
+   "name": "Mecosta County",
+   "slug": "mecosta-county",
+   "bbox": [
+    -85.5629,
+    43.4662,
+    -85.085,
+    43.8155
+   ],
+   "units": 20,
+   "rep": 14445,
+   "dem": 7688,
+   "total": 22489
+  },
+  {
+   "fips": "26109",
+   "name": "Menominee County",
+   "slug": "menominee-county",
+   "bbox": [
+    -87.8882,
+    45.0953,
+    -87.2639,
+    45.986
+   ],
+   "units": 19,
+   "rep": 8647,
+   "dem": 4256,
+   "total": 13087
+  },
+  {
+   "fips": "26111",
+   "name": "Midland County",
+   "slug": "midland-county",
+   "bbox": [
+    -84.6081,
+    43.466,
+    -84.1669,
+    43.8284
+   ],
+   "units": 34,
+   "rep": 28571,
+   "dem": 20926,
+   "total": 50379
+  },
+  {
+   "fips": "26113",
+   "name": "Missaukee County",
+   "slug": "missaukee-county",
+   "bbox": [
+    -85.3384,
+    44.1614,
+    -84.8509,
+    44.5123
+   ],
+   "units": 17,
+   "rep": 7066,
+   "dem": 1945,
+   "total": 9152
+  },
+  {
+   "fips": "26115",
+   "name": "Monroe County",
+   "slug": "monroe-county",
+   "bbox": [
+    -83.7739,
+    41.7236,
+    -83.1786,
+    42.0943
+   ],
+   "units": 63,
+   "rep": 57402,
+   "dem": 32613,
+   "total": 91494
+  },
+  {
+   "fips": "26117",
+   "name": "Montcalm County",
+   "slug": "montcalm-county",
+   "bbox": [
+    -85.5628,
+    43.1188,
+    -84.8353,
+    43.4683
+   ],
+   "units": 27,
+   "rep": 23946,
+   "dem": 10368,
+   "total": 34845
+  },
+  {
+   "fips": "26119",
+   "name": "Montmorency County",
+   "slug": "montmorency-county",
+   "bbox": [
+    -84.3721,
+    44.8548,
+    -83.8802,
+    45.2021
+   ],
+   "units": 9,
+   "rep": 4599,
+   "dem": 1702,
+   "total": 6391
+  },
+  {
+   "fips": "26121",
+   "name": "Muskegon County",
+   "slug": "muskegon-county",
+   "bbox": [
+    -86.4613,
+    43.1174,
+    -85.7905,
+    43.4725
+   ],
+   "units": 53,
+   "rep": 47733,
+   "dem": 46028,
+   "total": 95181
+  },
+  {
+   "fips": "26123",
+   "name": "Newaygo County",
+   "slug": "newaygo-county",
+   "bbox": [
+    -86.0398,
+    43.2929,
+    -85.5623,
+    43.8156
+   ],
+   "units": 29,
+   "rep": 20630,
+   "dem": 8131,
+   "total": 29242
+  },
+  {
+   "fips": "26125",
+   "name": "Oakland County",
+   "slug": "oakland-county",
+   "bbox": [
+    -83.6894,
+    42.4312,
+    -83.0834,
+    42.8886
+   ],
+   "units": 498,
+   "rep": 337791,
+   "dem": 419519,
+   "total": 773913
+  },
+  {
+   "fips": "26127",
+   "name": "Oceana County",
+   "slug": "oceana-county",
+   "bbox": [
+    -86.5411,
+    43.4675,
+    -86.0379,
+    43.8195
+   ],
+   "units": 17,
+   "rep": 9547,
+   "dem": 5085,
+   "total": 14884
+  },
+  {
+   "fips": "26129",
+   "name": "Ogemaw County",
+   "slug": "ogemaw-county",
+   "bbox": [
+    -84.3706,
+    44.1606,
+    -83.8832,
+    44.5093
+   ],
+   "units": 17,
+   "rep": 8879,
+   "dem": 3578,
+   "total": 12642
+  },
+  {
+   "fips": "26131",
+   "name": "Ontonagon County",
+   "slug": "ontonagon-county",
+   "bbox": [
+    -89.8882,
+    46.3323,
+    -88.8639,
+    47.0313
+   ],
+   "units": 11,
+   "rep": 2479,
+   "dem": 1313,
+   "total": 3844
+  },
+  {
+   "fips": "26133",
+   "name": "Osceola County",
+   "slug": "osceola-county",
+   "bbox": [
+    -85.5645,
+    43.8135,
+    -85.0874,
+    44.1651
+   ],
+   "units": 18,
+   "rep": 9639,
+   "dem": 3326,
+   "total": 13202
+  },
+  {
+   "fips": "26135",
+   "name": "Oscoda County",
+   "slug": "oscoda-county",
+   "bbox": [
+    -84.3721,
+    44.5071,
+    -83.8867,
+    44.8566
+   ],
+   "units": 7,
+   "rep": 3716,
+   "dem": 1414,
+   "total": 5197
+  },
+  {
+   "fips": "26137",
+   "name": "Otsego County",
+   "slug": "otsego-county",
+   "bbox": [
+    -84.858,
+    44.855,
+    -84.3666,
+    45.2019
+   ],
+   "units": 13,
+   "rep": 10693,
+   "dem": 5052,
+   "total": 15971
+  },
+  {
+   "fips": "26139",
+   "name": "Ottawa County",
+   "slug": "ottawa-county",
+   "bbox": [
+    -86.2719,
+    42.7675,
+    -85.7821,
+    43.206
+   ],
+   "units": 101,
+   "rep": 106133,
+   "dem": 69653,
+   "total": 178507
+  },
+  {
+   "fips": "26141",
+   "name": "Presque Isle County",
+   "slug": "presque-isle-county",
+   "bbox": [
+    -84.252,
+    45.1984,
+    -83.3814,
+    45.6262
+   ],
+   "units": 16,
+   "rep": 5568,
+   "dem": 3036,
+   "total": 8760
+  },
+  {
+   "fips": "26143",
+   "name": "Roscommon County",
+   "slug": "roscommon-county",
+   "bbox": [
+    -84.8558,
+    44.1605,
+    -84.3663,
+    44.5115
+   ],
+   "units": 13,
+   "rep": 10582,
+   "dem": 5290,
+   "total": 16073
+  },
+  {
+   "fips": "26145",
+   "name": "Saginaw County",
+   "slug": "saginaw-county",
+   "bbox": [
+    -84.37,
+    43.1285,
+    -83.6953,
+    43.5689
+   ],
+   "units": 76,
+   "rep": 52912,
+   "dem": 49515,
+   "total": 104008
+  },
+  {
+   "fips": "26147",
+   "name": "St. Clair County",
+   "slug": "st-clair-county",
+   "bbox": [
+    -82.9963,
+    42.5186,
+    -82.4135,
+    43.169
+   ],
+   "units": 63,
+   "rep": 64277,
+   "dem": 30844,
+   "total": 96658
+  },
+  {
+   "fips": "26149",
+   "name": "St. Joseph County",
+   "slug": "st-joseph-county",
+   "bbox": [
+    -85.7918,
+    41.7589,
+    -85.2921,
+    42.0716
+   ],
+   "units": 23,
+   "rep": 19403,
+   "dem": 9452,
+   "total": 29350
+  },
+  {
+   "fips": "26151",
+   "name": "Sanilac County",
+   "slug": "sanilac-county",
+   "bbox": [
+    -83.1204,
+    43.1541,
+    -82.5032,
+    43.6905
+   ],
+   "units": 30,
+   "rep": 17080,
+   "dem": 5956,
+   "total": 23361
+  },
+  {
+   "fips": "26153",
+   "name": "Schoolcraft County",
+   "slug": "schoolcraft-county",
+   "bbox": [
+    -86.6157,
+    45.7552,
+    -85.864,
+    46.5059
+   ],
+   "units": 9,
+   "rep": 3196,
+   "dem": 1631,
+   "total": 4898
+  },
+  {
+   "fips": "26155",
+   "name": "Shiawassee County",
+   "slug": "shiawassee-county",
+   "bbox": [
+    -84.3679,
+    42.7758,
+    -83.9225,
+    43.1328
+   ],
+   "units": 31,
+   "rep": 24718,
+   "dem": 15335,
+   "total": 40752
+  },
+  {
+   "fips": "26157",
+   "name": "Tuscola County",
+   "slug": "tuscola-county",
+   "bbox": [
+    -83.6997,
+    43.2214,
+    -83.1038,
+    43.7289
+   ],
+   "units": 26,
+   "rep": 21764,
+   "dem": 8560,
+   "total": 30744
+  },
+  {
+   "fips": "26159",
+   "name": "Van Buren County",
+   "slug": "van-buren-county",
+   "bbox": [
+    -86.3646,
+    42.0693,
+    -85.763,
+    42.4207
+   ],
+   "units": 32,
+   "rep": 23407,
+   "dem": 17175,
+   "total": 41249
+  },
+  {
+   "fips": "26161",
+   "name": "Washtenaw County",
+   "slug": "washtenaw-county",
+   "bbox": [
+    -84.1341,
+    42.0716,
+    -83.5394,
+    42.4352
+   ],
+   "units": 120,
+   "rep": 58844,
+   "dem": 157152,
+   "total": 223502
+  },
+  {
+   "fips": "26163",
+   "name": "Wayne County",
+   "slug": "wayne-county",
+   "bbox": [
+    -83.5519,
+    42.0279,
+    -82.8701,
+    42.451
+   ],
+   "units": 512,
+   "rep": 288860,
+   "dem": 537032,
+   "total": 859326
+  },
+  {
+   "fips": "26165",
+   "name": "Wexford County",
+   "slug": "wexford-county",
+   "bbox": [
+    -85.8214,
+    44.1642,
+    -85.334,
+    44.513
+   ],
+   "units": 20,
+   "rep": 12968,
+   "dem": 6224,
+   "total": 19499
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 83,
+ "missing_counties": [],
+ "coverage_note": null
+}

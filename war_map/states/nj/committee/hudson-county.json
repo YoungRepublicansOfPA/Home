@@ -1,0 +1,6134 @@
+{
+  "county": "Hudson",
+  "checked_at": "2026-11-27",
+  "method": "candidate_listing",
+  "election": "June 10, 2025 Primary Election",
+  "as_of": "2025-05-01",
+  "seats_per_precinct": 2,
+  "sources": [
+    {
+      "url": "https://www.hudsoncountyclerk.org/elections-archives/",
+      "title": "Hudson County Clerk elections archives: 2025 Primary Election Sample Ballots (19 PDFs, Forms 1-19, one page per election district; Republican 'For Members of the County Committee (Vote for Two)' column)",
+      "type": "candidate_listing",
+      "as_of": "2025-05-01"
+    },
+    {
+      "url": "https://www.hudsoncountyclerk.org/wp-content/uploads/2025/04/F01-Bayonne.pdf",
+      "title": "Example: Form 1, City of Bayonne, June 10, 2025 Primary Election Sample Ballot",
+      "type": "candidate_listing",
+      "as_of": "2025-04-25"
+    },
+    {
+      "url": "https://results.enr.clarityelections.com/NJ/Hudson/123863/",
+      "title": "Hudson County 2025 Primary Election official results (Clarity): 40 contests, no county committee contests",
+      "type": "results",
+      "as_of": "2026-11-27"
+    },
+    {
+      "url": "https://www.hudsoncountyclerk.org/wp-content/uploads/2025/06/2025-Primary-Election-Table-Reports-Official-Results.pdf",
+      "title": "Hudson County 2025 Primary Election Table Reports, Official Results (72 pages, no county committee contests)",
+      "type": "results",
+      "as_of": "2025-06"
+    },
+    {
+      "url": "https://www.hudsoncountyclerk.org/wp-content/uploads/2026/04/June-2-2026-Official-Master-List-3.pdf",
+      "title": "Hudson County June 2, 2026 Primary Election Official Master List (no county committee candidates)",
+      "type": "candidate_listing",
+      "as_of": "2026-04"
+    },
+    {
+      "url": "https://www.insidernj.com/press-release/hudson-county-republican-committee-congratulates-tuesdays-winners-sets-new-convention-date-june-29th",
+      "title": "Hudson County Republican Committee release on the June 2021 county committee election (context for the 4-year cycle only)",
+      "type": "rules",
+      "as_of": "2021-06-10"
+    },
+    {
+      "url": "https://nj.gov/state/elections/dos-statutes-elections-19-01-09.shtml",
+      "title": "N.J.S.A. 19:5-3 (one committeeman and one committeewoman per election district)",
+      "type": "rules",
+      "as_of": "2026-11-27"
+    }
+  ],
+  "precincts": [
+    {
+      "name": "BAYONNE W1 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W1 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W1 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W1 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W1 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W1 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W1 D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W1 D8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W1 D9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W1 D10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W1 D11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W1 D12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W1 D13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W1 D14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W1 D15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W1 D16",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W2 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W2 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W2 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W2 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W2 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W2 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W2 D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W2 D8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W2 D9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W2 D10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W2 D11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W2 D12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W2 D13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W2 D14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W2 D15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W2 D16",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D16",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D17",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D18",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "BAYONNE W3 D19",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "EAST NEWARK W1 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "EAST NEWARK W1 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "GUTTENBERG W1 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "GUTTENBERG W1 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "GUTTENBERG W1 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "GUTTENBERG W1 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "GUTTENBERG W1 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "GUTTENBERG W1 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "GUTTENBERG W1 D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HARRISON W1 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HARRISON W1 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HARRISON W1 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HARRISON W2 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HARRISON W2 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HARRISON W2 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HARRISON W3 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HARRISON W3 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HARRISON W3 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HARRISON W4 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HARRISON W4 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HARRISON W4 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W1 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W1 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W1 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W1 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W1 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W1 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W1 D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W2 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W2 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W2 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W2 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W2 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W2 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W2 D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W3 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W3 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W3 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W3 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W3 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W3 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W3 D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W4 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W4 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W4 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W4 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W4 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W4 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W4 D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W5 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W5 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W5 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W5 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W5 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W5 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W5 D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W6 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W6 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W6 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W6 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W6 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W6 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "HOBOKEN W6 D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D16",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D17",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D18",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D19",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D20",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D21",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D22",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D23",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D24",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D25",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D26",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D27",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D28",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D29",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D30",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D31",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D32",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D33",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WA D34",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D16",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D17",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D18",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D19",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D20",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D21",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D22",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D23",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D24",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D25",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D26",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D30",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D32A",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D33A",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D16",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D17",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D18",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D19",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D20",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D21",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D22",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D27",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D28",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D27",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D28",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D29",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D31",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D32B",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WB D33B",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D16",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D17",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D18",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D19",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D20",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D21",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D22",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D23",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D24",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D25",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D26",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D27",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D28",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D29",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D30",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WC D31",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D16",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D17",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D18",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D19",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D20",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D21",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D22",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D23",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D24",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D25",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D26",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D27",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D28",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D29",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D30",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WD D31",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D12",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D13",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D14",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D15",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D16",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D17",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D18",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D19",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D20",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D21",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D22",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D23",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D24",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D25",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D26",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WE D27",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D23",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D24",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D25",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D26",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D29",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D30",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D31",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D32",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D33",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "JERSEY CITY WF D34",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W1 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W1 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W1 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W1 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W1 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W1 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W1 D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W1 D8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W2 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W2 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W2 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W2 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W2 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W2 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W3 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W3 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W3 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W3 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W3 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W3 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W3 D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W3 D8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W3 D9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W4 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W4 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W4 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W4 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W4 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W4 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "KEARNY W4 D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W1 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W1 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W1 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W1 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W1 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W1 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W2 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W2 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W2 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W2 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W2 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W2 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W3 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W3 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W3 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W3 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W3 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W3 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W4 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W4 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W4 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W4 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W4 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W5 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W5 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W5 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W5 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W5 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W5 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W6 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W6 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W6 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W6 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W6 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W7 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W7 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W7 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W7 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "NORTH BERGEN W7 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "SECAUCUS W1 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "SECAUCUS W1 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "SECAUCUS W1 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "SECAUCUS W1 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "SECAUCUS W2 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "SECAUCUS W2 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "SECAUCUS W2 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "SECAUCUS W2 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "SECAUCUS W2 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "SECAUCUS W3 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "SECAUCUS W3 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "SECAUCUS W3 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "SECAUCUS W3 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "SECAUCUS W3 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W1 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W1 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W1 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W1 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W1 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W1 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W1 D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W2 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W2 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W2 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W3 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W3 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W3 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W3 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W3 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W4 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W4 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W4 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W5 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W5 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W5 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W6 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W6 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W6 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W7 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W7 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W7 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W7 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W8 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W8 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W8 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W9 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W9 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W9 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W9 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W9 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W9 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W10 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "UNION CITY W10 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "WEEHAWKEN W1 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEEHAWKEN W1 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEEHAWKEN W1 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "WEEHAWKEN W1 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEEHAWKEN W2 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEEHAWKEN W2 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEEHAWKEN W2 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEEHAWKEN W2 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEEHAWKEN W3 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEEHAWKEN W3 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W1 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W1 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W1 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W1 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W1 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W1 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W1 D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W1 D8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W1 D9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W2 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W2 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W2 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W2 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W2 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W2 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W2 D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W2 D8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W2 D9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W3 D1",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W3 D2",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W3 D3",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W3 D4",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W3 D5",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W3 D6",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W3 D7",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W3 D8",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W3 D9",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "unknown"
+        },
+        {
+          "seat": "Member",
+          "status": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W3 D10",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    },
+    {
+      "name": "WEST NEW YORK W3 D11",
+      "seats": [
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        },
+        {
+          "seat": "Member",
+          "status": "empty_no_filer"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "precincts": 467,
+    "seats": 934,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 602,
+    "unknown": 332
+  },
+  "notes": "Hudson Republicans elected the county committee in June 2021 and again on the June 10, 2025 primary ballot, where every one of the 467 election districts had a Republican 'For Members of the County Committee (Vote for Two)' contest; the 2026 primary had none. The county's official 2025 results (Clarity and table reports) contain no county committee contests, so no results were found and the evidence is the official sample ballots (a candidate listing). The ballots do not mark which candidate is running for the male or female seat, so seats are labeled 'Member'. Unknown = a slot with a printed Republican candidate (result not verified). Empty_no_filer = no Republican candidate for the slot (write-ins could still have won). 4 districts had more than two candidates (both seats unknown). Candidates were counted from the ballot-position labels in the Republican county committee column of each page; 9 rotated pages (East Newark and Guttenberg) were read from the text layout, where both slots read 'NO PETITION FILED'. Precinct names are as printed in each page's form label (e.g. 'BAYONNE W1 D1')."
+}

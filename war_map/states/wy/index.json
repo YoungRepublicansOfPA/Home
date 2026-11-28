@@ -1,0 +1,372 @@
+{
+ "state": "WY",
+ "name": "Wyoming",
+ "fips": "56",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/WY-precincts-with-results.geojson.gz",
+ "bbox": [
+  -111.0546,
+  40.9948,
+  -104.0524,
+  45.0058
+ ],
+ "totals": {
+  "rep": 192633,
+  "dem": 69527,
+  "total": 269048,
+  "units": 431
+ },
+ "counties": [
+  {
+   "fips": "56001",
+   "name": "Albany County",
+   "slug": "albany-county",
+   "bbox": [
+    -106.3233,
+    40.9968,
+    -105.2714,
+    42.4332
+   ],
+   "units": 11,
+   "rep": 8930,
+   "dem": 8371,
+   "total": 17877
+  },
+  {
+   "fips": "56003",
+   "name": "Big Horn County",
+   "slug": "big-horn-county",
+   "bbox": [
+    -108.6221,
+    44.1657,
+    -107.145,
+    45.0007
+   ],
+   "units": 13,
+   "rep": 4867,
+   "dem": 742,
+   "total": 5735
+  },
+  {
+   "fips": "56005",
+   "name": "Campbell County",
+   "slug": "campbell-county",
+   "bbox": [
+    -106.0249,
+    43.4948,
+    -105.0748,
+    45.0004
+   ],
+   "units": 37,
+   "rep": 16006,
+   "dem": 2004,
+   "total": 18342
+  },
+  {
+   "fips": "56007",
+   "name": "Carbon County",
+   "slug": "carbon-county",
+   "bbox": [
+    -107.93,
+    40.9991,
+    -106.0684,
+    42.4348
+   ],
+   "units": 19,
+   "rep": 4952,
+   "dem": 1274,
+   "total": 6387
+  },
+  {
+   "fips": "56009",
+   "name": "Converse County",
+   "slug": "converse-county",
+   "bbox": [
+    -106.0782,
+    42.2889,
+    -104.8923,
+    43.4996
+   ],
+   "units": 19,
+   "rep": 5756,
+   "dem": 845,
+   "total": 6739
+  },
+  {
+   "fips": "56011",
+   "name": "Crook County",
+   "slug": "crook-county",
+   "bbox": [
+    -105.0861,
+    44.1762,
+    -104.0545,
+    45.0001
+   ],
+   "units": 17,
+   "rep": 3805,
+   "dem": 443,
+   "total": 4344
+  },
+  {
+   "fips": "56013",
+   "name": "Fremont County",
+   "slug": "fremont-county",
+   "bbox": [
+    -110.0536,
+    42.2614,
+    -107.5014,
+    44.0091
+   ],
+   "units": 32,
+   "rep": 11552,
+   "dem": 5179,
+   "total": 17256
+  },
+  {
+   "fips": "56015",
+   "name": "Goshen County",
+   "slug": "goshen-county",
+   "bbox": [
+    -104.6556,
+    41.5641,
+    -104.0525,
+    42.612
+   ],
+   "units": 14,
+   "rep": 4893,
+   "dem": 1156,
+   "total": 6174
+  },
+  {
+   "fips": "56017",
+   "name": "Hot Springs County",
+   "slug": "hot-springs-county",
+   "bbox": [
+    -109.313,
+    43.4595,
+    -107.5951,
+    44.08
+   ],
+   "units": 5,
+   "rep": 2082,
+   "dem": 488,
+   "total": 2620
+  },
+  {
+   "fips": "56019",
+   "name": "Johnson County",
+   "slug": "johnson-county",
+   "bbox": [
+    -107.3714,
+    43.4915,
+    -106.0085,
+    44.564
+   ],
+   "units": 16,
+   "rep": 3936,
+   "dem": 847,
+   "total": 4898
+  },
+  {
+   "fips": "56021",
+   "name": "Laramie County",
+   "slug": "laramie-county",
+   "bbox": [
+    -105.2802,
+    40.998,
+    -104.0524,
+    41.6566
+   ],
+   "units": 40,
+   "rep": 28063,
+   "dem": 14153,
+   "total": 43362
+  },
+  {
+   "fips": "56023",
+   "name": "Lincoln County",
+   "slug": "lincoln-county",
+   "bbox": [
+    -111.0473,
+    41.5775,
+    -110.0464,
+    43.3161
+   ],
+   "units": 15,
+   "rep": 8957,
+   "dem": 1623,
+   "total": 10840
+  },
+  {
+   "fips": "56025",
+   "name": "Natrona County",
+   "slug": "natrona-county",
+   "bbox": [
+    -107.5435,
+    42.4305,
+    -106.0706,
+    43.5019
+   ],
+   "units": 46,
+   "rep": 24671,
+   "dem": 8337,
+   "total": 33921
+  },
+  {
+   "fips": "56027",
+   "name": "Niobrara County",
+   "slug": "niobrara-county",
+   "bbox": [
+    -104.8999,
+    42.6088,
+    -104.0526,
+    43.5033
+   ],
+   "units": 6,
+   "rep": 1108,
+   "dem": 112,
+   "total": 1234
+  },
+  {
+   "fips": "56029",
+   "name": "Park County",
+   "slug": "park-county",
+   "bbox": [
+    -111.0546,
+    43.8012,
+    -108.5506,
+    45.0058
+   ],
+   "units": 22,
+   "rep": 13084,
+   "dem": 3259,
+   "total": 16743
+  },
+  {
+   "fips": "56031",
+   "name": "Platte County",
+   "slug": "platte-county",
+   "bbox": [
+    -105.2865,
+    41.6527,
+    -104.6532,
+    42.6102
+   ],
+   "units": 8,
+   "rep": 3874,
+   "dem": 780,
+   "total": 4765
+  },
+  {
+   "fips": "56033",
+   "name": "Sheridan County",
+   "slug": "sheridan-county",
+   "bbox": [
+    -107.9115,
+    44.5567,
+    -106.0097,
+    45.0014
+   ],
+   "units": 29,
+   "rep": 12041,
+   "dem": 3920,
+   "total": 16425
+  },
+  {
+   "fips": "56035",
+   "name": "Sublette County",
+   "slug": "sublette-county",
+   "bbox": [
+    -110.6238,
+    42.2633,
+    -109.0431,
+    43.4647
+   ],
+   "units": 8,
+   "rep": 3905,
+   "dem": 920,
+   "total": 4924
+  },
+  {
+   "fips": "56037",
+   "name": "Sweetwater County",
+   "slug": "sweetwater-county",
+   "bbox": [
+    -110.0544,
+    40.9973,
+    -107.5038,
+    42.2707
+   ],
+   "units": 34,
+   "rep": 12541,
+   "dem": 3731,
+   "total": 16698
+  },
+  {
+   "fips": "56039",
+   "name": "Teton County",
+   "slug": "teton-county",
+   "bbox": [
+    -111.0534,
+    43.235,
+    -110.051,
+    44.6668
+   ],
+   "units": 17,
+   "rep": 4134,
+   "dem": 8748,
+   "total": 13286
+  },
+  {
+   "fips": "56041",
+   "name": "Uinta County",
+   "slug": "uinta-county",
+   "bbox": [
+    -111.0468,
+    40.9948,
+    -110.048,
+    41.5798
+   ],
+   "units": 10,
+   "rep": 7282,
+   "dem": 1561,
+   "total": 9089
+  },
+  {
+   "fips": "56043",
+   "name": "Washakie County",
+   "slug": "washakie-county",
+   "bbox": [
+    -108.5508,
+    43.5002,
+    -107.1107,
+    44.1684
+   ],
+   "units": 5,
+   "rep": 3125,
+   "dem": 656,
+   "total": 3877
+  },
+  {
+   "fips": "56045",
+   "name": "Weston County",
+   "slug": "weston-county",
+   "bbox": [
+    -105.0817,
+    43.4984,
+    -104.0545,
+    44.1816
+   ],
+   "units": 8,
+   "rep": 3069,
+   "dem": 378,
+   "total": 3512
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 23,
+ "missing_counties": [],
+ "coverage_note": null
+}

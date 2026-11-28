@@ -1,0 +1,1293 @@
+{
+ "county": "Sullivan County",
+ "checked_at": "2026-11-27",
+ "method": "candidate_listing",
+ "election": "June 24, 2025 Primary",
+ "as_of": "2025-07-02",
+ "seats_per_precinct": 2,
+ "sources": [
+  {
+   "url": "https://www.sullivanny.gov/sites/default/files/departments/boe/County%20Committee%20Filers.pdf",
+   "title": "Sullivan County BOE County Committee Filers, 04/18/2025 (all parties; candidate status VALID/INVALID and declined flag)",
+   "type": "candidate_listing",
+   "as_of": "2025-04-18"
+  },
+  {
+   "url": "https://app.enhancedvoting.com/cdn/results/2f613c48-8190-4080-a28e-c3fe9da950b0/Detailed%20Results_03de167b-d0b1-467f-8665-a1fd8f67283f.xlsx",
+   "title": "Sullivan County BOE official results, 2025 Primary Election (June 24, 2025), Precinct/District Results by Contest (Enhanced Voting; marked official, published 2025-07-02)",
+   "type": "results",
+   "as_of": "2025-07-02"
+  },
+  {
+   "url": "https://app.enhancedvoting.com/cdn/results/2f613c48-8190-4080-a28e-c3fe9da950b0/Detailed%20Results_45244b27-c186-4fac-a07d-f3d43b96b960.xlsx",
+   "title": "Sullivan County BOE official results, November 4, 2025 General Election, Precinct/District Results (used for the list of 96 election districts)",
+   "type": "rules",
+   "as_of": "2025-11"
+  },
+  {
+   "url": "https://www.sullivanny.gov/sites/default/files/departments/boe/Sullivan%20County%20Certification%20for%20PE26.pdf",
+   "title": "Sullivan County BOE Certification for the June 23, 2026 Primary Election (no county committee entries, confirming committee was not elected in 2026)",
+   "type": "rules",
+   "as_of": "2026-04-30"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "Town of Bethel 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bethel 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bethel 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bethel 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Bethel 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Callicoon 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Callicoon 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Callicoon 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Callicoon 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Callicoon 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Cochecton 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Delaware 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Delaware 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Fallsburg 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Fallsburg 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Fallsburg 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Fallsburg 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Fallsburg 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Fallsburg 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Fallsburg 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Fallsburg 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Fallsburg 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Fallsburg 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Fallsburg 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Fallsburg 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Fallsburg 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Forestburgh 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Fremont 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Fremont 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Highland 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Highland 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Liberty 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Liberty 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Liberty 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Liberty 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Liberty 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Liberty 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Liberty 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Liberty 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Liberty 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Liberty 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lumberland 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Lumberland 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 14",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 15",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 16",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 17",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 18",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 19",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 20",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 21",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 22",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 23",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 24",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 25",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 26",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 27",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 28",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Mamakating 29",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Neversink 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Neversink 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Neversink 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Neversink 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rockland 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rockland 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rockland 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rockland 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "unknown"
+    },
+    {
+     "seat": "Member 2",
+     "status": "unknown"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rockland 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Rockland 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Town of Thompson 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Thompson 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Thompson 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Thompson 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Thompson 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Thompson 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Thompson 7",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Thompson 8",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Thompson 9",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Thompson 10",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Thompson 11",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Thompson 12",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Thompson 13",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Town of Tusten 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "precincts": 96,
+  "seats": 192,
+  "filled": 126,
+  "empty": 0,
+  "empty_no_filer": 62,
+  "unknown": 4
+ },
+ "notes": "Sullivan County Republicans elected county committee at the June 24, 2025 primary (the 2026 primary certification has no county committee offices). Filers: Republican \"Member of County Committee\" candidacies with status VALID and not declined in the BOE County Committee Filers list dated 04/18/2025, counting each person once per ED (some were on two petitions). Seats: 2 per ED; the only Republican committee contest on the 2025 primary ballot (Town of Fallsburg 2) was \"Votes Allowed 2\", and the Sullivan Republican committee rules were not found, so 2 is also the statutory minimum. Fallsburg 2 seats are filled by the two leading named candidates in the official results (no write-in votes). Town of Liberty 3 and Town of Rockland 4 each had three valid Republican filers but no ballot contest, so their seats are unknown (a filer may have declined after 04/18 or the ED may have more seats). EDs with no valid Republican filer are empty_no_filer. Declinations after 04/18/2025, court rulings and later appointments are not reflected. ED list (96 EDs) from the official November 2025 general election results."
+}

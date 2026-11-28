@@ -1,0 +1,1107 @@
+{
+ "state": "WI",
+ "name": "Wisconsin",
+ "fips": "55",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/WI-precincts-with-results.geojson.gz",
+ "bbox": [
+  -92.8893,
+  42.4919,
+  -86.764,
+  47.0808
+ ],
+ "totals": {
+  "rep": 1697626,
+  "dem": 1668229,
+  "total": 3415787,
+  "units": 3503
+ },
+ "counties": [
+  {
+   "fips": "55001",
+   "name": "Adams County",
+   "slug": "adams-county",
+   "bbox": [
+    -90.0264,
+    43.641,
+    -89.5972,
+    44.2495
+   ],
+   "units": 20,
+   "rep": 7763,
+   "dem": 4443,
+   "total": 12853
+  },
+  {
+   "fips": "55003",
+   "name": "Ashland County",
+   "slug": "ashland-county",
+   "bbox": [
+    -90.9283,
+    45.9805,
+    -90.3002,
+    47.0808
+   ],
+   "units": 16,
+   "rep": 4191,
+   "dem": 4612,
+   "total": 8935
+  },
+  {
+   "fips": "55005",
+   "name": "Barron County",
+   "slug": "barron-county",
+   "bbox": [
+    -92.1568,
+    45.2065,
+    -91.5396,
+    45.6402
+   ],
+   "units": 36,
+   "rep": 16726,
+   "dem": 8941,
+   "total": 26780
+  },
+  {
+   "fips": "55007",
+   "name": "Bayfield County",
+   "slug": "bayfield-county",
+   "bbox": [
+    -91.5538,
+    46.1546,
+    -90.7502,
+    47.0036
+   ],
+   "units": 28,
+   "rep": 4860,
+   "dem": 6107,
+   "total": 11204
+  },
+  {
+   "fips": "55009",
+   "name": "Brown County",
+   "slug": "brown-county",
+   "bbox": [
+    -88.2526,
+    44.2404,
+    -87.7623,
+    44.6798
+   ],
+   "units": 96,
+   "rep": 79132,
+   "dem": 67937,
+   "total": 148983
+  },
+  {
+   "fips": "55011",
+   "name": "Buffalo County",
+   "slug": "buffalo-county",
+   "bbox": [
+    -92.0841,
+    44.0253,
+    -91.5289,
+    44.5968
+   ],
+   "units": 23,
+   "rep": 5213,
+   "dem": 2765,
+   "total": 8091
+  },
+  {
+   "fips": "55013",
+   "name": "Burnett County",
+   "slug": "burnett-county",
+   "bbox": [
+    -92.8863,
+    45.6397,
+    -92.0312,
+    46.1576
+   ],
+   "units": 24,
+   "rep": 7008,
+   "dem": 3665,
+   "total": 10810
+  },
+  {
+   "fips": "55015",
+   "name": "Calumet County",
+   "slug": "calumet-county",
+   "bbox": [
+    -88.4044,
+    43.8915,
+    -88.0417,
+    44.2441
+   ],
+   "units": 26,
+   "rep": 19488,
+   "dem": 12927,
+   "total": 32864
+  },
+  {
+   "fips": "55017",
+   "name": "Chippewa County",
+   "slug": "chippewa-county",
+   "bbox": [
+    -91.6664,
+    44.856,
+    -90.9223,
+    45.2922
+   ],
+   "units": 37,
+   "rep": 23399,
+   "dem": 14573,
+   "total": 38402
+  },
+  {
+   "fips": "55019",
+   "name": "Clark County",
+   "slug": "clark-county",
+   "bbox": [
+    -90.9232,
+    44.4221,
+    -90.315,
+    45.0338
+   ],
+   "units": 50,
+   "rep": 10481,
+   "dem": 4509,
+   "total": 15315
+  },
+  {
+   "fips": "55021",
+   "name": "Columbia County",
+   "slug": "columbia-county",
+   "bbox": [
+    -89.7857,
+    43.2809,
+    -89.0045,
+    43.6437
+   ],
+   "units": 37,
+   "rep": 17988,
+   "dem": 16388,
+   "total": 34847
+  },
+  {
+   "fips": "55023",
+   "name": "Crawford County",
+   "slug": "crawford-county",
+   "bbox": [
+    -91.2151,
+    42.9882,
+    -90.6658,
+    43.4246
+   ],
+   "units": 27,
+   "rep": 5113,
+   "dem": 3860,
+   "total": 9084
+  },
+  {
+   "fips": "55025",
+   "name": "Dane County",
+   "slug": "dane-county",
+   "bbox": [
+    -89.8385,
+    42.8451,
+    -89.0087,
+    43.2942
+   ],
+   "units": 246,
+   "rep": 85454,
+   "dem": 273995,
+   "total": 364961
+  },
+  {
+   "fips": "55027",
+   "name": "Dodge County",
+   "slug": "dodge-county",
+   "bbox": [
+    -89.0095,
+    43.1947,
+    -88.4004,
+    43.6335
+   ],
+   "units": 54,
+   "rep": 33067,
+   "dem": 16518,
+   "total": 50300
+  },
+  {
+   "fips": "55029",
+   "name": "Door County",
+   "slug": "door-county",
+   "bbox": [
+    -87.7365,
+    44.6752,
+    -86.764,
+    45.4285
+   ],
+   "units": 21,
+   "rep": 10099,
+   "dem": 10565,
+   "total": 20901
+  },
+  {
+   "fips": "55031",
+   "name": "Douglas County",
+   "slug": "douglas-county",
+   "bbox": [
+    -92.2937,
+    46.157,
+    -91.5508,
+    46.7575
+   ],
+   "units": 26,
+   "rep": 11732,
+   "dem": 13073,
+   "total": 25169
+  },
+  {
+   "fips": "55033",
+   "name": "Dunn County",
+   "slug": "dunn-county",
+   "bbox": [
+    -92.1571,
+    44.6836,
+    -91.6497,
+    45.2095
+   ],
+   "units": 35,
+   "rep": 14726,
+   "dem": 10643,
+   "total": 25678
+  },
+  {
+   "fips": "55035",
+   "name": "Eau Claire County",
+   "slug": "eau-claire-county",
+   "bbox": [
+    -91.6505,
+    44.5959,
+    -90.9215,
+    44.8574
+   ],
+   "units": 84,
+   "rep": 27728,
+   "dem": 34400,
+   "total": 63020
+  },
+  {
+   "fips": "55037",
+   "name": "Florence County",
+   "slug": "florence-county",
+   "bbox": [
+    -88.6842,
+    45.7131,
+    -88.0583,
+    46.0211
+   ],
+   "units": 8,
+   "rep": 2356,
+   "dem": 783,
+   "total": 3158
+  },
+  {
+   "fips": "55039",
+   "name": "Fond du Lac County",
+   "slug": "fond-du-lac-county",
+   "bbox": [
+    -88.886,
+    43.5429,
+    -88.1599,
+    43.9378
+   ],
+   "units": 57,
+   "rep": 37272,
+   "dem": 20495,
+   "total": 58448
+  },
+  {
+   "fips": "55041",
+   "name": "Forest County",
+   "slug": "forest-county",
+   "bbox": [
+    -89.0478,
+    45.377,
+    -88.4253,
+    46.0737
+   ],
+   "units": 16,
+   "rep": 3382,
+   "dem": 1681,
+   "total": 5095
+  },
+  {
+   "fips": "55043",
+   "name": "Grant County",
+   "slug": "grant-county",
+   "bbox": [
+    -91.1569,
+    42.5072,
+    -90.4258,
+    43.2116
+   ],
+   "units": 56,
+   "rep": 15922,
+   "dem": 10966,
+   "total": 27257
+  },
+  {
+   "fips": "55045",
+   "name": "Green County",
+   "slug": "green-county",
+   "bbox": [
+    -89.8386,
+    42.5001,
+    -89.3658,
+    42.8578
+   ],
+   "units": 24,
+   "rep": 10843,
+   "dem": 10903,
+   "total": 22026
+  },
+  {
+   "fips": "55047",
+   "name": "Green Lake County",
+   "slug": "green-lake-county",
+   "bbox": [
+    -89.2456,
+    43.6318,
+    -88.8852,
+    43.9834
+   ],
+   "units": 16,
+   "rep": 7458,
+   "dem": 3449,
+   "total": 11035
+  },
+  {
+   "fips": "55049",
+   "name": "Iowa County",
+   "slug": "iowa-county",
+   "bbox": [
+    -90.43,
+    42.813,
+    -89.838,
+    43.2098
+   ],
+   "units": 29,
+   "rep": 6631,
+   "dem": 7750,
+   "total": 14651
+  },
+  {
+   "fips": "55051",
+   "name": "Iron County",
+   "slug": "iron-county",
+   "bbox": [
+    -90.5522,
+    45.9816,
+    -89.9283,
+    46.59
+   ],
+   "units": 15,
+   "rep": 2557,
+   "dem": 1487,
+   "total": 4079
+  },
+  {
+   "fips": "55053",
+   "name": "Jackson County",
+   "slug": "jackson-county",
+   "bbox": [
+    -91.1663,
+    44.0709,
+    -90.3125,
+    44.597
+   ],
+   "units": 32,
+   "rep": 6204,
+   "dem": 4157,
+   "total": 10502
+  },
+  {
+   "fips": "55055",
+   "name": "Jefferson County",
+   "slug": "jefferson-county",
+   "bbox": [
+    -89.0135,
+    42.8425,
+    -88.5359,
+    43.1979
+   ],
+   "units": 34,
+   "rep": 28771,
+   "dem": 20574,
+   "total": 50037
+  },
+  {
+   "fips": "55057",
+   "name": "Juneau County",
+   "slug": "juneau-county",
+   "bbox": [
+    -90.3133,
+    43.641,
+    -89.7856,
+    44.2495
+   ],
+   "units": 31,
+   "rep": 9525,
+   "dem": 4854,
+   "total": 14530
+  },
+  {
+   "fips": "55059",
+   "name": "Kenosha County",
+   "slug": "kenosha-county",
+   "bbox": [
+    -88.3059,
+    42.4926,
+    -87.8016,
+    42.6698
+   ],
+   "units": 101,
+   "rep": 47478,
+   "dem": 41826,
+   "total": 90481
+  },
+  {
+   "fips": "55061",
+   "name": "Kewaunee County",
+   "slug": "kewaunee-county",
+   "bbox": [
+    -87.766,
+    44.3272,
+    -87.3753,
+    44.677
+   ],
+   "units": 14,
+   "rep": 8267,
+   "dem": 4059,
+   "total": 12466
+  },
+  {
+   "fips": "55063",
+   "name": "La Crosse County",
+   "slug": "la-crosse-county",
+   "bbox": [
+    -91.425,
+    43.725,
+    -90.9101,
+    44.0879
+   ],
+   "units": 50,
+   "rep": 32247,
+   "dem": 39008,
+   "total": 72261
+  },
+  {
+   "fips": "55065",
+   "name": "Lafayette County",
+   "slug": "lafayette-county",
+   "bbox": [
+    -90.4269,
+    42.5057,
+    -89.8373,
+    42.8148
+   ],
+   "units": 28,
+   "rep": 5256,
+   "dem": 3469,
+   "total": 8832
+  },
+  {
+   "fips": "55067",
+   "name": "Langlade County",
+   "slug": "langlade-county",
+   "bbox": [
+    -89.426,
+    45.0289,
+    -88.6382,
+    45.47
+   ],
+   "units": 27,
+   "rep": 7782,
+   "dem": 3746,
+   "total": 11659
+  },
+  {
+   "fips": "55069",
+   "name": "Lincoln County",
+   "slug": "lincoln-county",
+   "bbox": [
+    -90.0465,
+    45.1191,
+    -89.4243,
+    45.5558
+   ],
+   "units": 27,
+   "rep": 10633,
+   "dem": 6306,
+   "total": 17188
+  },
+  {
+   "fips": "55071",
+   "name": "Manitowoc County",
+   "slug": "manitowoc-county",
+   "bbox": [
+    -88.0438,
+    43.8916,
+    -87.5067,
+    44.3276
+   ],
+   "units": 40,
+   "rep": 28200,
+   "dem": 17399,
+   "total": 46238
+  },
+  {
+   "fips": "55073",
+   "name": "Marathon County",
+   "slug": "marathon-county",
+   "bbox": [
+    -90.317,
+    44.6812,
+    -89.2233,
+    45.1206
+   ],
+   "units": 87,
+   "rep": 46213,
+   "dem": 31529,
+   "total": 78679
+  },
+  {
+   "fips": "55075",
+   "name": "Marinette County",
+   "slug": "marinette-county",
+   "bbox": [
+    -88.4281,
+    44.9661,
+    -87.4902,
+    45.7956
+   ],
+   "units": 28,
+   "rep": 16670,
+   "dem": 7415,
+   "total": 24372
+  },
+  {
+   "fips": "55077",
+   "name": "Marquette County",
+   "slug": "marquette-county",
+   "bbox": [
+    -89.5997,
+    43.6426,
+    -89.1676,
+    43.9829
+   ],
+   "units": 19,
+   "rep": 6041,
+   "dem": 3252,
+   "total": 9406
+  },
+  {
+   "fips": "55078",
+   "name": "Menominee County",
+   "slug": "menominee-county",
+   "bbox": [
+    -88.9824,
+    44.8554,
+    -88.4837,
+    45.1181
+   ],
+   "units": 2,
+   "rep": 296,
+   "dem": 1266,
+   "total": 1572
+  },
+  {
+   "fips": "55079",
+   "name": "Milwaukee County",
+   "slug": "milwaukee-county",
+   "bbox": [
+    -88.0699,
+    42.8421,
+    -87.8237,
+    43.1926
+   ],
+   "units": 511,
+   "rep": 138022,
+   "dem": 316292,
+   "total": 462837
+  },
+  {
+   "fips": "55081",
+   "name": "Monroe County",
+   "slug": "monroe-county",
+   "bbox": [
+    -90.9783,
+    43.7254,
+    -90.3119,
+    44.1611
+   ],
+   "units": 37,
+   "rep": 14563,
+   "dem": 8476,
+   "total": 23331
+  },
+  {
+   "fips": "55083",
+   "name": "Oconto County",
+   "slug": "oconto-county",
+   "bbox": [
+    -88.6801,
+    44.6724,
+    -87.7601,
+    45.3789
+   ],
+   "units": 28,
+   "rep": 17675,
+   "dem": 6967,
+   "total": 24883
+  },
+  {
+   "fips": "55085",
+   "name": "Oneida County",
+   "slug": "oneida-county",
+   "bbox": [
+    -90.0452,
+    45.4644,
+    -89.0464,
+    45.9015
+   ],
+   "units": 22,
+   "rep": 14455,
+   "dem": 10080,
+   "total": 24840
+  },
+  {
+   "fips": "55087",
+   "name": "Outagamie County",
+   "slug": "outagamie-county",
+   "bbox": [
+    -88.7398,
+    44.242,
+    -88.19,
+    44.5906
+   ],
+   "units": 86,
+   "rep": 60827,
+   "dem": 49438,
+   "total": 111932
+  },
+  {
+   "fips": "55089",
+   "name": "Ozaukee County",
+   "slug": "ozaukee-county",
+   "bbox": [
+    -88.0639,
+    43.192,
+    -87.791,
+    43.5434
+   ],
+   "units": 51,
+   "rep": 34504,
+   "dem": 27874,
+   "total": 63220
+  },
+  {
+   "fips": "55091",
+   "name": "Pepin County",
+   "slug": "pepin-county",
+   "bbox": [
+    -92.3162,
+    44.4073,
+    -91.6504,
+    44.6844
+   ],
+   "units": 11,
+   "rep": 2798,
+   "dem": 1523,
+   "total": 4354
+  },
+  {
+   "fips": "55093",
+   "name": "Pierce County",
+   "slug": "pierce-county",
+   "bbox": [
+    -92.8084,
+    44.5395,
+    -92.1348,
+    44.8626
+   ],
+   "units": 27,
+   "rep": 14417,
+   "dem": 10171,
+   "total": 25334
+  },
+  {
+   "fips": "55095",
+   "name": "Polk County",
+   "slug": "polk-county",
+   "bbox": [
+    -92.8893,
+    45.2092,
+    -92.1545,
+    45.7287
+   ],
+   "units": 36,
+   "rep": 18296,
+   "dem": 9567,
+   "total": 28222
+  },
+  {
+   "fips": "55097",
+   "name": "Portage County",
+   "slug": "portage-county",
+   "bbox": [
+    -89.8453,
+    44.2434,
+    -89.223,
+    44.6859
+   ],
+   "units": 38,
+   "rep": 20987,
+   "dem": 21503,
+   "total": 43171
+  },
+  {
+   "fips": "55099",
+   "name": "Price County",
+   "slug": "price-county",
+   "bbox": [
+    -90.6798,
+    45.3769,
+    -90.0423,
+    45.9821
+   ],
+   "units": 23,
+   "rep": 5763,
+   "dem": 3005,
+   "total": 8856
+  },
+  {
+   "fips": "55101",
+   "name": "Racine County",
+   "slug": "racine-county",
+   "bbox": [
+    -88.3081,
+    42.6108,
+    -87.7573,
+    42.8436
+   ],
+   "units": 88,
+   "rep": 56347,
+   "dem": 49721,
+   "total": 107415
+  },
+  {
+   "fips": "55103",
+   "name": "Richland County",
+   "slug": "richland-county",
+   "bbox": [
+    -90.6716,
+    43.1645,
+    -90.1913,
+    43.555
+   ],
+   "units": 22,
+   "rep": 5207,
+   "dem": 3985,
+   "total": 9309
+  },
+  {
+   "fips": "55105",
+   "name": "Rock County",
+   "slug": "rock-county",
+   "bbox": [
+    -89.3692,
+    42.4919,
+    -88.7763,
+    42.8476
+   ],
+   "units": 99,
+   "rep": 40218,
+   "dem": 46642,
+   "total": 88129
+  },
+  {
+   "fips": "55107",
+   "name": "Rusk County",
+   "slug": "rusk-county",
+   "bbox": [
+    -91.5411,
+    45.2916,
+    -90.678,
+    45.6393
+   ],
+   "units": 33,
+   "rep": 5660,
+   "dem": 2516,
+   "total": 8265
+  },
+  {
+   "fips": "55109",
+   "name": "St. Croix County",
+   "slug": "st-croix-county",
+   "bbox": [
+    -92.8031,
+    44.8578,
+    -92.1353,
+    45.2103
+   ],
+   "units": 42,
+   "rep": 35537,
+   "dem": 23870,
+   "total": 60487
+  },
+  {
+   "fips": "55111",
+   "name": "Sauk County",
+   "slug": "sauk-county",
+   "bbox": [
+    -90.3124,
+    43.1453,
+    -89.5996,
+    43.6421
+   ],
+   "units": 50,
+   "rep": 18798,
+   "dem": 18172,
+   "total": 37584
+  },
+  {
+   "fips": "55113",
+   "name": "Sawyer County",
+   "slug": "sawyer-county",
+   "bbox": [
+    -91.5517,
+    45.6375,
+    -90.6771,
+    46.1578
+   ],
+   "units": 21,
+   "rep": 6422,
+   "dem": 4599,
+   "total": 11122
+  },
+  {
+   "fips": "55115",
+   "name": "Shawano County",
+   "slug": "shawano-county",
+   "bbox": [
+    -89.2243,
+    44.5848,
+    -88.2427,
+    45.0296
+   ],
+   "units": 43,
+   "rep": 15850,
+   "dem": 7336,
+   "total": 23458
+  },
+  {
+   "fips": "55117",
+   "name": "Sheboygan County",
+   "slug": "sheboygan-county",
+   "bbox": [
+    -88.1623,
+    43.5424,
+    -87.6926,
+    43.8924
+   ],
+   "units": 49,
+   "rep": 38763,
+   "dem": 27735,
+   "total": 67415
+  },
+  {
+   "fips": "55119",
+   "name": "Taylor County",
+   "slug": "taylor-county",
+   "bbox": [
+    -90.926,
+    45.0309,
+    -90.0423,
+    45.3826
+   ],
+   "units": 27,
+   "rep": 8209,
+   "dem": 2823,
+   "total": 11186
+  },
+  {
+   "fips": "55121",
+   "name": "Trempealeau County",
+   "slug": "trempealeau-county",
+   "bbox": [
+    -91.6128,
+    43.9842,
+    -91.1519,
+    44.5971
+   ],
+   "units": 26,
+   "rep": 9661,
+   "dem": 6219,
+   "total": 16067
+  },
+  {
+   "fips": "55123",
+   "name": "Vernon County",
+   "slug": "vernon-county",
+   "bbox": [
+    -91.2733,
+    43.4223,
+    -90.3111,
+    43.7315
+   ],
+   "units": 33,
+   "rep": 8807,
+   "dem": 7514,
+   "total": 16580
+  },
+  {
+   "fips": "55125",
+   "name": "Vilas County",
+   "slug": "vilas-county",
+   "bbox": [
+    -90.0438,
+    45.8566,
+    -88.9328,
+    46.2997
+   ],
+   "units": 15,
+   "rep": 9837,
+   "dem": 6119,
+   "total": 16103
+  },
+  {
+   "fips": "55127",
+   "name": "Walworth County",
+   "slug": "walworth-county",
+   "bbox": [
+    -88.7789,
+    42.4919,
+    -88.3047,
+    42.843
+   ],
+   "units": 37,
+   "rep": 36603,
+   "dem": 23161,
+   "total": 60470
+  },
+  {
+   "fips": "55129",
+   "name": "Washburn County",
+   "slug": "washburn-county",
+   "bbox": [
+    -92.0507,
+    45.6377,
+    -91.5402,
+    46.1579
+   ],
+   "units": 25,
+   "rep": 6962,
+   "dem": 3867,
+   "total": 10954
+  },
+  {
+   "fips": "55131",
+   "name": "Washington County",
+   "slug": "washington-county",
+   "bbox": [
+    -88.4193,
+    43.1919,
+    -88.04,
+    43.5435
+   ],
+   "units": 43,
+   "rep": 61604,
+   "dem": 28504,
+   "total": 91173
+  },
+  {
+   "fips": "55133",
+   "name": "Waukesha County",
+   "slug": "waukesha-county",
+   "bbox": [
+    -88.5422,
+    42.8419,
+    -88.0634,
+    43.196
+   ],
+   "units": 182,
+   "rep": 162768,
+   "dem": 108478,
+   "total": 274845
+  },
+  {
+   "fips": "55135",
+   "name": "Waupaca County",
+   "slug": "waupaca-county",
+   "bbox": [
+    -89.2248,
+    44.2426,
+    -88.6051,
+    44.6814
+   ],
+   "units": 36,
+   "rep": 20093,
+   "dem": 9947,
+   "total": 30371
+  },
+  {
+   "fips": "55137",
+   "name": "Waushara County",
+   "slug": "waushara-county",
+   "bbox": [
+    -89.5981,
+    43.9821,
+    -88.8857,
+    44.2457
+   ],
+   "units": 26,
+   "rep": 9625,
+   "dem": 4571,
+   "total": 14363
+  },
+  {
+   "fips": "55139",
+   "name": "Winnebago County",
+   "slug": "winnebago-county",
+   "bbox": [
+    -88.8868,
+    43.8935,
+    -88.4039,
+    44.2444
+   ],
+   "units": 59,
+   "rep": 49179,
+   "dem": 44660,
+   "total": 95183
+  },
+  {
+   "fips": "55141",
+   "name": "Wood County",
+   "slug": "wood-county",
+   "bbox": [
+    -90.318,
+    44.2477,
+    -89.7246,
+    44.6854
+   ],
+   "units": 50,
+   "rep": 24997,
+   "dem": 16599,
+   "total": 42159
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 72,
+ "missing_counties": [],
+ "coverage_note": null
+}

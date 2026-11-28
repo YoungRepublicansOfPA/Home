@@ -1,0 +1,252 @@
+{
+ "state": "AZ",
+ "name": "Arizona",
+ "fips": "04",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/AZ-precincts-with-results.geojson.gz",
+ "bbox": [
+  -114.8136,
+  31.3324,
+  -109.0452,
+  37.0037
+ ],
+ "totals": {
+  "rep": 1770237,
+  "dem": 1582852,
+  "total": 3389306,
+  "units": 1694
+ },
+ "counties": [
+  {
+   "fips": "04001",
+   "name": "Apache County",
+   "slug": "apache-county",
+   "bbox": [
+    -110.0007,
+    33.4755,
+    -109.0452,
+    36.9993
+   ],
+   "units": 44,
+   "rep": 12795,
+   "dem": 18872,
+   "total": 32019
+  },
+  {
+   "fips": "04003",
+   "name": "Cochise County",
+   "slug": "cochise-county",
+   "bbox": [
+    -110.4609,
+    31.3324,
+    -109.0479,
+    32.4276
+   ],
+   "units": 54,
+   "rep": 35936,
+   "dem": 22296,
+   "total": 58923
+  },
+  {
+   "fips": "04005",
+   "name": "Coconino County",
+   "slug": "coconino-county",
+   "bbox": [
+    -113.3542,
+    34.2584,
+    -110.7507,
+    37.0029
+   ],
+   "units": 75,
+   "rep": 27576,
+   "dem": 41504,
+   "total": 70067
+  },
+  {
+   "fips": "04007",
+   "name": "Gila County",
+   "slug": "gila-county",
+   "bbox": [
+    -111.7207,
+    32.9837,
+    -110.0006,
+    34.4993
+   ],
+   "units": 39,
+   "rep": 18901,
+   "dem": 8504,
+   "total": 27648
+  },
+  {
+   "fips": "04009",
+   "name": "Graham County",
+   "slug": "graham-county",
+   "bbox": [
+    -110.458,
+    32.4248,
+    -109.1143,
+    33.6527
+   ],
+   "units": 23,
+   "rep": 11177,
+   "dem": 3867,
+   "total": 15183
+  },
+  {
+   "fips": "04011",
+   "name": "Greenlee County",
+   "slug": "greenlee-county",
+   "bbox": [
+    -109.4958,
+    32.4263,
+    -109.0468,
+    33.7779
+   ],
+   "units": 6,
+   "rep": 2308,
+   "dem": 954,
+   "total": 3308
+  },
+  {
+   "fips": "04012",
+   "name": "La Paz County",
+   "slug": "la-paz-county",
+   "bbox": [
+    -114.7312,
+    33.0254,
+    -113.3331,
+    34.3191
+   ],
+   "units": 11,
+   "rep": 5470,
+   "dem": 2101,
+   "total": 7624
+  },
+  {
+   "fips": "04013",
+   "name": "Maricopa County",
+   "slug": "maricopa-county",
+   "bbox": [
+    -113.3339,
+    32.5051,
+    -111.04,
+    34.0482
+   ],
+   "units": 906,
+   "rep": 1051531,
+   "dem": 980015,
+   "total": 2053944
+  },
+  {
+   "fips": "04015",
+   "name": "Mohave County",
+   "slug": "mohave-county",
+   "bbox": [
+    -114.7508,
+    34.2098,
+    -112.5292,
+    37.0007
+   ],
+   "units": 24,
+   "rep": 85683,
+   "dem": 24081,
+   "total": 110450
+  },
+  {
+   "fips": "04017",
+   "name": "Navajo County",
+   "slug": "navajo-county",
+   "bbox": [
+    -110.7507,
+    33.5672,
+    -109.8269,
+    37.0037
+   ],
+   "units": 17,
+   "rep": 29480,
+   "dem": 20754,
+   "total": 50706
+  },
+  {
+   "fips": "04019",
+   "name": "Pima County",
+   "slug": "pima-county",
+   "bbox": [
+    -113.3339,
+    31.4261,
+    -110.4477,
+    32.514
+   ],
+   "units": 264,
+   "rep": 214664,
+   "dem": 292443,
+   "total": 513164
+  },
+  {
+   "fips": "04021",
+   "name": "Pinal County",
+   "slug": "pinal-county",
+   "bbox": [
+    -112.2036,
+    32.5013,
+    -110.4485,
+    33.4659
+   ],
+   "units": 108,
+   "rep": 126926,
+   "dem": 80656,
+   "total": 209552
+  },
+  {
+   "fips": "04023",
+   "name": "Santa Cruz County",
+   "slug": "santa-cruz-county",
+   "bbox": [
+    -111.3669,
+    31.3324,
+    -110.4523,
+    31.7317
+   ],
+   "units": 24,
+   "rep": 7699,
+   "dem": 11265,
+   "total": 19121
+  },
+  {
+   "fips": "04025",
+   "name": "Yavapai County",
+   "slug": "yavapai-county",
+   "bbox": [
+    -113.3344,
+    33.8992,
+    -111.4605,
+    35.5312
+   ],
+   "units": 55,
+   "rep": 99346,
+   "dem": 48717,
+   "total": 149402
+  },
+  {
+   "fips": "04027",
+   "name": "Yuma County",
+   "slug": "yuma-county",
+   "bbox": [
+    -114.8136,
+    32.4192,
+    -113.3332,
+    33.4644
+   ],
+   "units": 44,
+   "rep": 40745,
+   "dem": 26823,
+   "total": 68195
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 15,
+ "missing_counties": [],
+ "coverage_note": null
+}

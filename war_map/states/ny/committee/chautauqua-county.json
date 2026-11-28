@@ -1,0 +1,1209 @@
+{
+ "county": "Chautauqua County",
+ "checked_at": "2026-11-27",
+ "method": "candidate_listing",
+ "election": "June 23, 2026 Primary",
+ "as_of": "2026-07-31",
+ "seats_per_precinct": 2,
+ "sources": [
+  {
+   "url": "https://petitions.chqvotes.com/",
+   "title": "Chautauqua County Board of Elections UNOFFICIAL Petitions Filed Report (2026 designating petitions incl. Republican county committee by ED; last updated 07/31/2026, generated 11/27/2026)",
+   "type": "candidate_listing",
+   "as_of": "2026-07-31"
+  },
+  {
+   "url": "https://chautauquacountyny.gov/sites/default/files/inline-files/2026%20Primary%20Election%20Certification%20of%20Candidates%20for%20Website.pdf",
+   "title": "Chautauqua County BOE Certification for the June 23, 2026 Primary Election (contested races only; no county committee contests)",
+   "type": "candidate_listing",
+   "as_of": "2026"
+  },
+  {
+   "url": "https://chautauquacountyny.gov/sites/default/files/inline-files/2026%20Enrollment%20Totals.pdf",
+   "title": "Chautauqua County BOE 2026 Enrollment Totals by election district (used for the list of 90 EDs)",
+   "type": "rules",
+   "as_of": "2026-02"
+  }
+ ],
+ "precincts": [
+  {
+   "name": "Arkwright",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Busti 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Busti 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Busti 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Busti 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Carroll 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Carroll 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Charlotte",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Chautauqua 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Chautauqua 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Chautauqua 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Chautauqua 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Cherry Creek",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Clymer",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Dunkirk Town 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Dunkirk Town 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Dunkirk City Ward 1 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Dunkirk City Ward 1 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Dunkirk City Ward 2 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Dunkirk City Ward 2 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Dunkirk City Ward 2 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Dunkirk City Ward 3 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Dunkirk City Ward 3 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Dunkirk City Ward 3 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Dunkirk City Ward 3 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Dunkirk City Ward 4 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Dunkirk City Ward 4 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Ellery 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ellery 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Ellery 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Ellicott Ward 1 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Ellicott Ward 1 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ellicott Ward 2 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Ellicott Ward 2 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Ellicott Ward 2 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Ellicott Ward 2 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Ellicott Ward 3 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ellicott Ward 3 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ellicott Ward 4 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Ellicott Ward 4 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Ellicott Ward 4 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ellington",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "French Creek",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Gerry",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Hanover 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Hanover 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Hanover 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Hanover 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Harmony 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Harmony 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 1 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 1 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 2 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 2 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 3 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 3 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 3 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 3 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 4 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 4 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 4 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 5 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 5 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 5 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 6 District 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 6 District 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 6 District 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Jamestown City Ward 6 District 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Kiantone",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Mina",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "North Harmony",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Poland 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Poland 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Pomfret 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Pomfret 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Pomfret 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Pomfret 4",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Pomfret 5",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Pomfret 6",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Portland 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Portland 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Ripley",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Sheridan",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "empty_no_filer"
+    },
+    {
+     "seat": "Member 2",
+     "status": "empty_no_filer"
+    }
+   ]
+  },
+  {
+   "name": "Sherman",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Stockton 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Stockton 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Villenova",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Westfield 1",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Westfield 2",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  },
+  {
+   "name": "Westfield 3",
+   "seats": [
+    {
+     "seat": "Member 1",
+     "status": "filled"
+    },
+    {
+     "seat": "Member 2",
+     "status": "filled"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "precincts": 90,
+  "seats": 180,
+  "filled": 104,
+  "empty": 0,
+  "empty_no_filer": 76,
+  "unknown": 0
+ },
+ "notes": "Chautauqua County Republicans elected county committee at the June 23, 2026 primary (Republican county committee designating petitions were filed for PE26). Filers: every REP county committee candidacy in the BOE Petitions Filed Report (all marked VALID; no declination dates shown), counted once per person per ED. The BOE primary certification lists only one contested race (a town clerk) and no county committee contests, so every Republican filer was unopposed and deemed elected. Seats: 2 per ED (statutory minimum; no ED had more than 2 Republican filers, and the Chautauqua Republican committee rules were not found). EDs with no Republican filer are empty_no_filer. The petitions report is labelled unofficial. ED list (90 EDs) from the BOE 2026 enrollment totals; the City of Dunkirk, City of Jamestown and Town of Ellicott are divided into wards and districts. Appointments after the primary are not reflected."
+}

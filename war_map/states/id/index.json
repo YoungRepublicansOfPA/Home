@@ -1,0 +1,687 @@
+{
+ "state": "ID",
+ "name": "Idaho",
+ "fips": "16",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/ID-precincts-with-results.geojson.gz",
+ "bbox": [
+  -117.243,
+  41.9882,
+  -111.0435,
+  49.0008
+ ],
+ "totals": {
+  "rep": 604925,
+  "dem": 274914,
+  "total": 904675,
+  "units": 971
+ },
+ "counties": [
+  {
+   "fips": "16001",
+   "name": "Ada County",
+   "slug": "ada-county",
+   "bbox": [
+    -116.5137,
+    43.1123,
+    -115.9749,
+    43.8074
+   ],
+   "units": 197,
+   "rep": 143759,
+   "dem": 116116,
+   "total": 267419
+  },
+  {
+   "fips": "16003",
+   "name": "Adams County",
+   "slug": "adams-county",
+   "bbox": [
+    -116.8997,
+    44.4444,
+    -116.0891,
+    45.2681
+   ],
+   "units": 5,
+   "rep": 2037,
+   "dem": 577,
+   "total": 2681
+  },
+  {
+   "fips": "16005",
+   "name": "Bannock County",
+   "slug": "bannock-county",
+   "bbox": [
+    -112.7523,
+    42.2563,
+    -111.8755,
+    43.0226
+   ],
+   "units": 57,
+   "rep": 24329,
+   "dem": 14306,
+   "total": 39976
+  },
+  {
+   "fips": "16007",
+   "name": "Bear Lake County",
+   "slug": "bear-lake-county",
+   "bbox": [
+    -111.6349,
+    41.9995,
+    -111.0467,
+    42.6033
+   ],
+   "units": 15,
+   "rep": 2908,
+   "dem": 346,
+   "total": 3325
+  },
+  {
+   "fips": "16009",
+   "name": "Benewah County",
+   "slug": "benewah-county",
+   "bbox": [
+    -117.0399,
+    47.0217,
+    -116.3294,
+    47.4147
+   ],
+   "units": 11,
+   "rep": 4094,
+   "dem": 935,
+   "total": 5145
+  },
+  {
+   "fips": "16011",
+   "name": "Bingham County",
+   "slug": "bingham-county",
+   "bbox": [
+    -113.0078,
+    42.863,
+    -111.588,
+    43.6266
+   ],
+   "units": 27,
+   "rep": 16188,
+   "dem": 3878,
+   "total": 20651
+  },
+  {
+   "fips": "16013",
+   "name": "Blaine County",
+   "slug": "blaine-county",
+   "bbox": [
+    -114.9967,
+    42.6159,
+    -113.0073,
+    43.9929
+   ],
+   "units": 15,
+   "rep": 4277,
+   "dem": 8424,
+   "total": 13085
+  },
+  {
+   "fips": "16015",
+   "name": "Boise County",
+   "slug": "boise-county",
+   "bbox": [
+    -116.282,
+    43.5859,
+    -114.9673,
+    44.3517
+   ],
+   "units": 6,
+   "rep": 3727,
+   "dem": 1065,
+   "total": 4910
+  },
+  {
+   "fips": "16017",
+   "name": "Bonner County",
+   "slug": "bonner-county",
+   "bbox": [
+    -117.0421,
+    47.8901,
+    -116.0487,
+    48.8474
+   ],
+   "units": 30,
+   "rep": 21352,
+   "dem": 7650,
+   "total": 29710
+  },
+  {
+   "fips": "16019",
+   "name": "Bonneville County",
+   "slug": "bonneville-county",
+   "bbox": [
+    -112.5201,
+    43.0194,
+    -111.0439,
+    43.6269
+   ],
+   "units": 51,
+   "rep": 40053,
+   "dem": 14458,
+   "total": 56436
+  },
+  {
+   "fips": "16021",
+   "name": "Boundary County",
+   "slug": "boundary-county",
+   "bbox": [
+    -117.0324,
+    48.5,
+    -116.0489,
+    49.0008
+   ],
+   "units": 6,
+   "rep": 5794,
+   "dem": 1145,
+   "total": 7110
+  },
+  {
+   "fips": "16023",
+   "name": "Butte County",
+   "slug": "butte-county",
+   "bbox": [
+    -113.7984,
+    43.2846,
+    -112.695,
+    44.2341
+   ],
+   "units": 4,
+   "rep": 1268,
+   "dem": 185,
+   "total": 1494
+  },
+  {
+   "fips": "16025",
+   "name": "Camas County",
+   "slug": "camas-county",
+   "bbox": [
+    -115.0867,
+    43.1981,
+    -114.3748,
+    43.8586
+   ],
+   "units": 2,
+   "rep": 547,
+   "dem": 153,
+   "total": 728
+  },
+  {
+   "fips": "16027",
+   "name": "Canyon County",
+   "slug": "canyon-county",
+   "bbox": [
+    -117.0326,
+    43.2905,
+    -116.4734,
+    43.8802
+   ],
+   "units": 51,
+   "rep": 72755,
+   "dem": 25669,
+   "total": 101030
+  },
+  {
+   "fips": "16029",
+   "name": "Caribou County",
+   "slug": "caribou-county",
+   "bbox": [
+    -112.1498,
+    42.4154,
+    -111.0435,
+    43.0225
+   ],
+   "units": 8,
+   "rep": 2842,
+   "dem": 437,
+   "total": 3381
+  },
+  {
+   "fips": "16031",
+   "name": "Cassia County",
+   "slug": "cassia-county",
+   "bbox": [
+    -114.2866,
+    41.9882,
+    -113.0,
+    42.6878
+   ],
+   "units": 24,
+   "rep": 7959,
+   "dem": 1359,
+   "total": 9558
+  },
+  {
+   "fips": "16033",
+   "name": "Clark County",
+   "slug": "clark-county",
+   "bbox": [
+    -112.9954,
+    43.9719,
+    -111.6172,
+    44.5717
+   ],
+   "units": 3,
+   "rep": 280,
+   "dem": 50,
+   "total": 333
+  },
+  {
+   "fips": "16035",
+   "name": "Clearwater County",
+   "slug": "clearwater-county",
+   "bbox": [
+    -116.4561,
+    46.2658,
+    -114.5947,
+    46.9347
+   ],
+   "units": 14,
+   "rep": 3550,
+   "dem": 774,
+   "total": 4420
+  },
+  {
+   "fips": "16037",
+   "name": "Custer County",
+   "slug": "custer-county",
+   "bbox": [
+    -115.305,
+    43.5692,
+    -113.3204,
+    44.8791
+   ],
+   "units": 9,
+   "rep": 1998,
+   "dem": 586,
+   "total": 2650
+  },
+  {
+   "fips": "16039",
+   "name": "Elmore County",
+   "slug": "elmore-county",
+   "bbox": [
+    -116.2679,
+    42.7677,
+    -114.9714,
+    44.0988
+   ],
+   "units": 17,
+   "rep": 7791,
+   "dem": 2611,
+   "total": 10672
+  },
+  {
+   "fips": "16041",
+   "name": "Franklin County",
+   "slug": "franklin-county",
+   "bbox": [
+    -112.1262,
+    41.9978,
+    -111.5078,
+    42.4306
+   ],
+   "units": 18,
+   "rep": 6279,
+   "dem": 703,
+   "total": 7184
+  },
+  {
+   "fips": "16043",
+   "name": "Fremont County",
+   "slug": "fremont-county",
+   "bbox": [
+    -112.1564,
+    43.8832,
+    -111.047,
+    44.755
+   ],
+   "units": 13,
+   "rep": 5645,
+   "dem": 954,
+   "total": 6803
+  },
+  {
+   "fips": "16045",
+   "name": "Gem County",
+   "slug": "gem-county",
+   "bbox": [
+    -116.7127,
+    43.8071,
+    -116.1522,
+    44.5108
+   ],
+   "units": 13,
+   "rep": 8707,
+   "dem": 1699,
+   "total": 10620
+  },
+  {
+   "fips": "16047",
+   "name": "Gooding County",
+   "slug": "gooding-county",
+   "bbox": [
+    -115.0869,
+    42.6493,
+    -114.5942,
+    43.1986
+   ],
+   "units": 6,
+   "rep": 4676,
+   "dem": 1100,
+   "total": 5918
+  },
+  {
+   "fips": "16049",
+   "name": "Idaho County",
+   "slug": "idaho-county",
+   "bbox": [
+    -116.7946,
+    45.1076,
+    -114.3203,
+    46.6711
+   ],
+   "units": 26,
+   "rep": 7895,
+   "dem": 1410,
+   "total": 9564
+  },
+  {
+   "fips": "16051",
+   "name": "Jefferson County",
+   "slug": "jefferson-county",
+   "bbox": [
+    -112.6971,
+    43.6231,
+    -111.6259,
+    44.0585
+   ],
+   "units": 21,
+   "rep": 13481,
+   "dem": 1891,
+   "total": 15820
+  },
+  {
+   "fips": "16053",
+   "name": "Jerome County",
+   "slug": "jerome-county",
+   "bbox": [
+    -114.6174,
+    42.4949,
+    -113.9317,
+    42.8511
+   ],
+   "units": 12,
+   "rep": 6012,
+   "dem": 1742,
+   "total": 7946
+  },
+  {
+   "fips": "16055",
+   "name": "Kootenai County",
+   "slug": "kootenai-county",
+   "bbox": [
+    -117.0423,
+    47.366,
+    -116.3294,
+    47.9915
+   ],
+   "units": 73,
+   "rep": 72059,
+   "dem": 22113,
+   "total": 96365
+  },
+  {
+   "fips": "16057",
+   "name": "Latah County",
+   "slug": "latah-county",
+   "bbox": [
+    -117.04,
+    46.5417,
+    -116.3294,
+    47.1308
+   ],
+   "units": 34,
+   "rep": 10669,
+   "dem": 9039,
+   "total": 20461
+  },
+  {
+   "fips": "16059",
+   "name": "Lemhi County",
+   "slug": "lemhi-county",
+   "bbox": [
+    -114.8202,
+    44.2302,
+    -112.8136,
+    45.706
+   ],
+   "units": 9,
+   "rep": 3716,
+   "dem": 1038,
+   "total": 4874
+  },
+  {
+   "fips": "16061",
+   "name": "Lewis County",
+   "slug": "lewis-county",
+   "bbox": [
+    -116.7138,
+    45.9916,
+    -116.0126,
+    46.4694
+   ],
+   "units": 8,
+   "rep": 1503,
+   "dem": 305,
+   "total": 1846
+  },
+  {
+   "fips": "16063",
+   "name": "Lincoln County",
+   "slug": "lincoln-county",
+   "bbox": [
+    -114.5948,
+    42.7642,
+    -113.7139,
+    43.2002
+   ],
+   "units": 5,
+   "rep": 1466,
+   "dem": 392,
+   "total": 1917
+  },
+  {
+   "fips": "16065",
+   "name": "Madison County",
+   "slug": "madison-county",
+   "bbox": [
+    -111.9835,
+    43.622,
+    -111.3986,
+    43.9301
+   ],
+   "units": 21,
+   "rep": 13925,
+   "dem": 2767,
+   "total": 17363
+  },
+  {
+   "fips": "16067",
+   "name": "Minidoka County",
+   "slug": "minidoka-county",
+   "bbox": [
+    -113.9321,
+    42.5186,
+    -113.4131,
+    43.1999
+   ],
+   "units": 11,
+   "rep": 6401,
+   "dem": 1373,
+   "total": 7948
+  },
+  {
+   "fips": "16069",
+   "name": "Nez Perce County",
+   "slug": "nez-perce-county",
+   "bbox": [
+    -117.0628,
+    45.8552,
+    -116.3602,
+    46.6312
+   ],
+   "units": 32,
+   "rep": 13707,
+   "dem": 5928,
+   "total": 20135
+  },
+  {
+   "fips": "16071",
+   "name": "Oneida County",
+   "slug": "oneida-county",
+   "bbox": [
+    -113.0001,
+    41.9972,
+    -112.0703,
+    42.5031
+   ],
+   "units": 6,
+   "rep": 2119,
+   "dem": 253,
+   "total": 2457
+  },
+  {
+   "fips": "16073",
+   "name": "Owyhee County",
+   "slug": "owyhee-county",
+   "bbox": [
+    -117.027,
+    41.9961,
+    -115.0375,
+    43.6808
+   ],
+   "units": 12,
+   "rep": 4101,
+   "dem": 756,
+   "total": 4950
+  },
+  {
+   "fips": "16075",
+   "name": "Payette County",
+   "slug": "payette-county",
+   "bbox": [
+    -116.9839,
+    43.7927,
+    -116.4521,
+    44.1526
+   ],
+   "units": 10,
+   "rep": 9458,
+   "dem": 2064,
+   "total": 11761
+  },
+  {
+   "fips": "16077",
+   "name": "Power County",
+   "slug": "power-county",
+   "bbox": [
+    -113.2438,
+    42.3274,
+    -112.3797,
+    43.111
+   ],
+   "units": 6,
+   "rep": 2146,
+   "dem": 785,
+   "total": 3021
+  },
+  {
+   "fips": "16079",
+   "name": "Shoshone County",
+   "slug": "shoshone-county",
+   "bbox": [
+    -116.3296,
+    46.9329,
+    -114.9588,
+    48.069
+   ],
+   "units": 13,
+   "rep": 4500,
+   "dem": 1472,
+   "total": 6132
+  },
+  {
+   "fips": "16081",
+   "name": "Teton County",
+   "slug": "teton-county",
+   "bbox": [
+    -111.401,
+    43.501,
+    -111.0453,
+    43.9843
+   ],
+   "units": 7,
+   "rep": 3005,
+   "dem": 3463,
+   "total": 6698
+  },
+  {
+   "fips": "16083",
+   "name": "Twin Falls County",
+   "slug": "twin-falls-county",
+   "bbox": [
+    -115.0382,
+    41.9942,
+    -114.0003,
+    42.9184
+   ],
+   "units": 44,
+   "rep": 27304,
+   "dem": 9064,
+   "total": 37383
+  },
+  {
+   "fips": "16085",
+   "name": "Valley County",
+   "slug": "valley-county",
+   "bbox": [
+    -116.2139,
+    44.1477,
+    -114.694,
+    45.2197
+   ],
+   "units": 8,
+   "rep": 4214,
+   "dem": 2869,
+   "total": 7240
+  },
+  {
+   "fips": "16087",
+   "name": "Washington County",
+   "slug": "washington-county",
+   "bbox": [
+    -117.243,
+    44.151,
+    -116.2997,
+    44.8406
+   ],
+   "units": 11,
+   "rep": 4429,
+   "dem": 1010,
+   "total": 5555
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 44,
+ "missing_counties": [],
+ "coverage_note": null
+}

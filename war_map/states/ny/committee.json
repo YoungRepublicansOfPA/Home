@@ -8,15 +8,33 @@
   "seat_data_source": "County boards of elections"
  },
  "totals": {
-  "seats": 5966,
-  "precincts": 2981,
-  "filled": 1560,
+  "seats": 6338,
+  "precincts": 3167,
+  "filled": 1790,
   "empty": 0,
-  "empty_no_filer": 1930,
-  "unknown": 2476
+  "empty_no_filer": 2068,
+  "unknown": 2480
  },
  "notes": "Totals cover the counties listed in `counties` that have a seat list. Counties without one, or with only a partial list (coverage: partial), are not in the totals. Seat status follows war_map/committee/README.md.",
  "counties": [
+  {
+   "slug": "albany-county",
+   "name": "Albany County",
+   "method": "none_found",
+   "election": "Unknown (most recent Republican county committee election not identified)",
+   "as_of": "2026-11-27",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 0,
+    "seats": 0,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 0
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
   {
    "slug": "bronx-county",
    "name": "Bronx County",
@@ -34,6 +52,60 @@
    },
    "coverage": "partial",
    "coverage_note": "Contested election districts only. The NYC Board of Elections does not publish who filed for uncontested county committee seats, so the rest of the county is not listed."
+  },
+  {
+   "slug": "broome-county",
+   "name": "Broome County",
+   "method": "none_found",
+   "election": "Unknown (most recent Republican county committee election not identified)",
+   "as_of": "2026-11-27",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 0,
+    "seats": 0,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 0
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "chautauqua-county",
+   "name": "Chautauqua County",
+   "method": "candidate_listing",
+   "election": "June 23, 2026 Primary",
+   "as_of": "2026-07-31",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 90,
+    "seats": 180,
+    "filled": 104,
+    "empty": 0,
+    "empty_no_filer": 76,
+    "unknown": 0
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "dutchess-county",
+   "name": "Dutchess County",
+   "method": "none_found",
+   "election": "June 24, 2025 Primary (seat allocation per ED not found)",
+   "as_of": "2025-04-17",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 0,
+    "seats": 0,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 0
+   },
+   "coverage": "full",
+   "coverage_note": null
   },
   {
    "slug": "erie-county",
@@ -180,6 +252,24 @@
    "coverage_note": null
   },
   {
+   "slug": "orange-county",
+   "name": "Orange County",
+   "method": "none_found",
+   "election": "Unknown (most likely the June 24, 2025 primary; not confirmed from the Board of Elections)",
+   "as_of": "2026-11-27",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 0,
+    "seats": 0,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 0
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
    "slug": "queens-county",
    "name": "Queens County",
    "method": "election_results",
@@ -216,11 +306,83 @@
    "coverage_note": null
   },
   {
+   "slug": "rockland-county",
+   "name": "Rockland County",
+   "method": "none_found",
+   "election": "June 23, 2026 Primary (filing list not retrievable)",
+   "as_of": "2026-11-27",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 0,
+    "seats": 0,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 0
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "saratoga-county",
+   "name": "Saratoga County",
+   "method": "none_found",
+   "election": "Unknown (most recent Republican county committee election not identified)",
+   "as_of": "2026-11-27",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 0,
+    "seats": 0,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 0
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
    "slug": "suffolk-county",
    "name": "Suffolk County",
    "method": "none_found",
    "election": "Unknown (most likely the June 24, 2025 primary; not confirmed)",
    "as_of": "2026-11-27",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 0,
+    "seats": 0,
+    "filled": 0,
+    "empty": 0,
+    "empty_no_filer": 0,
+    "unknown": 0
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "sullivan-county",
+   "name": "Sullivan County",
+   "method": "candidate_listing",
+   "election": "June 24, 2025 Primary",
+   "as_of": "2025-07-02",
+   "checked_at": "2026-11-27",
+   "totals": {
+    "precincts": 96,
+    "seats": 192,
+    "filled": 126,
+    "empty": 0,
+    "empty_no_filer": 62,
+    "unknown": 4
+   },
+   "coverage": "full",
+   "coverage_note": null
+  },
+  {
+   "slug": "ulster-county",
+   "name": "Ulster County",
+   "method": "none_found",
+   "election": "June 23, 2026 Primary (ED list not found)",
+   "as_of": "2026-04-06",
    "checked_at": "2026-11-27",
    "totals": {
     "precincts": 0,
@@ -253,5 +415,5 @@
   }
  ],
  "counties_total": 62,
- "counties_counted": 6
+ "counties_counted": 8
 }

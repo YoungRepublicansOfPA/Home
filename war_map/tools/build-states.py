@@ -14,6 +14,19 @@ import gzip, json, os, re, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, 'states')
 STATES = {
+    'AL': ('Alabama', '01'), 'AZ': ('Arizona', '04'), 'AR': ('Arkansas', '05'),
+    'CA': ('California', '06'), 'CO': ('Colorado', '08'), 'FL': ('Florida', '12'),
+    'GA': ('Georgia', '13'), 'HI': ('Hawaii', '15'), 'ID': ('Idaho', '16'),
+    'IL': ('Illinois', '17'), 'IN': ('Indiana', '18'), 'IA': ('Iowa', '19'),
+    'KS': ('Kansas', '20'), 'KY': ('Kentucky', '21'), 'LA': ('Louisiana', '22'),
+    'MI': ('Michigan', '26'), 'MN': ('Minnesota', '27'), 'MS': ('Mississippi', '28'),
+    'MO': ('Missouri', '29'), 'MT': ('Montana', '30'), 'NE': ('Nebraska', '31'),
+    'NV': ('Nevada', '32'), 'NM': ('New Mexico', '35'), 'NC': ('North Carolina', '37'),
+    'ND': ('North Dakota', '38'), 'OH': ('Ohio', '39'), 'OK': ('Oklahoma', '40'),
+    'OR': ('Oregon', '41'), 'SC': ('South Carolina', '45'), 'SD': ('South Dakota', '46'),
+    'TN': ('Tennessee', '47'), 'TX': ('Texas', '48'), 'UT': ('Utah', '49'),
+    'VA': ('Virginia', '51'), 'WA': ('Washington', '53'), 'WV': ('West Virginia', '54'),
+    'WI': ('Wisconsin', '55'), 'WY': ('Wyoming', '56'),
     'MD': ('Maryland', '24'), 'DE': ('Delaware', '10'), 'NJ': ('New Jersey', '34'), 'NY': ('New York', '36'),
     'CT': ('Connecticut', '09'), 'RI': ('Rhode Island', '44'), 'MA': ('Massachusetts', '25'),
     'NH': ('New Hampshire', '33'), 'VT': ('Vermont', '50'), 'ME': ('Maine', '23'),
@@ -105,9 +118,14 @@ def build(st, src, names):
         counties.append(c)
         for k in ('rep', 'dem', 'total'): tot[k] += c[k]
         tot['units'] += len(fs)
+    expected = {k for k in names if k.startswith(fips)} if st != 'CT' else set(CT_REGIONS)
+    missing = sorted(expected - set(by))
     idx = {'state': st, 'name': name, 'fips': fips, 'unit': 'town' if st in TOWN_STATES else 'precinct',
            'election': 'November 5, 2024 presidential election', 'credit': CREDIT,
+           'checked_at': '2026-11-27',
            'source': f'https://int.nyt.com/newsgraphics/elections/map-data/2024/national/{st}-precincts-with-results.geojson.gz',
+           'counties_total': len(expected), 'missing_counties': [{'fips': k, 'name': names[k]} for k in missing],
+           'coverage_note': (f'The source has no usable mapped precinct results for {len(missing)} of {len(expected)} county areas. State vote totals shown here sum mapped units only.' if missing else None),
            'bbox': [min(c['bbox'][0] for c in counties), min(c['bbox'][1] for c in counties),
                     max(c['bbox'][2] for c in counties), max(c['bbox'][3] for c in counties)],
            'totals': tot, 'counties': counties}

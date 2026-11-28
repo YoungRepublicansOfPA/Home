@@ -1,0 +1,1827 @@
+{
+ "state": "KY",
+ "name": "Kentucky",
+ "fips": "21",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/KY-precincts-with-results.geojson.gz",
+ "bbox": [
+  -89.4173,
+  36.4971,
+  -81.9648,
+  39.1477
+ ],
+ "totals": {
+  "rep": 1337490,
+  "dem": 704043,
+  "total": 2074526,
+  "units": 3207
+ },
+ "counties": [
+  {
+   "fips": "21001",
+   "name": "Adair County",
+   "slug": "adair-county",
+   "bbox": [
+    -85.5269,
+    36.9251,
+    -85.0433,
+    37.3123
+   ],
+   "units": 16,
+   "rep": 7643,
+   "dem": 1257,
+   "total": 8974
+  },
+  {
+   "fips": "21003",
+   "name": "Allen County",
+   "slug": "allen-county",
+   "bbox": [
+    -86.419,
+    36.6285,
+    -85.9491,
+    36.9356
+   ],
+   "units": 14,
+   "rep": 7824,
+   "dem": 1505,
+   "total": 9418
+  },
+  {
+   "fips": "21005",
+   "name": "Anderson County",
+   "slug": "anderson-county",
+   "bbox": [
+    -85.1701,
+    37.8843,
+    -84.7963,
+    38.1296
+   ],
+   "units": 8,
+   "rep": 9650,
+   "dem": 3226,
+   "total": 13095
+  },
+  {
+   "fips": "21007",
+   "name": "Ballard County",
+   "slug": "ballard-county",
+   "bbox": [
+    -89.1825,
+    36.9155,
+    -88.816,
+    37.2301
+   ],
+   "units": 5,
+   "rep": 3331,
+   "dem": 697,
+   "total": 4088
+  },
+  {
+   "fips": "21009",
+   "name": "Barren County",
+   "slug": "barren-county",
+   "bbox": [
+    -86.1764,
+    36.7227,
+    -85.7393,
+    37.1698
+   ],
+   "units": 14,
+   "rep": 15019,
+   "dem": 4565,
+   "total": 19802
+  },
+  {
+   "fips": "21011",
+   "name": "Bath County",
+   "slug": "bath-county",
+   "bbox": [
+    -83.9803,
+    37.9925,
+    -83.4628,
+    38.3027
+   ],
+   "units": 14,
+   "rep": 4041,
+   "dem": 1278,
+   "total": 5389
+  },
+  {
+   "fips": "21013",
+   "name": "Bell County",
+   "slug": "bell-county",
+   "bbox": [
+    -83.9573,
+    36.5826,
+    -83.4595,
+    36.9558
+   ],
+   "units": 30,
+   "rep": 7831,
+   "dem": 1419,
+   "total": 9340
+  },
+  {
+   "fips": "21015",
+   "name": "Boone County",
+   "slug": "boone-county",
+   "bbox": [
+    -84.8974,
+    38.7773,
+    -84.5979,
+    39.1477
+   ],
+   "units": 64,
+   "rep": 45650,
+   "dem": 20601,
+   "total": 67421
+  },
+  {
+   "fips": "21017",
+   "name": "Bourbon County",
+   "slug": "bourbon-county",
+   "bbox": [
+    -84.4427,
+    38.067,
+    -83.9693,
+    38.3717
+   ],
+   "units": 7,
+   "rep": 6284,
+   "dem": 3088,
+   "total": 9537
+  },
+  {
+   "fips": "21019",
+   "name": "Boyd County",
+   "slug": "boyd-county",
+   "bbox": [
+    -82.8177,
+    38.2347,
+    -82.5716,
+    38.5058
+   ],
+   "units": 48,
+   "rep": 14363,
+   "dem": 6291,
+   "total": 20951
+  },
+  {
+   "fips": "21021",
+   "name": "Boyle County",
+   "slug": "boyle-county",
+   "bbox": [
+    -85.0397,
+    37.5321,
+    -84.6517,
+    37.7172
+   ],
+   "units": 25,
+   "rep": 9159,
+   "dem": 4990,
+   "total": 14373
+  },
+  {
+   "fips": "21023",
+   "name": "Bracken County",
+   "slug": "bracken-county",
+   "bbox": [
+    -84.236,
+    38.5498,
+    -83.9039,
+    38.8274
+   ],
+   "units": 8,
+   "rep": 3399,
+   "dem": 702,
+   "total": 4153
+  },
+  {
+   "fips": "21025",
+   "name": "Breathitt County",
+   "slug": "breathitt-county",
+   "bbox": [
+    -83.5802,
+    37.33,
+    -82.9485,
+    37.7
+   ],
+   "units": 21,
+   "rep": 4036,
+   "dem": 1002,
+   "total": 5113
+  },
+  {
+   "fips": "21027",
+   "name": "Breckinridge County",
+   "slug": "breckinridge-county",
+   "bbox": [
+    -86.6779,
+    37.5586,
+    -86.1513,
+    38.0459
+   ],
+   "units": 15,
+   "rep": 7882,
+   "dem": 2038,
+   "total": 10048
+  },
+  {
+   "fips": "21029",
+   "name": "Bullitt County",
+   "slug": "bullitt-county",
+   "bbox": [
+    -85.9383,
+    37.8059,
+    -85.4288,
+    38.1184
+   ],
+   "units": 47,
+   "rep": 32299,
+   "dem": 10280,
+   "total": 43209
+  },
+  {
+   "fips": "21031",
+   "name": "Butler County",
+   "slug": "butler-county",
+   "bbox": [
+    -86.9449,
+    36.9998,
+    -86.3992,
+    37.3951
+   ],
+   "units": 5,
+   "rep": 4905,
+   "dem": 965,
+   "total": 5943
+  },
+  {
+   "fips": "21033",
+   "name": "Caldwell County",
+   "slug": "caldwell-county",
+   "bbox": [
+    -88.0958,
+    36.9507,
+    -87.68,
+    37.3794
+   ],
+   "units": 13,
+   "rep": 4860,
+   "dem": 1256,
+   "total": 6188
+  },
+  {
+   "fips": "21035",
+   "name": "Calloway County",
+   "slug": "calloway-county",
+   "bbox": [
+    -88.4891,
+    36.4971,
+    -88.0325,
+    36.7507
+   ],
+   "units": 23,
+   "rep": 11539,
+   "dem": 5111,
+   "total": 16945
+  },
+  {
+   "fips": "21037",
+   "name": "Campbell County",
+   "slug": "campbell-county",
+   "bbox": [
+    -84.5062,
+    38.8058,
+    -84.2319,
+    39.122
+   ],
+   "units": 46,
+   "rep": 28450,
+   "dem": 18952,
+   "total": 48334
+  },
+  {
+   "fips": "21039",
+   "name": "Carlisle County",
+   "slug": "carlisle-county",
+   "bbox": [
+    -89.1796,
+    36.7716,
+    -88.8128,
+    36.9549
+   ],
+   "units": 6,
+   "rep": 2182,
+   "dem": 408,
+   "total": 2610
+  },
+  {
+   "fips": "21041",
+   "name": "Carroll County",
+   "slug": "carroll-county",
+   "bbox": [
+    -85.3331,
+    38.5802,
+    -84.9342,
+    38.7613
+   ],
+   "units": 3,
+   "rep": 3014,
+   "dem": 963,
+   "total": 4025
+  },
+  {
+   "fips": "21043",
+   "name": "Carter County",
+   "slug": "carter-county",
+   "bbox": [
+    -83.3415,
+    38.1683,
+    -82.7717,
+    38.5046
+   ],
+   "units": 27,
+   "rep": 8981,
+   "dem": 2305,
+   "total": 11422
+  },
+  {
+   "fips": "21045",
+   "name": "Casey County",
+   "slug": "casey-county",
+   "bbox": [
+    -85.1652,
+    37.1023,
+    -84.7061,
+    37.5513
+   ],
+   "units": 15,
+   "rep": 6216,
+   "dem": 804,
+   "total": 7080
+  },
+  {
+   "fips": "21047",
+   "name": "Christian County",
+   "slug": "christian-county",
+   "bbox": [
+    -87.7334,
+    36.6371,
+    -87.2594,
+    37.1594
+   ],
+   "units": 42,
+   "rep": 14332,
+   "dem": 7055,
+   "total": 21671
+  },
+  {
+   "fips": "21049",
+   "name": "Clark County",
+   "slug": "clark-county",
+   "bbox": [
+    -84.349,
+    37.8218,
+    -83.9663,
+    38.1151
+   ],
+   "units": 26,
+   "rep": 11950,
+   "dem": 5639,
+   "total": 17885
+  },
+  {
+   "fips": "21051",
+   "name": "Clay County",
+   "slug": "clay-county",
+   "bbox": [
+    -83.9696,
+    36.9374,
+    -83.5051,
+    37.3581
+   ],
+   "units": 20,
+   "rep": 6729,
+   "dem": 692,
+   "total": 7517
+  },
+  {
+   "fips": "21053",
+   "name": "Clinton County",
+   "slug": "clinton-county",
+   "bbox": [
+    -85.296,
+    36.6155,
+    -84.9748,
+    36.888
+   ],
+   "units": 13,
+   "rep": 4276,
+   "dem": 549,
+   "total": 4880
+  },
+  {
+   "fips": "21055",
+   "name": "Crittenden County",
+   "slug": "crittenden-county",
+   "bbox": [
+    -88.3585,
+    37.1261,
+    -87.8006,
+    37.5472
+   ],
+   "units": 10,
+   "rep": 3349,
+   "dem": 608,
+   "total": 4010
+  },
+  {
+   "fips": "21057",
+   "name": "Cumberland County",
+   "slug": "cumberland-county",
+   "bbox": [
+    -85.6016,
+    36.6187,
+    -85.2154,
+    36.9381
+   ],
+   "units": 10,
+   "rep": 2922,
+   "dem": 483,
+   "total": 3442
+  },
+  {
+   "fips": "21059",
+   "name": "Daviess County",
+   "slug": "daviess-county",
+   "bbox": [
+    -87.4086,
+    37.5608,
+    -86.8171,
+    37.9303
+   ],
+   "units": 56,
+   "rep": 30705,
+   "dem": 15673,
+   "total": 47097
+  },
+  {
+   "fips": "21061",
+   "name": "Edmonson County",
+   "slug": "edmonson-county",
+   "bbox": [
+    -86.4691,
+    37.0533,
+    -86.0491,
+    37.3408
+   ],
+   "units": 10,
+   "rep": 5048,
+   "dem": 1118,
+   "total": 6247
+  },
+  {
+   "fips": "21063",
+   "name": "Elliott County",
+   "slug": "elliott-county",
+   "bbox": [
+    -83.2708,
+    37.9965,
+    -82.8886,
+    38.267
+   ],
+   "units": 7,
+   "rep": 2335,
+   "dem": 532,
+   "total": 2911
+  },
+  {
+   "fips": "21065",
+   "name": "Estill County",
+   "slug": "estill-county",
+   "bbox": [
+    -84.1269,
+    37.5429,
+    -83.7217,
+    37.8531
+   ],
+   "units": 15,
+   "rep": 5091,
+   "dem": 1114,
+   "total": 6290
+  },
+  {
+   "fips": "21067",
+   "name": "Fayette County",
+   "slug": "fayette-county",
+   "bbox": [
+    -84.6601,
+    37.8453,
+    -84.2826,
+    38.2114
+   ],
+   "units": 285,
+   "rep": 57344,
+   "dem": 83387,
+   "total": 143932
+  },
+  {
+   "fips": "21069",
+   "name": "Fleming County",
+   "slug": "fleming-county",
+   "bbox": [
+    -83.9843,
+    38.171,
+    -83.4527,
+    38.5254
+   ],
+   "units": 18,
+   "rep": 5578,
+   "dem": 1334,
+   "total": 7000
+  },
+  {
+   "fips": "21071",
+   "name": "Floyd County",
+   "slug": "floyd-county",
+   "bbox": [
+    -82.9461,
+    37.2853,
+    -82.5636,
+    37.7563
+   ],
+   "units": 42,
+   "rep": 12326,
+   "dem": 3061,
+   "total": 15652
+  },
+  {
+   "fips": "21073",
+   "name": "Franklin County",
+   "slug": "franklin-county",
+   "bbox": [
+    -85.0243,
+    38.0934,
+    -84.7252,
+    38.3748
+   ],
+   "units": 22,
+   "rep": 13246,
+   "dem": 11996,
+   "total": 25763
+  },
+  {
+   "fips": "21075",
+   "name": "Fulton County",
+   "slug": "fulton-county",
+   "bbox": [
+    -89.4173,
+    36.499,
+    -88.8346,
+    36.6505
+   ],
+   "units": 8,
+   "rep": 1491,
+   "dem": 636,
+   "total": 2145
+  },
+  {
+   "fips": "21077",
+   "name": "Gallatin County",
+   "slug": "gallatin-county",
+   "bbox": [
+    -85.0231,
+    38.6621,
+    -84.6601,
+    38.8595
+   ],
+   "units": 8,
+   "rep": 3109,
+   "dem": 761,
+   "total": 3917
+  },
+  {
+   "fips": "21079",
+   "name": "Garrard County",
+   "slug": "garrard-county",
+   "bbox": [
+    -84.7455,
+    37.4727,
+    -84.3478,
+    37.8302
+   ],
+   "units": 14,
+   "rep": 7086,
+   "dem": 1719,
+   "total": 8917
+  },
+  {
+   "fips": "21081",
+   "name": "Grant County",
+   "slug": "grant-county",
+   "bbox": [
+    -84.7858,
+    38.473,
+    -84.4763,
+    38.8035
+   ],
+   "units": 3,
+   "rep": 9372,
+   "dem": 1944,
+   "total": 11469
+  },
+  {
+   "fips": "21083",
+   "name": "Graves County",
+   "slug": "graves-county",
+   "bbox": [
+    -88.8196,
+    36.5012,
+    -88.4841,
+    36.9469
+   ],
+   "units": 11,
+   "rep": 13378,
+   "dem": 3105,
+   "total": 16678
+  },
+  {
+   "fips": "21085",
+   "name": "Grayson County",
+   "slug": "grayson-county",
+   "bbox": [
+    -86.669,
+    37.3211,
+    -86.0187,
+    37.623
+   ],
+   "units": 21,
+   "rep": 9710,
+   "dem": 2235,
+   "total": 12095
+  },
+  {
+   "fips": "21087",
+   "name": "Green County",
+   "slug": "green-county",
+   "bbox": [
+    -85.6973,
+    37.1095,
+    -85.3528,
+    37.4718
+   ],
+   "units": 10,
+   "rep": 5033,
+   "dem": 782,
+   "total": 5857
+  },
+  {
+   "fips": "21089",
+   "name": "Greenup County",
+   "slug": "greenup-county",
+   "bbox": [
+    -83.1677,
+    38.3739,
+    -82.6654,
+    38.7565
+   ],
+   "units": 29,
+   "rep": 12961,
+   "dem": 4181,
+   "total": 17374
+  },
+  {
+   "fips": "21091",
+   "name": "Hancock County",
+   "slug": "hancock-county",
+   "bbox": [
+    -86.9873,
+    37.655,
+    -86.6223,
+    37.9994
+   ],
+   "units": 10,
+   "rep": 3375,
+   "dem": 1173,
+   "total": 4633
+  },
+  {
+   "fips": "21093",
+   "name": "Hardin County",
+   "slug": "hardin-county",
+   "bbox": [
+    -86.2776,
+    37.4403,
+    -85.6761,
+    38.0051
+   ],
+   "units": 58,
+   "rep": 30672,
+   "dem": 16572,
+   "total": 48082
+  },
+  {
+   "fips": "21095",
+   "name": "Harlan County",
+   "slug": "harlan-county",
+   "bbox": [
+    -83.5117,
+    36.6648,
+    -82.8557,
+    37.0212
+   ],
+   "units": 32,
+   "rep": 9109,
+   "dem": 1199,
+   "total": 10388
+  },
+  {
+   "fips": "21097",
+   "name": "Harrison County",
+   "slug": "harrison-county",
+   "bbox": [
+    -84.5574,
+    38.2779,
+    -84.1021,
+    38.582
+   ],
+   "units": 18,
+   "rep": 6639,
+   "dem": 2265,
+   "total": 9018
+  },
+  {
+   "fips": "21099",
+   "name": "Hart County",
+   "slug": "hart-county",
+   "bbox": [
+    -86.1616,
+    37.1484,
+    -85.6507,
+    37.4499
+   ],
+   "units": 5,
+   "rep": 6691,
+   "dem": 1642,
+   "total": 8409
+  },
+  {
+   "fips": "21101",
+   "name": "Henderson County",
+   "slug": "henderson-county",
+   "bbox": [
+    -87.9271,
+    37.6384,
+    -87.2712,
+    37.9753
+   ],
+   "units": 28,
+   "rep": 12592,
+   "dem": 6837,
+   "total": 19688
+  },
+  {
+   "fips": "21103",
+   "name": "Henry County",
+   "slug": "henry-county",
+   "bbox": [
+    -85.3461,
+    38.3356,
+    -84.867,
+    38.5968
+   ],
+   "units": 16,
+   "rep": 6093,
+   "dem": 1857,
+   "total": 8074
+  },
+  {
+   "fips": "21105",
+   "name": "Hickman County",
+   "slug": "hickman-county",
+   "bbox": [
+    -89.2014,
+    36.5026,
+    -88.8132,
+    36.7973
+   ],
+   "units": 6,
+   "rep": 1656,
+   "dem": 394,
+   "total": 2069
+  },
+  {
+   "fips": "21107",
+   "name": "Hopkins County",
+   "slug": "hopkins-county",
+   "bbox": [
+    -87.8518,
+    37.1054,
+    -87.2954,
+    37.57
+   ],
+   "units": 50,
+   "rep": 15361,
+   "dem": 4916,
+   "total": 20537
+  },
+  {
+   "fips": "21109",
+   "name": "Jackson County",
+   "slug": "jackson-county",
+   "bbox": [
+    -84.2053,
+    37.2505,
+    -83.7819,
+    37.5814
+   ],
+   "units": 11,
+   "rep": 5358,
+   "dem": 506,
+   "total": 5934
+  },
+  {
+   "fips": "21111",
+   "name": "Jefferson County",
+   "slug": "jefferson-county",
+   "bbox": [
+    -85.9471,
+    37.9972,
+    -85.4049,
+    38.3802
+   ],
+   "units": 608,
+   "rep": 144553,
+   "dem": 203070,
+   "total": 354094
+  },
+  {
+   "fips": "21113",
+   "name": "Jessamine County",
+   "slug": "jessamine-county",
+   "bbox": [
+    -84.7247,
+    37.7285,
+    -84.4343,
+    38.0037
+   ],
+   "units": 35,
+   "rep": 17854,
+   "dem": 8303,
+   "total": 26685
+  },
+  {
+   "fips": "21115",
+   "name": "Johnson County",
+   "slug": "johnson-county",
+   "bbox": [
+    -83.0046,
+    37.7032,
+    -82.6124,
+    38.0005
+   ],
+   "units": 31,
+   "rep": 8150,
+   "dem": 1350,
+   "total": 9622
+  },
+  {
+   "fips": "21117",
+   "name": "Kenton County",
+   "slug": "kenton-county",
+   "bbox": [
+    -84.6235,
+    38.7901,
+    -84.4175,
+    39.1
+   ],
+   "units": 71,
+   "rep": 48444,
+   "dem": 30859,
+   "total": 80948
+  },
+  {
+   "fips": "21119",
+   "name": "Knott County",
+   "slug": "knott-county",
+   "bbox": [
+    -83.1347,
+    37.1724,
+    -82.7106,
+    37.5263
+   ],
+   "units": 30,
+   "rep": 4732,
+   "dem": 1181,
+   "total": 6003
+  },
+  {
+   "fips": "21121",
+   "name": "Knox County",
+   "slug": "knox-county",
+   "bbox": [
+    -84.0947,
+    36.6873,
+    -83.5661,
+    37.0551
+   ],
+   "units": 30,
+   "rep": 11178,
+   "dem": 1821,
+   "total": 13156
+  },
+  {
+   "fips": "21123",
+   "name": "Larue County",
+   "slug": "larue-county",
+   "bbox": [
+    -85.8947,
+    37.422,
+    -85.466,
+    37.7323
+   ],
+   "units": 12,
+   "rep": 5773,
+   "dem": 1389,
+   "total": 7259
+  },
+  {
+   "fips": "21125",
+   "name": "Laurel County",
+   "slug": "laurel-county",
+   "bbox": [
+    -84.3689,
+    36.9391,
+    -83.8625,
+    37.3359
+   ],
+   "units": 23,
+   "rep": 23516,
+   "dem": 4037,
+   "total": 27887
+  },
+  {
+   "fips": "21127",
+   "name": "Lawrence County",
+   "slug": "lawrence-county",
+   "bbox": [
+    -83.0252,
+    37.8793,
+    -82.4642,
+    38.269
+   ],
+   "units": 18,
+   "rep": 5464,
+   "dem": 1044,
+   "total": 6574
+  },
+  {
+   "fips": "21129",
+   "name": "Lee County",
+   "slug": "lee-county",
+   "bbox": [
+    -83.9056,
+    37.4868,
+    -83.5223,
+    37.7202
+   ],
+   "units": 10,
+   "rep": 2227,
+   "dem": 406,
+   "total": 2690
+  },
+  {
+   "fips": "21131",
+   "name": "Leslie County",
+   "slug": "leslie-county",
+   "bbox": [
+    -83.5531,
+    36.8832,
+    -83.1644,
+    37.3207
+   ],
+   "units": 17,
+   "rep": 3908,
+   "dem": 382,
+   "total": 4357
+  },
+  {
+   "fips": "21133",
+   "name": "Letcher County",
+   "slug": "letcher-county",
+   "bbox": [
+    -83.154,
+    36.9542,
+    -82.5654,
+    37.2734
+   ],
+   "units": 30,
+   "rep": 6848,
+   "dem": 1457,
+   "total": 8431
+  },
+  {
+   "fips": "21135",
+   "name": "Lewis County",
+   "slug": "lewis-county",
+   "bbox": [
+    -83.645,
+    38.3183,
+    -83.0239,
+    38.7256
+   ],
+   "units": 4,
+   "rep": 4997,
+   "dem": 666,
+   "total": 5721
+  },
+  {
+   "fips": "21137",
+   "name": "Lincoln County",
+   "slug": "lincoln-county",
+   "bbox": [
+    -84.8601,
+    37.2383,
+    -84.4467,
+    37.6403
+   ],
+   "units": 18,
+   "rep": 8833,
+   "dem": 2080,
+   "total": 11034
+  },
+  {
+   "fips": "21139",
+   "name": "Livingston County",
+   "slug": "livingston-county",
+   "bbox": [
+    -88.5661,
+    36.9819,
+    -88.1872,
+    37.4253
+   ],
+   "units": 7,
+   "rep": 4021,
+   "dem": 886,
+   "total": 4972
+  },
+  {
+   "fips": "21141",
+   "name": "Logan County",
+   "slug": "logan-county",
+   "bbox": [
+    -87.0609,
+    36.643,
+    -86.6116,
+    37.0736
+   ],
+   "units": 7,
+   "rep": 9620,
+   "dem": 2734,
+   "total": 12511
+  },
+  {
+   "fips": "21143",
+   "name": "Lyon County",
+   "slug": "lyon-county",
+   "bbox": [
+    -88.2404,
+    36.8672,
+    -87.877,
+    37.1797
+   ],
+   "units": 6,
+   "rep": 3187,
+   "dem": 950,
+   "total": 4187
+  },
+  {
+   "fips": "21145",
+   "name": "McCracken County",
+   "slug": "mccracken-county",
+   "bbox": [
+    -88.9423,
+    36.9421,
+    -88.483,
+    37.2288
+   ],
+   "units": 39,
+   "rep": 21349,
+   "dem": 10191,
+   "total": 31947
+  },
+  {
+   "fips": "21147",
+   "name": "McCreary County",
+   "slug": "mccreary-county",
+   "bbox": [
+    -84.7785,
+    36.5917,
+    -84.2268,
+    36.9629
+   ],
+   "units": 18,
+   "rep": 5531,
+   "dem": 641,
+   "total": 6212
+  },
+  {
+   "fips": "21149",
+   "name": "McLean County",
+   "slug": "mclean-county",
+   "bbox": [
+    -87.5,
+    37.3805,
+    -87.0383,
+    37.6836
+   ],
+   "units": 8,
+   "rep": 3578,
+   "dem": 989,
+   "total": 4634
+  },
+  {
+   "fips": "21151",
+   "name": "Madison County",
+   "slug": "madison-county",
+   "bbox": [
+    -84.5256,
+    37.5153,
+    -84.0738,
+    37.9175
+   ],
+   "units": 47,
+   "rep": 29130,
+   "dem": 15180,
+   "total": 45188
+  },
+  {
+   "fips": "21153",
+   "name": "Magoffin County",
+   "slug": "magoffin-county",
+   "bbox": [
+    -83.2707,
+    37.4865,
+    -82.8785,
+    37.8947
+   ],
+   "units": 14,
+   "rep": 4288,
+   "dem": 909,
+   "total": 5274
+  },
+  {
+   "fips": "21155",
+   "name": "Marion County",
+   "slug": "marion-county",
+   "bbox": [
+    -85.5213,
+    37.412,
+    -85.0302,
+    37.7307
+   ],
+   "units": 5,
+   "rep": 6473,
+   "dem": 2513,
+   "total": 9102
+  },
+  {
+   "fips": "21157",
+   "name": "Marshall County",
+   "slug": "marshall-county",
+   "bbox": [
+    -88.4857,
+    36.7463,
+    -88.1108,
+    37.0642
+   ],
+   "units": 25,
+   "rep": 13677,
+   "dem": 3700,
+   "total": 17602
+  },
+  {
+   "fips": "21159",
+   "name": "Martin County",
+   "slug": "martin-county",
+   "bbox": [
+    -82.6745,
+    37.6687,
+    -82.3103,
+    37.9628
+   ],
+   "units": 14,
+   "rep": 3343,
+   "dem": 287,
+   "total": 3655
+  },
+  {
+   "fips": "21161",
+   "name": "Mason County",
+   "slug": "mason-county",
+   "bbox": [
+    -83.9916,
+    38.4564,
+    -83.6246,
+    38.7682
+   ],
+   "units": 14,
+   "rep": 5621,
+   "dem": 2170,
+   "total": 7901
+  },
+  {
+   "fips": "21163",
+   "name": "Meade County",
+   "slug": "meade-county",
+   "bbox": [
+    -86.4909,
+    37.7989,
+    -85.9759,
+    38.1988
+   ],
+   "units": 19,
+   "rep": 10630,
+   "dem": 3279,
+   "total": 14123
+  },
+  {
+   "fips": "21165",
+   "name": "Menifee County",
+   "slug": "menifee-county",
+   "bbox": [
+    -83.7772,
+    37.8182,
+    -83.4339,
+    38.0589
+   ],
+   "units": 6,
+   "rep": 2563,
+   "dem": 664,
+   "total": 3294
+  },
+  {
+   "fips": "21167",
+   "name": "Mercer County",
+   "slug": "mercer-county",
+   "bbox": [
+    -85.0315,
+    37.6788,
+    -84.6883,
+    37.9701
+   ],
+   "units": 16,
+   "rep": 8826,
+   "dem": 2838,
+   "total": 11851
+  },
+  {
+   "fips": "21169",
+   "name": "Metcalfe County",
+   "slug": "metcalfe-county",
+   "bbox": [
+    -85.777,
+    36.818,
+    -85.4417,
+    37.1824
+   ],
+   "units": 12,
+   "rep": 4197,
+   "dem": 884,
+   "total": 5127
+  },
+  {
+   "fips": "21171",
+   "name": "Monroe County",
+   "slug": "monroe-county",
+   "bbox": [
+    -85.9774,
+    36.6148,
+    -85.4364,
+    36.8421
+   ],
+   "units": 12,
+   "rep": 4679,
+   "dem": 576,
+   "total": 5308
+  },
+  {
+   "fips": "21173",
+   "name": "Montgomery County",
+   "slug": "montgomery-county",
+   "bbox": [
+    -84.0805,
+    37.9001,
+    -83.7557,
+    38.1921
+   ],
+   "units": 3,
+   "rep": 9302,
+   "dem": 3329,
+   "total": 12821
+  },
+  {
+   "fips": "21175",
+   "name": "Morgan County",
+   "slug": "morgan-county",
+   "bbox": [
+    -83.5066,
+    37.7127,
+    -82.9609,
+    38.1155
+   ],
+   "units": 12,
+   "rep": 4353,
+   "dem": 939,
+   "total": 5373
+  },
+  {
+   "fips": "21177",
+   "name": "Muhlenberg County",
+   "slug": "muhlenberg-county",
+   "bbox": [
+    -87.389,
+    37.0406,
+    -86.8813,
+    37.416
+   ],
+   "units": 25,
+   "rep": 10491,
+   "dem": 3048,
+   "total": 13692
+  },
+  {
+   "fips": "21179",
+   "name": "Nelson County",
+   "slug": "nelson-county",
+   "bbox": [
+    -85.7426,
+    37.523,
+    -85.1505,
+    37.9907
+   ],
+   "units": 24,
+   "rep": 16052,
+   "dem": 6515,
+   "total": 22852
+  },
+  {
+   "fips": "21181",
+   "name": "Nicholas County",
+   "slug": "nicholas-county",
+   "bbox": [
+    -84.1941,
+    38.1921,
+    -83.8336,
+    38.4606
+   ],
+   "units": 5,
+   "rep": 2451,
+   "dem": 824,
+   "total": 3319
+  },
+  {
+   "fips": "21183",
+   "name": "Ohio County",
+   "slug": "ohio-county",
+   "bbox": [
+    -87.1374,
+    37.2123,
+    -86.5765,
+    37.7377
+   ],
+   "units": 19,
+   "rep": 8679,
+   "dem": 2094,
+   "total": 10937
+  },
+  {
+   "fips": "21185",
+   "name": "Oldham County",
+   "slug": "oldham-county",
+   "bbox": [
+    -85.6378,
+    38.2853,
+    -85.2831,
+    38.5241
+   ],
+   "units": 38,
+   "rep": 23025,
+   "dem": 14402,
+   "total": 38210
+  },
+  {
+   "fips": "21187",
+   "name": "Owen County",
+   "slug": "owen-county",
+   "bbox": [
+    -85.0761,
+    38.3385,
+    -84.5805,
+    38.7246
+   ],
+   "units": 12,
+   "rep": 4434,
+   "dem": 988,
+   "total": 5500
+  },
+  {
+   "fips": "21189",
+   "name": "Owsley County",
+   "slug": "owsley-county",
+   "bbox": [
+    -83.8883,
+    37.2557,
+    -83.5212,
+    37.5414
+   ],
+   "units": 8,
+   "rep": 1625,
+   "dem": 203,
+   "total": 1839
+  },
+  {
+   "fips": "21191",
+   "name": "Pendleton County",
+   "slug": "pendleton-county",
+   "bbox": [
+    -84.5323,
+    38.5294,
+    -84.1953,
+    38.8748
+   ],
+   "units": 12,
+   "rep": 5593,
+   "dem": 1210,
+   "total": 6900
+  },
+  {
+   "fips": "21193",
+   "name": "Perry County",
+   "slug": "perry-county",
+   "bbox": [
+    -83.554,
+    36.9918,
+    -83.0001,
+    37.4435
+   ],
+   "units": 37,
+   "rep": 7913,
+   "dem": 1966,
+   "total": 9992
+  },
+  {
+   "fips": "21195",
+   "name": "Pike County",
+   "slug": "pike-county",
+   "bbox": [
+    -82.7327,
+    37.1961,
+    -81.9648,
+    37.7451
+   ],
+   "units": 57,
+   "rep": 19684,
+   "dem": 4025,
+   "total": 23950
+  },
+  {
+   "fips": "21197",
+   "name": "Powell County",
+   "slug": "powell-county",
+   "bbox": [
+    -84.0274,
+    37.7163,
+    -83.6311,
+    37.9339
+   ],
+   "units": 7,
+   "rep": 4092,
+   "dem": 1174,
+   "total": 5360
+  },
+  {
+   "fips": "21199",
+   "name": "Pulaski County",
+   "slug": "pulaski-county",
+   "bbox": [
+    -84.9071,
+    36.8671,
+    -84.2786,
+    37.3557
+   ],
+   "units": 19,
+   "rep": 26051,
+   "dem": 5351,
+   "total": 31735
+  },
+  {
+   "fips": "21201",
+   "name": "Robertson County",
+   "slug": "robertson-county",
+   "bbox": [
+    -84.1839,
+    38.4223,
+    -83.9304,
+    38.6086
+   ],
+   "units": 5,
+   "rep": 915,
+   "dem": 215,
+   "total": 1144
+  },
+  {
+   "fips": "21203",
+   "name": "Rockcastle County",
+   "slug": "rockcastle-county",
+   "bbox": [
+    -84.5029,
+    37.1517,
+    -84.1291,
+    37.5399
+   ],
+   "units": 15,
+   "rep": 6635,
+   "dem": 986,
+   "total": 7724
+  },
+  {
+   "fips": "21205",
+   "name": "Rowan County",
+   "slug": "rowan-county",
+   "bbox": [
+    -83.6352,
+    38.017,
+    -83.199,
+    38.3965
+   ],
+   "units": 18,
+   "rep": 6224,
+   "dem": 3484,
+   "total": 9873
+  },
+  {
+   "fips": "21207",
+   "name": "Russell County",
+   "slug": "russell-county",
+   "bbox": [
+    -85.275,
+    36.8273,
+    -84.8357,
+    37.186
+   ],
+   "units": 16,
+   "rep": 7622,
+   "dem": 1200,
+   "total": 8893
+  },
+  {
+   "fips": "21209",
+   "name": "Scott County",
+   "slug": "scott-county",
+   "bbox": [
+    -84.7406,
+    38.1108,
+    -84.4018,
+    38.4929
+   ],
+   "units": 11,
+   "rep": 18747,
+   "dem": 10501,
+   "total": 29769
+  },
+  {
+   "fips": "21211",
+   "name": "Shelby County",
+   "slug": "shelby-county",
+   "bbox": [
+    -85.4682,
+    38.0367,
+    -84.957,
+    38.358
+   ],
+   "units": 34,
+   "rep": 16356,
+   "dem": 7822,
+   "total": 24620
+  },
+  {
+   "fips": "21213",
+   "name": "Simpson County",
+   "slug": "simpson-county",
+   "bbox": [
+    -86.7633,
+    36.6336,
+    -86.4005,
+    36.8831
+   ],
+   "units": 13,
+   "rep": 6253,
+   "dem": 2403,
+   "total": 8776
+  },
+  {
+   "fips": "21215",
+   "name": "Spencer County",
+   "slug": "spencer-county",
+   "bbox": [
+    -85.5169,
+    37.9399,
+    -85.1017,
+    38.1474
+   ],
+   "units": 9,
+   "rep": 8927,
+   "dem": 2415,
+   "total": 11480
+  },
+  {
+   "fips": "21217",
+   "name": "Taylor County",
+   "slug": "taylor-county",
+   "bbox": [
+    -85.587,
+    37.1924,
+    -85.0737,
+    37.4829
+   ],
+   "units": 20,
+   "rep": 9523,
+   "dem": 2576,
+   "total": 12261
+  },
+  {
+   "fips": "21219",
+   "name": "Todd County",
+   "slug": "todd-county",
+   "bbox": [
+    -87.336,
+    36.6417,
+    -87.0502,
+    37.0758
+   ],
+   "units": 13,
+   "rep": 4009,
+   "dem": 1051,
+   "total": 5112
+  },
+  {
+   "fips": "21221",
+   "name": "Trigg County",
+   "slug": "trigg-county",
+   "bbox": [
+    -88.1573,
+    36.6332,
+    -87.6597,
+    37.0021
+   ],
+   "units": 7,
+   "rep": 5436,
+   "dem": 1667,
+   "total": 7196
+  },
+  {
+   "fips": "21223",
+   "name": "Trimble County",
+   "slug": "trimble-county",
+   "bbox": [
+    -85.4569,
+    38.4926,
+    -85.1683,
+    38.7371
+   ],
+   "units": 12,
+   "rep": 3283,
+   "dem": 923,
+   "total": 4249
+  },
+  {
+   "fips": "21225",
+   "name": "Union County",
+   "slug": "union-county",
+   "bbox": [
+    -88.1603,
+    37.4699,
+    -87.7345,
+    37.9017
+   ],
+   "units": 12,
+   "rep": 4758,
+   "dem": 1225,
+   "total": 6058
+  },
+  {
+   "fips": "21227",
+   "name": "Warren County",
+   "slug": "warren-county",
+   "bbox": [
+    -86.6745,
+    36.7762,
+    -86.1135,
+    37.1907
+   ],
+   "units": 52,
+   "rep": 34861,
+   "dem": 21065,
+   "total": 56890
+  },
+  {
+   "fips": "21229",
+   "name": "Washington County",
+   "slug": "washington-county",
+   "bbox": [
+    -85.4018,
+    37.6309,
+    -85.0005,
+    37.9172
+   ],
+   "units": 13,
+   "rep": 4720,
+   "dem": 1533,
+   "total": 6341
+  },
+  {
+   "fips": "21231",
+   "name": "Wayne County",
+   "slug": "wayne-county",
+   "bbox": [
+    -85.0643,
+    36.6033,
+    -84.5725,
+    36.9976
+   ],
+   "units": 19,
+   "rep": 7203,
+   "dem": 1444,
+   "total": 8733
+  },
+  {
+   "fips": "21233",
+   "name": "Webster County",
+   "slug": "webster-county",
+   "bbox": [
+    -87.944,
+    37.3506,
+    -87.3752,
+    37.6476
+   ],
+   "units": 14,
+   "rep": 4339,
+   "dem": 1153,
+   "total": 5556
+  },
+  {
+   "fips": "21235",
+   "name": "Whitley County",
+   "slug": "whitley-county",
+   "bbox": [
+    -84.356,
+    36.5877,
+    -83.8775,
+    36.973
+   ],
+   "units": 36,
+   "rep": 12687,
+   "dem": 2237,
+   "total": 15075
+  },
+  {
+   "fips": "21237",
+   "name": "Wolfe County",
+   "slug": "wolfe-county",
+   "bbox": [
+    -83.708,
+    37.6191,
+    -83.2428,
+    37.8619
+   ],
+   "units": 8,
+   "rep": 2163,
+   "dem": 689,
+   "total": 2915
+  },
+  {
+   "fips": "21239",
+   "name": "Woodford County",
+   "slug": "woodford-county",
+   "bbox": [
+    -84.866,
+    37.847,
+    -84.625,
+    38.1954
+   ],
+   "units": 8,
+   "rep": 8419,
+   "dem": 6282,
+   "total": 14993
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 120,
+ "missing_counties": [],
+ "coverage_note": null
+}

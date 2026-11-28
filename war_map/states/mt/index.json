@@ -1,0 +1,867 @@
+{
+ "state": "MT",
+ "name": "Montana",
+ "fips": "30",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/MT-precincts-with-results.geojson.gz",
+ "bbox": [
+  -116.0491,
+  44.3579,
+  -104.0397,
+  49.0011
+ ],
+ "totals": {
+  "rep": 352079,
+  "dem": 231906,
+  "total": 602963,
+  "units": 726
+ },
+ "counties": [
+  {
+   "fips": "30001",
+   "name": "Beaverhead County",
+   "slug": "beaverhead-county",
+   "bbox": [
+    -113.9381,
+    44.3579,
+    -111.4635,
+    45.9415
+   ],
+   "units": 16,
+   "rep": 4058,
+   "dem": 1543,
+   "total": 5794
+  },
+  {
+   "fips": "30003",
+   "name": "Big Horn County",
+   "slug": "big-horn-county",
+   "bbox": [
+    -108.6996,
+    44.9939,
+    -106.2637,
+    46.0436
+   ],
+   "units": 23,
+   "rep": 2188,
+   "dem": 2112,
+   "total": 4470
+  },
+  {
+   "fips": "30005",
+   "name": "Blaine County",
+   "slug": "blaine-county",
+   "bbox": [
+    -109.5518,
+    47.7199,
+    -108.2364,
+    49.0004
+   ],
+   "units": 8,
+   "rep": 1526,
+   "dem": 1348,
+   "total": 3019
+  },
+  {
+   "fips": "30007",
+   "name": "Broadwater County",
+   "slug": "broadwater-county",
+   "bbox": [
+    -111.7879,
+    45.8335,
+    -111.0569,
+    46.7818
+   ],
+   "units": 5,
+   "rep": 3770,
+   "dem": 885,
+   "total": 4810
+  },
+  {
+   "fips": "30009",
+   "name": "Carbon County",
+   "slug": "carbon-county",
+   "bbox": [
+    -109.7987,
+    44.9995,
+    -108.0981,
+    45.6386
+   ],
+   "units": 13,
+   "rep": 4719,
+   "dem": 2353,
+   "total": 7297
+  },
+  {
+   "fips": "30011",
+   "name": "Carter County",
+   "slug": "carter-county",
+   "bbox": [
+    -105.0383,
+    44.9976,
+    -104.0397,
+    46.1366
+   ],
+   "units": 4,
+   "rep": 760,
+   "dem": 75,
+   "total": 854
+  },
+  {
+   "fips": "30013",
+   "name": "Cascade County",
+   "slug": "cascade-county",
+   "bbox": [
+    -112.0476,
+    46.818,
+    -110.6363,
+    47.6987
+   ],
+   "units": 26,
+   "rep": 22419,
+   "dem": 14021,
+   "total": 37583
+  },
+  {
+   "fips": "30015",
+   "name": "Chouteau County",
+   "slug": "chouteau-county",
+   "bbox": [
+    -111.409,
+    47.4153,
+    -109.5329,
+    48.3066
+   ],
+   "units": 9,
+   "rep": 1885,
+   "dem": 940,
+   "total": 2934
+  },
+  {
+   "fips": "30017",
+   "name": "Custer County",
+   "slug": "custer-county",
+   "bbox": [
+    -106.1917,
+    45.787,
+    -104.7327,
+    46.8608
+   ],
+   "units": 12,
+   "rep": 4208,
+   "dem": 1385,
+   "total": 5797
+  },
+  {
+   "fips": "30019",
+   "name": "Daniels County",
+   "slug": "daniels-county",
+   "bbox": [
+    -106.1519,
+    48.5632,
+    -104.9733,
+    48.9998
+   ],
+   "units": 4,
+   "rep": 778,
+   "dem": 154,
+   "total": 951
+  },
+  {
+   "fips": "30021",
+   "name": "Dawson County",
+   "slug": "dawson-county",
+   "bbox": [
+    -105.4066,
+    46.8608,
+    -104.3058,
+    47.7905
+   ],
+   "units": 7,
+   "rep": 3627,
+   "dem": 894,
+   "total": 4638
+  },
+  {
+   "fips": "30023",
+   "name": "Deer Lodge County",
+   "slug": "deer-lodge-county",
+   "bbox": [
+    -113.5175,
+    45.7579,
+    -112.5586,
+    46.2668
+   ],
+   "units": 6,
+   "rep": 2329,
+   "dem": 2376,
+   "total": 4870
+  },
+  {
+   "fips": "30025",
+   "name": "Fallon County",
+   "slug": "fallon-county",
+   "bbox": [
+    -104.9058,
+    45.8819,
+    -104.0442,
+    46.685
+   ],
+   "units": 1,
+   "rep": 1303,
+   "dem": 163,
+   "total": 1507
+  },
+  {
+   "fips": "30027",
+   "name": "Fergus County",
+   "slug": "fergus-county",
+   "bbox": [
+    -110.2136,
+    46.6935,
+    -108.313,
+    47.8034
+   ],
+   "units": 16,
+   "rep": 4965,
+   "dem": 1522,
+   "total": 6712
+  },
+  {
+   "fips": "30029",
+   "name": "Flathead County",
+   "slug": "flathead-county",
+   "bbox": [
+    -115.0201,
+    47.7899,
+    -113.2676,
+    49.0011
+   ],
+   "units": 55,
+   "rep": 41390,
+   "dem": 20062,
+   "total": 63140
+  },
+  {
+   "fips": "30031",
+   "name": "Gallatin County",
+   "slug": "gallatin-county",
+   "bbox": [
+    -111.8054,
+    44.4768,
+    -110.7838,
+    46.1928
+   ],
+   "units": 46,
+   "rep": 32695,
+   "dem": 34938,
+   "total": 69897
+  },
+  {
+   "fips": "30033",
+   "name": "Garfield County",
+   "slug": "garfield-county",
+   "bbox": [
+    -107.9686,
+    46.8452,
+    -106.0865,
+    47.9829
+   ],
+   "units": 4,
+   "rep": 756,
+   "dem": 39,
+   "total": 800
+  },
+  {
+   "fips": "30035",
+   "name": "Glacier County",
+   "slug": "glacier-county",
+   "bbox": [
+    -114.0682,
+    48.3096,
+    -112.1846,
+    48.9989
+   ],
+   "units": 16,
+   "rep": 1939,
+   "dem": 2933,
+   "total": 5078
+  },
+  {
+   "fips": "30037",
+   "name": "Golden Valley County",
+   "slug": "golden-valley-county",
+   "bbox": [
+    -109.6539,
+    46.0448,
+    -108.7785,
+    46.7514
+   ],
+   "units": 2,
+   "rep": 440,
+   "dem": 67,
+   "total": 515
+  },
+  {
+   "fips": "30039",
+   "name": "Granite County",
+   "slug": "granite-county",
+   "bbox": [
+    -113.8782,
+    45.9386,
+    -113.0361,
+    46.8322
+   ],
+   "units": 4,
+   "rep": 1537,
+   "dem": 579,
+   "total": 2176
+  },
+  {
+   "fips": "30041",
+   "name": "Hill County",
+   "slug": "hill-county",
+   "bbox": [
+    -110.7562,
+    48.1325,
+    -109.4643,
+    49.0003
+   ],
+   "units": 17,
+   "rep": 3871,
+   "dem": 2634,
+   "total": 6804
+  },
+  {
+   "fips": "30043",
+   "name": "Jefferson County",
+   "slug": "jefferson-county",
+   "bbox": [
+    -112.5981,
+    45.7475,
+    -111.66,
+    46.5696
+   ],
+   "units": 12,
+   "rep": 5544,
+   "dem": 2516,
+   "total": 8291
+  },
+  {
+   "fips": "30045",
+   "name": "Judith Basin County",
+   "slug": "judith-basin-county",
+   "bbox": [
+    -110.7883,
+    46.6721,
+    -109.7458,
+    47.4169
+   ],
+   "units": 4,
+   "rep": 1051,
+   "dem": 265,
+   "total": 1353
+  },
+  {
+   "fips": "30047",
+   "name": "Lake County",
+   "slug": "lake-county",
+   "bbox": [
+    -114.6047,
+    47.1382,
+    -113.5981,
+    48.0519
+   ],
+   "units": 22,
+   "rep": 9880,
+   "dem": 6510,
+   "total": 16910
+  },
+  {
+   "fips": "30049",
+   "name": "Lewis and Clark County",
+   "slug": "lewis-and-clark-county",
+   "bbox": [
+    -113.1659,
+    46.4149,
+    -111.4946,
+    47.9539
+   ],
+   "units": 32,
+   "rep": 21479,
+   "dem": 19085,
+   "total": 42023
+  },
+  {
+   "fips": "30051",
+   "name": "Liberty County",
+   "slug": "liberty-county",
+   "bbox": [
+    -111.409,
+    48.1322,
+    -110.7425,
+    48.9986
+   ],
+   "units": 4,
+   "rep": 752,
+   "dem": 214,
+   "total": 988
+  },
+  {
+   "fips": "30053",
+   "name": "Lincoln County",
+   "slug": "lincoln-county",
+   "bbox": [
+    -116.0491,
+    47.8903,
+    -114.6121,
+    49.001
+   ],
+   "units": 15,
+   "rep": 8909,
+   "dem": 2615,
+   "total": 11789
+  },
+  {
+   "fips": "30055",
+   "name": "McCone County",
+   "slug": "mccone-county",
+   "bbox": [
+    -106.4302,
+    47.093,
+    -105.1947,
+    48.0978
+   ],
+   "units": 3,
+   "rep": 931,
+   "dem": 129,
+   "total": 1082
+  },
+  {
+   "fips": "30057",
+   "name": "Madison County",
+   "slug": "madison-county",
+   "bbox": [
+    -112.7048,
+    44.708,
+    -111.35,
+    45.8588
+   ],
+   "units": 11,
+   "rep": 4615,
+   "dem": 1689,
+   "total": 6461
+  },
+  {
+   "fips": "30059",
+   "name": "Meagher County",
+   "slug": "meagher-county",
+   "bbox": [
+    -111.6581,
+    46.1844,
+    -110.273,
+    47.0883
+   ],
+   "units": 1,
+   "rep": 888,
+   "dem": 256,
+   "total": 1172
+  },
+  {
+   "fips": "30061",
+   "name": "Mineral County",
+   "slug": "mineral-county",
+   "bbox": [
+    -115.7593,
+    46.6966,
+    -114.4194,
+    47.4968
+   ],
+   "units": 6,
+   "rep": 2049,
+   "dem": 689,
+   "total": 2833
+  },
+  {
+   "fips": "30063",
+   "name": "Missoula County",
+   "slug": "missoula-county",
+   "bbox": [
+    -114.7972,
+    46.6316,
+    -113.3028,
+    47.6003
+   ],
+   "units": 65,
+   "rep": 27306,
+   "dem": 42903,
+   "total": 72773
+  },
+  {
+   "fips": "30065",
+   "name": "Musselshell County",
+   "slug": "musselshell-county",
+   "bbox": [
+    -109.0101,
+    46.1324,
+    -107.7812,
+    46.7559
+   ],
+   "units": 6,
+   "rep": 2550,
+   "dem": 396,
+   "total": 3012
+  },
+  {
+   "fips": "30067",
+   "name": "Park County",
+   "slug": "park-county",
+   "bbox": [
+    -111.0467,
+    44.9922,
+    -109.7985,
+    46.1927
+   ],
+   "units": 12,
+   "rep": 6128,
+   "dem": 5224,
+   "total": 11717
+  },
+  {
+   "fips": "30069",
+   "name": "Petroleum County",
+   "slug": "petroleum-county",
+   "bbox": [
+    -108.7368,
+    46.7492,
+    -107.8256,
+    47.5984
+   ],
+   "units": 1,
+   "rep": 284,
+   "dem": 37,
+   "total": 324
+  },
+  {
+   "fips": "30071",
+   "name": "Phillips County",
+   "slug": "phillips-county",
+   "bbox": [
+    -108.8911,
+    47.4494,
+    -107.1798,
+    49.0001
+   ],
+   "units": 4,
+   "rep": 1753,
+   "dem": 385,
+   "total": 2189
+  },
+  {
+   "fips": "30073",
+   "name": "Pondera County",
+   "slug": "pondera-county",
+   "bbox": [
+    -113.35,
+    47.9845,
+    -111.4085,
+    48.4836
+   ],
+   "units": 8,
+   "rep": 1972,
+   "dem": 782,
+   "total": 2852
+  },
+  {
+   "fips": "30075",
+   "name": "Powder River County",
+   "slug": "powder-river-county",
+   "bbox": [
+    -106.2797,
+    44.9933,
+    -104.9814,
+    45.7886
+   ],
+   "units": 6,
+   "rep": 963,
+   "dem": 131,
+   "total": 1106
+  },
+  {
+   "fips": "30077",
+   "name": "Powell County",
+   "slug": "powell-county",
+   "bbox": [
+    -113.4667,
+    46.2656,
+    -112.2932,
+    47.6002
+   ],
+   "units": 13,
+   "rep": 2466,
+   "dem": 710,
+   "total": 3282
+  },
+  {
+   "fips": "30079",
+   "name": "Prairie County",
+   "slug": "prairie-county",
+   "bbox": [
+    -106.0867,
+    46.5404,
+    -104.6035,
+    47.1816
+   ],
+   "units": 4,
+   "rep": 546,
+   "dem": 122,
+   "total": 688
+  },
+  {
+   "fips": "30081",
+   "name": "Ravalli County",
+   "slug": "ravalli-county",
+   "bbox": [
+    -114.5665,
+    45.4591,
+    -113.5154,
+    46.661
+   ],
+   "units": 25,
+   "rep": 20617,
+   "dem": 8485,
+   "total": 29904
+  },
+  {
+   "fips": "30083",
+   "name": "Richland County",
+   "slug": "richland-county",
+   "bbox": [
+    -105.235,
+    47.3535,
+    -104.0414,
+    48.15
+   ],
+   "units": 14,
+   "rep": 4387,
+   "dem": 778,
+   "total": 5309
+  },
+  {
+   "fips": "30085",
+   "name": "Roosevelt County",
+   "slug": "roosevelt-county",
+   "bbox": [
+    -105.844,
+    47.9961,
+    -104.044,
+    48.5634
+   ],
+   "units": 12,
+   "rep": 2055,
+   "dem": 1680,
+   "total": 3914
+  },
+  {
+   "fips": "30087",
+   "name": "Rosebud County",
+   "slug": "rosebud-county",
+   "bbox": [
+    -107.8976,
+    45.1773,
+    -106.0863,
+    46.8596
+   ],
+   "units": 12,
+   "rep": 2466,
+   "dem": 1095,
+   "total": 3693
+  },
+  {
+   "fips": "30089",
+   "name": "Sanders County",
+   "slug": "sanders-county",
+   "bbox": [
+    -116.0491,
+    47.1208,
+    -114.1871,
+    48.264
+   ],
+   "units": 9,
+   "rep": 6150,
+   "dem": 1705,
+   "total": 8069
+  },
+  {
+   "fips": "30091",
+   "name": "Sheridan County",
+   "slug": "sheridan-county",
+   "bbox": [
+    -105.0577,
+    48.3893,
+    -104.0468,
+    49.0
+   ],
+   "units": 6,
+   "rep": 1321,
+   "dem": 509,
+   "total": 1912
+  },
+  {
+   "fips": "30093",
+   "name": "Silver Bow County",
+   "slug": "silver-bow-county",
+   "bbox": [
+    -113.0855,
+    45.625,
+    -112.1901,
+    46.1853
+   ],
+   "units": 31,
+   "rep": 8110,
+   "dem": 9386,
+   "total": 18226
+  },
+  {
+   "fips": "30095",
+   "name": "Stillwater County",
+   "slug": "stillwater-county",
+   "bbox": [
+    -110.0646,
+    45.1673,
+    -108.843,
+    46.1324
+   ],
+   "units": 9,
+   "rep": 4699,
+   "dem": 1056,
+   "total": 5906
+  },
+  {
+   "fips": "30097",
+   "name": "Sweet Grass County",
+   "slug": "sweet-grass-county",
+   "bbox": [
+    -110.2929,
+    45.1721,
+    -109.4172,
+    46.2209
+   ],
+   "units": 5,
+   "rep": 1789,
+   "dem": 525,
+   "total": 2381
+  },
+  {
+   "fips": "30099",
+   "name": "Teton County",
+   "slug": "teton-county",
+   "bbox": [
+    -113.0148,
+    47.5001,
+    -111.4084,
+    48.1332
+   ],
+   "units": 5,
+   "rep": 2533,
+   "dem": 927,
+   "total": 3568
+  },
+  {
+   "fips": "30101",
+   "name": "Toole County",
+   "slug": "toole-county",
+   "bbox": [
+    -112.1933,
+    48.2194,
+    -111.2699,
+    48.9987
+   ],
+   "units": 5,
+   "rep": 1571,
+   "dem": 415,
+   "total": 2046
+  },
+  {
+   "fips": "30103",
+   "name": "Treasure County",
+   "slug": "treasure-county",
+   "bbox": [
+    -107.7385,
+    45.87,
+    -106.9391,
+    46.4827
+   ],
+   "units": 1,
+   "rep": 367,
+   "dem": 57,
+   "total": 442
+  },
+  {
+   "fips": "30105",
+   "name": "Valley County",
+   "slug": "valley-county",
+   "bbox": [
+    -107.4149,
+    47.6604,
+    -105.8045,
+    49.0001
+   ],
+   "units": 4,
+   "rep": 3019,
+   "dem": 935,
+   "total": 4079
+  },
+  {
+   "fips": "30107",
+   "name": "Wheatland County",
+   "slug": "wheatland-county",
+   "bbox": [
+    -110.2821,
+    46.219,
+    -109.3886,
+    46.7529
+   ],
+   "units": 5,
+   "rep": 843,
+   "dem": 209,
+   "total": 1086
+  },
+  {
+   "fips": "30109",
+   "name": "Wibaux County",
+   "slug": "wibaux-county",
+   "bbox": [
+    -104.6073,
+    46.6415,
+    -104.0447,
+    47.3974
+   ],
+   "units": 1,
+   "rep": 463,
+   "dem": 71,
+   "total": 546
+  },
+  {
+   "fips": "30111",
+   "name": "Yellowstone County",
+   "slug": "yellowstone-county",
+   "bbox": [
+    -108.9256,
+    45.4605,
+    -107.4629,
+    46.496
+   ],
+   "units": 59,
+   "rep": 50460,
+   "dem": 28392,
+   "total": 81391
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 56,
+ "missing_counties": [],
+ "coverage_note": null
+}

@@ -4,8 +4,8 @@
 
 const STYLE = 'https://tiles.openfreemap.org/styles/dark';
 const COUNTIES = 'https://cdn.jsdelivr.net/npm/us-atlas@3.0.1/counties-10m.json';
-const SUPPORTED = ['md', 'de', 'nj', 'ny', 'ct', 'ri', 'ma', 'nh', 'vt', 'me'];
-const LOAD_ALL = 7000;          // states with fewer units load every county at once (all but New York)
+const SUPPORTED = 'al ak az ar ca co ct de fl ga hi id il in ia ks ky la me md ma mi mn ms mo mt ne nv nh nj nm ny nc nd oh ok or ri sc sd tn tx ut vt va wa wv wi wy'.split(' ');
+const LOAD_ALL = 2500;
 const LOAD_ZOOM = 7.4;          // otherwise counties load once zoomed in this far
 const COLORS = {r: ['#e8a29b', '#d4605a', '#a8302f'], d: ['#9cc3e4', '#4f8fc9', '#245f9e'], tie: '#9b7bb5', none: '#5b6676'};
 const UNKNOWN_SEAT = '#6b7891';
@@ -18,6 +18,7 @@ const pct = (a, b) => b ? (100 * a / b).toFixed(1) + '%' : '—';
 const st = (new URLSearchParams(location.search).get('st') || '').toLowerCase();
 let info, committee = null, map, layer = 'results', popup;
 const loaded = new Map(), features = [];
+let updateTimer;
 
 function h(tag, attrs = {}, ...kids) {
   const el = document.createElement(tag);
@@ -77,10 +78,19 @@ function committeeNote() {
 
 function renderHome() {
   const list = [...info.counties].sort((a, b) => a.name.localeCompare(b.name));
+  if (info.unavailable) {
+    $('panel').replaceChildren(
+      h('p', {class: 'eyebrow', text: 'War Map coverage'}), h('h2', {text: info.name}),
+      h('p', {class: 'lede', text: info.unavailable}),
+      h('p', {}, h('a', {href: info.source, text: 'Read the source and state caveat'})));
+    return;
+  }
   $('panel').replaceChildren(
     h('p', {class: 'eyebrow', text: 'War Map'}), h('h2', {text: info.name}),
     h('p', {class: 'lede', text: `${info.election}: ${fmt(info.totals.units)} ${unitWord()} in ${info.counties.length} counties. Zoom in or pick a county to see ${unitWord()}.`}),
-    ...voteBlock(info.totals), committeeNote(),
+    ...voteBlock(info.totals),
+    ...(info.coverage_note ? [h('div', {class: 'note warn', text: info.coverage_note})] : []),
+    committeeNote(),
     h('h3', {text: 'Counties'}),
     h('ul', {class: 'clist'}, list.map(c => h('li', {onclick: () => openCounty(c)}, h('span', {text: c.name}), h('small', {text: marginText(margin(c))})))));
 }
@@ -115,7 +125,7 @@ function renderUnit(f) {
 }
 
 function fitBox(b) { map.fitBounds([[b[0], b[1]], [b[2], b[3]]], {padding: {top: 70, bottom: 60, left: innerWidth > 900 ? 400 : 20, right: 30}, maxZoom: 12}); }
-function openCounty(c) { fitBox(c.bbox); loadCounty(c).then(() => renderCounty(c)); }
+function openCounty(c) { fitBox(c.bbox); loadCounty(c).then(() => renderCounty(c)).catch(err => { $('panel').textContent = err.message; }); }
 function openUnit(f) {
   const b = bboxOf(f.geometry); fitBox(b); renderUnit(f);
   map.setFilter('units-hi', ['==', ['get', 'id'], f.properties.id]);
@@ -127,22 +137,27 @@ function bboxOf(g) {
 }
 
 async function loadCounty(c) {
-  if (!loaded.has(c.slug)) loaded.set(c.slug, fetch(`../states/${st}/${c.slug}.json`).then(r => r.json()).then(fc => {
+  if (!loaded.has(c.slug)) loaded.set(c.slug, fetch(`../states/${st}/${c.slug}.json`).then(r => {
+    if (!r.ok) throw Error(`Could not load ${c.name}: HTTP ${r.status}`);
+    return r.json();
+  }).then(fc => {
     for (const f of fc.features) { f.properties.county = c.slug; f.properties.fill = colorFor(margin(f.properties)); f.properties.chair = chairColor(c.slug); features.push(f); }
-    map.getSource('units').setData({type: 'FeatureCollection', features});
-  }));
+    clearTimeout(updateTimer);
+    updateTimer = setTimeout(() => map.getSource('units').setData({type: 'FeatureCollection', features}), 80);
+  }).catch(err => { loaded.delete(c.slug); throw err; }));
   return loaded.get(c.slug);
 }
 function loadVisible() {
   if (info.totals.units > LOAD_ALL && map.getZoom() < LOAD_ZOOM) return;
   const b = map.getBounds();
-  for (const c of info.counties) if (c.bbox[2] >= b.getWest() && c.bbox[0] <= b.getEast() && c.bbox[3] >= b.getSouth() && c.bbox[1] <= b.getNorth()) loadCounty(c);
+  for (const c of info.counties) if (c.bbox[2] >= b.getWest() && c.bbox[0] <= b.getEast() && c.bbox[3] >= b.getSouth() && c.bbox[1] <= b.getNorth()) loadCounty(c).catch(console.error);
 }
 
 function applyLayer() {
   document.querySelectorAll('.tabs button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.layer === layer)));
   map.setPaintProperty('units-fill', 'fill-color', layer === 'results' ? ['get', 'fill'] : ['get', 'chair']);
   map.setPaintProperty('units-fill', 'fill-opacity', layer === 'results' ? .78 : .55);
+  if (map.getLayer('county-fill')) map.setPaintProperty('county-fill', 'fill-color', ['get', layer === 'results' ? 'fill' : 'chair']);
   $('legend').replaceChildren(...(layer === 'results'
     ? [h('span', {}, h('i', {style: 'background:' + COLORS.r[2]}), 'Trump 30+'), h('span', {}, h('i', {style: 'background:' + COLORS.r[1]}), '10–30'), h('span', {}, h('i', {style: 'background:' + COLORS.r[0]}), '0–10'),
        h('span', {}, h('i', {style: 'background:' + COLORS.d[0]}), 'Harris 0–10'), h('span', {}, h('i', {style: 'background:' + COLORS.d[1]}), '10–30'), h('span', {}, h('i', {style: 'background:' + COLORS.d[2]}), '30+'),
@@ -159,6 +174,7 @@ async function main() {
   $('title').textContent = `${info.name} War Map`;
   $('credit').textContent = info.credit;
   renderHome();
+  if (info.unavailable) document.querySelector('.tabs').hidden = true;
   map = new maplibregl.Map({container: 'map', style: STYLE, bounds: [[info.bbox[0], info.bbox[1]], [info.bbox[2], info.bbox[3]]],
     fitBoundsOptions: {padding: {top: 70, bottom: 60, left: innerWidth > 900 ? 400 : 20, right: 30}}, attributionControl: {compact: true}});
   map.addControl(new maplibregl.NavigationControl({showCompass: false}), 'top-right');
@@ -170,12 +186,25 @@ async function main() {
     map.addLayer({id: 'units-line', type: 'line', source: 'units', minzoom: 8, paint: {'line-color': '#0a1424', 'line-width': .4, 'line-opacity': .7}});
     map.addLayer({id: 'units-hi', type: 'line', source: 'units', filter: ['==', ['get', 'id'], ''], paint: {'line-color': '#fff', 'line-width': 2.4}});
     applyLayer();
-    if (info.totals.units <= LOAD_ALL) info.counties.forEach(loadCounty); else loadVisible();
+    if (info.totals.units <= LOAD_ALL) info.counties.forEach(c => loadCounty(c).catch(console.error)); else loadVisible();
     try {
       const us = await (await fetch(COUNTIES)).json();
+      const byFips = new Map(info.counties.map(c => [c.fips, c]));
       const cs = topojson.feature(us, us.objects.counties).features.filter(f => String(f.id).startsWith(info.fips));
+      for (const f of cs) {
+        const c = byFips.get(String(f.id));
+        f.properties.county = c?.slug || '';
+        f.properties.fill = c ? colorFor(margin(c)) : COLORS.none;
+        f.properties.chair = c ? chairColor(c.slug) : UNKNOWN_SEAT;
+      }
       map.addSource('counties', {type: 'geojson', data: {type: 'FeatureCollection', features: cs}});
+      map.addLayer({id: 'county-fill', type: 'fill', source: 'counties', paint: {'fill-color': ['get', layer === 'results' ? 'fill' : 'chair'], 'fill-opacity': .55}}, 'units-fill');
       map.addLayer({id: 'county-line', type: 'line', source: 'counties', paint: {'line-color': '#c9d4e6', 'line-width': ['interpolate', ['linear'], ['zoom'], 6, .6, 10, 1.6], 'line-opacity': .7}});
+      map.on('click', 'county-fill', e => {
+        if (map.queryRenderedFeatures(e.point, {layers: ['units-fill']}).length) return;
+        const c = byFips.get(String(e.features[0].id));
+        if (c) openCounty(c);
+      });
     } catch { /* county outlines are decoration only */ }
   });
   map.on('moveend', loadVisible);

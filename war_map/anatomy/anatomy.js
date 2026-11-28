@@ -5,22 +5,20 @@
 
 const ATLAS = 'https://cdn.jsdelivr.net/npm/us-atlas@3.0.1/states-10m.json';
 const ABBR = {'01': 'AL', '02': 'AK', '04': 'AZ', '05': 'AR', '06': 'CA', '08': 'CO', '09': 'CT', '10': 'DE', '11': 'DC', '12': 'FL', '13': 'GA', '15': 'HI', '16': 'ID', '17': 'IL', '18': 'IN', '19': 'IA', '20': 'KS', '21': 'KY', '22': 'LA', '23': 'ME', '24': 'MD', '25': 'MA', '26': 'MI', '27': 'MN', '28': 'MS', '29': 'MO', '30': 'MT', '31': 'NE', '32': 'NV', '33': 'NH', '34': 'NJ', '35': 'NM', '36': 'NY', '37': 'NC', '38': 'ND', '39': 'OH', '40': 'OK', '41': 'OR', '42': 'PA', '44': 'RI', '45': 'SC', '46': 'SD', '47': 'TN', '48': 'TX', '49': 'UT', '50': 'VT', '51': 'VA', '53': 'WA', '54': 'WV', '55': 'WI', '56': 'WY'};
-const NORTHEAST = ['MD', 'DE', 'NJ', 'NY', 'CT', 'RI', 'MA', 'NH', 'VT', 'ME'];
+const COMMITTEE_STATES = ['MD', 'DE', 'NJ', 'NY', 'CT', 'RI', 'MA', 'NH', 'VT', 'ME'];
 
-// War Maps: ours, and partner organizations' maps.
-const MAPS = {
-  PA: {url: '../?layer=chairs', by: 'Young Republicans of Pennsylvania', seats: '../committee/summary.json'},
-  TX: {url: 'https://yrtx.gop/map/', by: 'Young Republicans of Texas', external: true},
-  FL: {url: 'https://www.flcollegegop.com/precinct', by: 'Florida College Republicans', external: true},
-};
-for (const st of NORTHEAST) MAPS[st] = {url: '../state/?st=' + st.toLowerCase(), by: 'Young Republicans of Pennsylvania', seats: `../states/${st.toLowerCase()}/committee.json`};
+const MAPS = Object.fromEntries(Object.values(ABBR).filter(st => st !== 'DC' && st !== 'PA')
+  .map(st => [st, {url: '../state/?st=' + st.toLowerCase(), by: 'Young Republicans of Pennsylvania'}]));
+MAPS.PA = {url: '../?layer=chairs', by: 'Young Republicans of Pennsylvania', seats: '../committee/summary.json'};
+MAPS.AK.unavailable = true;
+for (const st of COMMITTEE_STATES) MAPS[st].seats = `../states/${st.toLowerCase()}/committee.json`;
 
 const VIEWS = {
   present: {label: 'Share of committee seats documented', ramp: ['#284264', '#159c94'], value: m => m.present / m.seats},
   empty: {label: 'Share of documented seats that are empty', ramp: ['#4a3440', '#ff3b47'], value: m => m.empty / m.present},
   filled: {label: 'Share of documented seats filled by a Republican', ramp: ['#24382c', '#4f9a66'], value: m => m.filled / m.present},
 };
-const NO_DATA = '#26344d', NO_MAP = '#141f33';
+const NO_DATA = '#26344d', NO_RESULTS = '#576078', NO_MAP = '#141f33';
 
 const $ = id => document.getElementById(id);
 const fmt = n => n.toLocaleString('en-US');
@@ -45,6 +43,7 @@ function metrics(t) {
 
 function fillFor(s) {
   if (!s.map) return NO_MAP;
+  if (s.map.unavailable) return NO_RESULTS;
   if (!s.m || !s.m.present) return NO_DATA;
   const v = VIEWS[view];
   return d3.interpolateRgb(v.ramp[0], v.ramp[1])(Math.max(0, Math.min(1, v.value(s.m))));
@@ -56,6 +55,7 @@ function bar(parts) {
 
 function statusText(s) {
   if (!s.map) return 'No War Map yet';
+  if (s.map.unavailable) return 'Precinct results unavailable';
   if (s.m) return `${pct(s.m.present, s.m.seats)} documented` + (s.cov && s.cov[0] < s.cov[1] ? ` · ${s.cov[0]} of ${s.cov[1]} counties` : '');
   return s.map.external ? 'Partner map · seats not counted here' : 'Map live · seats not yet documented';
 }
@@ -69,7 +69,7 @@ function renderNational() {
   const withSeats = states.filter(s => s.m);
   const t = withSeats.reduce((a, s) => ({seats: a.seats + s.m.seats, present: a.present + s.m.present, missing: a.missing + s.m.missing,
     empty: a.empty + s.m.empty, filled: a.filled + s.m.filled}), {seats: 0, present: 0, missing: 0, empty: 0, filled: 0});
-  const live = states.filter(s => s.map).length;
+  const live = states.filter(s => s.map && !s.map.unavailable).length;
   $('national').replaceChildren(
     h('div', {class: 'big'},
       h('div', {}, h('b', {text: `${live}`}), h('small', {text: 'states with a War Map'})),
@@ -89,7 +89,7 @@ function renderList() {
   $('state-list').replaceChildren(...order.map(s => {
     const li = h('li', {tabindex: s.map ? '0' : '-1', 'data-st': s.st, onclick: () => open(s), onkeydown: e => { if (e.key === 'Enter') open(s); },
       onmouseenter: () => highlight(s.st), onmouseleave: () => highlight(null)},
-      h('span', {class: 'nm'}, s.name, s.map ? h('span', {class: 'pill ' + (s.map.external ? 'ext' : 'live'), text: s.map.external ? 'Partner' : 'Live'}) : null),
+      h('span', {class: 'nm'}, s.name, s.map ? h('span', {class: 'pill ' + (s.map.unavailable ? 'ext' : 'live'), text: s.map.unavailable ? 'Coverage' : 'Live'}) : null),
       h('span', {class: 'st', text: statusText(s)}),
       s.m ? bar([[s.m.empty, s.m.seats, '#d9434c'], [s.m.filled, s.m.seats, '#4f9a66'], [s.m.missing, s.m.seats, '#3a4a66']]) : null);
     if (!s.map) li.style.cursor = 'default';
@@ -103,6 +103,7 @@ function renderLegend() {
     h('span', {class: 'ramp'}, '0%', h('span', {style: `background:linear-gradient(90deg,${v.ramp[0]},${v.ramp[1]})`}), '100%'),
     h('span', {text: v.label}),
     h('span', {}, h('i', {style: 'background:' + NO_DATA}), 'War Map, seats not counted'),
+    h('span', {}, h('i', {style: 'background:' + NO_RESULTS}), 'Precinct results unavailable'),
     h('span', {}, h('i', {style: 'background:' + NO_MAP}), 'No War Map yet'));
 }
 

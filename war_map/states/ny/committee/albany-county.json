@@ -1,0 +1,32 @@
+{
+ "county": "Albany County",
+ "checked_at": "2026-11-27",
+ "method": "none_found",
+ "election": "Unknown (most recent Republican county committee election not identified)",
+ "as_of": "2026-11-27",
+ "seats_per_precinct": null,
+ "sources": [
+  {
+   "url": "https://albanycountyny.gov/departments/board-of-elections/petitions",
+   "title": "Albany County Board of Elections Petitions page (document list rendered by script; no county committee filing list could be retrieved)",
+   "type": "candidate_listing",
+   "as_of": "2026-11-27"
+  },
+  {
+   "url": "https://www.albanycountyny.gov/home/showpublisheddocument/56485/639110931024870000",
+   "title": "Albany County BOE Ultimate Petition Report, 2026 (search-result snippet shows Democratic designations; the file returned HTTP 404 to curl on 2026-11-27)",
+   "type": "candidate_listing",
+   "as_of": "2026-04-06"
+  }
+ ],
+ "precincts": [],
+ "totals": {
+  "precincts": 0,
+  "seats": 0,
+  "filled": 0,
+  "empty": 0,
+  "empty_no_filer": 0,
+  "unknown": 0
+ },
+ "notes": "No Republican county committee filing list, roster or results was found. The Albany County Board of Elections petitions page loads its documents by script and the linked 2026 petition reports returned HTTP 404 when fetched; search-result snippets of those reports show Democratic and state committee designations only. The year in which Albany County Republicans elect county committee was not confirmed from an official source. No official ED list was retrievable (NYS BOE sites are behind a Cloudflare challenge), so precincts are empty. Seat status is unknown for the whole county."
+}

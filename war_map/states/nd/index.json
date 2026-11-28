@@ -1,0 +1,822 @@
+{
+ "state": "ND",
+ "name": "North Dakota",
+ "fips": "38",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/ND-precincts-with-results.geojson.gz",
+ "bbox": [
+  -104.049,
+  45.9351,
+  -96.5544,
+  49.0005
+ ],
+ "totals": {
+  "rep": 246503,
+  "dem": 112327,
+  "total": 368153,
+  "units": 381
+ },
+ "counties": [
+  {
+   "fips": "38001",
+   "name": "Adams County",
+   "slug": "adams-county",
+   "bbox": [
+    -102.9955,
+    45.9445,
+    -101.9979,
+    46.2832
+   ],
+   "units": 1,
+   "rep": 962,
+   "dem": 215,
+   "total": 1201
+  },
+  {
+   "fips": "38003",
+   "name": "Barnes County",
+   "slug": "barnes-county",
+   "bbox": [
+    -98.4675,
+    46.6299,
+    -97.6814,
+    47.2413
+   ],
+   "units": 15,
+   "rep": 3531,
+   "dem": 1661,
+   "total": 5339
+  },
+  {
+   "fips": "38005",
+   "name": "Benson County",
+   "slug": "benson-county",
+   "bbox": [
+    -99.8482,
+    47.8462,
+    -98.5255,
+    48.3712
+   ],
+   "units": 8,
+   "rep": 1163,
+   "dem": 795,
+   "total": 2002
+  },
+  {
+   "fips": "38007",
+   "name": "Billings County",
+   "slug": "billings-county",
+   "bbox": [
+    -103.6675,
+    46.6296,
+    -103.0324,
+    47.3293
+   ],
+   "units": 3,
+   "rep": 543,
+   "dem": 93,
+   "total": 647
+  },
+  {
+   "fips": "38009",
+   "name": "Bottineau County",
+   "slug": "bottineau-county",
+   "bbox": [
+    -101.4967,
+    48.5446,
+    -100.1455,
+    48.9996
+   ],
+   "units": 5,
+   "rep": 2628,
+   "dem": 735,
+   "total": 3447
+  },
+  {
+   "fips": "38011",
+   "name": "Bowman County",
+   "slug": "bowman-county",
+   "bbox": [
+    -104.0468,
+    45.9449,
+    -102.9951,
+    46.2807
+   ],
+   "units": 4,
+   "rep": 1384,
+   "dem": 207,
+   "total": 1618
+  },
+  {
+   "fips": "38013",
+   "name": "Burke County",
+   "slug": "burke-county",
+   "bbox": [
+    -102.9399,
+    48.5463,
+    -102.0212,
+    48.9993
+   ],
+   "units": 6,
+   "rep": 909,
+   "dem": 130,
+   "total": 1056
+  },
+  {
+   "fips": "38015",
+   "name": "Burleigh County",
+   "slug": "burleigh-county",
+   "bbox": [
+    -100.9654,
+    46.6334,
+    -100.0753,
+    47.3277
+   ],
+   "units": 30,
+   "rep": 36595,
+   "dem": 14215,
+   "total": 52263
+  },
+  {
+   "fips": "38017",
+   "name": "Cass County",
+   "slug": "cass-county",
+   "bbox": [
+    -97.7062,
+    46.6293,
+    -96.7527,
+    47.24
+   ],
+   "units": 34,
+   "rep": 47873,
+   "dem": 40304,
+   "total": 90851
+  },
+  {
+   "fips": "38019",
+   "name": "Cavalier County",
+   "slug": "cavalier-county",
+   "bbox": [
+    -99.0008,
+    48.5431,
+    -97.9271,
+    49.0005
+   ],
+   "units": 3,
+   "rep": 1461,
+   "dem": 491,
+   "total": 1987
+  },
+  {
+   "fips": "38021",
+   "name": "Dickey County",
+   "slug": "dickey-county",
+   "bbox": [
+    -99.0058,
+    45.9358,
+    -98.0067,
+    46.283
+   ],
+   "units": 1,
+   "rep": 1829,
+   "dem": 557,
+   "total": 2453
+  },
+  {
+   "fips": "38023",
+   "name": "Divide County",
+   "slug": "divide-county",
+   "bbox": [
+    -104.049,
+    48.6332,
+    -102.8856,
+    48.9999
+   ],
+   "units": 4,
+   "rep": 914,
+   "dem": 253,
+   "total": 1201
+  },
+  {
+   "fips": "38025",
+   "name": "Dunn County",
+   "slug": "dunn-county",
+   "bbox": [
+    -103.0998,
+    46.9806,
+    -102.1442,
+    47.8237
+   ],
+   "units": 10,
+   "rep": 1877,
+   "dem": 332,
+   "total": 2242
+  },
+  {
+   "fips": "38027",
+   "name": "Eddy County",
+   "slug": "eddy-county",
+   "bbox": [
+    -99.2974,
+    47.5872,
+    -98.5,
+    47.8476
+   ],
+   "units": 3,
+   "rep": 862,
+   "dem": 316,
+   "total": 1205
+  },
+  {
+   "fips": "38029",
+   "name": "Emmons County",
+   "slug": "emmons-county",
+   "bbox": [
+    -100.662,
+    45.9414,
+    -99.8784,
+    46.635
+   ],
+   "units": 5,
+   "rep": 1697,
+   "dem": 205,
+   "total": 1930
+  },
+  {
+   "fips": "38031",
+   "name": "Foster County",
+   "slug": "foster-county",
+   "bbox": [
+    -99.2664,
+    47.3264,
+    -98.4993,
+    47.5878
+   ],
+   "units": 1,
+   "rep": 1326,
+   "dem": 335,
+   "total": 1703
+  },
+  {
+   "fips": "38033",
+   "name": "Golden Valley County",
+   "slug": "golden-valley-county",
+   "bbox": [
+    -104.046,
+    46.5407,
+    -103.609,
+    47.3302
+   ],
+   "units": 1,
+   "rep": 847,
+   "dem": 122,
+   "total": 991
+  },
+  {
+   "fips": "38035",
+   "name": "Grand Forks County",
+   "slug": "grand-forks-county",
+   "bbox": [
+    -97.9036,
+    47.672,
+    -96.8851,
+    48.195
+   ],
+   "units": 20,
+   "rep": 18123,
+   "dem": 12469,
+   "total": 31411
+  },
+  {
+   "fips": "38037",
+   "name": "Grant County",
+   "slug": "grant-county",
+   "bbox": [
+    -102.0967,
+    46.0068,
+    -101.0238,
+    46.7179
+   ],
+   "units": 5,
+   "rep": 1076,
+   "dem": 205,
+   "total": 1306
+  },
+  {
+   "fips": "38039",
+   "name": "Griggs County",
+   "slug": "griggs-county",
+   "bbox": [
+    -98.5003,
+    47.2403,
+    -97.9602,
+    47.6726
+   ],
+   "units": 5,
+   "rep": 963,
+   "dem": 301,
+   "total": 1289
+  },
+  {
+   "fips": "38041",
+   "name": "Hettinger County",
+   "slug": "hettinger-county",
+   "bbox": [
+    -102.9278,
+    46.2053,
+    -101.9978,
+    46.6311
+   ],
+   "units": 2,
+   "rep": 1089,
+   "dem": 192,
+   "total": 1306
+  },
+  {
+   "fips": "38043",
+   "name": "Kidder County",
+   "slug": "kidder-county",
+   "bbox": [
+    -100.1146,
+    46.6316,
+    -99.4459,
+    47.3274
+   ],
+   "units": 6,
+   "rep": 1137,
+   "dem": 238,
+   "total": 1398
+  },
+  {
+   "fips": "38045",
+   "name": "LaMoure County",
+   "slug": "lamoure-county",
+   "bbox": [
+    -99.0375,
+    46.2826,
+    -98.0335,
+    46.6312
+   ],
+   "units": 4,
+   "rep": 1614,
+   "dem": 453,
+   "total": 2123
+  },
+  {
+   "fips": "38047",
+   "name": "Logan County",
+   "slug": "logan-county",
+   "bbox": [
+    -99.9173,
+    46.2824,
+    -99.0365,
+    46.6329
+   ],
+   "units": 5,
+   "rep": 898,
+   "dem": 117,
+   "total": 1033
+  },
+  {
+   "fips": "38049",
+   "name": "McHenry County",
+   "slug": "mchenry-county",
+   "bbox": [
+    -101.0599,
+    47.8473,
+    -100.1976,
+    48.6328
+   ],
+   "units": 8,
+   "rep": 2223,
+   "dem": 479,
+   "total": 2752
+  },
+  {
+   "fips": "38051",
+   "name": "McIntosh County",
+   "slug": "mcintosh-county",
+   "bbox": [
+    -99.88,
+    45.9397,
+    -99.0031,
+    46.2835
+   ],
+   "units": 6,
+   "rep": 1132,
+   "dem": 229,
+   "total": 1390
+  },
+  {
+   "fips": "38053",
+   "name": "McKenzie County",
+   "slug": "mckenzie-county",
+   "bbox": [
+    -104.0452,
+    47.3284,
+    -102.5513,
+    48.1465
+   ],
+   "units": 11,
+   "rep": 4627,
+   "dem": 809,
+   "total": 5521
+  },
+  {
+   "fips": "38055",
+   "name": "McLean County",
+   "slug": "mclean-county",
+   "bbox": [
+    -102.3858,
+    47.1569,
+    -100.5849,
+    47.8484
+   ],
+   "units": 6,
+   "rep": 4231,
+   "dem": 1093,
+   "total": 5421
+  },
+  {
+   "fips": "38057",
+   "name": "Mercer County",
+   "slug": "mercer-county",
+   "bbox": [
+    -102.2058,
+    46.9812,
+    -101.257,
+    47.5746
+   ],
+   "units": 14,
+   "rep": 3798,
+   "dem": 672,
+   "total": 4555
+  },
+  {
+   "fips": "38059",
+   "name": "Morton County",
+   "slug": "morton-county",
+   "bbox": [
+    -102.0972,
+    46.2844,
+    -100.5441,
+    46.983
+   ],
+   "units": 17,
+   "rep": 12839,
+   "dem": 3748,
+   "total": 17036
+  },
+  {
+   "fips": "38061",
+   "name": "Mountrail County",
+   "slug": "mountrail-county",
+   "bbox": [
+    -102.8859,
+    47.7514,
+    -101.8715,
+    48.5466
+   ],
+   "units": 6,
+   "rep": 2877,
+   "dem": 1125,
+   "total": 4073
+  },
+  {
+   "fips": "38063",
+   "name": "Nelson County",
+   "slug": "nelson-county",
+   "bbox": [
+    -98.5258,
+    47.6721,
+    -97.8821,
+    48.1952
+   ],
+   "units": 2,
+   "rep": 1141,
+   "dem": 580,
+   "total": 1761
+  },
+  {
+   "fips": "38065",
+   "name": "Oliver County",
+   "slug": "oliver-county",
+   "bbox": [
+    -101.7647,
+    46.981,
+    -100.8784,
+    47.2966
+   ],
+   "units": 1,
+   "rep": 909,
+   "dem": 156,
+   "total": 1087
+  },
+  {
+   "fips": "38067",
+   "name": "Pembina County",
+   "slug": "pembina-county",
+   "bbox": [
+    -97.9507,
+    48.5422,
+    -97.0903,
+    49.0005
+   ],
+   "units": 6,
+   "rep": 2350,
+   "dem": 704,
+   "total": 3112
+  },
+  {
+   "fips": "38069",
+   "name": "Pierce County",
+   "slug": "pierce-county",
+   "bbox": [
+    -100.2767,
+    47.8473,
+    -99.4929,
+    48.5452
+   ],
+   "units": 9,
+   "rep": 1493,
+   "dem": 439,
+   "total": 1970
+  },
+  {
+   "fips": "38071",
+   "name": "Ramsey County",
+   "slug": "ramsey-county",
+   "bbox": [
+    -99.2003,
+    47.9151,
+    -98.2919,
+    48.5442
+   ],
+   "units": 4,
+   "rep": 3608,
+   "dem": 1513,
+   "total": 5238
+  },
+  {
+   "fips": "38073",
+   "name": "Ransom County",
+   "slug": "ransom-county",
+   "bbox": [
+    -98.0349,
+    46.2823,
+    -97.2797,
+    46.6307
+   ],
+   "units": 1,
+   "rep": 1661,
+   "dem": 920,
+   "total": 2649
+  },
+  {
+   "fips": "38075",
+   "name": "Renville County",
+   "slug": "renville-county",
+   "bbox": [
+    -102.0216,
+    48.4585,
+    -101.0597,
+    48.9995
+   ],
+   "units": 5,
+   "rep": 993,
+   "dem": 179,
+   "total": 1208
+  },
+  {
+   "fips": "38077",
+   "name": "Richland County",
+   "slug": "richland-county",
+   "bbox": [
+    -97.2807,
+    45.9352,
+    -96.5544,
+    46.6317
+   ],
+   "units": 13,
+   "rep": 5576,
+   "dem": 2473,
+   "total": 8261
+  },
+  {
+   "fips": "38079",
+   "name": "Rolette County",
+   "slug": "rolette-county",
+   "bbox": [
+    -100.183,
+    48.5448,
+    -99.4929,
+    48.9994
+   ],
+   "units": 5,
+   "rep": 1427,
+   "dem": 2567,
+   "total": 4075
+  },
+  {
+   "fips": "38081",
+   "name": "Sargent County",
+   "slug": "sargent-county",
+   "bbox": [
+    -98.0081,
+    45.9351,
+    -97.2283,
+    46.2826
+   ],
+   "units": 2,
+   "rep": 1325,
+   "dem": 663,
+   "total": 2043
+  },
+  {
+   "fips": "38083",
+   "name": "Sheridan County",
+   "slug": "sheridan-county",
+   "bbox": [
+    -100.6733,
+    47.3272,
+    -100.0326,
+    47.8478
+   ],
+   "units": 1,
+   "rep": 644,
+   "dem": 101,
+   "total": 757
+  },
+  {
+   "fips": "38085",
+   "name": "Sioux County",
+   "slug": "sioux-county",
+   "bbox": [
+    -101.9987,
+    45.9434,
+    -100.5067,
+    46.4293
+   ],
+   "units": 3,
+   "rep": 285,
+   "dem": 654,
+   "total": 953
+  },
+  {
+   "fips": "38087",
+   "name": "Slope County",
+   "slug": "slope-county",
+   "bbox": [
+    -104.0457,
+    46.2798,
+    -102.9244,
+    46.6302
+   ],
+   "units": 3,
+   "rep": 351,
+   "dem": 33,
+   "total": 389
+  },
+  {
+   "fips": "38089",
+   "name": "Stark County",
+   "slug": "stark-county",
+   "bbox": [
+    -103.2317,
+    46.6297,
+    -102.0961,
+    47.0102
+   ],
+   "units": 8,
+   "rep": 12323,
+   "dem": 2473,
+   "total": 15100
+  },
+  {
+   "fips": "38091",
+   "name": "Steele County",
+   "slug": "steele-county",
+   "bbox": [
+    -97.9864,
+    47.2389,
+    -97.4513,
+    47.6724
+   ],
+   "units": 5,
+   "rep": 622,
+   "dem": 367,
+   "total": 1015
+  },
+  {
+   "fips": "38093",
+   "name": "Stutsman County",
+   "slug": "stutsman-county",
+   "bbox": [
+    -99.4814,
+    46.6288,
+    -98.4388,
+    47.3272
+   ],
+   "units": 9,
+   "rep": 7185,
+   "dem": 2692,
+   "total": 10134
+  },
+  {
+   "fips": "38095",
+   "name": "Towner County",
+   "slug": "towner-county",
+   "bbox": [
+    -99.526,
+    48.3704,
+    -98.9703,
+    49.0
+   ],
+   "units": 3,
+   "rep": 796,
+   "dem": 289,
+   "total": 1114
+  },
+  {
+   "fips": "38097",
+   "name": "Traill County",
+   "slug": "traill-county",
+   "bbox": [
+    -97.4744,
+    47.2377,
+    -96.8288,
+    47.6722
+   ],
+   "units": 12,
+   "rep": 2650,
+   "dem": 1359,
+   "total": 4115
+  },
+  {
+   "fips": "38099",
+   "name": "Walsh County",
+   "slug": "walsh-county",
+   "bbox": [
+    -98.3184,
+    48.1936,
+    -97.1122,
+    48.5438
+   ],
+   "units": 2,
+   "rep": 3186,
+   "dem": 1173,
+   "total": 4496
+  },
+  {
+   "fips": "38101",
+   "name": "Ward County",
+   "slug": "ward-county",
+   "bbox": [
+    -102.234,
+    47.8476,
+    -100.9705,
+    48.8072
+   ],
+   "units": 16,
+   "rep": 20635,
+   "dem": 7215,
+   "total": 28552
+  },
+  {
+   "fips": "38103",
+   "name": "Wells County",
+   "slug": "wells-county",
+   "bbox": [
+    -100.0696,
+    47.3269,
+    -99.2657,
+    47.8477
+   ],
+   "units": 1,
+   "rep": 1815,
+   "dem": 405,
+   "total": 2253
+  },
+  {
+   "fips": "38105",
+   "name": "Williams County",
+   "slug": "williams-county",
+   "bbox": [
+    -104.048,
+    47.956,
+    -102.828,
+    48.6339
+   ],
+   "units": 21,
+   "rep": 12500,
+   "dem": 2276,
+   "total": 15121
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 53,
+ "missing_counties": [],
+ "coverage_note": null
+}

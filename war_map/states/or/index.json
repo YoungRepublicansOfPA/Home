@@ -1,0 +1,567 @@
+{
+ "state": "OR",
+ "name": "Oregon",
+ "fips": "41",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/OR-precincts-with-results.geojson.gz",
+ "bbox": [
+  -124.5666,
+  41.9924,
+  -116.4635,
+  46.2706
+ ],
+ "totals": {
+  "rep": 919480,
+  "dem": 1240600,
+  "total": 2243862,
+  "units": 1303
+ },
+ "counties": [
+  {
+   "fips": "41001",
+   "name": "Baker County",
+   "slug": "baker-county",
+   "bbox": [
+    -118.5191,
+    44.2551,
+    -116.7837,
+    45.0807
+   ],
+   "units": 17,
+   "rep": 7060,
+   "dem": 2343,
+   "total": 9694
+  },
+  {
+   "fips": "41003",
+   "name": "Benton County",
+   "slug": "benton-county",
+   "bbox": [
+    -123.8168,
+    44.2767,
+    -123.0731,
+    44.7209
+   ],
+   "units": 21,
+   "rep": 14187,
+   "dem": 33909,
+   "total": 50232
+  },
+  {
+   "fips": "41005",
+   "name": "Clackamas County",
+   "slug": "clackamas-county",
+   "bbox": [
+    -122.868,
+    44.8857,
+    -121.6791,
+    45.4617
+   ],
+   "units": 114,
+   "rep": 106387,
+   "dem": 130580,
+   "total": 246240
+  },
+  {
+   "fips": "41007",
+   "name": "Clatsop County",
+   "slug": "clatsop-county",
+   "bbox": [
+    -124.0243,
+    45.7733,
+    -123.3588,
+    46.2706
+   ],
+   "units": 25,
+   "rep": 9913,
+   "dem": 12533,
+   "total": 23290
+  },
+  {
+   "fips": "41009",
+   "name": "Columbia County",
+   "slug": "columbia-county",
+   "bbox": [
+    -123.3669,
+    45.7214,
+    -122.7601,
+    46.1889
+   ],
+   "units": 33,
+   "rep": 17227,
+   "dem": 12895,
+   "total": 31334
+  },
+  {
+   "fips": "41011",
+   "name": "Coos County",
+   "slug": "coos-county",
+   "bbox": [
+    -124.4811,
+    42.6668,
+    -123.7022,
+    43.6115
+   ],
+   "units": 18,
+   "rep": 20849,
+   "dem": 13731,
+   "total": 35735
+  },
+  {
+   "fips": "41013",
+   "name": "Crook County",
+   "slug": "crook-county",
+   "bbox": [
+    -121.1085,
+    43.6974,
+    -119.655,
+    44.564
+   ],
+   "units": 17,
+   "rep": 12012,
+   "dem": 3836,
+   "total": 16297
+  },
+  {
+   "fips": "41015",
+   "name": "Curry County",
+   "slug": "curry-county",
+   "bbox": [
+    -124.5666,
+    41.9956,
+    -123.7165,
+    42.9553
+   ],
+   "units": 27,
+   "rep": 8000,
+   "dem": 5737,
+   "total": 14200
+  },
+  {
+   "fips": "41017",
+   "name": "Deschutes County",
+   "slug": "deschutes-county",
+   "bbox": [
+    -122.0012,
+    43.6111,
+    -119.8966,
+    44.3935
+   ],
+   "units": 50,
+   "rep": 54850,
+   "dem": 68108,
+   "total": 127375
+  },
+  {
+   "fips": "41019",
+   "name": "Douglas County",
+   "slug": "douglas-county",
+   "bbox": [
+    -124.2179,
+    42.6993,
+    -121.9742,
+    43.9448
+   ],
+   "units": 29,
+   "rep": 41561,
+   "dem": 18386,
+   "total": 61807
+  },
+  {
+   "fips": "41021",
+   "name": "Gilliam County",
+   "slug": "gilliam-county",
+   "bbox": [
+    -120.6517,
+    45.0652,
+    -119.7601,
+    45.8124
+   ],
+   "units": 3,
+   "rep": 805,
+   "dem": 291,
+   "total": 1134
+  },
+  {
+   "fips": "41023",
+   "name": "Grant County",
+   "slug": "grant-county",
+   "bbox": [
+    -119.6722,
+    43.9586,
+    -118.2235,
+    44.9982
+   ],
+   "units": 5,
+   "rep": 3490,
+   "dem": 816,
+   "total": 4456
+  },
+  {
+   "fips": "41025",
+   "name": "Harney County",
+   "slug": "harney-county",
+   "bbox": [
+    -119.9438,
+    41.9924,
+    -118.1953,
+    44.0478
+   ],
+   "units": 3,
+   "rep": 3307,
+   "dem": 797,
+   "total": 4255
+  },
+  {
+   "fips": "41027",
+   "name": "Hood River County",
+   "slug": "hood-river-county",
+   "bbox": [
+    -121.922,
+    45.3446,
+    -121.4406,
+    45.7265
+   ],
+   "units": 13,
+   "rep": 3854,
+   "dem": 8364,
+   "total": 12707
+  },
+  {
+   "fips": "41029",
+   "name": "Jackson County",
+   "slug": "jackson-county",
+   "bbox": [
+    -123.2311,
+    42.0031,
+    -122.2827,
+    42.9966
+   ],
+   "units": 50,
+   "rep": 61743,
+   "dem": 54065,
+   "total": 119572
+  },
+  {
+   "fips": "41031",
+   "name": "Jefferson County",
+   "slug": "jefferson-county",
+   "bbox": [
+    -121.8493,
+    44.3903,
+    -120.3714,
+    44.8255
+   ],
+   "units": 17,
+   "rep": 7454,
+   "dem": 3941,
+   "total": 11750
+  },
+  {
+   "fips": "41033",
+   "name": "Josephine County",
+   "slug": "josephine-county",
+   "bbox": [
+    -124.0419,
+    41.9951,
+    -123.2293,
+    42.7839
+   ],
+   "units": 47,
+   "rep": 31129,
+   "dem": 16928,
+   "total": 49628
+  },
+  {
+   "fips": "41035",
+   "name": "Klamath County",
+   "slug": "klamath-county",
+   "bbox": [
+    -122.29,
+    41.9933,
+    -120.8798,
+    43.6166
+   ],
+   "units": 45,
+   "rep": 24675,
+   "dem": 9856,
+   "total": 35515
+  },
+  {
+   "fips": "41037",
+   "name": "Lake County",
+   "slug": "lake-county",
+   "bbox": [
+    -121.3513,
+    41.9926,
+    -119.3594,
+    43.6174
+   ],
+   "units": 19,
+   "rep": 3421,
+   "dem": 681,
+   "total": 4213
+  },
+  {
+   "fips": "41039",
+   "name": "Lane County",
+   "slug": "lane-county",
+   "bbox": [
+    -124.1592,
+    43.4374,
+    -121.7682,
+    44.2903
+   ],
+   "units": 66,
+   "rep": 77376,
+   "dem": 125775,
+   "total": 210653
+  },
+  {
+   "fips": "41041",
+   "name": "Lincoln County",
+   "slug": "lincoln-county",
+   "bbox": [
+    -124.1156,
+    44.2751,
+    -123.5959,
+    45.0458
+   ],
+   "units": 32,
+   "rep": 11645,
+   "dem": 17112,
+   "total": 29805
+  },
+  {
+   "fips": "41043",
+   "name": "Linn County",
+   "slug": "linn-county",
+   "bbox": [
+    -123.2607,
+    44.2,
+    -121.794,
+    44.7944
+   ],
+   "units": 85,
+   "rep": 43078,
+   "dem": 25749,
+   "total": 71429
+  },
+  {
+   "fips": "41045",
+   "name": "Malheur County",
+   "slug": "malheur-county",
+   "bbox": [
+    -118.2339,
+    41.9973,
+    -116.8941,
+    44.4447
+   ],
+   "units": 24,
+   "rep": 7710,
+   "dem": 2884,
+   "total": 10945
+  },
+  {
+   "fips": "41047",
+   "name": "Marion County",
+   "slug": "marion-county",
+   "bbox": [
+    -123.1796,
+    44.6838,
+    -121.7874,
+    45.2852
+   ],
+   "units": 112,
+   "rep": 77089,
+   "dem": 73970,
+   "total": 156691
+  },
+  {
+   "fips": "41049",
+   "name": "Morrow County",
+   "slug": "morrow-county",
+   "bbox": [
+    -120.0066,
+    44.9945,
+    -119.1452,
+    45.9209
+   ],
+   "units": 5,
+   "rep": 3408,
+   "dem": 1138,
+   "total": 4732
+  },
+  {
+   "fips": "41051",
+   "name": "Multnomah County",
+   "slug": "multnomah-county",
+   "bbox": [
+    -122.9292,
+    45.4327,
+    -121.8197,
+    45.7286
+   ],
+   "units": 107,
+   "rep": 70759,
+   "dem": 325927,
+   "total": 414250
+  },
+  {
+   "fips": "41053",
+   "name": "Polk County",
+   "slug": "polk-county",
+   "bbox": [
+    -123.7258,
+    44.7201,
+    -123.037,
+    45.0762
+   ],
+   "units": 16,
+   "rep": 23768,
+   "dem": 22034,
+   "total": 47593
+  },
+  {
+   "fips": "41055",
+   "name": "Sherman County",
+   "slug": "sherman-county",
+   "bbox": [
+    -121.0306,
+    45.0835,
+    -120.3578,
+    45.7372
+   ],
+   "units": 5,
+   "rep": 890,
+   "dem": 233,
+   "total": 1163
+  },
+  {
+   "fips": "41057",
+   "name": "Tillamook County",
+   "slug": "tillamook-county",
+   "bbox": [
+    -124.018,
+    45.0444,
+    -123.2993,
+    45.7835
+   ],
+   "units": 29,
+   "rep": 7971,
+   "dem": 7747,
+   "total": 16252
+  },
+  {
+   "fips": "41059",
+   "name": "Umatilla County",
+   "slug": "umatilla-county",
+   "bbox": [
+    -119.4348,
+    44.9959,
+    -117.973,
+    46.0011
+   ],
+   "units": 45,
+   "rep": 20973,
+   "dem": 9251,
+   "total": 31225
+  },
+  {
+   "fips": "41061",
+   "name": "Union County",
+   "slug": "union-county",
+   "bbox": [
+    -118.6978,
+    44.9564,
+    -117.2663,
+    45.8611
+   ],
+   "units": 19,
+   "rep": 9942,
+   "dem": 4107,
+   "total": 14574
+  },
+  {
+   "fips": "41063",
+   "name": "Wallowa County",
+   "slug": "wallowa-county",
+   "bbox": [
+    -117.9777,
+    45.079,
+    -116.4635,
+    46.0005
+   ],
+   "units": 12,
+   "rep": 3366,
+   "dem": 1573,
+   "total": 5108
+  },
+  {
+   "fips": "41065",
+   "name": "Wasco County",
+   "slug": "wasco-county",
+   "bbox": [
+    -121.8046,
+    44.8215,
+    -120.3714,
+    45.7012
+   ],
+   "units": 12,
+   "rep": 6837,
+   "dem": 6069,
+   "total": 13391
+  },
+  {
+   "fips": "41067",
+   "name": "Washington County",
+   "slug": "washington-county",
+   "bbox": [
+    -123.4861,
+    45.3172,
+    -122.7437,
+    45.7802
+   ],
+   "units": 155,
+   "rep": 92590,
+   "dem": 193013,
+   "total": 297949
+  },
+  {
+   "fips": "41069",
+   "name": "Wheeler County",
+   "slug": "wheeler-county",
+   "bbox": [
+    -120.4955,
+    44.3067,
+    -119.6524,
+    45.0684
+   ],
+   "units": 3,
+   "rep": 618,
+   "dem": 210,
+   "total": 868
+  },
+  {
+   "fips": "41071",
+   "name": "Yamhill County",
+   "slug": "yamhill-county",
+   "bbox": [
+    -123.7856,
+    45.0749,
+    -122.8504,
+    45.4339
+   ],
+   "units": 23,
+   "rep": 29536,
+   "dem": 26011,
+   "total": 57800
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 36,
+ "missing_counties": [],
+ "coverage_note": null
+}

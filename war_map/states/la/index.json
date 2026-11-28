@@ -1,0 +1,987 @@
+{
+ "state": "LA",
+ "name": "Louisiana",
+ "fips": "22",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/LA-precincts-with-results.geojson.gz",
+ "bbox": [
+  -94.0434,
+  28.8551,
+  -88.7584,
+  33.0196
+ ],
+ "totals": {
+  "rep": 1208505,
+  "dem": 766870,
+  "total": 2006975,
+  "units": 3646
+ },
+ "counties": [
+  {
+   "fips": "22001",
+   "name": "Acadia Parish",
+   "slug": "acadia-parish",
+   "bbox": [
+    -92.6323,
+    30.0491,
+    -92.1415,
+    30.4812
+   ],
+   "units": 47,
+   "rep": 21783,
+   "dem": 4695,
+   "total": 26720
+  },
+  {
+   "fips": "22003",
+   "name": "Allen Parish",
+   "slug": "allen-parish",
+   "bbox": [
+    -93.1312,
+    30.4236,
+    -92.5827,
+    30.8993
+   ],
+   "units": 18,
+   "rep": 7003,
+   "dem": 1661,
+   "total": 8751
+  },
+  {
+   "fips": "22005",
+   "name": "Ascension Parish",
+   "slug": "ascension-parish",
+   "bbox": [
+    -91.1066,
+    30.0628,
+    -90.6319,
+    30.3469
+   ],
+   "units": 68,
+   "rep": 41319,
+   "dem": 20113,
+   "total": 62473
+  },
+  {
+   "fips": "22007",
+   "name": "Assumption Parish",
+   "slug": "assumption-parish",
+   "bbox": [
+    -91.2599,
+    29.6268,
+    -90.8853,
+    30.0817
+   ],
+   "units": 26,
+   "rep": 6963,
+   "dem": 3273,
+   "total": 10367
+  },
+  {
+   "fips": "22009",
+   "name": "Avoyelles Parish",
+   "slug": "avoyelles-parish",
+   "bbox": [
+    -92.2807,
+    30.848,
+    -91.6772,
+    31.3438
+   ],
+   "units": 41,
+   "rep": 11379,
+   "dem": 4460,
+   "total": 16037
+  },
+  {
+   "fips": "22011",
+   "name": "Beauregard Parish",
+   "slug": "beauregard-parish",
+   "bbox": [
+    -93.7417,
+    30.4025,
+    -92.9767,
+    30.8837
+   ],
+   "units": 37,
+   "rep": 13504,
+   "dem": 2192,
+   "total": 15874
+  },
+  {
+   "fips": "22013",
+   "name": "Bienville Parish",
+   "slug": "bienville-parish",
+   "bbox": [
+    -93.4287,
+    32.1474,
+    -92.7732,
+    32.5853
+   ],
+   "units": 35,
+   "rep": 3660,
+   "dem": 2531,
+   "total": 6256
+  },
+  {
+   "fips": "22015",
+   "name": "Bossier Parish",
+   "slug": "bossier-parish",
+   "bbox": [
+    -93.8452,
+    32.2351,
+    -93.3727,
+    33.0195
+   ],
+   "units": 74,
+   "rep": 37105,
+   "dem": 14467,
+   "total": 52232
+  },
+  {
+   "fips": "22017",
+   "name": "Caddo Parish",
+   "slug": "caddo-parish",
+   "bbox": [
+    -94.0434,
+    32.1956,
+    -93.4618,
+    33.0196
+   ],
+   "units": 128,
+   "rep": 44471,
+   "dem": 48864,
+   "total": 94699
+  },
+  {
+   "fips": "22019",
+   "name": "Calcasieu Parish",
+   "slug": "calcasieu-parish",
+   "bbox": [
+    -93.7659,
+    30.038,
+    -92.8872,
+    30.4905
+   ],
+   "units": 123,
+   "rep": 56064,
+   "dem": 23918,
+   "total": 81201
+  },
+  {
+   "fips": "22021",
+   "name": "Caldwell Parish",
+   "slug": "caldwell-parish",
+   "bbox": [
+    -92.313,
+    31.9271,
+    -91.8676,
+    32.2774
+   ],
+   "units": 19,
+   "rep": 3724,
+   "dem": 580,
+   "total": 4334
+  },
+  {
+   "fips": "22023",
+   "name": "Cameron Parish",
+   "slug": "cameron-parish",
+   "bbox": [
+    -93.9292,
+    29.5271,
+    -92.6146,
+    30.0527
+   ],
+   "units": 11,
+   "rep": 3120,
+   "dem": 219,
+   "total": 3362
+  },
+  {
+   "fips": "22025",
+   "name": "Catahoula Parish",
+   "slug": "catahoula-parish",
+   "bbox": [
+    -92.0235,
+    31.221,
+    -91.5353,
+    31.9717
+   ],
+   "units": 28,
+   "rep": 3258,
+   "dem": 1060,
+   "total": 4348
+  },
+  {
+   "fips": "22027",
+   "name": "Claiborne Parish",
+   "slug": "claiborne-parish",
+   "bbox": [
+    -93.2387,
+    32.5848,
+    -92.7247,
+    33.0185
+   ],
+   "units": 25,
+   "rep": 3522,
+   "dem": 2239,
+   "total": 5816
+  },
+  {
+   "fips": "22029",
+   "name": "Concordia Parish",
+   "slug": "concordia-parish",
+   "bbox": [
+    -91.8674,
+    30.9704,
+    -91.378,
+    31.7621
+   ],
+   "units": 18,
+   "rep": 4974,
+   "dem": 2698,
+   "total": 7755
+  },
+  {
+   "fips": "22031",
+   "name": "De Soto Parish",
+   "slug": "de-soto-parish",
+   "bbox": [
+    -94.0428,
+    31.8443,
+    -93.3532,
+    32.3456
+   ],
+   "units": 57,
+   "rep": 9359,
+   "dem": 4426,
+   "total": 13913
+  },
+  {
+   "fips": "22033",
+   "name": "East Baton Rouge Parish",
+   "slug": "east-baton-rouge-parish",
+   "bbox": [
+    -91.3166,
+    30.3125,
+    -90.8442,
+    30.7195
+   ],
+   "units": 220,
+   "rep": 82720,
+   "dem": 103820,
+   "total": 190643
+  },
+  {
+   "fips": "22035",
+   "name": "East Carroll Parish",
+   "slug": "east-carroll-parish",
+   "bbox": [
+    -91.4576,
+    32.5375,
+    -91.0027,
+    33.0051
+   ],
+   "units": 17,
+   "rep": 931,
+   "dem": 1338,
+   "total": 2306
+  },
+  {
+   "fips": "22037",
+   "name": "East Feliciana Parish",
+   "slug": "east-feliciana-parish",
+   "bbox": [
+    -91.3207,
+    30.6496,
+    -90.8258,
+    30.9996
+   ],
+   "units": 23,
+   "rep": 6020,
+   "dem": 3809,
+   "total": 9947
+  },
+  {
+   "fips": "22039",
+   "name": "Evangeline Parish",
+   "slug": "evangeline-parish",
+   "bbox": [
+    -92.6338,
+    30.4805,
+    -92.1723,
+    31.0016
+   ],
+   "units": 55,
+   "rep": 10483,
+   "dem": 3526,
+   "total": 14176
+  },
+  {
+   "fips": "22041",
+   "name": "Franklin Parish",
+   "slug": "franklin-parish",
+   "bbox": [
+    -91.9332,
+    31.8719,
+    -91.4506,
+    32.4058
+   ],
+   "units": 25,
+   "rep": 6524,
+   "dem": 2196,
+   "total": 8798
+  },
+  {
+   "fips": "22043",
+   "name": "Grant Parish",
+   "slug": "grant-parish",
+   "bbox": [
+    -92.9735,
+    31.388,
+    -92.1961,
+    31.7974
+   ],
+   "units": 31,
+   "rep": 7925,
+   "dem": 996,
+   "total": 9018
+  },
+  {
+   "fips": "22045",
+   "name": "Iberia Parish",
+   "slug": "iberia-parish",
+   "bbox": [
+    -92.0456,
+    29.3589,
+    -91.2217,
+    30.1225
+   ],
+   "units": 55,
+   "rep": 19511,
+   "dem": 9504,
+   "total": 29331
+  },
+  {
+   "fips": "22047",
+   "name": "Iberville Parish",
+   "slug": "iberville-parish",
+   "bbox": [
+    -91.7013,
+    30.0256,
+    -91.0193,
+    30.4977
+   ],
+   "units": 32,
+   "rep": 7616,
+   "dem": 7503,
+   "total": 15354
+  },
+  {
+   "fips": "22049",
+   "name": "Jackson Parish",
+   "slug": "jackson-parish",
+   "bbox": [
+    -92.8223,
+    32.1455,
+    -92.3119,
+    32.4964
+   ],
+   "units": 31,
+   "rep": 5291,
+   "dem": 1852,
+   "total": 7226
+  },
+  {
+   "fips": "22051",
+   "name": "Jefferson Parish",
+   "slug": "jefferson-parish",
+   "bbox": [
+    -90.2803,
+    29.0947,
+    -89.8997,
+    30.05
+   ],
+   "units": 271,
+   "rep": 98810,
+   "dem": 75731,
+   "total": 178205
+  },
+  {
+   "fips": "22053",
+   "name": "Jefferson Davis Parish",
+   "slug": "jefferson-davis-parish",
+   "bbox": [
+    -93.1312,
+    30.0374,
+    -92.5831,
+    30.4884
+   ],
+   "units": 28,
+   "rep": 11478,
+   "dem": 2699,
+   "total": 14358
+  },
+  {
+   "fips": "22055",
+   "name": "Lafayette Parish",
+   "slug": "lafayette-parish",
+   "bbox": [
+    -92.2847,
+    30.037,
+    -91.9056,
+    30.3816
+   ],
+   "units": 134,
+   "rep": 72007,
+   "dem": 37170,
+   "total": 111086
+  },
+  {
+   "fips": "22057",
+   "name": "Lafourche Parish",
+   "slug": "lafourche-parish",
+   "bbox": [
+    -91.0069,
+    28.9953,
+    -89.9989,
+    29.922
+   ],
+   "units": 70,
+   "rep": 34461,
+   "dem": 7864,
+   "total": 42845
+  },
+  {
+   "fips": "22059",
+   "name": "LaSalle Parish",
+   "slug": "lasalle-parish",
+   "bbox": [
+    -92.3846,
+    31.3231,
+    -92.0056,
+    31.928
+   ],
+   "units": 21,
+   "rep": 6023,
+   "dem": 546,
+   "total": 6620
+  },
+  {
+   "fips": "22061",
+   "name": "Lincoln Parish",
+   "slug": "lincoln-parish",
+   "bbox": [
+    -92.8809,
+    32.453,
+    -92.4151,
+    32.76
+   ],
+   "units": 49,
+   "rep": 11248,
+   "dem": 6627,
+   "total": 18157
+  },
+  {
+   "fips": "22063",
+   "name": "Livingston Parish",
+   "slug": "livingston-parish",
+   "bbox": [
+    -90.9915,
+    30.1751,
+    -90.4737,
+    30.6501
+   ],
+   "units": 80,
+   "rep": 55101,
+   "dem": 9965,
+   "total": 65906
+  },
+  {
+   "fips": "22065",
+   "name": "Madison Parish",
+   "slug": "madison-parish",
+   "bbox": [
+    -91.5573,
+    32.1204,
+    -90.8756,
+    32.5626
+   ],
+   "units": 26,
+   "rep": 1846,
+   "dem": 2094,
+   "total": 3992
+  },
+  {
+   "fips": "22067",
+   "name": "Morehouse Parish",
+   "slug": "morehouse-parish",
+   "bbox": [
+    -92.0856,
+    32.5057,
+    -91.4327,
+    33.008
+   ],
+   "units": 40,
+   "rep": 5961,
+   "dem": 4008,
+   "total": 10097
+  },
+  {
+   "fips": "22069",
+   "name": "Natchitoches Parish",
+   "slug": "natchitoches-parish",
+   "bbox": [
+    -93.4417,
+    31.3467,
+    -92.7162,
+    32.1485
+   ],
+   "units": 50,
+   "rep": 9100,
+   "dem": 5740,
+   "total": 15040
+  },
+  {
+   "fips": "22071",
+   "name": "Orleans Parish",
+   "slug": "orleans-parish",
+   "bbox": [
+    -90.1401,
+    29.8667,
+    -89.6253,
+    30.1747
+   ],
+   "units": 349,
+   "rep": 24119,
+   "dem": 130749,
+   "total": 159130
+  },
+  {
+   "fips": "22073",
+   "name": "Ouachita Parish",
+   "slug": "ouachita-parish",
+   "bbox": [
+    -92.4156,
+    32.2587,
+    -91.9033,
+    32.723
+   ],
+   "units": 85,
+   "rep": 40808,
+   "dem": 22845,
+   "total": 64436
+  },
+  {
+   "fips": "22075",
+   "name": "Plaquemines Parish",
+   "slug": "plaquemines-parish",
+   "bbox": [
+    -90.0757,
+    28.8551,
+    -88.8792,
+    29.905
+   ],
+   "units": 17,
+   "rep": 6803,
+   "dem": 3023,
+   "total": 9945
+  },
+  {
+   "fips": "22077",
+   "name": "Pointe Coupee Parish",
+   "slug": "pointe-coupee-parish",
+   "bbox": [
+    -91.8231,
+    30.4826,
+    -91.3098,
+    31.02
+   ],
+   "units": 25,
+   "rep": 7319,
+   "dem": 4132,
+   "total": 11570
+  },
+  {
+   "fips": "22079",
+   "name": "Rapides Parish",
+   "slug": "rapides-parish",
+   "bbox": [
+    -92.9815,
+    30.8914,
+    -92.0724,
+    31.5175
+   ],
+   "units": 102,
+   "rep": 36171,
+   "dem": 16537,
+   "total": 53395
+  },
+  {
+   "fips": "22081",
+   "name": "Red River Parish",
+   "slug": "red-river-parish",
+   "bbox": [
+    -93.6147,
+    31.887,
+    -93.1212,
+    32.2378
+   ],
+   "units": 18,
+   "rep": 2337,
+   "dem": 1321,
+   "total": 3725
+  },
+  {
+   "fips": "22083",
+   "name": "Richland Parish",
+   "slug": "richland-parish",
+   "bbox": [
+    -92.0347,
+    32.1516,
+    -91.4309,
+    32.6673
+   ],
+   "units": 23,
+   "rep": 6354,
+   "dem": 2732,
+   "total": 9193
+  },
+  {
+   "fips": "22085",
+   "name": "Sabine Parish",
+   "slug": "sabine-parish",
+   "bbox": [
+    -93.8825,
+    31.1656,
+    -93.2361,
+    31.8458
+   ],
+   "units": 32,
+   "rep": 8613,
+   "dem": 1488,
+   "total": 10170
+  },
+  {
+   "fips": "22087",
+   "name": "St. Bernard Parish",
+   "slug": "st-bernard-parish",
+   "bbox": [
+    -90.0121,
+    29.6176,
+    -88.7584,
+    30.2122
+   ],
+   "units": 31,
+   "rep": 11033,
+   "dem": 5967,
+   "total": 17292
+  },
+  {
+   "fips": "22089",
+   "name": "St. Charles Parish",
+   "slug": "st-charles-parish",
+   "bbox": [
+    -90.5497,
+    29.692,
+    -90.1673,
+    30.0814
+   ],
+   "units": 35,
+   "rep": 17443,
+   "dem": 8812,
+   "total": 26685
+  },
+  {
+   "fips": "22091",
+   "name": "St. Helena Parish",
+   "slug": "st-helena-parish",
+   "bbox": [
+    -90.9122,
+    30.6493,
+    -90.5658,
+    30.9997
+   ],
+   "units": 11,
+   "rep": 2804,
+   "dem": 2848,
+   "total": 5745
+  },
+  {
+   "fips": "22093",
+   "name": "St. James Parish",
+   "slug": "st-james-parish",
+   "bbox": [
+    -90.9638,
+    29.8892,
+    -90.6421,
+    30.1665
+   ],
+   "units": 20,
+   "rep": 5902,
+   "dem": 5792,
+   "total": 11789
+  },
+  {
+   "fips": "22095",
+   "name": "St. John the Baptist Parish",
+   "slug": "st-john-the-baptist-parish",
+   "bbox": [
+    -90.6889,
+    29.8831,
+    -90.3041,
+    30.299
+   ],
+   "units": 35,
+   "rep": 6557,
+   "dem": 12043,
+   "total": 18827
+  },
+  {
+   "fips": "22097",
+   "name": "St. Landry Parish",
+   "slug": "st-landry-parish",
+   "bbox": [
+    -92.4933,
+    30.2988,
+    -91.6789,
+    30.85
+   ],
+   "units": 91,
+   "rep": 21812,
+   "dem": 14833,
+   "total": 37043
+  },
+  {
+   "fips": "22099",
+   "name": "St. Martin Parish",
+   "slug": "st-martin-parish",
+   "bbox": [
+    -91.9888,
+    29.6994,
+    -91.0895,
+    30.4981
+   ],
+   "units": 43,
+   "rep": 17466,
+   "dem": 7284,
+   "total": 25006
+  },
+  {
+   "fips": "22101",
+   "name": "St. Mary Parish",
+   "slug": "st-mary-parish",
+   "bbox": [
+    -91.9353,
+    29.2396,
+    -91.0826,
+    29.9563
+   ],
+   "units": 46,
+   "rep": 13671,
+   "dem": 7011,
+   "total": 20897
+  },
+  {
+   "fips": "22103",
+   "name": "St. Tammany Parish",
+   "slug": "st-tammany-parish",
+   "bbox": [
+    -90.2576,
+    30.1388,
+    -89.495,
+    30.7124
+   ],
+   "units": 170,
+   "rep": 98377,
+   "dem": 37777,
+   "total": 138384
+  },
+  {
+   "fips": "22105",
+   "name": "Tangipahoa Parish",
+   "slug": "tangipahoa-parish",
+   "bbox": [
+    -90.5673,
+    30.2768,
+    -90.2431,
+    31.0004
+   ],
+   "units": 74,
+   "rep": 37500,
+   "dem": 16886,
+   "total": 55104
+  },
+  {
+   "fips": "22107",
+   "name": "Tensas Parish",
+   "slug": "tensas-parish",
+   "bbox": [
+    -91.58,
+    31.7333,
+    -91.0302,
+    32.2497
+   ],
+   "units": 15,
+   "rep": 1093,
+   "dem": 1002,
+   "total": 2128
+  },
+  {
+   "fips": "22109",
+   "name": "Terrebonne Parish",
+   "slug": "terrebonne-parish",
+   "bbox": [
+    -91.3543,
+    28.9859,
+    -90.3766,
+    29.7779
+   ],
+   "units": 69,
+   "rep": 31115,
+   "dem": 9702,
+   "total": 41327
+  },
+  {
+   "fips": "22111",
+   "name": "Union Parish",
+   "slug": "union-parish",
+   "bbox": [
+    -92.7341,
+    32.5809,
+    -92.0521,
+    33.0144
+   ],
+   "units": 31,
+   "rep": 8176,
+   "dem": 2206,
+   "total": 10475
+  },
+  {
+   "fips": "22113",
+   "name": "Vermilion Parish",
+   "slug": "vermilion-parish",
+   "bbox": [
+    -92.7372,
+    29.4815,
+    -91.9645,
+    30.1494
+   ],
+   "units": 66,
+   "rep": 21510,
+   "dem": 4637,
+   "total": 26429
+  },
+  {
+   "fips": "22115",
+   "name": "Vernon Parish",
+   "slug": "vernon-parish",
+   "bbox": [
+    -93.5782,
+    30.8592,
+    -92.8238,
+    31.3645
+   ],
+   "units": 59,
+   "rep": 13474,
+   "dem": 2513,
+   "total": 16149
+  },
+  {
+   "fips": "22117",
+   "name": "Washington Parish",
+   "slug": "washington-parish",
+   "bbox": [
+    -90.3473,
+    30.6651,
+    -89.7269,
+    31.0048
+   ],
+   "units": 41,
+   "rep": 12846,
+   "dem": 5411,
+   "total": 18455
+  },
+  {
+   "fips": "22119",
+   "name": "Webster Parish",
+   "slug": "webster-parish",
+   "bbox": [
+    -93.5308,
+    32.4099,
+    -93.1465,
+    33.0187
+   ],
+   "units": 40,
+   "rep": 10965,
+   "dem": 5053,
+   "total": 16205
+  },
+  {
+   "fips": "22121",
+   "name": "West Baton Rouge Parish",
+   "slug": "west-baton-rouge-parish",
+   "bbox": [
+    -91.4852,
+    30.3225,
+    -91.1421,
+    30.6587
+   ],
+   "units": 30,
+   "rep": 7627,
+   "dem": 6008,
+   "total": 13836
+  },
+  {
+   "fips": "22123",
+   "name": "West Carroll Parish",
+   "slug": "west-carroll-parish",
+   "bbox": [
+    -91.6389,
+    32.582,
+    -91.2615,
+    33.0061
+   ],
+   "units": 23,
+   "rep": 3986,
+   "dem": 578,
+   "total": 4603
+  },
+  {
+   "fips": "22125",
+   "name": "West Feliciana Parish",
+   "slug": "west-feliciana-parish",
+   "bbox": [
+    -91.7501,
+    30.6961,
+    -91.1761,
+    31.0448
+   ],
+   "units": 26,
+   "rep": 3923,
+   "dem": 2004,
+   "total": 6008
+  },
+  {
+   "fips": "22127",
+   "name": "Winn Parish",
+   "slug": "winn-parish",
+   "bbox": [
+    -92.976,
+    31.7083,
+    -92.3119,
+    32.1479
+   ],
+   "units": 26,
+   "rep": 4437,
+   "dem": 1292,
+   "total": 5781
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 64,
+ "missing_counties": [],
+ "coverage_note": null
+}

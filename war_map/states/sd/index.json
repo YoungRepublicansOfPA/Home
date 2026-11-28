@@ -1,0 +1,908 @@
+{
+ "state": "SD",
+ "name": "South Dakota",
+ "fips": "46",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/SD-precincts-with-results.geojson.gz",
+ "bbox": [
+  -104.0579,
+  42.4797,
+  -96.4365,
+  45.9454
+ ],
+ "totals": {
+  "rep": 226200,
+  "dem": 122157,
+  "total": 356587,
+  "units": 626
+ },
+ "counties": [
+  {
+   "fips": "46003",
+   "name": "Aurora County",
+   "slug": "aurora-county",
+   "bbox": [
+    -98.8078,
+    43.4985,
+    -98.3206,
+    43.9377
+   ],
+   "units": 5,
+   "rep": 1056,
+   "dem": 302,
+   "total": 1393
+  },
+  {
+   "fips": "46005",
+   "name": "Beadle County",
+   "slug": "beadle-county",
+   "bbox": [
+    -98.7058,
+    44.1946,
+    -97.853,
+    44.6342
+   ],
+   "units": 9,
+   "rep": 4826,
+   "dem": 2017,
+   "total": 7010
+  },
+  {
+   "fips": "46007",
+   "name": "Bennett County",
+   "slug": "bennett-county",
+   "bbox": [
+    -102.1108,
+    42.9963,
+    -101.228,
+    43.3902
+   ],
+   "units": 4,
+   "rep": 676,
+   "dem": 389,
+   "total": 1088
+  },
+  {
+   "fips": "46009",
+   "name": "Bon Homme County",
+   "slug": "bon-homme-county",
+   "bbox": [
+    -98.163,
+    42.7622,
+    -97.635,
+    43.1696
+   ],
+   "units": 5,
+   "rep": 2236,
+   "dem": 697,
+   "total": 2992
+  },
+  {
+   "fips": "46015",
+   "name": "Brule County",
+   "slug": "brule-county",
+   "bbox": [
+    -99.4692,
+    43.4992,
+    -98.7943,
+    43.9352
+   ],
+   "units": 4,
+   "rep": 1694,
+   "dem": 666,
+   "total": 2423
+  },
+  {
+   "fips": "46017",
+   "name": "Buffalo County",
+   "slug": "buffalo-county",
+   "bbox": [
+    -99.5766,
+    43.9331,
+    -98.926,
+    44.1968
+   ],
+   "units": 3,
+   "rep": 164,
+   "dem": 291,
+   "total": 466
+  },
+  {
+   "fips": "46019",
+   "name": "Butte County",
+   "slug": "butte-county",
+   "bbox": [
+    -104.0579,
+    44.571,
+    -102.9571,
+    45.2134
+   ],
+   "units": 18,
+   "rep": 4024,
+   "dem": 942,
+   "total": 5082
+  },
+  {
+   "fips": "46021",
+   "name": "Campbell County",
+   "slug": "campbell-county",
+   "bbox": [
+    -100.4994,
+    45.5931,
+    -99.7174,
+    45.9437
+   ],
+   "units": 5,
+   "rep": 706,
+   "dem": 120,
+   "total": 836
+  },
+  {
+   "fips": "46023",
+   "name": "Charles Mix County",
+   "slug": "charles-mix-county",
+   "bbox": [
+    -99.3107,
+    42.8369,
+    -98.0691,
+    43.4999
+   ],
+   "units": 13,
+   "rep": 2551,
+   "dem": 1000,
+   "total": 3615
+  },
+  {
+   "fips": "46025",
+   "name": "Clark County",
+   "slug": "clark-county",
+   "bbox": [
+    -97.983,
+    44.5439,
+    -97.4912,
+    45.1533
+   ],
+   "units": 12,
+   "rep": 1382,
+   "dem": 415,
+   "total": 1842
+  },
+  {
+   "fips": "46027",
+   "name": "Clay County",
+   "slug": "clay-county",
+   "bbox": [
+    -97.1607,
+    42.7042,
+    -96.8054,
+    43.0837
+   ],
+   "units": 11,
+   "rep": 2574,
+   "dem": 2944,
+   "total": 5657
+  },
+  {
+   "fips": "46029",
+   "name": "Codington County",
+   "slug": "codington-county",
+   "bbox": [
+    -97.4943,
+    44.8034,
+    -96.8822,
+    45.1519
+   ],
+   "units": 23,
+   "rep": 9349,
+   "dem": 3840,
+   "total": 13510
+  },
+  {
+   "fips": "46031",
+   "name": "Corson County",
+   "slug": "corson-county",
+   "bbox": [
+    -102.001,
+    45.4722,
+    -100.3082,
+    45.9448
+   ],
+   "units": 9,
+   "rep": 631,
+   "dem": 495,
+   "total": 1143
+  },
+  {
+   "fips": "46033",
+   "name": "Custer County",
+   "slug": "custer-county",
+   "bbox": [
+    -104.0555,
+    43.4768,
+    -102.6867,
+    43.8568
+   ],
+   "units": 10,
+   "rep": 4313,
+   "dem": 1567,
+   "total": 6001
+  },
+  {
+   "fips": "46035",
+   "name": "Davison County",
+   "slug": "davison-county",
+   "bbox": [
+    -98.3259,
+    43.4979,
+    -97.9646,
+    43.8514
+   ],
+   "units": 8,
+   "rep": 6208,
+   "dem": 2743,
+   "total": 9177
+  },
+  {
+   "fips": "46037",
+   "name": "Day County",
+   "slug": "day-county",
+   "bbox": [
+    -97.9818,
+    45.1512,
+    -97.2259,
+    45.5885
+   ],
+   "units": 11,
+   "rep": 1876,
+   "dem": 1000,
+   "total": 2932
+  },
+  {
+   "fips": "46039",
+   "name": "Deuel County",
+   "slug": "deuel-county",
+   "bbox": [
+    -96.8855,
+    44.5437,
+    -96.4513,
+    44.9776
+   ],
+   "units": 10,
+   "rep": 1717,
+   "dem": 528,
+   "total": 2298
+  },
+  {
+   "fips": "46041",
+   "name": "Dewey County",
+   "slug": "dewey-county",
+   "bbox": [
+    -101.501,
+    44.7286,
+    -100.2614,
+    45.4727
+   ],
+   "units": 11,
+   "rep": 793,
+   "dem": 1032,
+   "total": 1871
+  },
+  {
+   "fips": "46045",
+   "name": "Edmunds County",
+   "slug": "edmunds-county",
+   "bbox": [
+    -99.709,
+    45.2438,
+    -98.7222,
+    45.5934
+   ],
+   "units": 6,
+   "rep": 1618,
+   "dem": 384,
+   "total": 2031
+  },
+  {
+   "fips": "46047",
+   "name": "Fall River County",
+   "slug": "fall-river-county",
+   "bbox": [
+    -104.0547,
+    43.0007,
+    -103.0007,
+    43.4779
+   ],
+   "units": 9,
+   "rep": 3135,
+   "dem": 1030,
+   "total": 4274
+  },
+  {
+   "fips": "46049",
+   "name": "Faulk County",
+   "slug": "faulk-county",
+   "bbox": [
+    -99.5738,
+    44.8969,
+    -98.7164,
+    45.2455
+   ],
+   "units": 7,
+   "rep": 920,
+   "dem": 183,
+   "total": 1130
+  },
+  {
+   "fips": "46051",
+   "name": "Grant County",
+   "slug": "grant-county",
+   "bbox": [
+    -97.2264,
+    44.976,
+    -96.452,
+    45.3269
+   ],
+   "units": 18,
+   "rep": 2594,
+   "dem": 946,
+   "total": 3630
+  },
+  {
+   "fips": "46053",
+   "name": "Gregory County",
+   "slug": "gregory-county",
+   "bbox": [
+    -99.5345,
+    42.9979,
+    -98.4986,
+    43.4998
+   ],
+   "units": 3,
+   "rep": 1790,
+   "dem": 426,
+   "total": 2267
+  },
+  {
+   "fips": "46057",
+   "name": "Hamlin County",
+   "slug": "hamlin-county",
+   "bbox": [
+    -97.4923,
+    44.5429,
+    -96.8845,
+    44.8045
+   ],
+   "units": 7,
+   "rep": 2560,
+   "dem": 610,
+   "total": 3226
+  },
+  {
+   "fips": "46059",
+   "name": "Hand County",
+   "slug": "hand-county",
+   "bbox": [
+    -99.3126,
+    44.1946,
+    -98.7005,
+    44.8972
+   ],
+   "units": 5,
+   "rep": 1376,
+   "dem": 365,
+   "total": 1764
+  },
+  {
+   "fips": "46061",
+   "name": "Hanson County",
+   "slug": "hanson-county",
+   "bbox": [
+    -97.9684,
+    43.499,
+    -97.6065,
+    43.8507
+   ],
+   "units": 5,
+   "rep": 1611,
+   "dem": 399,
+   "total": 2046
+  },
+  {
+   "fips": "46063",
+   "name": "Harding County",
+   "slug": "harding-county",
+   "bbox": [
+    -104.0455,
+    45.2125,
+    -102.942,
+    45.9454
+   ],
+   "units": 8,
+   "rep": 754,
+   "dem": 48,
+   "total": 820
+  },
+  {
+   "fips": "46067",
+   "name": "Hutchinson County",
+   "slug": "hutchinson-county",
+   "bbox": [
+    -98.1148,
+    43.1683,
+    -97.3992,
+    43.4998
+   ],
+   "units": 6,
+   "rep": 2918,
+   "dem": 755,
+   "total": 3736
+  },
+  {
+   "fips": "46071",
+   "name": "Jackson County",
+   "slug": "jackson-county",
+   "bbox": [
+    -102.1392,
+    43.3888,
+    -101.064,
+    43.9952
+   ],
+   "units": 8,
+   "rep": 753,
+   "dem": 357,
+   "total": 1129
+  },
+  {
+   "fips": "46073",
+   "name": "Jerauld County",
+   "slug": "jerauld-county",
+   "bbox": [
+    -98.9272,
+    43.9349,
+    -98.3313,
+    44.1969
+   ],
+   "units": 5,
+   "rep": 708,
+   "dem": 276,
+   "total": 999
+  },
+  {
+   "fips": "46075",
+   "name": "Jones County",
+   "slug": "jones-county",
+   "bbox": [
+    -101.0644,
+    43.7075,
+    -100.339,
+    44.1688
+   ],
+   "units": 2,
+   "rep": 477,
+   "dem": 60,
+   "total": 550
+  },
+  {
+   "fips": "46077",
+   "name": "Kingsbury County",
+   "slug": "kingsbury-county",
+   "bbox": [
+    -97.8537,
+    44.1947,
+    -97.1278,
+    44.5444
+   ],
+   "units": 6,
+   "rep": 1989,
+   "dem": 760,
+   "total": 2801
+  },
+  {
+   "fips": "46079",
+   "name": "Lake County",
+   "slug": "lake-county",
+   "bbox": [
+    -97.3703,
+    43.848,
+    -96.8886,
+    44.1961
+   ],
+   "units": 10,
+   "rep": 3819,
+   "dem": 1978,
+   "total": 5906
+  },
+  {
+   "fips": "46083",
+   "name": "Lincoln County",
+   "slug": "lincoln-county",
+   "bbox": [
+    -96.9249,
+    43.0834,
+    -96.4365,
+    43.5005
+   ],
+   "units": 32,
+   "rep": 22621,
+   "dem": 12981,
+   "total": 36393
+  },
+  {
+   "fips": "46085",
+   "name": "Lyman County",
+   "slug": "lyman-county",
+   "bbox": [
+    -100.3672,
+    43.4996,
+    -99.2814,
+    44.2176
+   ],
+   "units": 7,
+   "rep": 993,
+   "dem": 422,
+   "total": 1447
+  },
+  {
+   "fips": "46087",
+   "name": "McCook County",
+   "slug": "mccook-county",
+   "bbox": [
+    -97.6091,
+    43.4997,
+    -97.129,
+    43.8491
+   ],
+   "units": 6,
+   "rep": 2227,
+   "dem": 733,
+   "total": 3031
+  },
+  {
+   "fips": "46089",
+   "name": "McPherson County",
+   "slug": "mcpherson-county",
+   "bbox": [
+    -99.7181,
+    45.5913,
+    -98.7244,
+    45.9411
+   ],
+   "units": 4,
+   "rep": 1087,
+   "dem": 188,
+   "total": 1299
+  },
+  {
+   "fips": "46091",
+   "name": "Marshall County",
+   "slug": "marshall-county",
+   "bbox": [
+    -97.9796,
+    45.5582,
+    -97.2269,
+    45.9361
+   ],
+   "units": 9,
+   "rep": 1288,
+   "dem": 782,
+   "total": 2109
+  },
+  {
+   "fips": "46093",
+   "name": "Meade County",
+   "slug": "meade-county",
+   "bbox": [
+    -103.5744,
+    44.1401,
+    -102.0,
+    45.0397
+   ],
+   "units": 41,
+   "rep": 10887,
+   "dem": 3421,
+   "total": 14672
+  },
+  {
+   "fips": "46095",
+   "name": "Mellette County",
+   "slug": "mellette-county",
+   "bbox": [
+    -101.2284,
+    43.3891,
+    -100.2141,
+    43.858
+   ],
+   "units": 4,
+   "rep": 434,
+   "dem": 285,
+   "total": 740
+  },
+  {
+   "fips": "46097",
+   "name": "Miner County",
+   "slug": "miner-county",
+   "bbox": [
+    -97.8511,
+    43.8486,
+    -97.3695,
+    44.1955
+   ],
+   "units": 8,
+   "rep": 841,
+   "dem": 293,
+   "total": 1167
+  },
+  {
+   "fips": "46099",
+   "name": "Minnehaha County",
+   "slug": "minnehaha-county",
+   "bbox": [
+    -97.1295,
+    43.4997,
+    -96.4531,
+    43.8495
+   ],
+   "units": 81,
+   "rep": 51842,
+   "dem": 39923,
+   "total": 93986
+  },
+  {
+   "fips": "46101",
+   "name": "Moody County",
+   "slug": "moody-county",
+   "bbox": [
+    -96.8892,
+    43.8475,
+    -96.4528,
+    44.1968
+   ],
+   "units": 6,
+   "rep": 2068,
+   "dem": 1052,
+   "total": 3189
+  },
+  {
+   "fips": "46102",
+   "name": "Oglala Lakota County",
+   "slug": "oglala-lakota-county",
+   "bbox": [
+    -103.001,
+    42.9994,
+    -102.0814,
+    43.706
+   ],
+   "units": 9,
+   "rep": 406,
+   "dem": 2567,
+   "total": 3062
+  },
+  {
+   "fips": "46103",
+   "name": "Pennington County",
+   "slug": "pennington-county",
+   "bbox": [
+    -104.0555,
+    43.6851,
+    -102.0008,
+    44.5109
+   ],
+   "units": 46,
+   "rep": 35009,
+   "dem": 20051,
+   "total": 56580
+  },
+  {
+   "fips": "46105",
+   "name": "Perkins County",
+   "slug": "perkins-county",
+   "bbox": [
+    -102.9575,
+    45.0382,
+    -101.9993,
+    45.9453
+   ],
+   "units": 10,
+   "rep": 1342,
+   "dem": 228,
+   "total": 1591
+  },
+  {
+   "fips": "46109",
+   "name": "Roberts County",
+   "slug": "roberts-county",
+   "bbox": [
+    -97.2283,
+    45.2969,
+    -96.4705,
+    45.9359
+   ],
+   "units": 12,
+   "rep": 2514,
+   "dem": 1560,
+   "total": 4149
+  },
+  {
+   "fips": "46111",
+   "name": "Sanborn County",
+   "slug": "sanborn-county",
+   "bbox": [
+    -98.3322,
+    43.8499,
+    -97.8495,
+    44.1967
+   ],
+   "units": 4,
+   "rep": 929,
+   "dem": 259,
+   "total": 1212
+  },
+  {
+   "fips": "46115",
+   "name": "Spink County",
+   "slug": "spink-county",
+   "bbox": [
+    -98.7177,
+    44.6316,
+    -97.9768,
+    45.2437
+   ],
+   "units": 9,
+   "rep": 2145,
+   "dem": 921,
+   "total": 3139
+  },
+  {
+   "fips": "46117",
+   "name": "Stanley County",
+   "slug": "stanley-county",
+   "bbox": [
+    -101.167,
+    44.168,
+    -99.8921,
+    44.7837
+   ],
+   "units": 3,
+   "rep": 1260,
+   "dem": 447,
+   "total": 1735
+  },
+  {
+   "fips": "46121",
+   "name": "Todd County",
+   "slug": "todd-county",
+   "bbox": [
+    -101.2282,
+    42.9976,
+    -100.1984,
+    43.3905
+   ],
+   "units": 10,
+   "rep": 497,
+   "dem": 1570,
+   "total": 2126
+  },
+  {
+   "fips": "46123",
+   "name": "Tripp County",
+   "slug": "tripp-county",
+   "bbox": [
+    -100.231,
+    42.9979,
+    -99.5339,
+    43.7657
+   ],
+   "units": 13,
+   "rep": 2150,
+   "dem": 470,
+   "total": 2654
+  },
+  {
+   "fips": "46125",
+   "name": "Turner County",
+   "slug": "turner-county",
+   "bbox": [
+    -97.4014,
+    43.0832,
+    -96.924,
+    43.5
+   ],
+   "units": 8,
+   "rep": 3374,
+   "dem": 1044,
+   "total": 4538
+  },
+  {
+   "fips": "46127",
+   "name": "Union County",
+   "slug": "union-county",
+   "bbox": [
+    -96.8066,
+    42.4797,
+    -96.4455,
+    43.0839
+   ],
+   "units": 12,
+   "rep": 6160,
+   "dem": 2548,
+   "total": 8876
+  },
+  {
+   "fips": "46129",
+   "name": "Walworth County",
+   "slug": "walworth-county",
+   "bbox": [
+    -100.4866,
+    45.2459,
+    -99.7077,
+    45.5948
+   ],
+   "units": 10,
+   "rep": 1940,
+   "dem": 481,
+   "total": 2466
+  },
+  {
+   "fips": "46137",
+   "name": "Ziebach County",
+   "slug": "ziebach-county",
+   "bbox": [
+    -102.0005,
+    44.5174,
+    -101.137,
+    45.4727
+   ],
+   "units": 6,
+   "rep": 388,
+   "dem": 366,
+   "total": 781
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 66,
+ "missing_counties": [
+  {
+   "fips": "46011",
+   "name": "Brookings County"
+  },
+  {
+   "fips": "46013",
+   "name": "Brown County"
+  },
+  {
+   "fips": "46043",
+   "name": "Douglas County"
+  },
+  {
+   "fips": "46055",
+   "name": "Haakon County"
+  },
+  {
+   "fips": "46065",
+   "name": "Hughes County"
+  },
+  {
+   "fips": "46069",
+   "name": "Hyde County"
+  },
+  {
+   "fips": "46081",
+   "name": "Lawrence County"
+  },
+  {
+   "fips": "46107",
+   "name": "Potter County"
+  },
+  {
+   "fips": "46119",
+   "name": "Sully County"
+  },
+  {
+   "fips": "46135",
+   "name": "Yankton County"
+  }
+ ],
+ "coverage_note": "The source has no usable mapped precinct results for 10 of 66 county areas. State vote totals shown here sum mapped units only."
+}

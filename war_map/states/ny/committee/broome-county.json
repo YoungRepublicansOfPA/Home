@@ -1,0 +1,32 @@
+{
+ "county": "Broome County",
+ "checked_at": "2026-11-27",
+ "method": "none_found",
+ "election": "Unknown (most recent Republican county committee election not identified)",
+ "as_of": "2026-11-27",
+ "seats_per_precinct": null,
+ "sources": [
+  {
+   "url": "https://www.broomevotes.com",
+   "title": "Broome County Board of Elections website (candidate filing reports; 2026 Candidate Standard Report is filtered to \"Only Non-Committee Offices\")",
+   "type": "candidate_listing",
+   "as_of": "2026-11-27"
+  },
+  {
+   "url": "https://www.broomevotes.com/_files/ugd/be9a23_b03f00313e6b4556a5fc3ad7ed94615f.xlsx?dn=Candidate%20Standard%20Filing%20Report_07032026.xlsx",
+   "title": "Broome County BOE Candidate Standard Filing Report, 07/03/2026",
+   "type": "candidate_listing",
+   "as_of": "2026-07-03"
+  }
+ ],
+ "precincts": [],
+ "totals": {
+  "precincts": 0,
+  "seats": 0,
+  "filled": 0,
+  "empty": 0,
+  "empty_no_filer": 0,
+  "unknown": 0
+ },
+ "notes": "No Republican county committee filing list, roster or committee results were found. The Broome County Board of Elections publishes candidate filing reports, but the 2026 report is filtered to \"Only Non-Committee Offices\" and the 2024 and 2025 filing lists cover public offices only; the posted primary statements of votes contain no county committee contests. The year in which Broome Republicans elect county committee was not confirmed. No official ED list was compiled, so precincts are empty. Seat status is unknown for the whole county."
+}

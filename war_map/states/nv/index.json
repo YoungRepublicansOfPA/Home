@@ -1,0 +1,282 @@
+{
+ "state": "NV",
+ "name": "Nevada",
+ "fips": "32",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/NV-precincts-with-results.geojson.gz",
+ "bbox": [
+  -120.0065,
+  35.0019,
+  -114.0399,
+  42.0018
+ ],
+ "totals": {
+  "rep": 749782,
+  "dem": 704258,
+  "total": 1482439,
+  "units": 1237
+ },
+ "counties": [
+  {
+   "fips": "32001",
+   "name": "Churchill County",
+   "slug": "churchill-county",
+   "bbox": [
+    -119.2261,
+    39.0733,
+    -117.4614,
+    40.0026
+   ],
+   "units": 19,
+   "rep": 9960,
+   "dem": 3179,
+   "total": 13501
+  },
+  {
+   "fips": "32003",
+   "name": "Clark County",
+   "slug": "clark-county",
+   "bbox": [
+    -115.8957,
+    35.0019,
+    -114.0475,
+    36.8535
+   ],
+   "units": 711,
+   "rep": 491795,
+   "dem": 519334,
+   "total": 1029076
+  },
+  {
+   "fips": "32005",
+   "name": "Douglas County",
+   "slug": "douglas-county",
+   "bbox": [
+    -119.9625,
+    38.536,
+    -119.3105,
+    39.114
+   ],
+   "units": 40,
+   "rep": 23233,
+   "dem": 11552,
+   "total": 35551
+  },
+  {
+   "fips": "32007",
+   "name": "Elko County",
+   "slug": "elko-county",
+   "bbox": [
+    -117.0195,
+    40.1166,
+    -114.0399,
+    42.0018
+   ],
+   "units": 41,
+   "rep": 17343,
+   "dem": 4630,
+   "total": 22454
+  },
+  {
+   "fips": "32009",
+   "name": "Esmeralda County",
+   "slug": "esmeralda-county",
+   "bbox": [
+    -118.4282,
+    36.9711,
+    -117.1648,
+    38.1429
+   ],
+   "units": 4,
+   "rep": 375,
+   "dem": 73,
+   "total": 460
+  },
+  {
+   "fips": "32011",
+   "name": "Eureka County",
+   "slug": "eureka-county",
+   "bbox": [
+    -116.601,
+    39.1612,
+    -115.7949,
+    41.0004
+   ],
+   "units": 4,
+   "rep": 904,
+   "dem": 103,
+   "total": 1029
+  },
+  {
+   "fips": "32013",
+   "name": "Humboldt County",
+   "slug": "humboldt-county",
+   "bbox": [
+    -119.3314,
+    40.5262,
+    -117.0176,
+    42.0004
+   ],
+   "units": 15,
+   "rep": 6129,
+   "dem": 1709,
+   "total": 8016
+  },
+  {
+   "fips": "32015",
+   "name": "Lander County",
+   "slug": "lander-county",
+   "bbox": [
+    -117.8068,
+    39.0934,
+    -116.5866,
+    41.0005
+   ],
+   "units": 9,
+   "rep": 2180,
+   "dem": 482,
+   "total": 2725
+  },
+  {
+   "fips": "32017",
+   "name": "Lincoln County",
+   "slug": "lincoln-county",
+   "bbox": [
+    -115.8962,
+    36.8419,
+    -114.0496,
+    38.6775
+   ],
+   "units": 5,
+   "rep": 2106,
+   "dem": 314,
+   "total": 2470
+  },
+  {
+   "fips": "32019",
+   "name": "Lyon County",
+   "slug": "lyon-county",
+   "bbox": [
+    -119.7121,
+    38.4138,
+    -118.9021,
+    39.7365
+   ],
+   "units": 40,
+   "rep": 23861,
+   "dem": 8954,
+   "total": 33541
+  },
+  {
+   "fips": "32021",
+   "name": "Mineral County",
+   "slug": "mineral-county",
+   "bbox": [
+    -119.1556,
+    37.92,
+    -117.691,
+    39.0753
+   ],
+   "units": 11,
+   "rep": 1524,
+   "dem": 708,
+   "total": 2288
+  },
+  {
+   "fips": "32023",
+   "name": "Nye County",
+   "slug": "nye-county",
+   "bbox": [
+    -118.1963,
+    35.9637,
+    -115.0008,
+    39.1634
+   ],
+   "units": 29,
+   "rep": 18946,
+   "dem": 7558,
+   "total": 26996
+  },
+  {
+   "fips": "32027",
+   "name": "Pershing County",
+   "slug": "pershing-county",
+   "bbox": [
+    -119.3388,
+    39.9983,
+    -117.2999,
+    40.9612
+   ],
+   "units": 6,
+   "rep": 1764,
+   "dem": 496,
+   "total": 2308
+  },
+  {
+   "fips": "32029",
+   "name": "Storey County",
+   "slug": "storey-county",
+   "bbox": [
+    -119.7136,
+    39.2513,
+    -119.28,
+    39.6287
+   ],
+   "units": 8,
+   "rep": 2100,
+   "dem": 913,
+   "total": 3067
+  },
+  {
+   "fips": "32031",
+   "name": "Washoe County",
+   "slug": "washoe-county",
+   "bbox": [
+    -120.0065,
+    39.2008,
+    -119.1706,
+    41.9975
+   ],
+   "units": 261,
+   "rep": 127330,
+   "dem": 129999,
+   "total": 263547
+  },
+  {
+   "fips": "32033",
+   "name": "White Pine County",
+   "slug": "white-pine-county",
+   "bbox": [
+    -115.9077,
+    38.6773,
+    -114.0466,
+    40.1285
+   ],
+   "units": 10,
+   "rep": 3364,
+   "dem": 883,
+   "total": 4351
+  },
+  {
+   "fips": "32510",
+   "name": "Carson City",
+   "slug": "carson-city",
+   "bbox": [
+    -120.0042,
+    39.0848,
+    -119.5484,
+    39.251
+   ],
+   "units": 24,
+   "rep": 16868,
+   "dem": 13371,
+   "total": 31059
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 17,
+ "missing_counties": [],
+ "coverage_note": null
+}

@@ -1,0 +1,1032 @@
+{
+ "state": "FL",
+ "name": "Florida",
+ "fips": "12",
+ "unit": "precinct",
+ "election": "November 5, 2024 presidential election",
+ "credit": "2024 Precinct-Level Election Results, The New York Times (town results for CT, ME, NH, RI and VT by The Associated Press). Redistribution subject to the NYT Computational Use of Data Agreement; see war_map/data/NYT-LICENSE.txt and NYT-CREDITS.md.",
+ "source": "https://int.nyt.com/newsgraphics/elections/map-data/2024/national/FL-precincts-with-results.geojson.gz",
+ "bbox": [
+  -87.6349,
+  24.3963,
+  -80.0228,
+  31.001
+ ],
+ "totals": {
+  "rep": 6107776,
+  "dem": 4681846,
+  "total": 10933177,
+  "units": 5583
+ },
+ "counties": [
+  {
+   "fips": "12001",
+   "name": "Alachua County",
+   "slug": "alachua-county",
+   "bbox": [
+    -82.6586,
+    29.4171,
+    -82.049,
+    29.9453
+   ],
+   "units": 63,
+   "rep": 52939,
+   "dem": 81578,
+   "total": 137282
+  },
+  {
+   "fips": "12003",
+   "name": "Baker County",
+   "slug": "baker-county",
+   "bbox": [
+    -82.4598,
+    30.1364,
+    -82.0488,
+    30.5843
+   ],
+   "units": 9,
+   "rep": 12926,
+   "dem": 1982,
+   "total": 15011
+  },
+  {
+   "fips": "12005",
+   "name": "Bay County",
+   "slug": "bay-county",
+   "bbox": [
+    -86.0008,
+    29.507,
+    -85.3728,
+    30.5677
+   ],
+   "units": 29,
+   "rep": 71497,
+   "dem": 25201,
+   "total": 98157
+  },
+  {
+   "fips": "12007",
+   "name": "Bradford County",
+   "slug": "bradford-county",
+   "bbox": [
+    -82.4187,
+    29.7182,
+    -82.0461,
+    30.1432
+   ],
+   "units": 13,
+   "rep": 10920,
+   "dem": 2946,
+   "total": 13952
+  },
+  {
+   "fips": "12009",
+   "name": "Brevard County",
+   "slug": "brevard-county",
+   "bbox": [
+    -80.9873,
+    27.8221,
+    -80.4464,
+    28.7913
+   ],
+   "units": 150,
+   "rep": 216533,
+   "dem": 141233,
+   "total": 363015
+  },
+  {
+   "fips": "12011",
+   "name": "Broward County",
+   "slug": "broward-county",
+   "bbox": [
+    -80.4964,
+    25.9569,
+    -80.0705,
+    26.3553
+   ],
+   "units": 356,
+   "rep": 357921,
+   "dem": 506721,
+   "total": 875600
+  },
+  {
+   "fips": "12013",
+   "name": "Calhoun County",
+   "slug": "calhoun-county",
+   "bbox": [
+    -85.3898,
+    30.1999,
+    -84.9325,
+    30.6081
+   ],
+   "units": 10,
+   "rep": 5367,
+   "dem": 1021,
+   "total": 6474
+  },
+  {
+   "fips": "12015",
+   "name": "Charlotte County",
+   "slug": "charlotte-county",
+   "bbox": [
+    -82.5659,
+    26.7696,
+    -81.5625,
+    27.0353
+   ],
+   "units": 66,
+   "rep": 82480,
+   "dem": 40450,
+   "total": 124118
+  },
+  {
+   "fips": "12017",
+   "name": "Citrus County",
+   "slug": "citrus-county",
+   "bbox": [
+    -83.1879,
+    28.6657,
+    -82.1691,
+    29.0526
+   ],
+   "units": 32,
+   "rep": 71356,
+   "dem": 26276,
+   "total": 98540
+  },
+  {
+   "fips": "12019",
+   "name": "Clay County",
+   "slug": "clay-county",
+   "bbox": [
+    -82.0494,
+    29.7187,
+    -81.5812,
+    30.1935
+   ],
+   "units": 48,
+   "rep": 87711,
+   "dem": 37926,
+   "total": 127302
+  },
+  {
+   "fips": "12021",
+   "name": "Collier County",
+   "slug": "collier-county",
+   "bbox": [
+    -81.848,
+    25.8032,
+    -80.8727,
+    26.5171
+   ],
+   "units": 67,
+   "rep": 143267,
+   "dem": 71720,
+   "total": 217434
+  },
+  {
+   "fips": "12023",
+   "name": "Columbia County",
+   "slug": "columbia-county",
+   "bbox": [
+    -82.8005,
+    29.8256,
+    -82.4525,
+    30.5977
+   ],
+   "units": 26,
+   "rep": 25108,
+   "dem": 8250,
+   "total": 33690
+  },
+  {
+   "fips": "12027",
+   "name": "DeSoto County",
+   "slug": "desoto-county",
+   "bbox": [
+    -82.0576,
+    27.0317,
+    -81.5623,
+    27.3407
+   ],
+   "units": 15,
+   "rep": 8879,
+   "dem": 3520,
+   "total": 12511
+  },
+  {
+   "fips": "12029",
+   "name": "Dixie County",
+   "slug": "dixie-county",
+   "bbox": [
+    -83.5754,
+    29.2419,
+    -82.9197,
+    29.8255
+   ],
+   "units": 10,
+   "rep": 6920,
+   "dem": 1183,
+   "total": 8163
+  },
+  {
+   "fips": "12031",
+   "name": "Duval County",
+   "slug": "duval-county",
+   "bbox": [
+    -82.0495,
+    30.1038,
+    -81.3167,
+    30.5862
+   ],
+   "units": 160,
+   "rep": 236285,
+   "dem": 229365,
+   "total": 473333
+  },
+  {
+   "fips": "12033",
+   "name": "Escambia County",
+   "slug": "escambia-county",
+   "bbox": [
+    -87.6349,
+    30.1255,
+    -86.9183,
+    30.999
+   ],
+   "units": 80,
+   "rep": 96407,
+   "dem": 64601,
+   "total": 163504
+  },
+  {
+   "fips": "12035",
+   "name": "Flagler County",
+   "slug": "flagler-county",
+   "bbox": [
+    -81.5237,
+    29.2612,
+    -81.1021,
+    29.6707
+   ],
+   "units": 21,
+   "rep": 51014,
+   "dem": 28431,
+   "total": 80217
+  },
+  {
+   "fips": "12037",
+   "name": "Franklin County",
+   "slug": "franklin-county",
+   "bbox": [
+    -85.2255,
+    29.436,
+    -84.2969,
+    30.0139
+   ],
+   "units": 8,
+   "rep": 4831,
+   "dem": 1870,
+   "total": 6785
+  },
+  {
+   "fips": "12039",
+   "name": "Gadsden County",
+   "slug": "gadsden-county",
+   "bbox": [
+    -84.9325,
+    30.3878,
+    -84.2826,
+    30.7115
+   ],
+   "units": 25,
+   "rep": 7495,
+   "dem": 14203,
+   "total": 21932
+  },
+  {
+   "fips": "12041",
+   "name": "Gilchrist County",
+   "slug": "gilchrist-county",
+   "bbox": [
+    -82.9731,
+    29.5625,
+    -82.6563,
+    29.9355
+   ],
+   "units": 10,
+   "rep": 8931,
+   "dem": 1662,
+   "total": 10725
+  },
+  {
+   "fips": "12043",
+   "name": "Glades County",
+   "slug": "glades-county",
+   "bbox": [
+    -81.5657,
+    26.7682,
+    -80.8702,
+    27.2108
+   ],
+   "units": 13,
+   "rep": 4034,
+   "dem": 1222,
+   "total": 5300
+  },
+  {
+   "fips": "12045",
+   "name": "Gulf County",
+   "slug": "gulf-county",
+   "bbox": [
+    -85.4403,
+    29.4971,
+    -85.0179,
+    30.2014
+   ],
+   "units": 10,
+   "rep": 6684,
+   "dem": 1970,
+   "total": 8724
+  },
+  {
+   "fips": "12047",
+   "name": "Hamilton County",
+   "slug": "hamilton-county",
+   "bbox": [
+    -83.3096,
+    30.3174,
+    -82.6455,
+    30.6344
+   ],
+   "units": 8,
+   "rep": 3964,
+   "dem": 1727,
+   "total": 5752
+  },
+  {
+   "fips": "12049",
+   "name": "Hardee County",
+   "slug": "hardee-county",
+   "bbox": [
+    -82.0558,
+    27.3367,
+    -81.5635,
+    27.6466
+   ],
+   "units": 12,
+   "rep": 6325,
+   "dem": 1746,
+   "total": 8144
+  },
+  {
+   "fips": "12051",
+   "name": "Hendry County",
+   "slug": "hendry-county",
+   "bbox": [
+    -81.5666,
+    26.2531,
+    -80.8797,
+    26.9589
+   ],
+   "units": 10,
+   "rep": 9253,
+   "dem": 4096,
+   "total": 13487
+  },
+  {
+   "fips": "12053",
+   "name": "Hernando County",
+   "slug": "hernando-county",
+   "bbox": [
+    -82.8895,
+    28.4308,
+    -82.0545,
+    28.6948
+   ],
+   "units": 32,
+   "rep": 75446,
+   "dem": 34431,
+   "total": 111052
+  },
+  {
+   "fips": "12055",
+   "name": "Highlands County",
+   "slug": "highlands-county",
+   "bbox": [
+    -81.5642,
+    27.0323,
+    -80.9407,
+    27.6467
+   ],
+   "units": 25,
+   "rep": 36382,
+   "dem": 15227,
+   "total": 52031
+  },
+  {
+   "fips": "12057",
+   "name": "Hillsborough County",
+   "slug": "hillsborough-county",
+   "bbox": [
+    -82.7667,
+    27.5771,
+    -82.054,
+    28.1733
+   ],
+   "units": 448,
+   "rep": 342017,
+   "dem": 321455,
+   "total": 674907
+  },
+  {
+   "fips": "12059",
+   "name": "Holmes County",
+   "slug": "holmes-county",
+   "bbox": [
+    -86.0378,
+    30.703,
+    -85.498,
+    30.9969
+   ],
+   "units": 8,
+   "rep": 8193,
+   "dem": 882,
+   "total": 9132
+  },
+  {
+   "fips": "12061",
+   "name": "Indian River County",
+   "slug": "indian-river-county",
+   "bbox": [
+    -80.8816,
+    27.5568,
+    -80.2635,
+    27.8614
+   ],
+   "units": 34,
+   "rep": 62737,
+   "dem": 35654,
+   "total": 99493
+  },
+  {
+   "fips": "12063",
+   "name": "Jackson County",
+   "slug": "jackson-county",
+   "bbox": [
+    -85.6003,
+    30.5643,
+    -84.8579,
+    31.001
+   ],
+   "units": 14,
+   "rep": 16074,
+   "dem": 5892,
+   "total": 22152
+  },
+  {
+   "fips": "12065",
+   "name": "Jefferson County",
+   "slug": "jefferson-county",
+   "bbox": [
+    -84.0763,
+    29.8989,
+    -83.6041,
+    30.6721
+   ],
+   "units": 16,
+   "rep": 5011,
+   "dem": 3429,
+   "total": 8532
+  },
+  {
+   "fips": "12067",
+   "name": "Lafayette County",
+   "slug": "lafayette-county",
+   "bbox": [
+    -83.3709,
+    29.8222,
+    -82.8752,
+    30.2607
+   ],
+   "units": 5,
+   "rep": 3296,
+   "dem": 441,
+   "total": 3767
+  },
+  {
+   "fips": "12069",
+   "name": "Lake County",
+   "slug": "lake-county",
+   "bbox": [
+    -81.9566,
+    28.3457,
+    -81.3499,
+    29.2767
+   ],
+   "units": 92,
+   "rep": 140500,
+   "dem": 84546,
+   "total": 228792
+  },
+  {
+   "fips": "12071",
+   "name": "Lee County",
+   "slug": "lee-county",
+   "bbox": [
+    -82.276,
+    26.3163,
+    -81.5622,
+    26.7895
+   ],
+   "units": 99,
+   "rep": 250522,
+   "dem": 139084,
+   "total": 393801
+  },
+  {
+   "fips": "12073",
+   "name": "Leon County",
+   "slug": "leon-county",
+   "bbox": [
+    -84.7154,
+    30.2738,
+    -83.9773,
+    30.6853
+   ],
+   "units": 131,
+   "rep": 60346,
+   "dem": 94384,
+   "total": 157530
+  },
+  {
+   "fips": "12075",
+   "name": "Levy County",
+   "slug": "levy-county",
+   "bbox": [
+    -83.3462,
+    28.9866,
+    -82.4032,
+    29.5913
+   ],
+   "units": 13,
+   "rep": 18245,
+   "dem": 5994,
+   "total": 24451
+  },
+  {
+   "fips": "12077",
+   "name": "Liberty County",
+   "slug": "liberty-county",
+   "bbox": [
+    -85.154,
+    29.9714,
+    -84.5429,
+    30.6064
+   ],
+   "units": 8,
+   "rep": 2898,
+   "dem": 566,
+   "total": 3496
+  },
+  {
+   "fips": "12079",
+   "name": "Madison County",
+   "slug": "madison-county",
+   "bbox": [
+    -83.8219,
+    30.2601,
+    -83.171,
+    30.6513
+   ],
+   "units": 11,
+   "rep": 5874,
+   "dem": 3231,
+   "total": 9176
+  },
+  {
+   "fips": "12081",
+   "name": "Manatee County",
+   "slug": "manatee-county",
+   "bbox": [
+    -82.9242,
+    27.2078,
+    -82.0543,
+    27.6467
+   ],
+   "units": 71,
+   "rep": 140486,
+   "dem": 86674,
+   "total": 229812
+  },
+  {
+   "fips": "12083",
+   "name": "Marion County",
+   "slug": "marion-county",
+   "bbox": [
+    -82.5358,
+    28.9599,
+    -81.639,
+    29.5217
+   ],
+   "units": 106,
+   "rep": 140173,
+   "dem": 72436,
+   "total": 214743
+  },
+  {
+   "fips": "12085",
+   "name": "Martin County",
+   "slug": "martin-county",
+   "bbox": [
+    -80.8856,
+    26.9566,
+    -80.0228,
+    27.2638
+   ],
+   "units": 28,
+   "rep": 64121,
+   "dem": 33539,
+   "total": 98796
+  },
+  {
+   "fips": "12086",
+   "name": "Miami-Dade County",
+   "slug": "miami-dade-county",
+   "bbox": [
+    -80.8732,
+    25.2357,
+    -80.0713,
+    25.9751
+   ],
+   "units": 710,
+   "rep": 605590,
+   "dem": 480355,
+   "total": 1097209
+  },
+  {
+   "fips": "12087",
+   "name": "Monroe County",
+   "slug": "monroe-county",
+   "bbox": [
+    -82.3265,
+    24.3963,
+    -80.1839,
+    25.8054
+   ],
+   "units": 33,
+   "rep": 26064,
+   "dem": 17933,
+   "total": 44502
+  },
+  {
+   "fips": "12089",
+   "name": "Nassau County",
+   "slug": "nassau-county",
+   "bbox": [
+    -82.0503,
+    30.2733,
+    -81.4268,
+    30.8299
+   ],
+   "units": 18,
+   "rep": 47945,
+   "dem": 17143,
+   "total": 65934
+  },
+  {
+   "fips": "12091",
+   "name": "Okaloosa County",
+   "slug": "okaloosa-county",
+   "bbox": [
+    -86.8034,
+    30.227,
+    -86.3885,
+    30.997
+   ],
+   "units": 51,
+   "rep": 79275,
+   "dem": 31910,
+   "total": 113016
+  },
+  {
+   "fips": "12093",
+   "name": "Okeechobee County",
+   "slug": "okeechobee-county",
+   "bbox": [
+    -81.2142,
+    26.9589,
+    -80.6774,
+    27.6432
+   ],
+   "units": 11,
+   "rep": 12315,
+   "dem": 3671,
+   "total": 16096
+  },
+  {
+   "fips": "12095",
+   "name": "Orange County",
+   "slug": "orange-county",
+   "bbox": [
+    -81.6586,
+    28.3469,
+    -80.8629,
+    28.7862
+   ],
+   "units": 257,
+   "rep": 258279,
+   "dem": 340807,
+   "total": 609607
+  },
+  {
+   "fips": "12097",
+   "name": "Osceola County",
+   "slug": "osceola-county",
+   "bbox": [
+    -81.6573,
+    27.642,
+    -80.8614,
+    28.3482
+   ],
+   "units": 126,
+   "rep": 86709,
+   "dem": 84205,
+   "total": 173285
+  },
+  {
+   "fips": "12099",
+   "name": "Palm Beach County",
+   "slug": "palm-beach-county",
+   "bbox": [
+    -80.886,
+    26.3208,
+    -80.0312,
+    26.9709
+   ],
+   "units": 777,
+   "rep": 366810,
+   "dem": 372443,
+   "total": 748393
+  },
+  {
+   "fips": "12101",
+   "name": "Pasco County",
+   "slug": "pasco-county",
+   "bbox": [
+    -82.7991,
+    28.1712,
+    -82.0549,
+    28.4788
+   ],
+   "units": 120,
+   "rep": 197779,
+   "dem": 117450,
+   "total": 319664
+  },
+  {
+   "fips": "12103",
+   "name": "Pinellas County",
+   "slug": "pinellas-county",
+   "bbox": [
+    -82.8558,
+    27.6104,
+    -82.5788,
+    28.1733
+   ],
+   "units": 286,
+   "rep": 269472,
+   "dem": 242452,
+   "total": 519340
+  },
+  {
+   "fips": "12105",
+   "name": "Polk County",
+   "slug": "polk-county",
+   "bbox": [
+    -82.1062,
+    27.6432,
+    -81.1311,
+    28.3619
+   ],
+   "units": 172,
+   "rep": 209044,
+   "dem": 136879,
+   "total": 350114
+  },
+  {
+   "fips": "12107",
+   "name": "Putnam County",
+   "slug": "putnam-county",
+   "bbox": [
+    -82.0562,
+    29.3244,
+    -81.4336,
+    29.8402
+   ],
+   "units": 37,
+   "rep": 26700,
+   "dem": 9354,
+   "total": 36370
+  },
+  {
+   "fips": "12109",
+   "name": "St. Johns County",
+   "slug": "st-johns-county",
+   "bbox": [
+    -81.6905,
+    29.6224,
+    -81.1508,
+    30.2529
+   ],
+   "units": 53,
+   "rep": 128759,
+   "dem": 66862,
+   "total": 198496
+  },
+  {
+   "fips": "12111",
+   "name": "St. Lucie County",
+   "slug": "st-lucie-county",
+   "bbox": [
+    -80.68,
+    27.2056,
+    -80.1381,
+    27.5587
+   ],
+   "units": 61,
+   "rep": 100293,
+   "dem": 83517,
+   "total": 185732
+  },
+  {
+   "fips": "12113",
+   "name": "Santa Rosa County",
+   "slug": "santa-rosa-county",
+   "bbox": [
+    -87.3139,
+    30.2176,
+    -86.7857,
+    30.9995
+   ],
+   "units": 41,
+   "rep": 84314,
+   "dem": 27035,
+   "total": 112910
+  },
+  {
+   "fips": "12115",
+   "name": "Sarasota County",
+   "slug": "sarasota-county",
+   "bbox": [
+    -82.8507,
+    26.9453,
+    -82.0565,
+    27.3914
+   ],
+   "units": 103,
+   "rep": 163219,
+   "dem": 112668,
+   "total": 279101
+  },
+  {
+   "fips": "12117",
+   "name": "Seminole County",
+   "slug": "seminole-county",
+   "bbox": [
+    -81.4597,
+    28.6105,
+    -80.9869,
+    28.8792
+   ],
+   "units": 82,
+   "rep": 129735,
+   "dem": 120717,
+   "total": 254860
+  },
+  {
+   "fips": "12119",
+   "name": "Sumter County",
+   "slug": "sumter-county",
+   "bbox": [
+    -82.3117,
+    28.3053,
+    -81.9533,
+    28.9605
+   ],
+   "units": 30,
+   "rep": 72134,
+   "dem": 32551,
+   "total": 105608
+  },
+  {
+   "fips": "12121",
+   "name": "Suwannee County",
+   "slug": "suwannee-county",
+   "bbox": [
+    -83.2532,
+    29.8823,
+    -82.7586,
+    30.4429
+   ],
+   "units": 14,
+   "rep": 17561,
+   "dem": 4217,
+   "total": 21957
+  },
+  {
+   "fips": "12123",
+   "name": "Taylor County",
+   "slug": "taylor-county",
+   "bbox": [
+    -83.9999,
+    29.527,
+    -83.3189,
+    30.3044
+   ],
+   "units": 14,
+   "rep": 7954,
+   "dem": 1991,
+   "total": 10022
+  },
+  {
+   "fips": "12125",
+   "name": "Union County",
+   "slug": "union-county",
+   "bbox": [
+    -82.576,
+    29.9201,
+    -82.138,
+    30.1431
+   ],
+   "units": 8,
+   "rep": 5223,
+   "dem": 971,
+   "total": 6245
+  },
+  {
+   "fips": "12127",
+   "name": "Volusia County",
+   "slug": "volusia-county",
+   "bbox": [
+    -81.6809,
+    28.6127,
+    -80.6635,
+    29.4325
+   ],
+   "units": 142,
+   "rep": 187648,
+   "dem": 120082,
+   "total": 311551
+  },
+  {
+   "fips": "12129",
+   "name": "Wakulla County",
+   "slug": "wakulla-county",
+   "bbox": [
+    -84.7378,
+    29.7429,
+    -84.0755,
+    30.3035
+   ],
+   "units": 12,
+   "rep": 14246,
+   "dem": 5441,
+   "total": 19923
+  },
+  {
+   "fips": "12131",
+   "name": "Walton County",
+   "slug": "walton-county",
+   "bbox": [
+    -86.3996,
+    30.1036,
+    -85.8444,
+    30.9946
+   ],
+   "units": 21,
+   "rep": 38970,
+   "dem": 10287,
+   "total": 49802
+  },
+  {
+   "fips": "12133",
+   "name": "Washington County",
+   "slug": "washington-county",
+   "bbox": [
+    -85.9937,
+    30.3893,
+    -85.4323,
+    30.8305
+   ],
+   "units": 12,
+   "rep": 10370,
+   "dem": 2140,
+   "total": 12625
+  }
+ ],
+ "checked_at": "2026-11-27",
+ "counties_total": 67,
+ "missing_counties": [],
+ "coverage_note": null
+}

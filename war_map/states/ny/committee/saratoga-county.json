@@ -1,0 +1,32 @@
+{
+ "county": "Saratoga County",
+ "checked_at": "2026-11-27",
+ "method": "none_found",
+ "election": "Unknown (most recent Republican county committee election not identified)",
+ "as_of": "2026-11-27",
+ "seats_per_precinct": null,
+ "sources": [
+  {
+   "url": "https://www.saratogacountyny.gov/departments/board-of-elections/offices-candidates-to-be-elected/",
+   "title": "Saratoga County BOE Offices/Candidates to be Elected page (no county committee filing list found)",
+   "type": "rules",
+   "as_of": "2026-11-27"
+  },
+  {
+   "url": "https://www.saratogacountyny.gov/wp/wp-content/uploads/2026/07/BoE-PrimaryElection-Results-2026.pdf",
+   "title": "Saratoga County BOE District Level Results, Primary Election 2026 (no county committee contests)",
+   "type": "results",
+   "as_of": "2026-07"
+  }
+ ],
+ "precincts": [],
+ "totals": {
+  "precincts": 0,
+  "seats": 0,
+  "filled": 0,
+  "empty": 0,
+  "empty_no_filer": 0,
+  "unknown": 0
+ },
+ "notes": "No list of Republican county committee filers, committee roster, or committee results was found on the Saratoga County Board of Elections website. The 2026 primary district-level results contain no county committee contests; whether Saratoga Republicans elected county committee in 2025 or 2026 (uncontested seats never appear on the ballot) was not confirmed. No official ED list was retrieved (NYS BOE sites are behind a Cloudflare challenge), so precincts are empty. Seat status is unknown for the whole county."
+}
